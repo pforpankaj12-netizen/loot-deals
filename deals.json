@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T15:30:42+05:30",
+  "updated_at": "2026-11-12T10:33:30.834109+00:00",
   "deals": [
     {
       "title": "SIMPARTE Smart Slim Storage Containers, Set of 4 (250 ml)",
@@ -10,7 +10,7 @@
       "saving": 890,
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B0DGLPD4LF?tag=lootkabhandar-21",
-      "image": null,
+      "image": "img/seed-simparte.jpg",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
@@ -23,7 +23,7 @@
       "saving": 1373,
       "store": "Flipkart",
       "link": "https://fktr.in/Fwa43w1",
-      "image": null,
+      "image": "img/seed-brightstar.webp",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
@@ -36,7 +36,7 @@
       "saving": 660,
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B0HLKRRPGS?tag=lootkabhandar-21",
-      "image": null,
+      "image": "img/seed-oildispenser.webp",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
@@ -49,7 +49,7 @@
       "saving": 641,
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B0CZ3SXW8M?tag=lootkabhandar-21",
-      "image": null,
+      "image": "img/seed-milton.jpg",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
@@ -75,7 +75,7 @@
       "saving": 7751,
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B07VH57STZ?tag=lootkabhandar-21",
-      "image": null,
+      "image": "img/seed-hikvision.webp",
       "category": "Electronics",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
@@ -88,7 +88,7 @@
       "saving": 15991,
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B0H99LJMKJ?tag=lootkabhandar-21",
-      "image": null,
+      "image": "img/seed-livpure.webp",
       "category": "Kitchen",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
@@ -101,7 +101,7 @@
       "saving": 130,
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B01568SIG8?tag=lootkabhandar-21",
-      "image": null,
+      "image": "img/seed-gala.jpg",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
@@ -114,7 +114,7 @@
       "saving": 126,
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B0H4ZHQL1K?tag=lootkabhandar-21",
-      "image": null,
+      "image": "img/seed-slickwraps.jpg",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
