@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T17:33:08+05:30",
+  "updated_at": "2026-11-12T18:14:57+05:30",
   "deals": [
+    {
+      "title": "🔥 📱 Electronics Loots 𝒃𝒐𝑨𝒕 𝑺𝒕𝒐𝒏𝒆 𝟗𝟎𝟎 𝒘/ 𝟖𝟎𝑾 𝑺𝒊𝒈𝒏𝒂𝒕𝒖𝒓𝒆 𝑺𝒐𝒖𝒏𝒅, 𝑼𝒑 𝒕𝒐 𝟏𝟓 𝑯𝒐𝒖𝒓𝒔 𝑷𝒍𝒂𝒚𝒕𝒊𝒎𝒆, 𝑰𝑷𝑿𝟓 𝑹𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒕, 𝑻𝒚𝒑𝒆-𝑪 𝑪𝒉𝒂𝒓𝒈𝒊𝒏𝒈, 𝑻𝑾𝑺 𝑭𝒆𝒂𝒕𝒖𝒓𝒆, 𝑩𝒖𝒊𝒍𝒕-𝒊𝒏 𝑴𝒊𝒄, 𝑽𝒐𝒊𝒄𝒆 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑷𝒐𝒓𝒕𝒂𝒃𝒍𝒆 𝑾𝒊𝒓𝒆𝒍𝒆𝒔𝒔 𝑩𝒍𝒖𝒆𝒕𝒐𝒐𝒕𝒉 𝑺𝒑𝒆𝒂𝒌𝒆𝒓 (𝑮𝒓𝒂𝒑𝒉𝒊𝒕𝒆 𝑩𝒍𝒂𝒄𝒌)",
+      "price": 5999,
+      "mrp": 17990,
+      "discount_pct": 67.0,
+      "saving": 11991,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H26HF7FW?tag=lootkabhandar-21",
+      "image": "img/1656.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1656,
+      "posted_at": "2026-11-12T18:14:57+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑵𝒐𝒄𝒕𝒖𝒂 𝑵𝑯-𝑼𝟏𝟒𝑺 𝑫𝑿-𝟒𝟔𝟕𝟕 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑪𝑷𝑼 𝑪𝒐𝒐𝒍𝒆𝒓",
+      "price": 13993,
+      "mrp": 28999,
+      "discount_pct": 52.0,
+      "saving": 15006,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BSXP2G72?tag=lootkabhandar-21",
+      "image": "img/1655.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1655,
+      "posted_at": "2026-11-12T18:04:36+05:30"
+    },
     {
       "title": "🔥 🛒 Grocery Loots 𝑨 𝑻𝑨𝑻𝑨 𝑷𝒓𝒐𝒅𝒖𝒄𝒕 - 𝑶𝒓𝒈𝒂𝒏𝒊𝒄 𝑰𝒏𝒅𝒊𝒂 𝑻𝒖𝒍𝒔𝒊 𝑮𝒓𝒆𝒆𝒏 𝑻𝒆𝒂 𝑳𝒆𝒎𝒐𝒏 𝑮𝒊𝒏𝒈𝒆𝒓 - 𝟐𝟓 𝑻𝒆𝒂𝒃𝒂𝒈𝒔, 𝑯𝒆𝒓𝒃𝒂𝒍 𝑩𝒍𝒆𝒏𝒅 𝒘𝒊𝒕𝒉 𝑮𝒓𝒆𝒆𝒏-𝑻𝒆𝒂, 𝑻𝒖𝒍𝒔𝒊, 𝑳𝒆𝒎𝒐𝒏 & 𝑮𝒊𝒏𝒈𝒆𝒓, 𝑺𝒖𝒑𝒑𝒐𝒓𝒕𝒔 𝑫𝒊𝒈𝒆𝒔𝒕𝒊𝒐𝒏, 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑻𝒂𝒔𝒕𝒆, 𝑵𝒂𝒕𝒖𝒓𝒂𝒍 𝑰𝒏𝒈𝒓𝒆𝒅𝒊𝒆𝒏𝒕𝒔",
       "price": 110,
