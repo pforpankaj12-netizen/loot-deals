@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T22:09:30+05:30",
+  "updated_at": "2026-11-12T23:02:37+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑫𝒊𝒔𝒊𝒏𝒇𝒆𝒄𝒕𝒂𝒏𝒕 𝑺𝒖𝒓𝒇𝒂𝒄𝒆 & 𝑭𝒍𝒐𝒐𝒓 𝑪𝒍𝒆𝒂𝒏𝒆𝒓, (𝑪𝒊𝒕𝒓𝒖𝒔) - 𝟐 𝑳𝒕𝒓 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟏) | 𝑪𝒍𝒆𝒂𝒏𝒔 𝟗𝟗.𝟗% 𝑮𝒆𝒓𝒎𝒔 | 𝑺𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝒇𝒐𝒓 𝑩𝒂𝒕𝒉𝒓𝒐𝒐𝒎 & 𝑭𝒍𝒐𝒐𝒓 𝒔𝒖𝒓𝒇𝒂𝒄𝒆𝒔 𝒍𝒊𝒌𝒆 𝒄𝒆𝒓𝒂𝒎𝒊𝒄, 𝒎𝒂𝒓𝒃𝒍𝒆, 𝒈𝒓𝒂𝒏𝒊𝒕𝒆, 𝒎𝒐𝒔𝒂𝒊𝒄 𝒆𝒕𝒄.",
+      "price": 103,
+      "mrp": 265,
+      "discount_pct": 61.1,
+      "saving": 162,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GVS7DCX3?tag=lootkabhandar-21",
+      "image": "img/1670.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1670,
+      "posted_at": "2026-11-12T23:02:37+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑳𝒆𝒆 𝑪𝒐𝒐𝒑𝒆𝒓 𝑨𝒏𝒂𝒍𝒐𝒈 𝑾𝒉𝒊𝒕𝒆 𝑫𝒊𝒂𝒍 𝑾𝒐𝒎𝒆𝒏'𝒔 𝑾𝒂𝒕𝒄𝒉-𝑳𝑪𝟎𝟕𝟒𝟓𝟔.𝟒𝟐𝟎",
+      "price": 3940,
+      "mrp": 19799,
+      "discount_pct": 80.0,
+      "saving": 15859,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BQN7KYCS?tag=lootkabhandar-21",
+      "image": "img/1669.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1669,
+      "posted_at": "2026-11-12T22:54:42+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑯𝒊𝒎𝒂𝒍𝒂𝒚𝒂 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏, 𝑨𝒍𝒐𝒆 𝒂𝒏𝒅 𝑪𝒖𝒄𝒖𝒎𝒃𝒆𝒓, 𝟐𝟎𝟎𝒎𝒍",
       "price": 115,
