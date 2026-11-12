@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-12T15:21:42+05:30",
+  "deals": [
+    {
+      "title": "SIMPARTE Smart Slim Storage Containers, Set of 4 (250 ml)",
+      "price": 109,
+      "mrp": 999,
+      "discount_pct": 89.0,
+      "saving": 890,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DGLPD4LF?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "Brightstar Recessed Ceiling Light",
+      "price": 426,
+      "mrp": 1799,
+      "discount_pct": 76.0,
+      "saving": 1373,
+      "store": "Flipkart",
+      "link": "https://fktr.in/Fwa43w1",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "Transparent Plastic Oil Dispenser Bottle 1L with Measurement Scale",
+      "price": 249,
+      "mrp": 909,
+      "discount_pct": 75.0,
+      "saving": 660,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HLKRRPGS?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "MILTON Flavour Big Inner Stainless Steel Tiffin Box, 500 ml, Orange",
+      "price": 299,
+      "mrp": 940,
+      "discount_pct": 68.0,
+      "saving": 641,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CZ3SXW8M?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "JAKANARY Women Regular Fit Hoodie",
+      "price": 660,
+      "mrp": 1999,
+      "discount_pct": 67.0,
+      "saving": 1339,
+      "store": "Ajio",
+      "link": "https://www.ajio.com/p/466923788001",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "HIKVISION (2MP) DS-1ADOT-IPECO Super ECO LED Mini Night Vision Bullet Camera, 4PC",
+      "price": 4248,
+      "mrp": 11999,
+      "discount_pct": 65.0,
+      "saving": 7751,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07VH57STZ?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Electronics",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "Livpure Ikon Filterless Kitchen Chimney, 60 cm",
+      "price": 9999,
+      "mrp": 25990,
+      "discount_pct": 61.0,
+      "saving": 15991,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H99LJMKJ?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Kitchen",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "Gala Steel Scrubber Combo Set (Pack of 6)",
+      "price": 110,
+      "mrp": 240,
+      "discount_pct": 54.0,
+      "saving": 130,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B01568SIG8?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    },
+    {
+      "title": "SLICKWRAPS 5.8x8 Inch Acrylic Print with Pine Wood Base",
+      "price": 174,
+      "mrp": 300,
+      "discount_pct": 42.0,
+      "saving": 126,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H4ZHQL1K?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": null,
+      "posted_at": "2026-11-12"
+    }
+  ]
+}
