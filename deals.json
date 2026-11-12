@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T21:15:43+05:30",
+  "updated_at": "2026-11-12T22:09:30+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑯𝒊𝒎𝒂𝒍𝒂𝒚𝒂 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏, 𝑨𝒍𝒐𝒆 𝒂𝒏𝒅 𝑪𝒖𝒄𝒖𝒎𝒃𝒆𝒓, 𝟐𝟎𝟎𝒎𝒍",
+      "price": 115,
+      "mrp": 249,
+      "discount_pct": 54.0,
+      "saving": 134,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0093J2C0A?tag=lootkabhandar-21",
+      "image": "img/1668.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1668,
+      "posted_at": "2026-11-12T22:09:30+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑯𝒊𝒔𝒆𝒏𝒔𝒆 𝟏𝟑𝟗 𝒄𝒎 (𝟓𝟓 𝑰𝒏𝒄𝒉𝒆𝒔) 𝟒𝑲 𝑼𝒍𝒕𝒓𝒂 𝑯𝑫 𝑺𝒎𝒂𝒓𝒕 𝑯𝒊-𝑸𝑳𝑬𝑫 𝑻𝑽 | 𝟒𝟖𝑾 𝑺𝒑𝒆𝒂𝒌𝒆𝒓𝒔 | 𝑫𝒐𝒍𝒃𝒚 𝑨𝒕𝒎𝒐𝒔 & 𝑯𝑫𝑹𝟏𝟎+ | 𝑾𝒐𝒓𝒍𝒅 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑻𝑽 𝑶𝑺 - 𝑽𝑰𝑫𝑨𝑨 | 𝟓𝟓𝑬𝟕𝟓𝑸 (𝑩𝒍𝒂𝒄𝒌)",
+      "price": 36490,
+      "mrp": 69999,
+      "discount_pct": 48.0,
+      "saving": 33509,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FJLSNZBW?tag=lootkabhandar-21",
+      "image": "img/1667.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1667,
+      "posted_at": "2026-11-12T21:20:32+05:30"
+    },
+    {
+      "title": "🔥 👗 Fashion Loots 𝑩𝒆𝒘𝒂𝒌𝒐𝒐𝒇 𝑴𝒆𝒏'𝒔 𝑮𝒓𝒂𝒑𝒉𝒊𝒄 𝑷𝒓𝒊𝒏𝒕𝒆𝒅 𝟏𝟎𝟎% 𝑪𝒐𝒕𝒕𝒐𝒏 𝑻-𝑺𝒉𝒊𝒓𝒕",
+      "price": 434,
+      "mrp": 1499,
+      "discount_pct": 71.0,
+      "saving": 1065,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Bewakoof&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A156780%2Cp_n_pct-off-with-tax%3A27060457031&ds=v1%3APFEkFtpECsybXRSpp21RIvFCXLROqu36fc3SA3742p4&qid=1785845477&rnid=1571271031&ascsubtag=20261112cl9q69vvjylk&tag=lootkabhandar-21",
+      "image": "img/1666.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1666,
+      "posted_at": "2026-11-12T21:16:44+05:30"
+    },
     {
       "title": "LENSKART BLU | Zero Power Bluecut & Antiglare Computer Eyeglasses | Full Rim Rectangle | For Men and Women | Large | LB E14255",
       "price": 399,
