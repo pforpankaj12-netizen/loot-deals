@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T19:15:49+05:30",
+  "updated_at": "2026-11-12T19:38:18+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑯𝒂𝒗𝒆𝒍𝒍𝒔 𝑨𝒒𝒖𝒂𝒔 𝑳𝒊𝒕𝒆 𝑾𝒂𝒕𝒆𝒓 𝑷𝒖𝒓𝒊𝒇𝒊𝒆𝒓, 𝑼𝑽 + 𝑼𝑭 𝑷𝒖𝒓𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏, 𝟒-𝒔𝒕𝒂𝒈𝒆𝒔, 𝟕𝑳 𝑺𝒕𝒐𝒓𝒂𝒈𝒆, 𝑰𝒅𝒆𝒂𝒍 𝒇𝒐𝒓 𝑴𝒖𝒏𝒊𝒄𝒊𝒑𝒂𝒍 𝑾𝒂𝒕𝒆𝒓, 𝑺𝒊𝒈𝒏𝒊𝒇𝒊𝒄𝒂𝒏𝒕 𝒘𝒂𝒕𝒆𝒓 𝒔𝒂𝒗𝒊𝒏𝒈𝒔, 𝑩𝑰𝑺 𝑨𝒑𝒑𝒓𝒐𝒗𝒆𝒅, 𝑩𝒍𝒂𝒄𝒌",
+      "price": 6790,
+      "mrp": 13290,
+      "discount_pct": 49.0,
+      "saving": 6500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F8Q58VV8?tag=lootkabhandar-21",
+      "image": "img/1663.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1663,
+      "posted_at": "2026-11-12T19:38:18+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝟏𝟎𝑮𝑻𝑬𝑲 𝟏.𝟐𝟓𝑮 𝑺𝑭𝑷 𝟏𝟎𝟎𝟎𝑩𝒂𝒔𝒆-𝑺𝑿 𝑭𝒊𝒃𝒆𝒓 𝑻𝒓𝒂𝒏𝒔𝒄𝒆𝒊𝒗𝒆𝒓",
+      "price": 847,
+      "mrp": 5399,
+      "discount_pct": 84.0,
+      "saving": 4552,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B00U77VPX2?tag=lootkabhandar-21",
+      "image": "img/1662.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1662,
+      "posted_at": "2026-11-12T19:38:04+05:30"
+    },
     {
       "title": "Parachute Advansed Rosemary Essential Oil 30ml| 100% Pure | for Thick & Voluminous Hair | Moisturises dry hair, Reduces hair breakage, Improves hair Resilience, Promotes Healthy-Looking Hair",
       "price": 298,
