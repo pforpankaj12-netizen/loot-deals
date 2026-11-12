@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T16:53:42+05:30",
+  "updated_at": "2026-11-12T17:33:08+05:30",
   "deals": [
+    {
+      "title": "🔥 🛒 Grocery Loots 𝑨 𝑻𝑨𝑻𝑨 𝑷𝒓𝒐𝒅𝒖𝒄𝒕 - 𝑶𝒓𝒈𝒂𝒏𝒊𝒄 𝑰𝒏𝒅𝒊𝒂 𝑻𝒖𝒍𝒔𝒊 𝑮𝒓𝒆𝒆𝒏 𝑻𝒆𝒂 𝑳𝒆𝒎𝒐𝒏 𝑮𝒊𝒏𝒈𝒆𝒓 - 𝟐𝟓 𝑻𝒆𝒂𝒃𝒂𝒈𝒔, 𝑯𝒆𝒓𝒃𝒂𝒍 𝑩𝒍𝒆𝒏𝒅 𝒘𝒊𝒕𝒉 𝑮𝒓𝒆𝒆𝒏-𝑻𝒆𝒂, 𝑻𝒖𝒍𝒔𝒊, 𝑳𝒆𝒎𝒐𝒏 & 𝑮𝒊𝒏𝒈𝒆𝒓, 𝑺𝒖𝒑𝒑𝒐𝒓𝒕𝒔 𝑫𝒊𝒈𝒆𝒔𝒕𝒊𝒐𝒏, 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑻𝒂𝒔𝒕𝒆, 𝑵𝒂𝒕𝒖𝒓𝒂𝒍 𝑰𝒏𝒈𝒓𝒆𝒅𝒊𝒆𝒏𝒕𝒔",
+      "price": 110,
+      "mrp": 250,
+      "discount_pct": 56.0,
+      "saving": 140,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B078HQWWVF?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1653,
+      "posted_at": "2026-11-12T17:18:47+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑵𝒐𝒓𝒆𝒍𝒄𝒐 𝑷𝒉𝒊𝒍𝒊𝒑𝒔 𝑸𝒖𝒊𝒄𝒌 𝑪𝒍𝒆𝒂𝒏 𝑷𝒐𝒅 𝑪𝒂𝒓𝒕𝒓𝒊𝒅𝒈𝒆, 𝑳𝒖𝒃𝒓𝒊𝒄𝒂𝒕𝒆𝒔 𝑺𝒉𝒂𝒗𝒆𝒓 & 𝑬𝒍𝒊𝒎𝒊𝒏𝒂𝒕𝒆𝒔 𝑪𝒖𝒕 𝑯𝒂𝒊𝒓, 𝟒𝒙 𝟓.𝟒 𝒇𝒍 𝒐𝒛 𝑪𝒂𝒓𝒕𝒓𝒊𝒅𝒈𝒆𝒔 (𝑼𝒑 𝒕𝒐 𝟏𝒚𝒓 𝑺𝒖𝒑𝒑𝒍𝒚), 𝑩𝑫𝟗𝟎𝟏𝟎𝑨𝒁",
+      "price": 4444,
+      "mrp": 15840,
+      "discount_pct": 71.0,
+      "saving": 11396,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D7D1XJK6?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1652,
+      "posted_at": "2026-11-12T17:18:43+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑨 𝑺𝒆𝒂 𝒐𝒇 𝑳𝒆𝒎𝒐𝒏 𝑻𝒓𝒆𝒆𝒔:𝑻𝒉𝒆 𝑪𝒐𝒓𝒓𝒊𝒅𝒐 𝒐𝒇 𝑹𝒐𝒃𝒆𝒓𝒕𝒐 𝑨𝒍𝒗𝒂𝒓𝒆𝒛",
+      "price": 280,
+      "mrp": 599,
+      "discount_pct": 53.0,
+      "saving": 319,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/125049351X?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1651,
+      "posted_at": "2026-11-12T17:18:39+05:30"
+    },
+    {
+      "title": "🔥 🏠 Home Loots 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒐𝒍𝒊𝒎𝒐 𝑨𝒊𝒓𝒕𝒊𝒈𝒉𝒕 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 𝑪𝒐𝒏𝒕𝒂𝒊𝒏𝒆𝒓𝒔, 𝑺𝒆𝒕 𝒐𝒇 𝟔, 𝟕𝟓𝟎𝒎𝒍, 𝑩𝒍𝒖𝒆",
+      "price": 306,
+      "mrp": 1000,
+      "discount_pct": 69.0,
+      "saving": 694,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07P94WTYF?tag=lootkabhandar-21",
+      "image": "img/1654.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1654,
+      "posted_at": "2026-11-12T17:23:05+05:30"
+    },
     {
       "title": "🔥 🛒 Grocery Loots 𝑻𝒓𝒆𝒐 𝒃𝒚 𝑴𝒊𝒍𝒕𝒐𝒏 𝑭𝒊𝒅𝒐 𝑪𝒐𝒇𝒇𝒆𝒆 𝑴𝒖𝒈𝒔, 𝟔 𝑷𝒊𝒆𝒄𝒆𝒔, 𝟐𝟎𝟎 𝒎𝒍 𝑬𝒂𝒄𝒉, 𝑪𝒆𝒓𝒂𝒎𝒊𝒄 𝑴𝒖𝒈𝒔, 𝑴𝒊𝒄𝒓𝒐𝒘𝒂𝒗𝒆 𝒂𝒏𝒅 𝑫𝒊𝒔𝒉𝒘𝒂𝒔𝒉𝒆𝒓 𝑺𝒂𝒇𝒆, 𝑪𝒓𝒐𝒄𝒌𝒆𝒓𝒚 𝑪𝒖𝒑, 𝑰𝒅𝒆𝒂𝒍 𝒇𝒐𝒓 𝑫𝒂𝒊𝒍𝒚 𝑼𝒔𝒆 & 𝑮𝒊𝒇𝒕𝒊𝒏𝒈 (𝑷𝒓𝒊𝒏𝒕 𝒂𝒏𝒅 𝑪𝒐𝒍𝒐𝒓𝒔 𝑴𝒂𝒚 𝑽𝒂𝒓𝒚)",
       "price": 299,
