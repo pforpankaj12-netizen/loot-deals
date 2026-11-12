@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T10:34:28.301984+00:00",
+  "updated_at": "2026-11-12T16:53:42+05:30",
   "deals": [
+    {
+      "title": "🔥 🛒 Grocery Loots 𝑻𝒓𝒆𝒐 𝒃𝒚 𝑴𝒊𝒍𝒕𝒐𝒏 𝑭𝒊𝒅𝒐 𝑪𝒐𝒇𝒇𝒆𝒆 𝑴𝒖𝒈𝒔, 𝟔 𝑷𝒊𝒆𝒄𝒆𝒔, 𝟐𝟎𝟎 𝒎𝒍 𝑬𝒂𝒄𝒉, 𝑪𝒆𝒓𝒂𝒎𝒊𝒄 𝑴𝒖𝒈𝒔, 𝑴𝒊𝒄𝒓𝒐𝒘𝒂𝒗𝒆 𝒂𝒏𝒅 𝑫𝒊𝒔𝒉𝒘𝒂𝒔𝒉𝒆𝒓 𝑺𝒂𝒇𝒆, 𝑪𝒓𝒐𝒄𝒌𝒆𝒓𝒚 𝑪𝒖𝒑, 𝑰𝒅𝒆𝒂𝒍 𝒇𝒐𝒓 𝑫𝒂𝒊𝒍𝒚 𝑼𝒔𝒆 & 𝑮𝒊𝒇𝒕𝒊𝒏𝒈 (𝑷𝒓𝒊𝒏𝒕 𝒂𝒏𝒅 𝑪𝒐𝒍𝒐𝒓𝒔 𝑴𝒂𝒚 𝑽𝒂𝒓𝒚)",
+      "price": 299,
+      "mrp": 1025,
+      "discount_pct": 71.0,
+      "saving": 726,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F2FQFK1P?tag=lootkabhandar-21",
+      "image": "img/1650.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1650,
+      "posted_at": "2026-11-12T16:53:42+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑩𝒐𝒍𝒅𝒇𝒊𝒕 𝑾𝒆𝒊𝒈𝒉𝒕 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑾𝒆𝒊𝒈𝒉𝒊𝒏𝒈 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝒇𝒐𝒓 𝑯𝒖𝒎𝒂𝒏 𝑩𝒐𝒅𝒚 𝒘𝒊𝒕𝒉 𝑳𝑪𝑫 𝑫𝒊𝒔𝒑𝒍𝒂𝒚 𝑴𝒂𝒙 𝑾𝒆𝒊𝒈𝒉𝒕 𝑪𝒂𝒑𝒂𝒄𝒊𝒕𝒚 𝟏𝟖𝟎𝑲𝒈𝒔 (𝑩𝒂𝒕𝒕𝒆𝒓𝒊𝒆𝒔 𝑵𝒐𝒕 𝑰𝒏𝒄𝒍𝒖𝒅𝒆𝒅) – 𝑩𝒂𝒕𝒉𝒓𝒐𝒐𝒎 𝑺𝒄𝒂𝒍𝒆 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆",
+      "price": 410,
+      "mrp": 1890,
+      "discount_pct": 78.0,
+      "saving": 1480,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DKTFKCD2?tag=lootkabhandar-21",
+      "image": "img/1649.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1649,
+      "posted_at": "2026-11-12T16:53:32+05:30"
+    },
     {
       "title": "SIMPARTE Smart Slim Storage Containers, Set of 4 (250 ml)",
       "price": 109,
