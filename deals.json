@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T17:48:06+05:30",
+  "updated_at": "2026-11-13T19:22:31+05:30",
   "deals": [
+    {
+      "title": "🔥 🛒 Grocery Loots 𝑩𝒉𝒖𝒗𝒆𝒏𝒊𝒌𝒂 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑴𝒊𝒙 𝑫𝒓𝒚 𝑭𝒓𝒖𝒊𝒕𝒔 𝟏𝟎𝟎𝟎𝒈𝒎 |𝑴𝒊𝒙𝒆𝒅 𝑨𝒍𝒎𝒐𝒏𝒅𝒔, 𝑪𝒂𝒔𝒉𝒆𝒘𝒔, 𝑷𝒊𝒔𝒕𝒂𝒄𝒉𝒊𝒐𝒔, 𝑹𝒂𝒊𝒔𝒊𝒏𝒔, 𝑨𝒑𝒓𝒊𝒄𝒐𝒕𝒔, 𝑩𝒍𝒂𝒄𝒌 𝑹𝒂𝒊𝒔𝒊𝒏𝒔 | 𝑨𝒔𝒔𝒐𝒓𝒕𝒆𝒅 𝑪𝒓𝒖𝒏𝒄𝒉𝒚 𝑻𝒓𝒂𝒊𝒍 𝑴𝒊𝒙",
+      "price": 436,
+      "mrp": 1099,
+      "discount_pct": 60.0,
+      "saving": 663,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HLG1JX2V?tag=lootkabhandar-21",
+      "image": "img/1716.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1716,
+      "posted_at": "2026-11-13T19:22:31+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑷𝒖𝒓𝒆 𝑰𝒓𝒐𝒏 𝑴𝒂𝒕𝒕𝒉𝒂𝒓 𝑲𝒂𝒅𝒉𝒂𝒊 | 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑯𝒂𝒎𝒎𝒆𝒓𝒆𝒅 𝑰𝒓𝒐𝒏 𝑲𝒂𝒅𝒂𝒊 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒐𝒏𝒈 𝑯𝒂𝒏𝒅𝒍𝒆𝒔 | 𝑻𝒓𝒂𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍 𝑪𝒐𝒐𝒌𝒊𝒏𝒈 𝑾𝒐𝒌 𝒇𝒐𝒓 𝑮𝒂𝒔 𝑺𝒕𝒐𝒗𝒆 | 𝑫𝒆𝒆𝒑 𝑰𝒓𝒐𝒏 𝑲𝒂𝒅𝒉𝒂𝒊 𝒇𝒐𝒓 𝑰𝒏𝒅𝒊𝒂𝒏 𝑪𝒐𝒐𝒌𝒊𝒏𝒈 (𝟗 𝒊𝒏𝒄𝒉 𝟐𝟐 𝑪𝑴 𝟒𝟎𝟎𝑴𝑳)",
+      "price": 297,
+      "mrp": 1200,
+      "discount_pct": 75.0,
+      "saving": 903,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H2SF8CL7?tag=lootkabhandar-21",
+      "image": "img/1715.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1715,
+      "posted_at": "2026-11-13T18:37:04+05:30"
+    },
     {
       "title": "ASUS Prime X870-P-CSM ATX Motherboard, 14+2+1(80A) Power Stages, PCIe 5.0 x16 Slot with Full Support for Next-gen Graphics Cards, Four M.2 Slots, DDR5 Slots, USB 40Gbps Type-C Ports",
       "price": 13788,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1672,
       "posted_at": "2026-11-12T23:44:13+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑫𝒊𝒔𝒊𝒏𝒇𝒆𝒄𝒕𝒂𝒏𝒕 𝑺𝒖𝒓𝒇𝒂𝒄𝒆 & 𝑭𝒍𝒐𝒐𝒓 𝑪𝒍𝒆𝒂𝒏𝒆𝒓, (𝑪𝒊𝒕𝒓𝒖𝒔) - 𝟐 𝑳𝒕𝒓 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟏) | 𝑪𝒍𝒆𝒂𝒏𝒔 𝟗𝟗.𝟗% 𝑮𝒆𝒓𝒎𝒔 | 𝑺𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝒇𝒐𝒓 𝑩𝒂𝒕𝒉𝒓𝒐𝒐𝒎 & 𝑭𝒍𝒐𝒐𝒓 𝒔𝒖𝒓𝒇𝒂𝒄𝒆𝒔 𝒍𝒊𝒌𝒆 𝒄𝒆𝒓𝒂𝒎𝒊𝒄, 𝒎𝒂𝒓𝒃𝒍𝒆, 𝒈𝒓𝒂𝒏𝒊𝒕𝒆, 𝒎𝒐𝒔𝒂𝒊𝒄 𝒆𝒕𝒄.",
-      "price": 103,
-      "mrp": 265,
-      "discount_pct": 61.1,
-      "saving": 162,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GVS7DCX3?tag=lootkabhandar-21",
-      "image": "img/1670.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1670,
-      "posted_at": "2026-11-12T23:02:37+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑳𝒆𝒆 𝑪𝒐𝒐𝒑𝒆𝒓 𝑨𝒏𝒂𝒍𝒐𝒈 𝑾𝒉𝒊𝒕𝒆 𝑫𝒊𝒂𝒍 𝑾𝒐𝒎𝒆𝒏'𝒔 𝑾𝒂𝒕𝒄𝒉-𝑳𝑪𝟎𝟕𝟒𝟓𝟔.𝟒𝟐𝟎",
-      "price": 3940,
-      "mrp": 19799,
-      "discount_pct": 80.0,
-      "saving": 15859,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BQN7KYCS?tag=lootkabhandar-21",
-      "image": "img/1669.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1669,
-      "posted_at": "2026-11-12T22:54:42+05:30"
     }
   ]
 }
