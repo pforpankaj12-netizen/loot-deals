@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T21:58:56+05:30",
+  "updated_at": "2026-11-13T22:26:13+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑼𝒑𝒕𝒐 𝟖𝟎- 𝑹𝒂𝒏𝒈𝒓𝒊𝒕𝒊 𝑾𝒐𝒎𝒆𝒏 𝑪𝒍𝒐𝒕𝒉𝒊𝒏𝒈 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟐𝟕𝟑.",
+      "price": 273,
+      "mrp": null,
+      "discount_pct": 82.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Rangriti&rh=p_89%3ARangriti%2Cp_n_pct-off-with-tax%3A79-&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1736,
+      "posted_at": "2026-11-13T22:26:13+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑴𝒆𝒏 𝑪𝒂𝒔𝒖𝒂𝒍 𝑷𝒂𝒏𝒕𝒔",
+      "price": 449,
+      "mrp": 1499,
+      "discount_pct": 70.0,
+      "saving": 1050,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H55JSTD3?tag=lootkabhandar-21",
+      "image": "img/1735.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1735,
+      "posted_at": "2026-11-13T22:17:56+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝒊𝑭𝑭𝑨𝑳𝑪𝑶𝑵 𝟏𝟔𝟒 𝒄𝒎 (𝟔𝟓 𝑰𝒏𝒄𝒉𝒆𝒔) 𝟒𝑲 𝑼𝑯𝑫 𝑺𝒎𝒂𝒓𝒕 𝑳𝑬𝑫 𝑮𝒐𝒐𝒈𝒍𝒆 𝑻𝑽 | 𝟏𝟒𝟒𝑯𝒛 𝑽𝑹𝑹 | 𝟑𝑮𝑩 𝑹𝑨𝑴 | 𝑫𝒐𝒍𝒃𝒚 𝑽𝒊𝒔𝒊𝒐𝒏 & 𝑨𝒕𝒎𝒐𝒔 | 𝑮𝒂𝒎𝒆 𝑴𝒂𝒔𝒕𝒆𝒓 | 𝟔𝟓𝑼𝟕𝟓",
       "price": 49999,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1694,
       "posted_at": "2026-11-13T11:55:53+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑪𝑮 𝑰𝒓𝒂𝒚𝒂 𝟓.𝟗𝑳 𝑰𝒏𝒔𝒕𝒂𝒏𝒕 𝑾𝒂𝒕𝒆𝒓 𝑯𝒆𝒂𝒕𝒆𝒓",
-      "price": 3310,
-      "mrp": 7999,
-      "discount_pct": 59.0,
-      "saving": 4689,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H9FK9XZZ?tag=lootkabhandar-21",
-      "image": "img/1693.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1693,
-      "posted_at": "2026-11-13T11:50:24+05:30"
-    },
-    {
-      "title": "Amazon Basics LED Acrylic Writing Board with Pen | Rewritable Message Note Board for Desk, Study Table & Home Decor | USB Type-A | 20 x 20 cm",
-      "price": 477,
-      "mrp": 1599,
-      "discount_pct": 70.0,
-      "saving": 1122,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GW8QQJP7?tag=lootkabhandar-21",
-      "image": "img/1692.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1692,
-      "posted_at": "2026-11-13T11:28:17+05:30"
     }
   ]
 }
