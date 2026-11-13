@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T23:35:41+05:30",
+  "updated_at": "2026-11-14T00:03:54+05:30",
   "deals": [
+    {
+      "title": "Lowest : Sparkmate by Crystal Scrub Pad (Set of 3) @11.https://www.amazon.in/dp/B0C77G89RN?tag=lootkabhandar-21",
+      "price": 79,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C77G89RN?tag=lootkabhandar-21",
+      "image": "img/1744.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1744,
+      "posted_at": "2026-11-14T00:03:54+05:30"
+    },
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝑪𝒓𝒐𝒎𝒑𝒕𝒐𝒏 𝑭𝒍𝒂𝒎𝒆𝑺𝒕𝒂𝒓 𝟑 𝑩𝒖𝒓𝒏𝒆𝒓 𝑮𝒂𝒔 𝑺𝒕𝒐𝒗𝒆",
+      "price": 3057,
+      "mrp": 7699,
+      "discount_pct": 60.0,
+      "saving": 4642,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F3J89F8L?tag=lootkabhandar-21",
+      "image": "img/1742.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1742,
+      "posted_at": "2026-11-13T23:55:38+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑯𝑷 𝑴𝟐𝟗𝟎 𝑾𝒊𝒓𝒆𝒍𝒆𝒔𝒔 𝑴𝒐𝒖𝒔𝒆 (𝑩𝟓𝑼𝑨𝟓𝑨𝑨)",
       "price": 340,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1701,
       "posted_at": "2026-11-13T15:47:52+05:30"
-    },
-    {
-      "title": "Lowest : Lakme 9to5 Hya Matte Lipstick Vacation Nude (3.6g) @143.https://www.amazon.in/dp/B0DWH1PLB5?tag=lootkabhandar-21",
-      "price": 599,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DWH1PLB5?tag=lootkabhandar-21",
-      "image": "img/1700.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1700,
-      "posted_at": "2026-11-13T14:38:53+05:30"
-    },
-    {
-      "title": "🔥 🍳 Kitchen Loots 𝟑-𝑪𝒐𝒎𝒑𝒂𝒓𝒕𝒎𝒆𝒏𝒕 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑻𝒊𝒇𝒇𝒊𝒏 𝑩𝒐𝒙, 𝑳𝒆𝒂𝒌-𝑷𝒓𝒐𝒐𝒇",
-      "price": 232,
-      "mrp": 499,
-      "discount_pct": 53.0,
-      "saving": 267,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FJ773QVG?tag=lootkabhandar-21",
-      "image": "img/1699.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1699,
-      "posted_at": "2026-11-13T14:29:46+05:30"
     }
   ]
 }
