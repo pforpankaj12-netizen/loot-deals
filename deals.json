@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T11:28:17+05:30",
+  "updated_at": "2026-11-13T11:55:53+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑪𝒐𝒍𝒐𝒓𝒔 𝑸𝒖𝒆𝒆𝒏 𝑬𝒙𝒕𝒓𝒆𝒎𝒆 𝑪𝒐𝒍𝒐𝒓 𝑲𝒂𝒋𝒂𝒍 𝑷𝒆𝒏𝒄𝒊𝒍 - 𝟏𝟐 𝑹𝒐𝒚𝒂𝒍 𝑩𝒍𝒖𝒆, 𝟎.𝟒𝒈 | 𝑺𝒎𝒐𝒐𝒕𝒉 𝑶𝒏𝒆 𝑺𝒕𝒓𝒐𝒌𝒆 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒘𝒊𝒕𝒉 𝑼𝒍𝒕𝒓𝒂 𝑪𝒓𝒆𝒂𝒎𝒚 𝑻𝒆𝒙𝒕𝒖𝒓𝒆 | 𝟏𝟔 𝑯𝒓𝒔 𝑳𝒐𝒏𝒈 𝑺𝒕𝒂𝒚, 𝑵𝒐𝒏 𝑻𝒓𝒂𝒏𝒔𝒇𝒆𝒓, 𝑺𝒎𝒖𝒅𝒈𝒆 𝑷𝒓𝒐𝒐𝒇 & 𝑾𝒂𝒕𝒆𝒓𝒑𝒓𝒐𝒐𝒇 𝑲𝒂𝒋𝒂𝒍 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏",
+      "price": 91,
+      "mrp": 349,
+      "discount_pct": 74.0,
+      "saving": 258,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CKL7FBL9?tag=lootkabhandar-21",
+      "image": "img/1694.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1694,
+      "posted_at": "2026-11-13T11:55:53+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑪𝑮 𝑰𝒓𝒂𝒚𝒂 𝟓.𝟗𝑳 𝑰𝒏𝒔𝒕𝒂𝒏𝒕 𝑾𝒂𝒕𝒆𝒓 𝑯𝒆𝒂𝒕𝒆𝒓",
+      "price": 3310,
+      "mrp": 7999,
+      "discount_pct": 59.0,
+      "saving": 4689,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H9FK9XZZ?tag=lootkabhandar-21",
+      "image": "img/1693.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1693,
+      "posted_at": "2026-11-13T11:50:24+05:30"
+    },
     {
       "title": "Amazon Basics LED Acrylic Writing Board with Pen | Rewritable Message Note Board for Desk, Study Table & Home Decor | USB Type-A | 20 x 20 cm",
       "price": 477,
@@ -492,32 +518,6 @@
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B0DGLPD4LF?tag=lootkabhandar-21",
       "image": "img/seed-simparte.jpg",
-      "category": "Other",
-      "telegram_msg_id": null,
-      "posted_at": "2026-11-12"
-    },
-    {
-      "title": "Brightstar Recessed Ceiling Light",
-      "price": 426,
-      "mrp": 1799,
-      "discount_pct": 76.0,
-      "saving": 1373,
-      "store": "Flipkart",
-      "link": "https://fktr.in/Fwa43w1",
-      "image": "img/seed-brightstar.webp",
-      "category": "Other",
-      "telegram_msg_id": null,
-      "posted_at": "2026-11-12"
-    },
-    {
-      "title": "Transparent Plastic Oil Dispenser Bottle 1L with Measurement Scale",
-      "price": 249,
-      "mrp": 909,
-      "discount_pct": 75.0,
-      "saving": 660,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HLKRRPGS?tag=lootkabhandar-21",
-      "image": "img/seed-oildispenser.webp",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
