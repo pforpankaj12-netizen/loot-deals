@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T14:11:22+05:30",
+  "updated_at": "2026-11-13T14:38:53+05:30",
   "deals": [
+    {
+      "title": "Lowest : Lakme 9to5 Hya Matte Lipstick Vacation Nude (3.6g) @143.https://www.amazon.in/dp/B0DWH1PLB5?tag=lootkabhandar-21",
+      "price": 599,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DWH1PLB5?tag=lootkabhandar-21",
+      "image": "img/1700.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1700,
+      "posted_at": "2026-11-13T14:38:53+05:30"
+    },
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝟑-𝑪𝒐𝒎𝒑𝒂𝒓𝒕𝒎𝒆𝒏𝒕 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑻𝒊𝒇𝒇𝒊𝒏 𝑩𝒐𝒙, 𝑳𝒆𝒂𝒌-𝑷𝒓𝒐𝒐𝒇",
+      "price": 232,
+      "mrp": 499,
+      "discount_pct": 53.0,
+      "saving": 267,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FJ773QVG?tag=lootkabhandar-21",
+      "image": "img/1699.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1699,
+      "posted_at": "2026-11-13T14:29:46+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑳𝒆𝒆 𝑪𝒐𝒐𝒑𝒆𝒓 𝑨𝒏𝒂𝒍𝒐𝒈 𝑩𝒍𝒖𝒆 𝑹𝒐𝒖𝒏𝒅 𝑫𝒊𝒂𝒍 𝑴𝒆𝒏'𝒔 𝑾𝒂𝒕𝒄𝒉 - 𝑳𝑪𝟎𝟕𝟑𝟔𝟏.𝟑𝟗𝟏",
       "price": 3070,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1652,
       "posted_at": "2026-11-12T17:18:43+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑨 𝑺𝒆𝒂 𝒐𝒇 𝑳𝒆𝒎𝒐𝒏 𝑻𝒓𝒆𝒆𝒔:𝑻𝒉𝒆 𝑪𝒐𝒓𝒓𝒊𝒅𝒐 𝒐𝒇 𝑹𝒐𝒃𝒆𝒓𝒕𝒐 𝑨𝒍𝒗𝒂𝒓𝒆𝒛",
-      "price": 280,
-      "mrp": 599,
-      "discount_pct": 53.0,
-      "saving": 319,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/125049351X?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1651,
-      "posted_at": "2026-11-12T17:18:39+05:30"
-    },
-    {
-      "title": "🔥 🏠 Home Loots 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒐𝒍𝒊𝒎𝒐 𝑨𝒊𝒓𝒕𝒊𝒈𝒉𝒕 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 𝑪𝒐𝒏𝒕𝒂𝒊𝒏𝒆𝒓𝒔, 𝑺𝒆𝒕 𝒐𝒇 𝟔, 𝟕𝟓𝟎𝒎𝒍, 𝑩𝒍𝒖𝒆",
-      "price": 306,
-      "mrp": 1000,
-      "discount_pct": 69.0,
-      "saving": 694,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07P94WTYF?tag=lootkabhandar-21",
-      "image": "img/1654.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1654,
-      "posted_at": "2026-11-12T17:23:05+05:30"
     }
   ]
 }
