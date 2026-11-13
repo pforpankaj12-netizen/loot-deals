@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T09:26:38+05:30",
+  "updated_at": "2026-11-13T09:30:05+05:30",
   "deals": [
+    {
+      "title": "Himalayan Elevation Original Kashmiri Saffron/Kesar, 1 Gram, A TATA product, Certified Grade-1 Pure Kashmiri Kesar, Food & Pooja",
+      "price": 370,
+      "mrp": 650,
+      "discount_pct": 43.0,
+      "saving": 280,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C3VFB7NV?tag=lootkabhandar-21",
+      "image": "img/1686.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1686,
+      "posted_at": "2026-11-13T09:30:05+05:30"
+    },
+    {
+      "title": "Kerala Ayurveda Myaxyl Oil | Ayurvedic Pain Relief Oil for Back Pain, Knee Pain, Joint & Muscle Pain | Fast-Absorbing, Non-Greasy Formula | 200ml",
+      "price": 294,
+      "mrp": 500,
+      "discount_pct": 41.0,
+      "saving": 206,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07R3ZKB7D?tag=lootkabhandar-21",
+      "image": "img/1685.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1685,
+      "posted_at": "2026-11-13T09:29:55+05:30"
+    },
     {
       "title": "HP 360 Mono Portable Bluetooth Speaker @493https://www.amazon.in/dp/B08NQZZXS7?tag=lootkabhandar-21",
       "price": 1599,
