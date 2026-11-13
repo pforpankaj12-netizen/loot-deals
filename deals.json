@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T12:33:18+05:30",
+  "updated_at": "2026-11-13T13:28:06+05:30",
   "deals": [
+    {
+      "title": "Puma Women Maka Sneaker",
+      "price": 1349,
+      "mrp": 4499,
+      "discount_pct": 70.0,
+      "saving": 3150,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09RG35FRQ?tag=lootkabhandar-21",
+      "image": "img/1697.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1697,
+      "posted_at": "2026-11-13T13:28:06+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑩𝒊𝒐𝒕𝒊𝒒𝒖𝒆 𝑷𝒂𝒑𝒂𝒚𝒂 𝑫𝒆𝒆𝒑 𝑪𝒍𝒆𝒂𝒏𝒔𝒆 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉 | 𝑮𝒆𝒏𝒕𝒍𝒆 𝑬𝒙𝒇𝒐𝒍𝒊𝒂𝒕𝒊𝒐𝒏 | 𝑽𝒊𝒔𝒊𝒃𝒍𝒚 𝑮𝒍𝒐𝒘𝒊𝒏𝒈 𝑺𝒌𝒊𝒏 | 𝟏𝟎𝟎% 𝑩𝒐𝒕𝒂𝒏𝒊𝒄𝒂𝒍 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒔| 𝑺𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝒇𝒐𝒓 𝑨𝒍𝒍 𝑺𝒌𝒊𝒏 𝑻𝒚𝒑𝒆𝒔 | 𝟏𝟓𝟎𝒎𝒍",
       "price": 102,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1650,
       "posted_at": "2026-11-12T16:53:42+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑩𝒐𝒍𝒅𝒇𝒊𝒕 𝑾𝒆𝒊𝒈𝒉𝒕 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑾𝒆𝒊𝒈𝒉𝒊𝒏𝒈 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝒇𝒐𝒓 𝑯𝒖𝒎𝒂𝒏 𝑩𝒐𝒅𝒚 𝒘𝒊𝒕𝒉 𝑳𝑪𝑫 𝑫𝒊𝒔𝒑𝒍𝒂𝒚 𝑴𝒂𝒙 𝑾𝒆𝒊𝒈𝒉𝒕 𝑪𝒂𝒑𝒂𝒄𝒊𝒕𝒚 𝟏𝟖𝟎𝑲𝒈𝒔 (𝑩𝒂𝒕𝒕𝒆𝒓𝒊𝒆𝒔 𝑵𝒐𝒕 𝑰𝒏𝒄𝒍𝒖𝒅𝒆𝒅) – 𝑩𝒂𝒕𝒉𝒓𝒐𝒐𝒎 𝑺𝒄𝒂𝒍𝒆 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆",
-      "price": 410,
-      "mrp": 1890,
-      "discount_pct": 78.0,
-      "saving": 1480,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DKTFKCD2?tag=lootkabhandar-21",
-      "image": "img/1649.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1649,
-      "posted_at": "2026-11-12T16:53:32+05:30"
     }
   ]
 }
