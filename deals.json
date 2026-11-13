@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T11:55:53+05:30",
+  "updated_at": "2026-11-13T12:33:18+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑩𝒊𝒐𝒕𝒊𝒒𝒖𝒆 𝑷𝒂𝒑𝒂𝒚𝒂 𝑫𝒆𝒆𝒑 𝑪𝒍𝒆𝒂𝒏𝒔𝒆 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉 | 𝑮𝒆𝒏𝒕𝒍𝒆 𝑬𝒙𝒇𝒐𝒍𝒊𝒂𝒕𝒊𝒐𝒏 | 𝑽𝒊𝒔𝒊𝒃𝒍𝒚 𝑮𝒍𝒐𝒘𝒊𝒏𝒈 𝑺𝒌𝒊𝒏 | 𝟏𝟎𝟎% 𝑩𝒐𝒕𝒂𝒏𝒊𝒄𝒂𝒍 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒔| 𝑺𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝒇𝒐𝒓 𝑨𝒍𝒍 𝑺𝒌𝒊𝒏 𝑻𝒚𝒑𝒆𝒔 | 𝟏𝟓𝟎𝒎𝒍",
+      "price": 102,
+      "mrp": 320,
+      "discount_pct": 68.0,
+      "saving": 218,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B00CQ3WXFO?tag=lootkabhandar-21",
+      "image": "img/1695.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1695,
+      "posted_at": "2026-11-13T12:33:18+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑪𝒐𝒍𝒐𝒓𝒔 𝑸𝒖𝒆𝒆𝒏 𝑬𝒙𝒕𝒓𝒆𝒎𝒆 𝑪𝒐𝒍𝒐𝒓 𝑲𝒂𝒋𝒂𝒍 𝑷𝒆𝒏𝒄𝒊𝒍 - 𝟏𝟐 𝑹𝒐𝒚𝒂𝒍 𝑩𝒍𝒖𝒆, 𝟎.𝟒𝒈 | 𝑺𝒎𝒐𝒐𝒕𝒉 𝑶𝒏𝒆 𝑺𝒕𝒓𝒐𝒌𝒆 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒘𝒊𝒕𝒉 𝑼𝒍𝒕𝒓𝒂 𝑪𝒓𝒆𝒂𝒎𝒚 𝑻𝒆𝒙𝒕𝒖𝒓𝒆 | 𝟏𝟔 𝑯𝒓𝒔 𝑳𝒐𝒏𝒈 𝑺𝒕𝒂𝒚, 𝑵𝒐𝒏 𝑻𝒓𝒂𝒏𝒔𝒇𝒆𝒓, 𝑺𝒎𝒖𝒅𝒈𝒆 𝑷𝒓𝒐𝒐𝒇 & 𝑾𝒂𝒕𝒆𝒓𝒑𝒓𝒐𝒐𝒇 𝑲𝒂𝒋𝒂𝒍 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏",
       "price": 91,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1649,
       "posted_at": "2026-11-12T16:53:32+05:30"
-    },
-    {
-      "title": "SIMPARTE Smart Slim Storage Containers, Set of 4 (250 ml)",
-      "price": 109,
-      "mrp": 999,
-      "discount_pct": 89.0,
-      "saving": 890,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DGLPD4LF?tag=lootkabhandar-21",
-      "image": "img/seed-simparte.jpg",
-      "category": "Other",
-      "telegram_msg_id": null,
-      "posted_at": "2026-11-12"
     }
   ]
 }
