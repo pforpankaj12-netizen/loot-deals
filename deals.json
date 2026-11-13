@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T19:42:52+05:30",
+  "updated_at": "2026-11-13T20:02:50+05:30",
   "deals": [
+    {
+      "title": "🔥 📱 Electronics Loots 𝑺𝒐𝒏𝒚 𝑾𝑭-𝑪𝟕𝟏𝟎𝑵 𝑫𝒖𝒂𝒍 𝑵𝒐𝒊𝒔𝒆 𝑪𝒂𝒏𝒄𝒆𝒍𝒍𝒂𝒕𝒊𝒐𝒏 𝑾𝒊𝒓𝒆𝒍𝒆𝒔𝒔 𝑬𝒂𝒓𝒃𝒖𝒅𝒔",
+      "price": 6489,
+      "mrp": 12990,
+      "discount_pct": 50.0,
+      "saving": 6501,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DWHB886R?tag=lootkabhandar-21",
+      "image": "img/1723.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1723,
+      "posted_at": "2026-11-13T20:02:50+05:30"
+    },
     {
       "title": "100PCS Greenery Paper Napkins 3 Ply Disposable Hand Towels for Bathroom Green Eucalyptus Leaf Guest Napkins Decorative Dinner Napkins for Bridal Baby Shower Wedding Birthday Spring Party",
       "price": 3251,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1682,
       "posted_at": "2026-11-13T08:25:29+05:30"
-    },
-    {
-      "title": "🔥 💄 Beauty Loots 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑪𝒆𝒕𝒂𝒑𝒉𝒊𝒍 𝑩𝒆𝒂𝒖𝒕𝒚 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟗𝟗.",
-      "price": 99,
-      "mrp": null,
-      "discount_pct": 56.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Cetaphil&rh=n%3A1355016031%2Cp_123%3A236065%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665400031&i=beauty&ref=sr_nr_p_n_pct-off-with-tax_2&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1681,
-      "posted_at": "2026-11-13T08:15:34+05:30"
     }
   ]
 }
