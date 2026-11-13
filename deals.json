@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T20:02:50+05:30",
+  "updated_at": "2026-11-13T20:56:45+05:30",
   "deals": [
+    {
+      "title": "🔥 💳 BANK OFFER 𝑻𝑪𝑳 𝟏𝟎𝟖 𝒄𝒎 (𝟒𝟑 𝒊𝒏𝒄𝒉𝒆𝒔) 𝑺𝒎𝒂𝒓𝒕𝒄𝒉𝒐𝒊𝒄𝒆 𝟒𝑲 𝑼𝒍𝒕𝒓𝒂 𝑯𝑫 𝑺𝒎𝒂𝒓𝒕 𝑸𝑳𝑬𝑫 𝑮𝒐𝒐𝒈𝒍𝒆 𝑻𝑽 | 𝑯𝑫𝑹 𝟏𝟎+ | 𝑫𝒐𝒍𝒃𝒚 𝑽𝒊𝒔𝒊𝒐𝒏 & 𝑨𝒕𝒎𝒐𝒔 | 𝟑𝟎𝑾 𝑺𝒑𝒆𝒂𝒌𝒆𝒓 𝑶𝒖𝒕𝒑𝒖𝒕 | 𝑮𝒂𝒎𝒆 𝑴𝒂𝒔𝒕𝒆𝒓 | 𝟒𝟑𝑻𝟔𝑫",
+      "price": 28491,
+      "mrp": 32990,
+      "discount_pct": 13.6,
+      "saving": 4499,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GVK5Q87C?tag=lootkabhandar-21",
+      "image": "img/1725.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1725,
+      "posted_at": "2026-11-13T20:56:45+05:30"
+    },
     {
       "title": "🔥 📱 Electronics Loots 𝑺𝒐𝒏𝒚 𝑾𝑭-𝑪𝟕𝟏𝟎𝑵 𝑫𝒖𝒂𝒍 𝑵𝒐𝒊𝒔𝒆 𝑪𝒂𝒏𝒄𝒆𝒍𝒍𝒂𝒕𝒊𝒐𝒏 𝑾𝒊𝒓𝒆𝒍𝒆𝒔𝒔 𝑬𝒂𝒓𝒃𝒖𝒅𝒔",
       "price": 6489,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1683,
       "posted_at": "2026-11-13T09:15:49+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑮𝒂𝒍𝒂 𝑺𝒄𝒆𝒏𝒕𝒆𝒅 𝑪𝒐𝒎𝒑𝒐𝒔𝒕𝒂𝒃𝒍𝒆 𝑮𝒂𝒓𝒃𝒂𝒈𝒆 𝑩𝒂𝒈𝒔, 𝑴𝒆𝒅𝒊𝒖𝒎 𝑺𝒊𝒛𝒆, 𝟏𝟓 𝑩𝒂𝒈𝒔, 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑫𝒖𝒔𝒕𝒃𝒊𝒏 𝑻𝒓𝒂𝒔𝒉 𝑩𝒂𝒈𝒔, 𝑳𝒂𝒗𝒆𝒏𝒅𝒆𝒓 𝑭𝒓𝒂𝒈𝒓𝒂𝒏𝒄𝒆, 𝑭𝒐𝒓 𝑫𝒓𝒚 & 𝑾𝒆𝒕 𝑾𝒂𝒔𝒕𝒆, 𝑲𝒊𝒕𝒄𝒉𝒆𝒏, 𝑯𝒐𝒎𝒆 & 𝑶𝒇𝒇𝒊𝒄𝒆 𝑼𝒔𝒆",
-      "price": 50,
-      "mrp": 130,
-      "discount_pct": 62.0,
-      "saving": 80,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GQHC62DG?tag=lootkabhandar-21",
-      "image": "img/1682.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1682,
-      "posted_at": "2026-11-13T08:25:29+05:30"
     }
   ]
 }
