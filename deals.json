@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T16:57:00+05:30",
+  "updated_at": "2026-11-13T17:15:11+05:30",
   "deals": [
+    {
+      "title": "Grab Fast (875 ml) @169 : https://www.amazon.in/dp/B0HM87GFP5?tag=lootkabhandar-21Buy Max Qty | 200 ml @499.",
+      "price": 169,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HM87GFP5?tag=lootkabhandar-21",
+      "image": "img/1710.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1710,
+      "posted_at": "2026-11-13T17:15:11+05:30"
+    },
     {
       "title": "🔥 📱 Electronics Loots 𝑵𝒐𝒊𝒔𝒆 𝑵𝒆𝒘 𝑳𝒂𝒖𝒏𝒄𝒉 𝑪𝒐𝒍𝒐𝒓𝑭𝒊𝒕 𝑷𝒖𝒍𝒔𝒆 𝑨𝒊𝒓 𝑺𝒎𝒂𝒓𝒕𝒘𝒂𝒕𝒄𝒉 𝒘𝒊𝒕𝒉 𝑩𝑻 𝑪𝒂𝒍𝒍𝒊𝒏𝒈, 𝟏.𝟖𝟓\" 𝑻𝑭𝑻 𝑫𝒊𝒔𝒑𝒍𝒂𝒚, 𝑳𝒊𝒈𝒉𝒕𝒘𝒆𝒊𝒈𝒉𝒕 𝟒𝟓𝒈 𝑫𝒆𝒔𝒊𝒈𝒏, 𝑯𝒆𝒂𝒓𝒕 𝑹𝒂𝒕𝒆 & 𝑺𝒕𝒆𝒑 𝑻𝒓𝒂𝒄𝒌𝒊𝒏𝒈, 𝑴𝒖𝒍𝒕𝒊-𝑺𝒑𝒐𝒓𝒕 𝑴𝒐𝒅𝒆𝒔, 𝑭𝒊𝒏𝒅 𝑴𝒚 𝑷𝒉𝒐𝒏𝒆, 𝑾𝒂𝒕𝒆𝒓 𝑹𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒕 (𝑱𝒆𝒕 𝑩𝒍𝒂𝒄𝒌)",
       "price": 1399,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1666,
       "posted_at": "2026-11-12T21:16:44+05:30"
-    },
-    {
-      "title": "LENSKART BLU | Zero Power Bluecut & Antiglare Computer Eyeglasses | Full Rim Rectangle | For Men and Women | Large | LB E14255",
-      "price": 399,
-      "mrp": 3500,
-      "discount_pct": 88.0,
-      "saving": 3101,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09TTPM2YW?tag=lootkabhandar-21",
-      "image": "img/1665.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1665,
-      "posted_at": "2026-11-12T21:15:43+05:30"
     }
   ]
 }
