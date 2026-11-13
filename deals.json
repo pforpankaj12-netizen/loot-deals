@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T16:14:38+05:30",
+  "updated_at": "2026-11-13T16:24:10+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑪𝒓𝒐𝒎𝒑𝒕𝒐𝒏 𝑫𝒚𝒏𝒂 𝑹𝒂𝒚 𝟓𝑾 𝑳𝑬𝑫 𝑩𝒖𝒍𝒃 𝑩𝟐𝟐 | 𝑪𝒐𝒐𝒍 𝑫𝒂𝒚 𝑳𝒊𝒈𝒉𝒕, 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟏",
+      "price": 44,
+      "mrp": 135,
+      "discount_pct": 67.0,
+      "saving": 91,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B4W3G7SD?tag=lootkabhandar-21",
+      "image": "img/1706.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1706,
+      "posted_at": "2026-11-13T16:24:10+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝟑 𝑷𝒍𝒚 𝑻𝒐𝒊𝒍𝒆𝒕 𝑷𝒂𝒑𝒆𝒓 𝑹𝒐𝒍𝒍 | 𝟏𝟐𝟎𝟎 𝑷𝒖𝒍𝒍𝒔 | 𝟑𝟎𝟎 𝑷𝒖𝒍𝒍𝒔 𝑿 𝟒 𝑹𝒐𝒍𝒍𝒔 | 𝑺𝒐𝒇𝒕 𝑨𝒏𝒅 𝑯𝒊𝒈𝒉𝒍𝒚 𝑨𝒃𝒔𝒐𝒓𝒃𝒆𝒏𝒕 | 𝟏𝟎𝟎% 𝑵𝒂𝒕𝒖𝒓𝒂𝒍 𝑽𝒊𝒓𝒈𝒊𝒏 𝑪𝒆𝒍𝒍𝒖𝒍𝒐𝒔𝒆 𝑭𝒊𝒃𝒆𝒓",
+      "price": 129,
+      "mrp": 399,
+      "discount_pct": 68.0,
+      "saving": 270,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HQ1D6D47?tag=lootkabhandar-21",
+      "image": "img/1705.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1705,
+      "posted_at": "2026-11-13T16:23:58+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑭𝒍𝒂𝒕 𝟕𝟎- 𝑱𝒂𝒄𝒌 & 𝑱𝒐𝒏𝒆𝒔 𝑪𝒍𝒐𝒕𝒉𝒊𝒏𝒈 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟑𝟎𝟎.",
       "price": 300,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1660,
       "posted_at": "2026-11-12T19:15:41+05:30"
-    },
-    {
-      "title": "Car Armrest Cushion Console Organizer with Cup Holder, Tissue Box Slot, Phone Storage Pocket, PU Leather Center Console Pad with Side Pockets for Cars SUV Sedan Interior Accessories",
-      "price": 499,
-      "mrp": 1599,
-      "discount_pct": 68.0,
-      "saving": 1100,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GXFWHZDW?tag=lootkabhandar-21",
-      "image": "img/1659.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 1659,
-      "posted_at": "2026-11-12T19:15:31+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑾𝒊𝒍𝒅 𝑺𝒕𝒐𝒏𝒆 𝑩𝒆𝒚𝒐𝒏𝒅 𝑳𝒐𝒏𝒈 𝑳𝒂𝒔𝒕𝒊𝒏𝒈 𝑫𝒆𝒐𝒅𝒐𝒓𝒂𝒏𝒕𝒔 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟐",
-      "price": 214,
-      "mrp": 540,
-      "discount_pct": 60.0,
-      "saving": 326,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08SPXBMPS?tag=lootkabhandar-21",
-      "image": "img/1658.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1658,
-      "posted_at": "2026-11-12T19:08:08+05:30"
     }
   ]
 }
