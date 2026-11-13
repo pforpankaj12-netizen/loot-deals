@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T16:24:10+05:30",
+  "updated_at": "2026-11-13T16:57:00+05:30",
   "deals": [
+    {
+      "title": "🔥 📱 Electronics Loots 𝑵𝒐𝒊𝒔𝒆 𝑵𝒆𝒘 𝑳𝒂𝒖𝒏𝒄𝒉 𝑪𝒐𝒍𝒐𝒓𝑭𝒊𝒕 𝑷𝒖𝒍𝒔𝒆 𝑨𝒊𝒓 𝑺𝒎𝒂𝒓𝒕𝒘𝒂𝒕𝒄𝒉 𝒘𝒊𝒕𝒉 𝑩𝑻 𝑪𝒂𝒍𝒍𝒊𝒏𝒈, 𝟏.𝟖𝟓\" 𝑻𝑭𝑻 𝑫𝒊𝒔𝒑𝒍𝒂𝒚, 𝑳𝒊𝒈𝒉𝒕𝒘𝒆𝒊𝒈𝒉𝒕 𝟒𝟓𝒈 𝑫𝒆𝒔𝒊𝒈𝒏, 𝑯𝒆𝒂𝒓𝒕 𝑹𝒂𝒕𝒆 & 𝑺𝒕𝒆𝒑 𝑻𝒓𝒂𝒄𝒌𝒊𝒏𝒈, 𝑴𝒖𝒍𝒕𝒊-𝑺𝒑𝒐𝒓𝒕 𝑴𝒐𝒅𝒆𝒔, 𝑭𝒊𝒏𝒅 𝑴𝒚 𝑷𝒉𝒐𝒏𝒆, 𝑾𝒂𝒕𝒆𝒓 𝑹𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒕 (𝑱𝒆𝒕 𝑩𝒍𝒂𝒄𝒌)",
+      "price": 1399,
+      "mrp": 4999,
+      "discount_pct": 72.0,
+      "saving": 3600,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H3BXLJ3T?tag=lootkabhandar-21",
+      "image": "img/1709.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1709,
+      "posted_at": "2026-11-13T16:57:00+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑩𝑳𝑨𝑼𝑷𝑼𝑵𝑲𝑻 𝑺𝑩𝑨𝟎𝟐 𝑮𝒐𝒍𝒅 𝟑𝟎𝑾 𝑩𝒍𝒖𝒆𝒕𝒐𝒐𝒕𝒉 𝑺𝒐𝒖𝒏𝒅𝒃𝒂𝒓 𝑰 𝑳𝑬𝑫 𝑫𝒊𝒔𝒑𝒍𝒂𝒚 𝑰 𝑨𝑼𝑿, 𝑩𝒍𝒖𝒆𝒕𝒐𝒐𝒕𝒉, 𝑼𝑺𝑩 & 𝑻𝑾𝑺 𝑰 𝑩𝑻 𝑺𝒑𝒆𝒂𝒌𝒆𝒓 𝒇𝒐𝒓 𝑻𝑽, 𝑴𝒐𝒃𝒊𝒍𝒆, 𝑷𝑪, 𝑳𝒂𝒑𝒕𝒐𝒑𝒔",
+      "price": 1999,
+      "mrp": 5999,
+      "discount_pct": 67.0,
+      "saving": 4000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HHNJ89BS?tag=lootkabhandar-21",
+      "image": "img/1708.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1708,
+      "posted_at": "2026-11-13T16:48:08+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑹𝟑𝑺𝑬𝑻 𝑨𝒑𝒑𝒍𝒆 𝑪𝒊𝒅𝒆𝒓 𝑽𝒊𝒏𝒆𝒈𝒂𝒓 𝑮𝒖𝒎𝒎𝒊𝒆𝒔 𝒇𝒐𝒓 𝑷𝒐𝒐𝒓 𝑫𝒊𝒈𝒆𝒔𝒕𝒊𝒐𝒏, 𝑾𝒆𝒊𝒈𝒉𝒕 𝑮𝒂𝒊𝒏 - 𝟑𝟎 𝑫𝒂𝒚𝒔",
+      "price": 189,
+      "mrp": 529,
+      "discount_pct": 64.0,
+      "saving": 340,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FCFZXX7K?tag=lootkabhandar-21",
+      "image": "img/1707.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1707,
+      "posted_at": "2026-11-13T16:44:30+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑪𝒓𝒐𝒎𝒑𝒕𝒐𝒏 𝑫𝒚𝒏𝒂 𝑹𝒂𝒚 𝟓𝑾 𝑳𝑬𝑫 𝑩𝒖𝒍𝒃 𝑩𝟐𝟐 | 𝑪𝒐𝒐𝒍 𝑫𝒂𝒚 𝑳𝒊𝒈𝒉𝒕, 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟏",
       "price": 44,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1665,
       "posted_at": "2026-11-12T21:15:43+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝟏𝟎𝑮𝑻𝑬𝑲 𝟏.𝟐𝟓𝑮 𝑺𝑭𝑷 𝟏𝟎𝟎𝟎𝑩𝒂𝒔𝒆-𝑺𝑿 𝑭𝒊𝒃𝒆𝒓 𝑻𝒓𝒂𝒏𝒔𝒄𝒆𝒊𝒗𝒆𝒓",
-      "price": 847,
-      "mrp": 5399,
-      "discount_pct": 84.0,
-      "saving": 4552,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B00U77VPX2?tag=lootkabhandar-21",
-      "image": "img/1662.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1662,
-      "posted_at": "2026-11-12T19:38:04+05:30"
-    },
-    {
-      "title": "Parachute Advansed Rosemary Essential Oil 30ml| 100% Pure | for Thick & Voluminous Hair | Moisturises dry hair, Reduces hair breakage, Improves hair Resilience, Promotes Healthy-Looking Hair",
-      "price": 298,
-      "mrp": 850,
-      "discount_pct": 64.0,
-      "saving": 552,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GHP4JKCH?tag=lootkabhandar-21",
-      "image": "img/1661.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 1661,
-      "posted_at": "2026-11-12T19:15:49+05:30"
-    },
-    {
-      "title": "Leeway Interlocking Gym Mats for Floor | EPDM (Set of 10, 10mm, 20&#34;x20&#34;) Black with Blue Flecks | Gym Floor Mat Rubber for Workout | Equipment Matt for Home | Rubber Tiles, Kids Rooms Puzzle Mate",
-      "price": 4509,
-      "mrp": 9035,
-      "discount_pct": 50.0,
-      "saving": 4526,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GT8NJNL7?tag=lootkabhandar-21",
-      "image": "img/1660.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1660,
-      "posted_at": "2026-11-12T19:15:41+05:30"
     }
   ]
 }
