@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T22:47:01+05:30",
+  "updated_at": "2026-11-13T23:35:41+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑯𝑷 𝑴𝟐𝟗𝟎 𝑾𝒊𝒓𝒆𝒍𝒆𝒔𝒔 𝑴𝒐𝒖𝒔𝒆 (𝑩𝟓𝑼𝑨𝟓𝑨𝑨)",
+      "price": 340,
+      "mrp": 1199,
+      "discount_pct": 72.0,
+      "saving": 859,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FBMBJ5LV?tag=lootkabhandar-21",
+      "image": "img/1740.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1740,
+      "posted_at": "2026-11-13T23:35:41+05:30"
+    },
     {
       "title": "🔥 🏋️ Fitness Loots 🚨 𝑼𝒑𝒈𝒓𝒂𝒅𝒆 𝒚𝒐𝒖𝒓 𝒉𝒐𝒎𝒆 𝒘𝒐𝒓𝒌𝒐𝒖𝒕 𝒏𝒐𝒘!𝑷𝒐𝒘𝒆𝒓𝑴𝒂𝒙 𝑭𝒊𝒕𝒏𝒆𝒔𝒔 𝑾𝒂𝒍𝒌𝑷𝒂𝒅-𝟐 𝑻𝒓𝒆𝒂𝒅𝒎𝒊𝒍𝒍 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
       "price": 9999,
@@ -508,19 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 1699,
       "posted_at": "2026-11-13T14:29:46+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑳𝒆𝒆 𝑪𝒐𝒐𝒑𝒆𝒓 𝑨𝒏𝒂𝒍𝒐𝒈 𝑩𝒍𝒖𝒆 𝑹𝒐𝒖𝒏𝒅 𝑫𝒊𝒂𝒍 𝑴𝒆𝒏'𝒔 𝑾𝒂𝒕𝒄𝒉 - 𝑳𝑪𝟎𝟕𝟑𝟔𝟏.𝟑𝟗𝟏",
-      "price": 3070,
-      "mrp": 13099,
-      "discount_pct": 77.0,
-      "saving": 10029,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BQN9KM4Q?tag=lootkabhandar-21",
-      "image": "img/1698.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1698,
-      "posted_at": "2026-11-13T14:11:22+05:30"
     }
   ]
 }
