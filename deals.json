@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T13:28:06+05:30",
+  "updated_at": "2026-11-13T14:11:22+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑳𝒆𝒆 𝑪𝒐𝒐𝒑𝒆𝒓 𝑨𝒏𝒂𝒍𝒐𝒈 𝑩𝒍𝒖𝒆 𝑹𝒐𝒖𝒏𝒅 𝑫𝒊𝒂𝒍 𝑴𝒆𝒏'𝒔 𝑾𝒂𝒕𝒄𝒉 - 𝑳𝑪𝟎𝟕𝟑𝟔𝟏.𝟑𝟗𝟏",
+      "price": 3070,
+      "mrp": 13099,
+      "discount_pct": 77.0,
+      "saving": 10029,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BQN9KM4Q?tag=lootkabhandar-21",
+      "image": "img/1698.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1698,
+      "posted_at": "2026-11-13T14:11:22+05:30"
+    },
     {
       "title": "Puma Women Maka Sneaker",
       "price": 1349,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1654,
       "posted_at": "2026-11-12T17:23:05+05:30"
-    },
-    {
-      "title": "🔥 🛒 Grocery Loots 𝑻𝒓𝒆𝒐 𝒃𝒚 𝑴𝒊𝒍𝒕𝒐𝒏 𝑭𝒊𝒅𝒐 𝑪𝒐𝒇𝒇𝒆𝒆 𝑴𝒖𝒈𝒔, 𝟔 𝑷𝒊𝒆𝒄𝒆𝒔, 𝟐𝟎𝟎 𝒎𝒍 𝑬𝒂𝒄𝒉, 𝑪𝒆𝒓𝒂𝒎𝒊𝒄 𝑴𝒖𝒈𝒔, 𝑴𝒊𝒄𝒓𝒐𝒘𝒂𝒗𝒆 𝒂𝒏𝒅 𝑫𝒊𝒔𝒉𝒘𝒂𝒔𝒉𝒆𝒓 𝑺𝒂𝒇𝒆, 𝑪𝒓𝒐𝒄𝒌𝒆𝒓𝒚 𝑪𝒖𝒑, 𝑰𝒅𝒆𝒂𝒍 𝒇𝒐𝒓 𝑫𝒂𝒊𝒍𝒚 𝑼𝒔𝒆 & 𝑮𝒊𝒇𝒕𝒊𝒏𝒈 (𝑷𝒓𝒊𝒏𝒕 𝒂𝒏𝒅 𝑪𝒐𝒍𝒐𝒓𝒔 𝑴𝒂𝒚 𝑽𝒂𝒓𝒚)",
-      "price": 299,
-      "mrp": 1025,
-      "discount_pct": 71.0,
-      "saving": 726,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F2FQFK1P?tag=lootkabhandar-21",
-      "image": "img/1650.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1650,
-      "posted_at": "2026-11-12T16:53:42+05:30"
     }
   ]
 }
