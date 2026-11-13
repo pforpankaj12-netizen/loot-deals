@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T21:49:01+05:30",
+  "updated_at": "2026-11-13T21:58:56+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝒊𝑭𝑭𝑨𝑳𝑪𝑶𝑵 𝟏𝟔𝟒 𝒄𝒎 (𝟔𝟓 𝑰𝒏𝒄𝒉𝒆𝒔) 𝟒𝑲 𝑼𝑯𝑫 𝑺𝒎𝒂𝒓𝒕 𝑳𝑬𝑫 𝑮𝒐𝒐𝒈𝒍𝒆 𝑻𝑽 | 𝟏𝟒𝟒𝑯𝒛 𝑽𝑹𝑹 | 𝟑𝑮𝑩 𝑹𝑨𝑴 | 𝑫𝒐𝒍𝒃𝒚 𝑽𝒊𝒔𝒊𝒐𝒏 & 𝑨𝒕𝒎𝒐𝒔 | 𝑮𝒂𝒎𝒆 𝑴𝒂𝒔𝒕𝒆𝒓 | 𝟔𝟓𝑼𝟕𝟓",
+      "price": 49999,
+      "mrp": 99999,
+      "discount_pct": 50.0,
+      "saving": 50000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GYD83B13?tag=lootkabhandar-21",
+      "image": "img/1734.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1734,
+      "posted_at": "2026-11-13T21:58:56+05:30"
+    },
     {
       "title": "Schleich Wild Life - Africa Toy Animal Set for Kids Ages 5+",
       "price": 4628,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1692,
       "posted_at": "2026-11-13T11:28:17+05:30"
-    },
-    {
-      "title": "MILTON Hugo Inner Steel Tiffin Box for School with Stainless Steel Container | PU Insulated, Food Grade Lunch Box with Snap Lock Lid for Kids, 700 ml, Aqua Green",
-      "price": 299,
-      "mrp": 890,
-      "discount_pct": 66.0,
-      "saving": 591,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FFN8ZGT2?tag=lootkabhandar-21",
-      "image": "img/1691.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1691,
-      "posted_at": "2026-11-13T11:28:12+05:30"
     }
   ]
 }
