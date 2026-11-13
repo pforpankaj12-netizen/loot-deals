@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T17:15:11+05:30",
+  "updated_at": "2026-11-13T17:48:06+05:30",
   "deals": [
+    {
+      "title": "ASUS Prime X870-P-CSM ATX Motherboard, 14+2+1(80A) Power Stages, PCIe 5.0 x16 Slot with Full Support for Next-gen Graphics Cards, Four M.2 Slots, DDR5 Slots, USB 40Gbps Type-C Ports",
+      "price": 13788,
+      "mrp": 29025,
+      "discount_pct": 52.0,
+      "saving": 15237,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DHG35ZYR?tag=lootkabhandar-21",
+      "image": "img/1714.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1714,
+      "posted_at": "2026-11-13T17:48:06+05:30"
+    },
+    {
+      "title": "TDBS Wet Floor Cleaning Wipes Set of 3 Bundles (Total 60 Wipes) Suitable for Most Flat Rotating Floor Mops 21 cm x 29 cm Ideal on Laminate Tiles, Hardwood, Glossy",
+      "price": 3648,
+      "mrp": 11295,
+      "discount_pct": 67.0,
+      "saving": 7647,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B079DRL1Z3?tag=lootkabhandar-21",
+      "image": "img/1713.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1713,
+      "posted_at": "2026-11-13T17:47:57+05:30"
+    },
+    {
+      "title": "Mojo Portable Wireless Bluetooth Speaker | 10W Dynamic Sound,12-Hour Playtime, Compact Blue Colour Design | Portable Music Speaker for Travel, Home, Parties & Outdoor Use",
+      "price": 1799,
+      "mrp": 5999,
+      "discount_pct": 70.0,
+      "saving": 4200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HJRMZ63S?tag=lootkabhandar-21",
+      "image": "img/1712.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 1712,
+      "posted_at": "2026-11-13T17:47:53+05:30"
+    },
     {
       "title": "Grab Fast (875 ml) @169 : https://www.amazon.in/dp/B0HM87GFP5?tag=lootkabhandar-21Buy Max Qty | 200 ml @499.",
       "price": 169,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1669,
       "posted_at": "2026-11-12T22:54:42+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑯𝒊𝒎𝒂𝒍𝒂𝒚𝒂 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏, 𝑨𝒍𝒐𝒆 𝒂𝒏𝒅 𝑪𝒖𝒄𝒖𝒎𝒃𝒆𝒓, 𝟐𝟎𝟎𝒎𝒍",
-      "price": 115,
-      "mrp": 249,
-      "discount_pct": 54.0,
-      "saving": 134,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0093J2C0A?tag=lootkabhandar-21",
-      "image": "img/1668.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1668,
-      "posted_at": "2026-11-12T22:09:30+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑯𝒊𝒔𝒆𝒏𝒔𝒆 𝟏𝟑𝟗 𝒄𝒎 (𝟓𝟓 𝑰𝒏𝒄𝒉𝒆𝒔) 𝟒𝑲 𝑼𝒍𝒕𝒓𝒂 𝑯𝑫 𝑺𝒎𝒂𝒓𝒕 𝑯𝒊-𝑸𝑳𝑬𝑫 𝑻𝑽 | 𝟒𝟖𝑾 𝑺𝒑𝒆𝒂𝒌𝒆𝒓𝒔 | 𝑫𝒐𝒍𝒃𝒚 𝑨𝒕𝒎𝒐𝒔 & 𝑯𝑫𝑹𝟏𝟎+ | 𝑾𝒐𝒓𝒍𝒅 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑻𝑽 𝑶𝑺 - 𝑽𝑰𝑫𝑨𝑨 | 𝟓𝟓𝑬𝟕𝟓𝑸 (𝑩𝒍𝒂𝒄𝒌)",
-      "price": 36490,
-      "mrp": 69999,
-      "discount_pct": 48.0,
-      "saving": 33509,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FJLSNZBW?tag=lootkabhandar-21",
-      "image": "img/1667.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1667,
-      "posted_at": "2026-11-12T21:20:32+05:30"
-    },
-    {
-      "title": "🔥 👗 Fashion Loots 𝑩𝒆𝒘𝒂𝒌𝒐𝒐𝒇 𝑴𝒆𝒏'𝒔 𝑮𝒓𝒂𝒑𝒉𝒊𝒄 𝑷𝒓𝒊𝒏𝒕𝒆𝒅 𝟏𝟎𝟎% 𝑪𝒐𝒕𝒕𝒐𝒏 𝑻-𝑺𝒉𝒊𝒓𝒕",
-      "price": 434,
-      "mrp": 1499,
-      "discount_pct": 71.0,
-      "saving": 1065,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Bewakoof&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A156780%2Cp_n_pct-off-with-tax%3A27060457031&ds=v1%3APFEkFtpECsybXRSpp21RIvFCXLROqu36fc3SA3742p4&qid=1785845477&rnid=1571271031&ascsubtag=20261112cl9q69vvjylk&tag=lootkabhandar-21",
-      "image": "img/1666.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1666,
-      "posted_at": "2026-11-12T21:16:44+05:30"
     }
   ]
 }
