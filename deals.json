@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T10:19:19+05:30",
+  "updated_at": "2026-11-13T10:34:03+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑭𝒊𝒂𝒎𝒂 𝑴𝒆𝒏 𝑺𝒉𝒐𝒘𝒆𝒓 𝑮𝒆𝒍 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑷𝒖𝒍𝒔𝒆 𝑩𝒐𝒅𝒚 𝑾𝒂𝒔𝒉 𝒘𝒊𝒕𝒉 𝑺𝒌𝒊𝒏 𝑪𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏𝒆𝒓𝒔 𝒇𝒐𝒓 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒆𝒅 𝑺𝒌𝒊𝒏, 𝟕𝟓𝟎𝒎𝒍 𝒃𝒐𝒕𝒕𝒍𝒆",
+      "price": 201,
+      "mrp": 530,
+      "discount_pct": 62.0,
+      "saving": 329,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B1M86YD9?tag=lootkabhandar-21",
+      "image": "img/1690.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1690,
+      "posted_at": "2026-11-13T10:34:03+05:30"
+    },
+    {
+      "title": "🔥 💄 Beauty Loots 𝑷𝒊𝒈𝒆𝒐𝒏 𝟐-𝒊𝒏-𝟏 𝑩𝒂𝒃𝒚 𝑺𝒉𝒂𝒎𝒑𝒐𝒐, 𝟐𝟎𝟎 𝒎𝒍 𝒂𝒕 .𝑴𝒊𝒏. 𝟐 𝑸𝒕𝒚",
+      "price": 130,
+      "mrp": null,
+      "discount_pct": 60.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DTHWVMJL?tag=lootkabhandar-21",
+      "image": "img/1689.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1689,
+      "posted_at": "2026-11-13T10:33:39+05:30"
+    },
     {
       "title": "🔥 🛒 Grocery Loots 𝑻𝒂𝒕𝒂 𝑪𝒐𝒇𝒇𝒆𝒆 𝑮𝒐𝒍𝒅 𝑶𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝟓𝟎𝒈 @𝟐𝟐𝟖.",
       "price": 228,
@@ -493,32 +519,6 @@
       "link": "https://www.ajio.com/p/466923788001",
       "image": "img/seed-jakanary.webp",
       "category": "Other",
-      "telegram_msg_id": null,
-      "posted_at": "2026-11-12"
-    },
-    {
-      "title": "HIKVISION (2MP) DS-1ADOT-IPECO Super ECO LED Mini Night Vision Bullet Camera, 4PC",
-      "price": 4248,
-      "mrp": 11999,
-      "discount_pct": 65.0,
-      "saving": 7751,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07VH57STZ?tag=lootkabhandar-21",
-      "image": "img/seed-hikvision.webp",
-      "category": "Electronics",
-      "telegram_msg_id": null,
-      "posted_at": "2026-11-12"
-    },
-    {
-      "title": "Livpure Ikon Filterless Kitchen Chimney, 60 cm",
-      "price": 9999,
-      "mrp": 25990,
-      "discount_pct": 61.0,
-      "saving": 15991,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H99LJMKJ?tag=lootkabhandar-21",
-      "image": "img/seed-livpure.webp",
-      "category": "Kitchen",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
     }
