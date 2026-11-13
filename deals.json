@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T10:34:03+05:30",
+  "updated_at": "2026-11-13T11:28:17+05:30",
   "deals": [
+    {
+      "title": "Amazon Basics LED Acrylic Writing Board with Pen | Rewritable Message Note Board for Desk, Study Table & Home Decor | USB Type-A | 20 x 20 cm",
+      "price": 477,
+      "mrp": 1599,
+      "discount_pct": 70.0,
+      "saving": 1122,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GW8QQJP7?tag=lootkabhandar-21",
+      "image": "img/1692.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1692,
+      "posted_at": "2026-11-13T11:28:17+05:30"
+    },
+    {
+      "title": "MILTON Hugo Inner Steel Tiffin Box for School with Stainless Steel Container | PU Insulated, Food Grade Lunch Box with Snap Lock Lid for Kids, 700 ml, Aqua Green",
+      "price": 299,
+      "mrp": 890,
+      "discount_pct": 66.0,
+      "saving": 591,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FFN8ZGT2?tag=lootkabhandar-21",
+      "image": "img/1691.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1691,
+      "posted_at": "2026-11-13T11:28:12+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑭𝒊𝒂𝒎𝒂 𝑴𝒆𝒏 𝑺𝒉𝒐𝒘𝒆𝒓 𝑮𝒆𝒍 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑷𝒖𝒍𝒔𝒆 𝑩𝒐𝒅𝒚 𝑾𝒂𝒔𝒉 𝒘𝒊𝒕𝒉 𝑺𝒌𝒊𝒏 𝑪𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏𝒆𝒓𝒔 𝒇𝒐𝒓 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒆𝒅 𝑺𝒌𝒊𝒏, 𝟕𝟓𝟎𝒎𝒍 𝒃𝒐𝒕𝒕𝒍𝒆",
       "price": 201,
@@ -492,32 +518,6 @@
       "store": "Amazon",
       "link": "https://www.amazon.in/dp/B0HLKRRPGS?tag=lootkabhandar-21",
       "image": "img/seed-oildispenser.webp",
-      "category": "Other",
-      "telegram_msg_id": null,
-      "posted_at": "2026-11-12"
-    },
-    {
-      "title": "MILTON Flavour Big Inner Stainless Steel Tiffin Box, 500 ml, Orange",
-      "price": 299,
-      "mrp": 940,
-      "discount_pct": 68.0,
-      "saving": 641,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CZ3SXW8M?tag=lootkabhandar-21",
-      "image": "img/seed-milton.jpg",
-      "category": "Other",
-      "telegram_msg_id": null,
-      "posted_at": "2026-11-12"
-    },
-    {
-      "title": "JAKANARY Women Regular Fit Hoodie",
-      "price": 660,
-      "mrp": 1999,
-      "discount_pct": 67.0,
-      "saving": 1339,
-      "store": "Ajio",
-      "link": "https://www.ajio.com/p/466923788001",
-      "image": "img/seed-jakanary.webp",
       "category": "Other",
       "telegram_msg_id": null,
       "posted_at": "2026-11-12"
