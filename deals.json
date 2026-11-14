@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T17:48:32+05:30",
+  "updated_at": "2026-11-14T19:14:42+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑳𝒐𝒐𝒕 : 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑾𝒐𝒎𝒆𝒏 𝑪𝒍𝒐𝒕𝒉𝒊𝒏𝒈 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟐𝟗𝟗.",
+      "price": 299,
+      "mrp": null,
+      "discount_pct": 87.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=ONLY&rh=p_123%3A391307%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060457031&dc=&crid=1YZD62TESQA32&qid=1794662648&rnid=2665398031&sprefix=only+%2Caps%2C280&ref=sr_nr_p_n_pct-off-with-tax_6&ds=v1%3AlbqYpG7mp08%2BMXWgTBQGTjfvrPsYQONwfoc2UaMvqgY&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1796,
+      "posted_at": "2026-11-14T19:14:42+05:30"
+    },
+    {
+      "title": "🌟Signoraware Glass Container Combo @360🔗https://www.amazon.in/dp/B0F9FTXXWC?tag=lootkabhandar-21",
+      "price": 909,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F9FTXXWC?tag=lootkabhandar-21",
+      "image": "img/1795.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1795,
+      "posted_at": "2026-11-14T19:07:53+05:30"
+    },
     {
       "title": "Fortune Mogra Basmati Rice, 5 KG",
       "price": 275,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1755,
       "posted_at": "2026-11-14T08:18:00+05:30"
-    },
-    {
-      "title": "Car & Bike Shampoo Wash 500ml | pH Neutral | Thick Snow Foam for Deep Cleaning | Safe On Paint, PPF & Ceramic Coats",
-      "price": 149,
-      "mrp": 599,
-      "discount_pct": 75.0,
-      "saving": 450,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HL3P872B?tag=lootkabhandar-21",
-      "image": "img/1754.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 1754,
-      "posted_at": "2026-11-14T08:17:58+05:30"
-    },
-    {
-      "title": "Herbal Foot Detox Pads for Toxin Removal | Bamboo Vinegar Foot Patches for Feet Cleansing & Sleep Aid | Overnight Use | Toxin Removal Foot Patch with Acupoint Micro-Massage Technology For Men And Women (40 Pads)",
-      "price": 249,
-      "mrp": 999,
-      "discount_pct": 75.0,
-      "saving": 750,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GN41W5RH?tag=lootkabhandar-21",
-      "image": "img/1753.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1753,
-      "posted_at": "2026-11-14T08:17:47+05:30"
     }
   ]
 }
