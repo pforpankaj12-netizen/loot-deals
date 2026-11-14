@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T22:14:49+05:30",
+  "updated_at": "2026-11-14T22:49:36+05:30",
   "deals": [
+    {
+      "title": "🔥 📱 Electronics Loots 𝑯𝑷 𝟏𝟓, 𝑰𝒏𝒕𝒆𝒍 𝑪𝒐𝒓𝒆 𝟓-𝟏𝟐𝟎𝑼 (𝟖𝑮𝑩 𝑫𝑫𝑹𝟒, 𝟓𝟏𝟐𝑮𝑩 𝑺𝑺𝑫) 𝑭𝑯𝑫, 𝑨𝒏𝒕𝒊-𝑮𝒍𝒂𝒓𝒆, 𝑴𝒊𝒄𝒓𝒐-𝑬𝒅𝒈𝒆, 𝟏𝟓.𝟔' 𝑾𝒊𝒏𝟏𝟏, 𝑴𝟑𝟔𝟓 𝑩𝒂𝒔𝒊𝒄(𝟏𝒚𝒓), 𝑶𝒇𝒇𝒊𝒄𝒆 𝑯𝒐𝒎𝒆𝟐𝟒, 𝑺𝒊𝒍𝒗𝒆𝒓,𝟏.𝟓𝟗𝒌𝒈, 𝒇𝒅𝟎𝟔𝟓𝟏𝑻𝑼/𝑭𝑫𝟏𝟒𝟒𝟒𝒕𝒖 𝑭𝑯𝑫,𝑩𝒂𝒄𝒌𝒍𝒊𝒕 𝑳𝒂𝒑𝒕𝒐𝒑",
+      "price": 61990,
+      "mrp": 108576,
+      "discount_pct": 43.0,
+      "saving": 46586,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GF8BZ3G2?tag=lootkabhandar-21",
+      "image": "img/1812.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1812,
+      "posted_at": "2026-11-14T22:49:36+05:30"
+    },
     {
       "title": "🔥 🏠 Home Loots 𝑻𝒓𝒖𝒔𝒕𝑩𝒂𝒔𝒌𝒆𝒕 𝑬𝒂𝒓𝒕𝒉𝑩𝒐𝒙-𝟏𝟎 𝑺𝒒𝒖𝒂𝒓𝒆 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑷𝒍𝒂𝒏𝒕𝒆𝒓 𝑩𝒍𝒂𝒄𝒌 (𝑺𝒆𝒕 𝒐𝒇 𝟑) 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑯𝒊𝒈𝒉𝒍𝒚 𝑫𝒖𝒓𝒂𝒃𝒍𝒆 𝑷𝒍𝒂𝒏𝒕 𝒄𝒐𝒏𝒕𝒂𝒊𝒏𝒆𝒓𝑮𝒂𝒎𝒍𝒂 𝒇𝒐𝒓 𝑰𝒏𝒅𝒐𝒐𝒓 𝑯𝒐𝒎𝒆 𝑫𝒆𝒄𝒐𝒓 & 𝑶𝒖𝒕𝒅𝒐𝒐𝒓 𝑩𝒂𝒍𝒄𝒐𝒏𝒚 𝑮𝒂𝒓𝒅𝒆𝒏",
       "price": 168,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1770,
       "posted_at": "2026-11-14T11:28:51+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑩𝒂𝒕𝒂 𝑴𝒆𝒏𝒔 𝑩𝒆𝒏𝒕 𝑺𝒍𝒊𝒑𝒐𝒏 𝑬 𝑺𝒏𝒆𝒂𝒌𝒆𝒓",
-      "price": 464,
-      "mrp": 1999,
-      "discount_pct": 77.0,
-      "saving": 1535,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GMK13ZDS?tag=lootkabhandar-21",
-      "image": "img/1769.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1769,
-      "posted_at": "2026-11-14T11:23:36+05:30"
     }
   ]
 }
