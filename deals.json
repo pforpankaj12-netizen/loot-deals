@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T11:57:03+05:30",
+  "updated_at": "2026-11-14T12:16:08+05:30",
   "deals": [
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝑯𝒐𝒎𝒆𝒐𝒓 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑩𝒐𝒙 𝒘𝒊𝒕𝒉 𝑺𝒑𝒐𝒐𝒏, 𝑻𝒊𝒇𝒇𝒊𝒏 𝑩𝒐𝒙 𝒇𝒐𝒓 𝑲𝒊𝒅𝒔, 𝑨𝒊𝒓𝒕𝒊𝒈𝒉𝒕 𝑩𝑷𝑨 𝑭𝒓𝒆𝒆 & 𝑳𝒆𝒂𝒌𝒑𝒓𝒐𝒐𝒇 𝑳𝒖𝒏𝒄𝒉 𝑩𝒐𝒙, 𝑺𝒕𝒆𝒆𝒍 𝑩𝒐𝒙 𝒇𝒐𝒓 𝑺𝒄𝒉𝒐𝒐𝒍 𝑮𝒊𝒓𝒍𝒔 𝒂𝒏𝒅 𝑩𝒐𝒚𝒔, 𝑺𝒏𝒂𝒄𝒌𝒔 𝑻𝒊𝒇𝒇𝒊𝒏 𝒇𝒐𝒓 𝑲𝒊𝒅𝒔, 𝟓𝟎𝟎 𝑴𝑳, 𝒀𝒆𝒍𝒍𝒐𝒘 & 𝑮𝒓𝒆𝒆𝒏",
+      "price": 298,
+      "mrp": 499,
+      "discount_pct": 40.0,
+      "saving": 201,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F7QTWXPR?tag=lootkabhandar-21",
+      "image": "img/1778.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1778,
+      "posted_at": "2026-11-14T12:16:08+05:30"
+    },
     {
       "title": "🔥 📱 Electronics Loots 𝑫𝒚𝒂𝒛𝒐 𝟔 𝑨𝒏𝒈𝒍𝒆𝒔 𝑨𝒅𝒋𝒖𝒔𝒕𝒂𝒃𝒍𝒆 𝑨𝒍𝒖𝒎𝒊𝒏𝒖𝒎 𝑬𝒓𝒈𝒐𝒏𝒐𝒎𝒊𝒄 𝑭𝒐𝒍𝒅𝒂𝒃𝒍𝒆 𝑷𝒐𝒓𝒕𝒂𝒃𝒍𝒆 𝑻𝒂𝒃𝒍𝒆𝒕𝒐𝒑 𝑳𝒂𝒑𝒕𝒐𝒑/𝑫𝒆𝒔𝒌𝒕𝒐𝒑 𝑹𝒊𝒔𝒆𝒓 𝑺𝒕𝒂𝒏𝒅 𝑯𝒐𝒍𝒅𝒆𝒓 𝑪𝒐𝒎𝒑𝒂𝒕𝒊𝒃𝒍𝒆 𝒇𝒐𝒓 𝑴𝒂𝒄𝑩𝒐𝒐𝒌, 𝑯𝑷, 𝑫𝒆𝒍𝒍, 𝑳𝒆𝒏𝒐𝒗𝒐 & 𝑨𝒍𝒍 𝑶𝒕𝒉𝒆𝒓 𝑵𝒐𝒕𝒆𝒃𝒐𝒐𝒌 (𝑺𝒊𝒍𝒗𝒆𝒓)",
       "price": 349,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1734,
       "posted_at": "2026-11-13T21:58:56+05:30"
-    },
-    {
-      "title": "Schleich Wild Life - Africa Toy Animal Set for Kids Ages 5+",
-      "price": 4628,
-      "mrp": 7991,
-      "discount_pct": 42.0,
-      "saving": 3363,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DK78PGVF?tag=lootkabhandar-21",
-      "image": "img/1733.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1733,
-      "posted_at": "2026-11-13T21:49:01+05:30"
     }
   ]
 }
