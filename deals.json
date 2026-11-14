@@ -1,7 +1,72 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T11:28:51+05:30",
+  "updated_at": "2026-11-14T11:48:21+05:30",
   "deals": [
+    {
+      "title": "Bigen Mens Beard Colour, 40g - Dark Brown 103",
+      "price": 225,
+      "mrp": 499,
+      "discount_pct": 54.0,
+      "saving": 274,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B006DDL1WY?tag=lootkabhandar-21",
+      "image": "img/1775.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1775,
+      "posted_at": "2026-11-14T11:48:21+05:30"
+    },
+    {
+      "title": "Tukzer Active 2nd Gen Stylus Pen iPad Pencil | Palm Rejection, Tilt Sensor, High Precision| for only iPad 2018 Onwards iPad(6/7/8/9/10) Air(3/4/5) Pro11(1/2/3/4) Pro12.9 (3/4/5/6) Mini(6/5) White",
+      "price": 620,
+      "mrp": 5999,
+      "discount_pct": 89.0,
+      "saving": 5379,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08KRMK9LZ?tag=lootkabhandar-21",
+      "image": "img/1774.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1774,
+      "posted_at": "2026-11-14T11:48:18+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑳𝒐𝒐𝒕 : 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑺𝒐𝒍𝒊𝒎𝒐 𝑲𝒊𝒕𝒄𝒉𝒆𝒏𝒘𝒂𝒓𝒆 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟗𝟗.",
+      "price": 99,
+      "mrp": null,
+      "discount_pct": 85.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Solimo&rh=n%3A976442031%2Cp_n_pct-off-with-tax%3A27060457031&i=kitchen&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Kitchen",
+      "telegram_msg_id": 1773,
+      "posted_at": "2026-11-14T11:47:52+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑺𝒂𝒎𝒔𝒖𝒏𝒈 𝟔𝟓 𝒊𝒏𝒄𝒉 (𝟏𝟔𝟑𝒄𝒎) 𝑴𝒊𝒏𝒊 𝑳𝑬𝑫 𝟒𝑲 𝑽𝒊𝒔𝒊𝒐𝒏 𝑨𝑰 𝟐𝟎𝟐𝟔 𝑺𝒎𝒂𝒓𝒕 𝑻𝑽 | 𝟑𝟎𝑾 𝑺𝒑𝒆𝒂𝒌𝒆𝒓𝒔 | 𝟒𝑲 𝑼𝒑𝒔𝒄𝒂𝒍𝒊𝒏𝒈 | 𝑴𝒊𝒏𝒊-𝑳𝑬𝑫 𝑯𝑫𝑹 | 𝟏𝟓𝟎+ 𝑪𝒉𝒂𝒏𝒏𝒆𝒍𝒔 | 𝟕 𝒀𝒆𝒂𝒓𝒔 𝑶𝑺 𝑼𝒑𝒈𝒓𝒂𝒅𝒆 | 𝑼𝑨𝟔𝟓𝑴𝟐𝑬𝑯𝑨𝑼𝑳𝑿𝑳",
+      "price": 74090,
+      "mrp": 81990,
+      "discount_pct": 9.6,
+      "saving": 7900,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GXTVZZWB?tag=lootkabhandar-21",
+      "image": "img/1772.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1772,
+      "posted_at": "2026-11-14T11:44:27+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑺𝒊𝒏𝒈𝒍𝒆 𝑩𝒆𝒅 𝑪𝒐𝒎𝒇𝒐𝒓𝒕𝒆𝒓 𝟐𝟐𝟎 𝑮𝑺𝑴 𝟏𝟓𝟎𝒙𝟐𝟐𝟎 𝑪𝑴, 𝑻𝒆𝒂𝒍 𝑮𝒓𝒆𝒚",
+      "price": 364,
+      "mrp": 699,
+      "discount_pct": 47.9,
+      "saving": 335,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HGRK4Z4X?tag=lootkabhandar-21",
+      "image": "img/1771.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1771,
+      "posted_at": "2026-11-14T11:43:02+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑩𝒆𝒂𝒖𝒕𝒚 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟏𝟏𝟗.",
       "price": 119,
@@ -456,71 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 1732,
       "posted_at": "2026-11-13T21:48:57+05:30"
-    },
-    {
-      "title": "Philips SlimLine Advance Plus+ 80W Linear LED Batten | 8000 Lumens | 4 Feet (1195mm) Tube Light | Premium Aluminium Housing | 4kV Surge Protection | | Cool Day Light, Pack of 10",
-      "price": 8084,
-      "mrp": 18990,
-      "discount_pct": 57.0,
-      "saving": 10906,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H2W3ZK1V?tag=lootkabhandar-21",
-      "image": "img/1731.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1731,
-      "posted_at": "2026-11-13T21:48:54+05:30"
-    },
-    {
-      "title": "TE-A-ME Energise Assam Tea - 25 Teabags | Tea Bags",
-      "price": 100,
-      "mrp": 180,
-      "discount_pct": 44.0,
-      "saving": 80,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B01F8Y4FAI?tag=lootkabhandar-21",
-      "image": "img/1730.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1730,
-      "posted_at": "2026-11-13T21:48:50+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 🔥 𝑮𝒓𝒂𝒃 𝒊𝒕 𝒃𝒆𝒇𝒐𝒓𝒆 𝒊𝒕’𝒔 𝒈𝒐𝒏𝒆!𝑴𝒐𝒕𝒐𝒓𝒐𝒍𝒂 𝑷𝒂𝒅 𝟔𝟎 𝑵𝒆𝒐 𝟏𝟏 𝑰𝒏𝒄𝒉𝒆𝒔 𝑫𝒊𝒔𝒑𝒍𝒂𝒚 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒋𝒖𝒔𝒕 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
-      "price": 22997,
-      "mrp": 50000,
-      "discount_pct": 54.0,
-      "saving": 27003,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GGZNTXC4?tag=lootkabhandar-21",
-      "image": "img/1729.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1729,
-      "posted_at": "2026-11-13T21:48:31+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑲𝑰𝑵𝑮𝑺𝑾𝑨𝒀® 𝑪𝒂𝒓 𝑫𝒐𝒐𝒓 𝑬𝒅𝒈𝒆 𝑷𝒓𝒐𝒕𝒆𝒄𝒕𝒊𝒐𝒏 𝑮𝒖𝒂𝒓𝒅 𝑪𝒐𝒎𝒑𝒂𝒕𝒊𝒃𝒍𝒆 𝒘𝒊𝒕𝒉 𝑴𝒂𝒓𝒖𝒕𝒊 𝑺𝒖𝒛𝒖𝒌𝒊 𝑺𝒘𝒊𝒇𝒕, (𝒀𝒆𝒂𝒓 𝟐𝟎𝟐𝟒 𝑶𝒏𝒘𝒂𝒓𝒅𝒔), 𝑪𝒂𝒓 𝑺𝒂𝒇𝒆𝒕𝒚 𝑨𝒏𝒕𝒊 𝑫𝒆𝒏𝒕 𝑺𝒄𝒓𝒂𝒕𝒄𝒉 𝑷𝒓𝒐𝒐𝒇 𝑮𝒖𝒓𝒂𝒅𝒔, 𝑪𝒂𝒓 𝑫𝒐𝒐𝒓 𝑮𝒖𝒂𝒓𝒅 𝑩𝒖𝒎𝒑𝒆𝒓 𝑷𝒓𝒐𝒕𝒆𝒄𝒕𝒐𝒓, 𝑫𝟏 𝑾𝒉𝒊𝒕𝒆, 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟒 𝑷𝒄𝒔",
-      "price": 66,
-      "mrp": 199,
-      "discount_pct": 67.0,
-      "saving": 133,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D7HXR3S4?tag=lootkabhandar-21",
-      "image": "img/1728.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1728,
-      "posted_at": "2026-11-13T21:39:11+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑭𝒓𝒆𝒏𝒄𝒉 𝑪𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒐𝒏 𝑽𝒆𝒓𝒔𝒂 𝑩𝒍𝒖𝒆 𝑹𝒐𝒖𝒏𝒅 𝑫𝒊𝒂𝒍 𝑴𝒆𝒏𝒔 𝑨𝒏𝒂𝒍𝒐𝒈𝒖𝒆 𝑾𝒂𝒕𝒄𝒉 𝑭𝑪𝑵𝟎𝟔𝟓𝑼𝑳",
-      "price": 1063,
-      "mrp": 6150,
-      "discount_pct": 83.0,
-      "saving": 5087,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D78PJTPB?tag=lootkabhandar-21",
-      "image": "img/1727.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1727,
-      "posted_at": "2026-11-13T21:20:35+05:30"
     }
   ]
 }
