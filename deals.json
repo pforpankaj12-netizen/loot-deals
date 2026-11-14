@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T11:48:21+05:30",
+  "updated_at": "2026-11-14T11:57:03+05:30",
   "deals": [
+    {
+      "title": "🔥 📱 Electronics Loots 𝑫𝒚𝒂𝒛𝒐 𝟔 𝑨𝒏𝒈𝒍𝒆𝒔 𝑨𝒅𝒋𝒖𝒔𝒕𝒂𝒃𝒍𝒆 𝑨𝒍𝒖𝒎𝒊𝒏𝒖𝒎 𝑬𝒓𝒈𝒐𝒏𝒐𝒎𝒊𝒄 𝑭𝒐𝒍𝒅𝒂𝒃𝒍𝒆 𝑷𝒐𝒓𝒕𝒂𝒃𝒍𝒆 𝑻𝒂𝒃𝒍𝒆𝒕𝒐𝒑 𝑳𝒂𝒑𝒕𝒐𝒑/𝑫𝒆𝒔𝒌𝒕𝒐𝒑 𝑹𝒊𝒔𝒆𝒓 𝑺𝒕𝒂𝒏𝒅 𝑯𝒐𝒍𝒅𝒆𝒓 𝑪𝒐𝒎𝒑𝒂𝒕𝒊𝒃𝒍𝒆 𝒇𝒐𝒓 𝑴𝒂𝒄𝑩𝒐𝒐𝒌, 𝑯𝑷, 𝑫𝒆𝒍𝒍, 𝑳𝒆𝒏𝒐𝒗𝒐 & 𝑨𝒍𝒍 𝑶𝒕𝒉𝒆𝒓 𝑵𝒐𝒕𝒆𝒃𝒐𝒐𝒌 (𝑺𝒊𝒍𝒗𝒆𝒓)",
+      "price": 349,
+      "mrp": 1999,
+      "discount_pct": 83.0,
+      "saving": 1650,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08LHTJTBB?tag=lootkabhandar-21",
+      "image": "img/1777.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1777,
+      "posted_at": "2026-11-14T11:57:03+05:30"
+    },
     {
       "title": "Bigen Mens Beard Colour, 40g - Dark Brown 103",
       "price": 225,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1733,
       "posted_at": "2026-11-13T21:49:01+05:30"
-    },
-    {
-      "title": "35mm/135mm 2.4\" Negative Slide Film Scanner Slider Viewer Photo Digitalizer| Scanners| Printers, Scanners & Supplies |Computers/Tablets & Networking",
-      "price": 5699,
-      "mrp": 18837,
-      "discount_pct": 69.0,
-      "saving": 13138,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HH7368JG?tag=lootkabhandar-21",
-      "image": "img/1732.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 1732,
-      "posted_at": "2026-11-13T21:48:57+05:30"
     }
   ]
 }
