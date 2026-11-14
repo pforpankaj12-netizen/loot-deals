@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T15:28:48+05:30",
+  "updated_at": "2026-11-14T15:48:49+05:30",
   "deals": [
+    {
+      "title": "HOTKEI Black Polyester Office Chair Headrest Cover Elastic Removable Washable Stain Proof Computer Executive Rotating Chair Head Rest Slipcover Protector Covers for Office Chair",
+      "price": 149,
+      "mrp": 399,
+      "discount_pct": 62.0,
+      "saving": 250,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BF53TZ5L?tag=lootkabhandar-21",
+      "image": "img/1787.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 1787,
+      "posted_at": "2026-11-14T15:48:49+05:30"
+    },
+    {
+      "title": "Beardo Godfather Perfume 50 ml & Whisky Smoke Perfume Body Spray 120ml",
+      "price": 207,
+      "mrp": 1048,
+      "discount_pct": 80.0,
+      "saving": 841,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BDV5LVRM?tag=lootkabhandar-21",
+      "image": "img/1786.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 1786,
+      "posted_at": "2026-11-14T15:48:43+05:30"
+    },
     {
       "title": "🔥 🛒 Grocery Loots 𝑪𝒆𝒍𝒆𝒔𝒕 𝑰𝒏𝒔𝒕𝒂𝒏𝒕 𝑳𝒆𝒎𝒐𝒏 𝑰𝒄𝒆𝒅 𝑻𝒆𝒂 𝑷𝒐𝒘𝒅𝒆𝒓 𝒘𝒊𝒕𝒉 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑪, 𝟒𝟎𝟎𝒈 | 𝑰𝒄𝒆 𝑻𝒆𝒂",
       "price": null,
@@ -495,32 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 1746,
       "posted_at": "2026-11-14T08:00:57+05:30"
-    },
-    {
-      "title": "Lowest : Sparkmate by Crystal Scrub Pad (Set of 3) @11.https://www.amazon.in/dp/B0C77G89RN?tag=lootkabhandar-21",
-      "price": 79,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C77G89RN?tag=lootkabhandar-21",
-      "image": "img/1744.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1744,
-      "posted_at": "2026-11-14T00:03:54+05:30"
-    },
-    {
-      "title": "🔥 🍳 Kitchen Loots 𝑪𝒓𝒐𝒎𝒑𝒕𝒐𝒏 𝑭𝒍𝒂𝒎𝒆𝑺𝒕𝒂𝒓 𝟑 𝑩𝒖𝒓𝒏𝒆𝒓 𝑮𝒂𝒔 𝑺𝒕𝒐𝒗𝒆",
-      "price": 3057,
-      "mrp": 7699,
-      "discount_pct": 60.0,
-      "saving": 4642,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F3J89F8L?tag=lootkabhandar-21",
-      "image": "img/1742.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1742,
-      "posted_at": "2026-11-13T23:55:38+05:30"
     }
   ]
 }
