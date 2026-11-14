@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T09:49:14+05:30",
+  "updated_at": "2026-11-14T09:58:33+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝒀𝒆𝒓𝒂 𝑷𝒓𝒊𝒎𝒂 𝑶𝒂𝒌 𝑾𝒉𝒊𝒔𝒌𝒚/𝑺𝒄𝒐𝒕𝒄𝒉/𝑾𝒂𝒕𝒆𝒓 𝑮𝒍𝒂𝒔𝒔𝒆𝒔- 𝟑𝟎𝟎 𝒎𝒍 𝑬𝒂𝒄𝒉 -𝑺𝒆𝒕 𝒐𝒇 𝟔 𝒑𝒄𝒔 𝑻𝒖𝒎𝒃𝒍𝒆𝒓𝒔 𝑳𝒆𝒂𝒅-𝑭𝒓𝒆𝒆 𝑾𝒉𝒊𝒔𝒌𝒆𝒚 𝑮𝒍𝒂𝒔𝒔𝒆𝒔 𝒇𝒐𝒓 𝑺𝒄𝒐𝒕𝒄𝒉 𝑩𝒐𝒖𝒓𝒃𝒐𝒏 𝑪𝒐𝒈𝒏𝒂𝒄 𝑩𝒓𝒂𝒏𝒅𝒚 𝑪𝒐𝒄𝒌𝒕𝒂𝒊𝒍 𝑾𝒉𝒊𝒔𝒌𝒆𝒚",
+      "price": 272,
+      "mrp": 1200,
+      "discount_pct": 77.0,
+      "saving": 928,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GKG4D568?tag=lootkabhandar-21",
+      "image": "img/1766.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1766,
+      "posted_at": "2026-11-14T09:58:33+05:30"
+    },
     {
       "title": "Boldfit Jackets for Men Stylish Casual Winter Jacket for Men All Weather Lightweight Jacket Man Full Sleeves Jackets for Man Winter Wear Sweatshirt",
       "price": 499,
@@ -508,19 +521,6 @@
       "category": "Jewellery",
       "telegram_msg_id": 1722,
       "posted_at": "2026-11-13T19:42:52+05:30"
-    },
-    {
-      "title": "Renova Paper Napkins - Pack of 1",
-      "price": 6626,
-      "mrp": 15661,
-      "discount_pct": 57.0,
-      "saving": 9035,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07TWMVCMN?tag=lootkabhandar-21",
-      "image": "img/1721.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1721,
-      "posted_at": "2026-11-13T19:42:49+05:30"
     }
   ]
 }
