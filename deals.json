@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T08:18:00+05:30",
+  "updated_at": "2026-11-14T08:49:22+05:30",
   "deals": [
+    {
+      "title": "🔥 ⚡ PRICE ERROR 👗 Fashion Loots 𝑰𝒏𝒅𝒊𝒂𝒏 𝑵𝒆𝒆𝒅𝒍𝒆 𝑴𝒆𝒏'𝒔 𝑭𝒍𝒐𝒓𝒂𝒍 𝑹𝒆𝒈𝒖𝒍𝒂𝒓 𝑭𝒊𝒕 𝑺𝒉𝒊𝒓𝒕",
+      "price": 189,
+      "mrp": 2799,
+      "discount_pct": 93.0,
+      "saving": 2610,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DBDBHJ2X?tag=lootkabhandar-21",
+      "image": "img/1756.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1756,
+      "posted_at": "2026-11-14T08:49:22+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑲𝒉𝒂𝒊𝒕𝒂𝒏 𝑽𝒐𝒍𝒕 𝟓.𝟓 𝑳𝒊𝒕𝒓𝒆 𝑰𝒏𝒔𝒕𝒂𝒏𝒕 𝑾𝒂𝒕𝒆𝒓 𝑯𝒆𝒂𝒕𝒆𝒓 (𝑮𝒆𝒚𝒔𝒆𝒓) | 𝟑𝒌𝑾, 𝟔.𝟓 𝑩𝒂𝒓 𝑯𝒊𝒈𝒉 𝑷𝒓𝒆𝒔𝒔𝒖𝒓𝒆 𝑹𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒄𝒆 | 𝑺𝑺-𝟑𝟎𝟒 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑳𝒆𝒂𝒌-𝑷𝒓𝒐𝒐𝒇 𝑻𝒂𝒏𝒌 | 𝟐 𝒀𝒆𝒂𝒓𝒔 𝑷𝒓𝒐𝒅𝒖𝒄𝒕 & 𝟓 𝒀𝒆𝒂𝒓𝒔 𝑻𝒂𝒏𝒌 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚 (𝑾𝒉𝒊𝒕𝒆/𝑻𝒆𝒂𝒍)",
       "price": 3509,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1713,
       "posted_at": "2026-11-13T17:47:57+05:30"
-    },
-    {
-      "title": "Mojo Portable Wireless Bluetooth Speaker | 10W Dynamic Sound,12-Hour Playtime, Compact Blue Colour Design | Portable Music Speaker for Travel, Home, Parties & Outdoor Use",
-      "price": 1799,
-      "mrp": 5999,
-      "discount_pct": 70.0,
-      "saving": 4200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HJRMZ63S?tag=lootkabhandar-21",
-      "image": "img/1712.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 1712,
-      "posted_at": "2026-11-13T17:47:53+05:30"
     }
   ]
 }
