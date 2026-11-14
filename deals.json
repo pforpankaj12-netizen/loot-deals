@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T15:48:49+05:30",
+  "updated_at": "2026-11-14T15:54:40+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑯𝒊𝒎𝒂𝒍𝒂𝒚𝒂 𝑯𝒚𝒅𝒓𝒂𝒕𝒊𝒏𝒈 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉 𝟐𝟎𝟎 𝒎𝒍 | 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 & 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑬 | 𝑪𝒓𝒆𝒂𝒎𝒚 𝑮𝒆𝒏𝒕𝒍𝒆 𝑪𝒍𝒆𝒂𝒏𝒔𝒆𝒓 𝒇𝒐𝒓 𝑩𝒐𝒖𝒏𝒄𝒚 & 𝑫𝒆𝒘𝒚 𝒔𝒌𝒊𝒏 | 𝑪𝒍𝒊𝒏𝒊𝒄𝒂𝒍𝒍𝒚 𝑻𝒆𝒔𝒕𝒆𝒅 | 𝑷𝒂𝒓𝒂𝒃𝒆𝒏 𝑭𝒓𝒆𝒆 | 𝑭𝒐𝒓 𝑫𝒓𝒚 𝑺𝒌𝒊𝒏",
+      "price": null,
+      "mrp": null,
+      "discount_pct": 60.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F6TZBQK4?tag=lootkabhandar-21",
+      "image": "img/1788.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1788,
+      "posted_at": "2026-11-14T15:54:40+05:30"
+    },
     {
       "title": "HOTKEI Black Polyester Office Chair Headrest Cover Elastic Removable Washable Stain Proof Computer Executive Rotating Chair Head Rest Slipcover Protector Covers for Office Chair",
       "price": 149,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1747,
       "posted_at": "2026-11-14T08:02:05+05:30"
-    },
-    {
-      "title": "🔥 🍳 Kitchen Loots 𝑳𝒂𝒓𝒂𝒉 𝒃𝒚 𝑩𝒐𝒓𝒐𝒔𝒊𝒍 𝑺𝒊𝒍𝒌 𝑺𝒆𝒓𝒊𝒆𝒔 𝑹𝒆𝒅 𝑩𝒖𝒅 𝑶𝒑𝒂𝒍𝒘𝒂𝒓𝒆 𝑫𝒊𝒏𝒏𝒆𝒓 𝑺𝒆𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒆𝒆𝒍 𝑺𝒑𝒐𝒐𝒏 | 𝟓𝟓 𝑷𝒄𝒔 𝒇𝒐𝒓 𝑭𝒂𝒎𝒊𝒍𝒚 𝒐𝒇 𝟖 | 𝑴𝒊𝒄𝒓𝒐𝒘𝒂𝒗𝒆 & 𝑫𝒊𝒔𝒉𝒘𝒂𝒔𝒉𝒆𝒓 𝑺𝒂𝒇𝒆 | 𝑩𝒐𝒏𝒆-𝑨𝒔𝒉 𝑭𝒓𝒆𝒆 | 𝑪𝒓𝒐𝒄𝒌𝒆𝒓𝒚 𝑺𝒆𝒕 𝒇𝒐𝒓 𝑫𝒊𝒏𝒊𝒏𝒈 & 𝑮𝒊𝒇𝒕𝒊𝒏𝒈 | 𝑷𝒍𝒂𝒕𝒆𝒔 & 𝑩𝒐𝒘𝒍𝒔",
-      "price": 2277,
-      "mrp": 5755,
-      "discount_pct": 60.0,
-      "saving": 3478,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DT122Y87?tag=lootkabhandar-21",
-      "image": "img/1746.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1746,
-      "posted_at": "2026-11-14T08:00:57+05:30"
     }
   ]
 }
