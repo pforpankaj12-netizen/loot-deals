@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T12:42:09+05:30",
+  "updated_at": "2026-11-14T13:35:10+05:30",
   "deals": [
+    {
+      "title": "PALMONAS Silver-Gold Dual Chain Necklace for Mens - Waterproof & Anti-Tarnish",
+      "price": 993,
+      "mrp": 3999,
+      "discount_pct": 75.0,
+      "saving": 3006,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FGJTPHKQ?tag=lootkabhandar-21",
+      "image": "img/1783.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 1783,
+      "posted_at": "2026-11-14T13:35:10+05:30"
+    },
+    {
+      "title": "ASICS Game FF",
+      "price": 4999,
+      "mrp": 9999,
+      "discount_pct": 50.0,
+      "saving": 5000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G2XCK4DT?tag=lootkabhandar-21",
+      "image": "img/1782.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1782,
+      "posted_at": "2026-11-14T13:34:59+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑨𝒕𝒉𝒐𝒎 𝑻𝒓𝒆𝒏𝒅𝒛 𝑷𝒓𝒆𝒔𝒆𝒏𝒕𝒔 𝑨𝒕𝒉𝒐𝒎 𝑳𝒊𝒗𝒊𝒏𝒈 𝑾𝒐𝒗𝒆𝒏 𝑳𝒊𝒈𝒉𝒕 𝑾𝒆𝒊𝒈𝒉𝒕 𝑩𝒂𝒕𝒉 𝑻𝒐𝒘𝒆𝒍𝒔, 𝑴𝒂𝒅𝒆 𝒖𝒑 𝑪𝒐𝒕𝒕𝒐𝒏, 𝑺𝒐𝒇𝒕 & 𝑺𝒌𝒊𝒏 𝑭𝒓𝒊𝒆𝒏𝒅𝒚, 𝑾𝒂𝒕𝒆𝒓 𝑨𝒃𝒔𝒐𝒓𝒃𝒆𝒏𝒕 𝒂𝒏𝒅 𝑫𝒓𝒊𝒆𝒔 𝑸𝒖𝒊𝒄𝒌𝒍𝒚, 𝑰𝒅𝒆𝒂𝒍 𝒇𝒐𝒓 𝑻𝒓𝒂𝒗𝒆𝒍 𝑼𝒔𝒂𝒈𝒆 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟐).",
       "price": 135,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1739,
       "posted_at": "2026-11-13T22:47:01+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑹𝒂𝒏𝒈𝒓𝒊𝒕𝒊 𝑪𝒍𝒐𝒕𝒉𝒊𝒏𝒈 – 𝑼𝒑 𝒕𝒐 , 𝒇𝒓𝒐𝒎",
-      "price": 201,
-      "mrp": null,
-      "discount_pct": 82.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Rangriti&rh=p_89%3ARangriti%2Cp_n_pct-off-with-tax%3A79-&btn_ref=srctok-2fa8e5276add6a2d&btn_type=ss&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1738,
-      "posted_at": "2026-11-13T22:46:18+05:30"
-    },
-    {
-      "title": "🔥 👗 Fashion Loots 𝑹𝒂𝒏𝒈𝒓𝒊𝒕𝒊 𝑴𝒖𝒔𝒕𝒂𝒓𝒅 𝑳𝒊𝒗𝒂 𝑺𝒕𝒓𝒂𝒊𝒈𝒉𝒕 𝑷𝒓𝒊𝒏𝒕𝒆𝒅 𝑲𝒖𝒓𝒕𝒂 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏",
-      "price": 286,
-      "mrp": 1399,
-      "discount_pct": 80.0,
-      "saving": 1113,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Rangriti&rh=p_89%3ARangriti%2Cp_n_pct-off-with-tax%3A79-&ascsubtag=20261113cld19zppoqt9&tag=lootkabhandar-21",
-      "image": "img/1737.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1737,
-      "posted_at": "2026-11-13T22:36:56+05:30"
     }
   ]
 }
