@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T20:40:34+05:30",
+  "updated_at": "2026-11-14T20:54:10+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑵𝒊𝒌𝒆 𝑯𝒐𝒏𝒆𝒚 𝒂𝒏𝒅 𝑹𝒐𝒔𝒆 𝑫𝒆𝒐𝒅𝒐𝒓𝒂𝒏𝒕 𝑪𝒐𝒎𝒃𝒐 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏 𝟐𝒙𝟐𝟎𝟎𝒎𝒍",
+      "price": 199,
+      "mrp": 798,
+      "discount_pct": 75.0,
+      "saving": 599,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HPTLM9LV?tag=lootkabhandar-21",
+      "image": "img/1806.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1806,
+      "posted_at": "2026-11-14T20:54:10+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑫𝒊𝒈𝒊𝒘𝒂𝒚 𝟒 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒂𝒍 𝑺𝒐𝒄𝒌𝒆𝒕 𝟑 𝑺𝒘𝒊𝒕𝒄𝒉 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒖𝒈 𝑺𝒐𝒄𝒌𝒆𝒕𝒔 𝑬𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝑩𝒐𝒂𝒓𝒅/𝑬𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝑪𝒐𝒓𝒅",
       "price": 139,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 1764,
       "posted_at": "2026-11-14T09:49:14+05:30"
-    },
-    {
-      "title": "LENSKART BLU Unisex Prescription Eyewear Frames",
-      "price": 399,
-      "mrp": 3500,
-      "discount_pct": 88.0,
-      "saving": 3101,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09TTN31LX?tag=lootkabhandar-21",
-      "image": "img/1763.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1763,
-      "posted_at": "2026-11-14T09:49:05+05:30"
     }
   ]
 }
