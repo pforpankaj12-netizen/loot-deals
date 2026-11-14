@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T08:49:22+05:30",
+  "updated_at": "2026-11-14T09:14:55+05:30",
   "deals": [
+    {
+      "title": "Lowest : Arrow Men's Cotton Solid Regular Fit Polo Shirt @465.https://www.amazon.in/dp/B0DMDZJY67?tag=lootkabhandar-21",
+      "price": 4214,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DMDZJY67?tag=lootkabhandar-21",
+      "image": "img/1758.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 1758,
+      "posted_at": "2026-11-14T09:14:55+05:30"
+    },
+    {
+      "title": "🔥 🏠 Home Loots 𝑲𝑰𝑵𝑮𝑺𝑾𝑨𝒀 𝑪𝒂𝒓 𝑾𝒊𝒏𝒅𝒐𝒘 𝑪𝒖𝒓𝒕𝒂𝒊𝒏 𝑺𝒕𝒊𝒄𝒌𝒚 𝑺𝒖𝒏 𝑺𝒉𝒂𝒅𝒆𝒔 𝑪𝒐𝒎𝒑𝒂𝒕𝒊𝒃𝒍𝒆 𝒘𝒊𝒕𝒉 𝑩𝑴𝑾 𝟓 𝑺𝒆𝒓𝒊𝒆𝒔, (𝒀𝒆𝒂𝒓 𝟐𝟎𝟏𝟗-𝟐𝟎𝟐𝟎), 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒂𝒍 𝑭𝒊𝒕 𝑺𝒖𝒏𝒔𝒉𝒂𝒅𝒆𝒔 𝒇𝒐𝒓 𝑺𝒊𝒅𝒆 𝑾𝒊𝒏𝒅𝒐𝒘, 𝑹𝒆𝒂𝒓 𝑾𝒊𝒏𝒅𝒐𝒘, 𝑹𝒆𝒅 𝑪𝒐𝒍𝒐𝒓, 𝟒 𝑷𝒊𝒆𝒄𝒆𝒔",
+      "price": 87,
+      "mrp": 499,
+      "discount_pct": 83.0,
+      "saving": 412,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B06W522ZFL?tag=lootkabhandar-21",
+      "image": "img/1757.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1757,
+      "posted_at": "2026-11-14T09:07:19+05:30"
+    },
     {
       "title": "🔥 ⚡ PRICE ERROR 👗 Fashion Loots 𝑰𝒏𝒅𝒊𝒂𝒏 𝑵𝒆𝒆𝒅𝒍𝒆 𝑴𝒆𝒏'𝒔 𝑭𝒍𝒐𝒓𝒂𝒍 𝑹𝒆𝒈𝒖𝒍𝒂𝒓 𝑭𝒊𝒕 𝑺𝒉𝒊𝒓𝒕",
       "price": 189,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1715,
       "posted_at": "2026-11-13T18:37:04+05:30"
-    },
-    {
-      "title": "ASUS Prime X870-P-CSM ATX Motherboard, 14+2+1(80A) Power Stages, PCIe 5.0 x16 Slot with Full Support for Next-gen Graphics Cards, Four M.2 Slots, DDR5 Slots, USB 40Gbps Type-C Ports",
-      "price": 13788,
-      "mrp": 29025,
-      "discount_pct": 52.0,
-      "saving": 15237,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DHG35ZYR?tag=lootkabhandar-21",
-      "image": "img/1714.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1714,
-      "posted_at": "2026-11-13T17:48:06+05:30"
-    },
-    {
-      "title": "TDBS Wet Floor Cleaning Wipes Set of 3 Bundles (Total 60 Wipes) Suitable for Most Flat Rotating Floor Mops 21 cm x 29 cm Ideal on Laminate Tiles, Hardwood, Glossy",
-      "price": 3648,
-      "mrp": 11295,
-      "discount_pct": 67.0,
-      "saving": 7647,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B079DRL1Z3?tag=lootkabhandar-21",
-      "image": "img/1713.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1713,
-      "posted_at": "2026-11-13T17:47:57+05:30"
     }
   ]
 }
