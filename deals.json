@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T09:14:55+05:30",
+  "updated_at": "2026-11-14T09:48:36+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑮𝑴 𝟑𝟎𝟏𝟒 𝑶𝒓𝒊𝒐𝒏 𝟐 𝑷𝒊𝒏 𝑭𝒍𝒆𝒙 𝑩𝒐𝒙 𝒘𝒊𝒕𝒉 𝑳𝑬𝑫 𝑰𝒏𝒅𝒊𝒄𝒂𝒕𝒐𝒓 & 𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑴𝒖𝒍𝒕𝒊-𝑺𝒐𝒄𝒌𝒆𝒕 | 𝑬𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝑺𝒘𝒊𝒕𝒄𝒉 𝑩𝒐𝒂𝒓𝒅 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 & 𝑶𝒇𝒇𝒊𝒄𝒆",
+      "price": 249,
+      "mrp": 402,
+      "discount_pct": 38.0,
+      "saving": 153,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0798P9MNH?tag=lootkabhandar-21",
+      "image": "img/1762.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1762,
+      "posted_at": "2026-11-14T09:48:36+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑯𝒐𝒎𝒆 𝑪𝒆𝒏𝒕𝒓𝒆 | 𝑯𝒆𝒍𝒊𝒐𝒔 𝑴𝒂𝒅𝒊𝒔𝒐𝒏 𝟒-𝑫𝒐𝒐𝒓 𝑩𝒐𝒐𝒌 𝑪𝒂𝒃𝒊𝒏𝒆𝒕 | 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒆𝒅 𝑾𝒐𝒐𝒅 | 𝑾𝒉𝒊𝒕𝒆 | 𝟏 𝒀𝒆𝒂𝒓 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚",
+      "price": 5109,
+      "mrp": 45400,
+      "discount_pct": 88.7,
+      "saving": 40291,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GVFBV71J?tag=lootkabhandar-21",
+      "image": "img/1761.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1761,
+      "posted_at": "2026-11-14T09:48:17+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑺𝒑𝒐𝒕𝒛𝒆𝒓𝒐 𝑩𝒚 𝑴𝒊𝒍𝒕𝒐𝒏 𝑵𝒐𝒏-𝑺𝒄𝒓𝒂𝒕𝒄𝒉 𝑾𝒊𝒓𝒆 𝑫𝒊𝒔𝒉 𝑪𝒍𝒐𝒕𝒉 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟔) 𝑰 𝑴𝒖𝒍𝒕𝒊𝒑𝒖𝒓𝒑𝒐𝒔𝒆 𝑺𝒄𝒓𝒖𝒃𝒃𝒆𝒓 𝒇𝒐𝒓 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑼𝒕𝒆𝒏𝒔𝒊𝒍𝒔, 𝑺𝒊𝒏𝒌𝒔, 𝑪𝒐𝒖𝒏𝒕𝒆𝒓 & 𝑴𝒐𝒓𝒆 𝑰 𝑾𝒆𝒕 𝒂𝒏𝒅 𝑫𝒓𝒚 𝑪𝒍𝒆𝒂𝒏𝒊𝒏𝒈 𝒇𝒐𝒓 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 & 𝑯𝒐𝒎𝒆",
+      "price": 75,
+      "mrp": 499,
+      "discount_pct": 85.0,
+      "saving": 424,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F9YQF74H?tag=lootkabhandar-21",
+      "image": "img/1760.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1760,
+      "posted_at": "2026-11-14T09:41:48+05:30"
+    },
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒐𝒍𝒊𝒎𝒐 𝑫𝒊𝒏𝒏𝒆𝒓 𝑺𝒆𝒕 | 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 | 𝑴𝒊𝒓𝒓𝒐𝒓 𝑭𝒊𝒏𝒊𝒔𝒉 | 𝑺𝒆𝒕 𝒐𝒇 𝟏𝟐- 𝑺𝒐𝒍𝒊𝒅",
+      "price": 463,
+      "mrp": 1499,
+      "discount_pct": 69.0,
+      "saving": 1036,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CB5QMMR4?tag=lootkabhandar-21",
+      "image": "img/1759.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1759,
+      "posted_at": "2026-11-14T09:41:20+05:30"
+    },
     {
       "title": "Lowest : Arrow Men's Cotton Solid Regular Fit Polo Shirt @465.https://www.amazon.in/dp/B0DMDZJY67?tag=lootkabhandar-21",
       "price": 4214,
@@ -469,58 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1719,
       "posted_at": "2026-11-13T19:42:41+05:30"
-    },
-    {
-      "title": "Simpex FC 250 Bi 250W Bi-Color COB LED Video Light with Mini Bowens Mount, 2700K-6500K, Silent Cooling Fan, FX Effects, Ultra-Compact Design for Photography & Video Production",
-      "price": 5499,
-      "mrp": 11999,
-      "discount_pct": 54.0,
-      "saving": 6500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GJDPGK5N?tag=lootkabhandar-21",
-      "image": "img/1718.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1718,
-      "posted_at": "2026-11-13T19:42:38+05:30"
-    },
-    {
-      "title": "🔥 👗 Fashion Loots 𝑷𝑶𝑷𝑾𝑰𝑵𝑮𝑺 𝑾𝒐𝒎𝒆𝒏 𝑪𝒂𝒔𝒖𝒂𝒍 𝑩𝒍𝒖𝒆 & 𝑾𝒉𝒊𝒕𝒆 𝑺𝒕𝒓𝒊𝒑𝒆 𝑪𝒖𝒕𝒐𝒖𝒕 𝑫𝒓𝒆𝒔𝒔",
-      "price": 199,
-      "mrp": 1099,
-      "discount_pct": 82.0,
-      "saving": 900,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CGDHFWK9?tag=lootkabhandar-21",
-      "image": "img/1717.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1717,
-      "posted_at": "2026-11-13T19:42:24+05:30"
-    },
-    {
-      "title": "🔥 🛒 Grocery Loots 𝑩𝒉𝒖𝒗𝒆𝒏𝒊𝒌𝒂 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑴𝒊𝒙 𝑫𝒓𝒚 𝑭𝒓𝒖𝒊𝒕𝒔 𝟏𝟎𝟎𝟎𝒈𝒎 |𝑴𝒊𝒙𝒆𝒅 𝑨𝒍𝒎𝒐𝒏𝒅𝒔, 𝑪𝒂𝒔𝒉𝒆𝒘𝒔, 𝑷𝒊𝒔𝒕𝒂𝒄𝒉𝒊𝒐𝒔, 𝑹𝒂𝒊𝒔𝒊𝒏𝒔, 𝑨𝒑𝒓𝒊𝒄𝒐𝒕𝒔, 𝑩𝒍𝒂𝒄𝒌 𝑹𝒂𝒊𝒔𝒊𝒏𝒔 | 𝑨𝒔𝒔𝒐𝒓𝒕𝒆𝒅 𝑪𝒓𝒖𝒏𝒄𝒉𝒚 𝑻𝒓𝒂𝒊𝒍 𝑴𝒊𝒙",
-      "price": 436,
-      "mrp": 1099,
-      "discount_pct": 60.0,
-      "saving": 663,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HLG1JX2V?tag=lootkabhandar-21",
-      "image": "img/1716.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1716,
-      "posted_at": "2026-11-13T19:22:31+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑷𝒖𝒓𝒆 𝑰𝒓𝒐𝒏 𝑴𝒂𝒕𝒕𝒉𝒂𝒓 𝑲𝒂𝒅𝒉𝒂𝒊 | 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑯𝒂𝒎𝒎𝒆𝒓𝒆𝒅 𝑰𝒓𝒐𝒏 𝑲𝒂𝒅𝒂𝒊 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒐𝒏𝒈 𝑯𝒂𝒏𝒅𝒍𝒆𝒔 | 𝑻𝒓𝒂𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍 𝑪𝒐𝒐𝒌𝒊𝒏𝒈 𝑾𝒐𝒌 𝒇𝒐𝒓 𝑮𝒂𝒔 𝑺𝒕𝒐𝒗𝒆 | 𝑫𝒆𝒆𝒑 𝑰𝒓𝒐𝒏 𝑲𝒂𝒅𝒉𝒂𝒊 𝒇𝒐𝒓 𝑰𝒏𝒅𝒊𝒂𝒏 𝑪𝒐𝒐𝒌𝒊𝒏𝒈 (𝟗 𝒊𝒏𝒄𝒉 𝟐𝟐 𝑪𝑴 𝟒𝟎𝟎𝑴𝑳)",
-      "price": 297,
-      "mrp": 1200,
-      "discount_pct": 75.0,
-      "saving": 903,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H2SF8CL7?tag=lootkabhandar-21",
-      "image": "img/1715.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1715,
-      "posted_at": "2026-11-13T18:37:04+05:30"
     }
   ]
 }
