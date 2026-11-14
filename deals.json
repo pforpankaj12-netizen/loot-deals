@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T21:29:35+05:30",
+  "updated_at": "2026-11-14T22:14:49+05:30",
   "deals": [
+    {
+      "title": "🔥 🏠 Home Loots 𝑻𝒓𝒖𝒔𝒕𝑩𝒂𝒔𝒌𝒆𝒕 𝑬𝒂𝒓𝒕𝒉𝑩𝒐𝒙-𝟏𝟎 𝑺𝒒𝒖𝒂𝒓𝒆 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑷𝒍𝒂𝒏𝒕𝒆𝒓 𝑩𝒍𝒂𝒄𝒌 (𝑺𝒆𝒕 𝒐𝒇 𝟑) 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑯𝒊𝒈𝒉𝒍𝒚 𝑫𝒖𝒓𝒂𝒃𝒍𝒆 𝑷𝒍𝒂𝒏𝒕 𝒄𝒐𝒏𝒕𝒂𝒊𝒏𝒆𝒓𝑮𝒂𝒎𝒍𝒂 𝒇𝒐𝒓 𝑰𝒏𝒅𝒐𝒐𝒓 𝑯𝒐𝒎𝒆 𝑫𝒆𝒄𝒐𝒓 & 𝑶𝒖𝒕𝒅𝒐𝒐𝒓 𝑩𝒂𝒍𝒄𝒐𝒏𝒚 𝑮𝒂𝒓𝒅𝒆𝒏",
+      "price": 168,
+      "mrp": null,
+      "discount_pct": 77.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B099ZY1MQL?tag=lootkabhandar-21",
+      "image": "img/1810.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1810,
+      "posted_at": "2026-11-14T22:14:49+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑱𝑨𝑪𝑲&𝑱𝑶𝑵𝑬𝑺 𝑴𝒆𝒏'𝒔 𝑨𝒏𝒌𝒍𝒆 𝑳𝒆𝒏𝒈𝒕𝒉 𝑺𝒐𝒄𝒌𝒔",
       "price": 239,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1769,
       "posted_at": "2026-11-14T11:23:36+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑮𝒆𝒂𝒓 𝑩𝒂𝒄𝒌𝒑𝒂𝒄𝒌𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟐𝟐𝟗.",
-      "price": 229,
-      "mrp": null,
-      "discount_pct": 83.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?i=luggage&rh=n%3A2917430031%2Cp_89%3AF%2BGear%257CF_Gear%257CGear%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A68-&s=price-asc-rank&dc=&ds=v1%3AwiDVL4P3YJJqeiZtJnXq84csJoOnKuPCw%2FbFHkL3o0M&psc=1&qid=1792035423&sid=fTXqU0&xpid=o42lpuAhN_fkY&btn_type=ss&btn_ref=srctok-7bd6c6e4a15c7a41&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1768,
-      "posted_at": "2026-11-14T10:29:28+05:30"
     }
   ]
 }
