@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T10:29:28+05:30",
+  "updated_at": "2026-11-14T11:28:51+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑩𝒆𝒂𝒖𝒕𝒚 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟏𝟏𝟗.",
+      "price": 119,
+      "mrp": null,
+      "discount_pct": 69.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3AParachute_Advansed%2Cp_n_pct-off-with-tax%3A2665401031&s=popularity-rank&i=beauty&srs=1355016031&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1770,
+      "posted_at": "2026-11-14T11:28:51+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑩𝒂𝒕𝒂 𝑴𝒆𝒏𝒔 𝑩𝒆𝒏𝒕 𝑺𝒍𝒊𝒑𝒐𝒏 𝑬 𝑺𝒏𝒆𝒂𝒌𝒆𝒓",
+      "price": 464,
+      "mrp": 1999,
+      "discount_pct": 77.0,
+      "saving": 1535,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GMK13ZDS?tag=lootkabhandar-21",
+      "image": "img/1769.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1769,
+      "posted_at": "2026-11-14T11:23:36+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑮𝒆𝒂𝒓 𝑩𝒂𝒄𝒌𝒑𝒂𝒄𝒌𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟐𝟐𝟗.",
       "price": 229,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1727,
       "posted_at": "2026-11-13T21:20:35+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝟒-𝒊𝒏-𝟏 𝑺𝒊𝒍𝒊𝒄𝒐𝒏𝒆 𝑩𝒂𝒕𝒉 𝑩𝒓𝒖𝒔𝒉 𝑺𝒆𝒕",
-      "price": 179,
-      "mrp": 499,
-      "discount_pct": 64.0,
-      "saving": 320,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GF3G42ZV?tag=lootkabhandar-21",
-      "image": "img/1726.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1726,
-      "posted_at": "2026-11-13T21:20:25+05:30"
-    },
-    {
-      "title": "🔥 💳 BANK OFFER 𝑻𝑪𝑳 𝟏𝟎𝟖 𝒄𝒎 (𝟒𝟑 𝒊𝒏𝒄𝒉𝒆𝒔) 𝑺𝒎𝒂𝒓𝒕𝒄𝒉𝒐𝒊𝒄𝒆 𝟒𝑲 𝑼𝒍𝒕𝒓𝒂 𝑯𝑫 𝑺𝒎𝒂𝒓𝒕 𝑸𝑳𝑬𝑫 𝑮𝒐𝒐𝒈𝒍𝒆 𝑻𝑽 | 𝑯𝑫𝑹 𝟏𝟎+ | 𝑫𝒐𝒍𝒃𝒚 𝑽𝒊𝒔𝒊𝒐𝒏 & 𝑨𝒕𝒎𝒐𝒔 | 𝟑𝟎𝑾 𝑺𝒑𝒆𝒂𝒌𝒆𝒓 𝑶𝒖𝒕𝒑𝒖𝒕 | 𝑮𝒂𝒎𝒆 𝑴𝒂𝒔𝒕𝒆𝒓 | 𝟒𝟑𝑻𝟔𝑫",
-      "price": 28491,
-      "mrp": 32990,
-      "discount_pct": 13.6,
-      "saving": 4499,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GVK5Q87C?tag=lootkabhandar-21",
-      "image": "img/1725.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1725,
-      "posted_at": "2026-11-13T20:56:45+05:30"
     }
   ]
 }
