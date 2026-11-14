@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T09:48:36+05:30",
+  "updated_at": "2026-11-14T09:49:14+05:30",
   "deals": [
+    {
+      "title": "Boldfit Jackets for Men Stylish Casual Winter Jacket for Men All Weather Lightweight Jacket Man Full Sleeves Jackets for Man Winter Wear Sweatshirt",
+      "price": 499,
+      "mrp": 1599,
+      "discount_pct": 68.0,
+      "saving": 1100,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HGQV7HNH?tag=lootkabhandar-21",
+      "image": "img/1764.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 1764,
+      "posted_at": "2026-11-14T09:49:14+05:30"
+    },
+    {
+      "title": "LENSKART BLU Unisex Prescription Eyewear Frames",
+      "price": 399,
+      "mrp": 3500,
+      "discount_pct": 88.0,
+      "saving": 3101,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09TTN31LX?tag=lootkabhandar-21",
+      "image": "img/1763.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1763,
+      "posted_at": "2026-11-14T09:49:05+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑮𝑴 𝟑𝟎𝟏𝟒 𝑶𝒓𝒊𝒐𝒏 𝟐 𝑷𝒊𝒏 𝑭𝒍𝒆𝒙 𝑩𝒐𝒙 𝒘𝒊𝒕𝒉 𝑳𝑬𝑫 𝑰𝒏𝒅𝒊𝒄𝒂𝒕𝒐𝒓 & 𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑴𝒖𝒍𝒕𝒊-𝑺𝒐𝒄𝒌𝒆𝒕 | 𝑬𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝑺𝒘𝒊𝒕𝒄𝒉 𝑩𝒐𝒂𝒓𝒅 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 & 𝑶𝒇𝒇𝒊𝒄𝒆",
       "price": 249,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1721,
       "posted_at": "2026-11-13T19:42:49+05:30"
-    },
-    {
-      "title": "Kamdev Itra Attar for men, Premium Long Lasting Perfume Oil, Alcohol Free Fragrance, 10 ml",
-      "price": 499,
-      "mrp": 999,
-      "discount_pct": 50.0,
-      "saving": 500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HKSJFSTZ?tag=lootkabhandar-21",
-      "image": "img/1720.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 1720,
-      "posted_at": "2026-11-13T19:42:45+05:30"
-    },
-    {
-      "title": "Waterpik Sensonic Complete Care Water Flosser and Rechargeable Electric Toothbrush Combo Set, CC-04, White",
-      "price": 34041,
-      "mrp": 61274,
-      "discount_pct": 44.0,
-      "saving": 27233,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D2FWBLYZ?tag=lootkabhandar-21",
-      "image": "img/1719.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1719,
-      "posted_at": "2026-11-13T19:42:41+05:30"
     }
   ]
 }
