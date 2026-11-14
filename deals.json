@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T19:54:22+05:30",
+  "updated_at": "2026-11-14T20:40:34+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑫𝒊𝒈𝒊𝒘𝒂𝒚 𝟒 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒂𝒍 𝑺𝒐𝒄𝒌𝒆𝒕 𝟑 𝑺𝒘𝒊𝒕𝒄𝒉 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒖𝒈 𝑺𝒐𝒄𝒌𝒆𝒕𝒔 𝑬𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝑩𝒐𝒂𝒓𝒅/𝑬𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝑪𝒐𝒓𝒅",
+      "price": 139,
+      "mrp": 248,
+      "discount_pct": 44.0,
+      "saving": 109,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BWYGQ6JG?tag=lootkabhandar-21",
+      "image": "img/1805.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1805,
+      "posted_at": "2026-11-14T20:40:34+05:30"
+    },
     {
       "title": "ELOR Replacement Strap/Band compatible with Google Fitbit Air",
       "price": 498,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1763,
       "posted_at": "2026-11-14T09:49:05+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑮𝑴 𝟑𝟎𝟏𝟒 𝑶𝒓𝒊𝒐𝒏 𝟐 𝑷𝒊𝒏 𝑭𝒍𝒆𝒙 𝑩𝒐𝒙 𝒘𝒊𝒕𝒉 𝑳𝑬𝑫 𝑰𝒏𝒅𝒊𝒄𝒂𝒕𝒐𝒓 & 𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑴𝒖𝒍𝒕𝒊-𝑺𝒐𝒄𝒌𝒆𝒕 | 𝑬𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝑺𝒘𝒊𝒕𝒄𝒉 𝑩𝒐𝒂𝒓𝒅 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 & 𝑶𝒇𝒇𝒊𝒄𝒆",
-      "price": 249,
-      "mrp": 402,
-      "discount_pct": 38.0,
-      "saving": 153,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0798P9MNH?tag=lootkabhandar-21",
-      "image": "img/1762.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1762,
-      "posted_at": "2026-11-14T09:48:36+05:30"
     }
   ]
 }
