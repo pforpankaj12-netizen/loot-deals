@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T19:14:42+05:30",
+  "updated_at": "2026-11-14T19:30:57+05:30",
   "deals": [
+    {
+      "title": "🌟Milton Lunch Box @299🔗https://www.amazon.in/dp/B0D8PQL3GW?tag=lootkabhandar-21",
+      "price": 799,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D8PQL3GW?tag=lootkabhandar-21",
+      "image": "img/1798.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1798,
+      "posted_at": "2026-11-14T19:30:57+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝒀𝒐𝒈𝒂𝒃𝒂𝒓 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑩𝒍𝒂𝒄𝒌 𝑹𝒂𝒊𝒔𝒊𝒏𝒔 𝟓𝟎𝟎 𝒈𝒓𝒂𝒎𝒔| 𝑲𝒊𝒔𝒉𝒎𝒊𝒔𝒉 |𝑴𝒖𝒏𝒂𝒌𝒌𝒂 |𝑺𝒐𝒖𝒓𝒄𝒆 𝒐𝒇 𝑭𝒊𝒃𝒓𝒆",
+      "price": 255,
+      "mrp": 299,
+      "discount_pct": 57.0,
+      "saving": 44,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CBRXH9TN?tag=lootkabhandar-21",
+      "image": "img/1797.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1797,
+      "posted_at": "2026-11-14T19:29:37+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑳𝒐𝒐𝒕 : 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑾𝒐𝒎𝒆𝒏 𝑪𝒍𝒐𝒕𝒉𝒊𝒏𝒈 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟐𝟗𝟗.",
       "price": 299,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1757,
       "posted_at": "2026-11-14T09:07:19+05:30"
-    },
-    {
-      "title": "🔥 ⚡ PRICE ERROR 👗 Fashion Loots 𝑰𝒏𝒅𝒊𝒂𝒏 𝑵𝒆𝒆𝒅𝒍𝒆 𝑴𝒆𝒏'𝒔 𝑭𝒍𝒐𝒓𝒂𝒍 𝑹𝒆𝒈𝒖𝒍𝒂𝒓 𝑭𝒊𝒕 𝑺𝒉𝒊𝒓𝒕",
-      "price": 189,
-      "mrp": 2799,
-      "discount_pct": 93.0,
-      "saving": 2610,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DBDBHJ2X?tag=lootkabhandar-21",
-      "image": "img/1756.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1756,
-      "posted_at": "2026-11-14T08:49:22+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑲𝒉𝒂𝒊𝒕𝒂𝒏 𝑽𝒐𝒍𝒕 𝟓.𝟓 𝑳𝒊𝒕𝒓𝒆 𝑰𝒏𝒔𝒕𝒂𝒏𝒕 𝑾𝒂𝒕𝒆𝒓 𝑯𝒆𝒂𝒕𝒆𝒓 (𝑮𝒆𝒚𝒔𝒆𝒓) | 𝟑𝒌𝑾, 𝟔.𝟓 𝑩𝒂𝒓 𝑯𝒊𝒈𝒉 𝑷𝒓𝒆𝒔𝒔𝒖𝒓𝒆 𝑹𝒆𝒔𝒊𝒔𝒕𝒂𝒏𝒄𝒆 | 𝑺𝑺-𝟑𝟎𝟒 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑳𝒆𝒂𝒌-𝑷𝒓𝒐𝒐𝒇 𝑻𝒂𝒏𝒌 | 𝟐 𝒀𝒆𝒂𝒓𝒔 𝑷𝒓𝒐𝒅𝒖𝒄𝒕 & 𝟓 𝒀𝒆𝒂𝒓𝒔 𝑻𝒂𝒏𝒌 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚 (𝑾𝒉𝒊𝒕𝒆/𝑻𝒆𝒂𝒍)",
-      "price": 3509,
-      "mrp": 7599,
-      "discount_pct": 54.0,
-      "saving": 4090,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H8PBSZMY?tag=lootkabhandar-21",
-      "image": "img/1755.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1755,
-      "posted_at": "2026-11-14T08:18:00+05:30"
     }
   ]
 }
