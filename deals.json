@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T10:48:18+05:30",
+  "updated_at": "2026-11-15T11:23:40+05:30",
   "deals": [
     {
       "title": "🔥 💄 Beauty Loots 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑨𝒅𝒗𝒂𝒏𝒔𝒆𝒅 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑬𝒏𝒓𝒊𝒄𝒉𝒆𝒅 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 𝑯𝒂𝒊𝒓 𝑶𝒊𝒍 𝑮𝒐𝒍𝒅 | 𝟓𝑿 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑾𝒊𝒕𝒉 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 | 𝑴𝒂𝒌𝒆𝒔 𝑯𝒂𝒊𝒓 𝑺𝒐𝒐𝒑𝒆𝒓𝒓 𝑺𝒐𝒇𝒕 | 𝟔𝟎𝟎𝒎𝒍",
@@ -419,19 +419,6 @@
       "posted_at": "2026-11-14T19:54:22+05:30"
     },
     {
-      "title": "DIGIMORE 80W Portable Bluetooth Speaker",
-      "price": 2499,
-      "mrp": 9999,
-      "discount_pct": 75.0,
-      "saving": 7500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0G3VV1122?tag=lootkabhandar-21",
-      "image": "img/1803.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 1803,
-      "posted_at": "2026-11-14T19:54:19+05:30"
-    },
-    {
       "title": "KamaSutra SkinFEEL Thinnest Condom for Men | Skin to Skin Sensation | Combo Pack of 10",
       "price": 49,
       "mrp": 180,
@@ -443,19 +430,6 @@
       "category": "Other",
       "telegram_msg_id": 1802,
       "posted_at": "2026-11-14T19:54:13+05:30"
-    },
-    {
-      "title": "1-Year-Warranty-Electric-Comfort-Body-Massager-with-Dual-Speed-Vibration-Floating-Action-Head-for-Deep-Relaxation-Full-Body-Use-for-Neck-Shoulder-Back-Arms-Legs-Home-Use-Daily",
-      "price": 999,
-      "mrp": 4999,
-      "discount_pct": 80.0,
-      "saving": 4000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GXQD4VNT?tag=lootkabhandar-21",
-      "image": "img/1801.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1801,
-      "posted_at": "2026-11-14T19:54:07+05:30"
     },
     {
       "title": "Auraika L Theanine Supplement 250mg – 60 Capsules | Stress Support, Relaxation & Focus | Non-Drowsy Calm with Vitamin B6 | Supports Brain Health & Cognitive Function",
