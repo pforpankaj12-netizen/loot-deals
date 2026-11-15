@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T11:36:04+05:30",
+  "updated_at": "2026-11-15T11:50:11+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑬𝒗𝒆𝒓𝒚𝒖𝒕𝒉 𝑵𝒂𝒕𝒖𝒓𝒂𝒍𝒔 𝑪𝒐𝒄𝒐𝒂 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏 (𝟓𝟎𝟎𝒎𝒍) @𝟏𝟗𝟎.",
+      "price": 190,
+      "mrp": null,
+      "discount_pct": 70.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09DD67M2W?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1843,
+      "posted_at": "2026-11-15T11:50:11+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑳𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄 𝒀𝒐𝒈𝒖𝒓𝒕 & 𝑪𝒖𝒓𝒅 𝑴𝒂𝒌𝒆𝒓 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 | 𝑨𝒖𝒕𝒐 𝑻𝒆𝒎𝒑𝒆𝒓𝒂𝒕𝒖𝒓𝒆 𝑹𝒆𝒈𝒖𝒍𝒂𝒕𝒊𝒐𝒏 | 𝑬𝒍𝒆𝒄𝒕𝒓𝒊𝒄 𝑷𝒓𝒐𝒃𝒊𝒐𝒕𝒊𝒄 𝒀𝒐𝒈𝒖𝒓𝒕 𝑴𝒂𝒌𝒆𝒓 𝒇𝒐𝒓 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 (𝟏 𝑳) | 𝑻𝒉𝒊𝒄𝒌 𝑪𝒓𝒆𝒂𝒎𝒚 𝑷𝒓𝒐𝒃𝒊𝒐𝒕𝒊𝒄 𝑪𝒖𝒓𝒅 |𝟑𝟎𝟒 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑪𝒐𝒏𝒕𝒂𝒊𝒏𝒆𝒓",
+      "price": 395,
+      "mrp": 1199,
+      "discount_pct": 67.0,
+      "saving": 804,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DK1WFTQK?tag=lootkabhandar-21",
+      "image": "img/1842.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1842,
+      "posted_at": "2026-11-15T11:43:55+05:30"
+    },
     {
       "title": "₹129 :",
       "price": 129,
@@ -495,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1796,
       "posted_at": "2026-11-14T19:14:42+05:30"
-    },
-    {
-      "title": "🌟Signoraware Glass Container Combo @360🔗https://www.amazon.in/dp/B0F9FTXXWC?tag=lootkabhandar-21",
-      "price": 909,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F9FTXXWC?tag=lootkabhandar-21",
-      "image": "img/1795.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1795,
-      "posted_at": "2026-11-14T19:07:53+05:30"
     }
   ]
 }
