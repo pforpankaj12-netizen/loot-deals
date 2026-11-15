@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T09:38:29+05:30",
+  "updated_at": "2026-11-15T09:39:25+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑨𝒏𝒕 𝑴𝑨𝑺𝑻𝑬𝑹𝟏𝟎 𝑭𝒖𝒍𝒍 𝑺𝒊𝒛𝒆 𝑾𝒊𝒓𝒆𝒅 𝑲𝒆𝒚𝒃𝒐𝒂𝒓𝒅 𝒂𝒏𝒅 𝑴𝒐𝒖𝒔𝒆 𝑪𝒐𝒎𝒃𝒐, 𝟏𝟎𝟒 𝑲𝒆𝒚𝒔, 𝟔 𝑨𝒏𝒕𝒊-𝑮𝒉𝒐𝒔𝒕𝒊𝒏𝒈, 𝑴𝒆𝒎𝒃𝒓𝒂𝒏𝒆 𝑺𝒘𝒊𝒕𝒄𝒉, 𝟑𝑫 𝑶𝒑𝒕𝒊𝒄𝒂𝒍 𝑴𝒐𝒖𝒔𝒆, 𝟏𝟐𝟎𝟎 𝑫𝑷𝑰, 𝑼𝑺𝑩 𝑷𝒍𝒖𝒈 & 𝑷𝒍𝒂𝒚, 𝒇𝒐𝒓 𝑾𝒊𝒏𝒅𝒐𝒘𝒔, 𝑴𝒂𝒄, 𝑳𝒊𝒏𝒖𝒙 – 𝑩𝒍𝒂𝒄𝒌",
+      "price": 318,
+      "mrp": 1199,
+      "discount_pct": 73.0,
+      "saving": 881,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FH25BLFV?tag=lootkabhandar-21",
+      "image": "img/1836.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1836,
+      "posted_at": "2026-11-15T09:39:25+05:30"
+    },
     {
       "title": "Cos-IQ 1% Vitamin A Granactive Retinoid In Squalane Face Serum | Only 4 Ingredients Vit-A Anti Ageing Retinol Night Serum for Wrinkles, Fine Lines & Acne | For Women & Men | 60ml",
       "price": 338,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1791,
       "posted_at": "2026-11-14T17:36:25+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑺𝒕𝒓𝒆𝒂𝒙 𝑪𝒓è𝒎𝒆 𝑷𝒆𝒓𝒎𝒂𝒏𝒆𝒏𝒕 - 𝟏 𝑵𝒂𝒕𝒖𝒓𝒂𝒍 𝑩𝒍𝒂𝒄𝒌 𝑯𝒂𝒊𝒓 𝑪𝒐𝒍𝒐𝒖𝒓- 𝟏𝟒𝟎 𝑴𝒍, 𝟏𝟎𝟎% 𝑮𝒓𝒆𝒚 𝑪𝒐𝒗𝒆𝒓𝒂𝒈𝒆, 𝑨𝒎𝒎𝒐𝒏𝒊𝒂 𝑭𝒓𝒆𝒆, 𝑳𝒐𝒏𝒈 𝑳𝒂𝒔𝒕𝒊𝒏𝒈 𝑭𝒐𝒓 𝑾𝒐𝒎𝒆𝒏(𝑪𝒐𝒍𝒐𝒖𝒓𝒂𝒏𝒕 𝑻𝒖𝒃𝒆 𝟔𝟎𝑮,𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑩𝒐𝒕𝒕𝒍𝒆 𝟔𝟎𝑴𝒍,𝑪𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏𝒆𝒓 𝟐𝟎𝑮)",
-      "price": 120,
-      "mrp": null,
-      "discount_pct": 40.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B00DRE35VW?tag=lootkabhandar-21",
-      "image": "img/1790.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1790,
-      "posted_at": "2026-11-14T17:18:15+05:30"
     }
   ]
 }
