@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T08:26:12+05:30",
+  "updated_at": "2026-11-15T09:09:56+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑾𝒊𝒓𝒆 𝑯𝒂𝒏𝒈𝒆𝒓𝒔, 𝑺𝒕𝒓𝒐𝒏𝒈 𝑴𝒆𝒕𝒂𝒍, 𝑺𝒑𝒂𝒄𝒆 𝑺𝒂𝒗𝒊𝒏𝒈, 𝑺𝒊𝒍𝒗𝒆𝒓 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟔𝟎",
+      "price": 409,
+      "mrp": 1199,
+      "discount_pct": 66.0,
+      "saving": 790,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H8B67HCM?tag=lootkabhandar-21",
+      "image": "img/1832.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1832,
+      "posted_at": "2026-11-15T09:09:56+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑼𝒏𝒊𝒃𝒊𝒄 𝑭𝒐𝒐𝒅𝒔 𝑰𝒏𝒅𝒊𝒂 𝑷𝒗𝒕 𝑪𝒂𝒌𝒆 - 𝑹𝒐𝒚𝒂𝒍 𝑽𝒂𝒏𝒊𝒍𝒍𝒂 𝟐𝟐𝟎𝑮𝒎",
       "price": 117,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 1787,
       "posted_at": "2026-11-14T15:48:49+05:30"
-    },
-    {
-      "title": "Beardo Godfather Perfume 50 ml & Whisky Smoke Perfume Body Spray 120ml",
-      "price": 207,
-      "mrp": 1048,
-      "discount_pct": 80.0,
-      "saving": 841,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BDV5LVRM?tag=lootkabhandar-21",
-      "image": "img/1786.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 1786,
-      "posted_at": "2026-11-14T15:48:43+05:30"
     }
   ]
 }
