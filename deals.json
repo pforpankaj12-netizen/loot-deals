@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T11:50:11+05:30",
+  "updated_at": "2026-11-15T12:02:13+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑾𝒊𝒑𝒓𝒐 𝑷𝒐𝒍𝒚𝒄𝒂𝒓𝒃𝒐𝒏𝒂𝒕𝒆 𝑮𝒂𝒓𝒏𝒆𝒕 𝟔𝑾 𝑹𝒊𝒎𝒍𝒆𝒔𝒔 𝑹𝒐𝒖𝒏𝒅",
+      "price": 169,
+      "mrp": 690,
+      "discount_pct": 76.0,
+      "saving": 521,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09NDKDJJB?tag=lootkabhandar-21",
+      "image": "img/1844.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1844,
+      "posted_at": "2026-11-15T12:02:13+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑬𝒗𝒆𝒓𝒚𝒖𝒕𝒉 𝑵𝒂𝒕𝒖𝒓𝒂𝒍𝒔 𝑪𝒐𝒄𝒐𝒂 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏 (𝟓𝟎𝟎𝒎𝒍) @𝟏𝟗𝟎.",
       "price": 190,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1797,
       "posted_at": "2026-11-14T19:29:37+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑳𝒐𝒐𝒕 : 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑾𝒐𝒎𝒆𝒏 𝑪𝒍𝒐𝒕𝒉𝒊𝒏𝒈 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟐𝟗𝟗.",
-      "price": 299,
-      "mrp": null,
-      "discount_pct": 87.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=ONLY&rh=p_123%3A391307%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060457031&dc=&crid=1YZD62TESQA32&qid=1794662648&rnid=2665398031&sprefix=only+%2Caps%2C280&ref=sr_nr_p_n_pct-off-with-tax_6&ds=v1%3AlbqYpG7mp08%2BMXWgTBQGTjfvrPsYQONwfoc2UaMvqgY&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1796,
-      "posted_at": "2026-11-14T19:14:42+05:30"
     }
   ]
 }
