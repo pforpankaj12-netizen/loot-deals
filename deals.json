@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T10:37:37+05:30",
+  "updated_at": "2026-11-15T10:48:18+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑨𝒅𝒗𝒂𝒏𝒔𝒆𝒅 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑬𝒏𝒓𝒊𝒄𝒉𝒆𝒅 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 𝑯𝒂𝒊𝒓 𝑶𝒊𝒍 𝑮𝒐𝒍𝒅 | 𝟓𝑿 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑾𝒊𝒕𝒉 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 | 𝑴𝒂𝒌𝒆𝒔 𝑯𝒂𝒊𝒓 𝑺𝒐𝒐𝒑𝒆𝒓𝒓 𝑺𝒐𝒇𝒕 | 𝟔𝟎𝟎𝒎𝒍",
+      "price": null,
+      "mrp": null,
+      "discount_pct": 65.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FY6C3GXS?tag=lootkabhandar-21",
+      "image": "img/1840.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1840,
+      "posted_at": "2026-11-15T10:48:17+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 🚨 𝑻𝒉𝒊𝒔 𝒅𝒆𝒂𝒍 𝒊𝒔 𝒕𝒐𝒐 𝒈𝒐𝒐𝒅 𝒕𝒐 𝒎𝒊𝒔𝒔!𝑳𝒖𝒙𝒖𝒓𝒚 𝑻𝒊𝒕𝒂𝒏𝒊𝒖𝒎 𝑫𝒖𝒂𝒍 𝑳𝒂𝒚𝒆𝒓 𝑺𝒊𝒍𝒊𝒄𝒐𝒏𝒆 𝑴𝒂𝒈𝒏𝒆𝒕𝒊𝒄 𝑳𝒊𝒏𝒌 𝑩𝒂𝒏𝒅 𝒇𝒐𝒓 𝑨𝒑𝒑𝒍𝒆 𝑾𝒂𝒕𝒄𝒉💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
       "price": 1899,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1795,
       "posted_at": "2026-11-14T19:07:53+05:30"
-    },
-    {
-      "title": "Fortune Mogra Basmati Rice, 5 KG",
-      "price": 275,
-      "mrp": 700,
-      "discount_pct": 60.0,
-      "saving": 425,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08DRPLM29?tag=lootkabhandar-21",
-      "image": "img/1794.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1794,
-      "posted_at": "2026-11-14T17:48:32+05:30"
     }
   ]
 }
