@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T08:14:17+05:30",
+  "updated_at": "2026-11-15T08:26:12+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑼𝒏𝒊𝒃𝒊𝒄 𝑭𝒐𝒐𝒅𝒔 𝑰𝒏𝒅𝒊𝒂 𝑷𝒗𝒕 𝑪𝒂𝒌𝒆 - 𝑹𝒐𝒚𝒂𝒍 𝑽𝒂𝒏𝒊𝒍𝒍𝒂 𝟐𝟐𝟎𝑮𝒎",
+      "price": 117,
+      "mrp": 250,
+      "discount_pct": 53.0,
+      "saving": 133,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CHDYQQ77?tag=lootkabhandar-21",
+      "image": "img/1830.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1830,
+      "posted_at": "2026-11-15T08:26:12+05:30"
+    },
     {
       "title": "Tata Classic Instant Coffee 90g Jar @175.https://www.amazon.in/dp/B09N2TK64V?tag=lootkabhandar-21",
       "price": 253,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 1786,
       "posted_at": "2026-11-14T15:48:43+05:30"
-    },
-    {
-      "title": "🔥 🛒 Grocery Loots 𝑪𝒆𝒍𝒆𝒔𝒕 𝑰𝒏𝒔𝒕𝒂𝒏𝒕 𝑳𝒆𝒎𝒐𝒏 𝑰𝒄𝒆𝒅 𝑻𝒆𝒂 𝑷𝒐𝒘𝒅𝒆𝒓 𝒘𝒊𝒕𝒉 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑪, 𝟒𝟎𝟎𝒈 | 𝑰𝒄𝒆 𝑻𝒆𝒂",
-      "price": null,
-      "mrp": null,
-      "discount_pct": 50.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FP98TCKJ?tag=lootkabhandar-21",
-      "image": "img/1785.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1785,
-      "posted_at": "2026-11-14T15:28:48+05:30"
     }
   ]
 }
