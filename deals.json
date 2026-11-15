@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T12:02:13+05:30",
+  "updated_at": "2026-11-15T12:23:40+05:30",
   "deals": [
+    {
+      "title": "Bajaj Almond Drops Moisturising Soap, 125 gm (Pack of 3)",
+      "price": 81,
+      "mrp": 189,
+      "discount_pct": 57.0,
+      "saving": 108,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FF3GYM52?tag=lootkabhandar-21",
+      "image": "img/1847.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 1847,
+      "posted_at": "2026-11-15T12:23:40+05:30"
+    },
+    {
+      "title": "CareFoam Orthopedic Memory Foam Pillow for Comfortable Sleep, Neck & Shoulder Pain Relief with Removable Zipper White Jacquard Cover 20 x 13 x 4 Inch Pack of 1",
+      "price": 398,
+      "mrp": 1799,
+      "discount_pct": 77.0,
+      "saving": 1401,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D4QWY4S4?tag=lootkabhandar-21",
+      "image": "img/1846.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 1846,
+      "posted_at": "2026-11-15T12:23:31+05:30"
+    },
+    {
+      "title": "French Vanilla Aroma Diffuser Oil |15 ML|Premium Fragrance| IFRA Certified",
+      "price": 169,
+      "mrp": 1999,
+      "discount_pct": 91.0,
+      "saving": 1830,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H18QYCBM?tag=lootkabhandar-21",
+      "image": "img/1845.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1845,
+      "posted_at": "2026-11-15T12:23:27+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑾𝒊𝒑𝒓𝒐 𝑷𝒐𝒍𝒚𝒄𝒂𝒓𝒃𝒐𝒏𝒂𝒕𝒆 𝑮𝒂𝒓𝒏𝒆𝒕 𝟔𝑾 𝑹𝒊𝒎𝒍𝒆𝒔𝒔 𝑹𝒐𝒖𝒏𝒅",
       "price": 169,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1802,
       "posted_at": "2026-11-14T19:54:13+05:30"
-    },
-    {
-      "title": "Auraika L Theanine Supplement 250mg – 60 Capsules | Stress Support, Relaxation & Focus | Non-Drowsy Calm with Vitamin B6 | Supports Brain Health & Cognitive Function",
-      "price": 299,
-      "mrp": 999,
-      "discount_pct": 70.0,
-      "saving": 700,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FNL925X8?tag=lootkabhandar-21",
-      "image": "img/1800.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1800,
-      "posted_at": "2026-11-14T19:54:03+05:30"
-    },
-    {
-      "title": "🌟Milton Lunch Box @299🔗https://www.amazon.in/dp/B0D8PQL3GW?tag=lootkabhandar-21",
-      "price": 799,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D8PQL3GW?tag=lootkabhandar-21",
-      "image": "img/1798.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1798,
-      "posted_at": "2026-11-14T19:30:57+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝒀𝒐𝒈𝒂𝒃𝒂𝒓 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑩𝒍𝒂𝒄𝒌 𝑹𝒂𝒊𝒔𝒊𝒏𝒔 𝟓𝟎𝟎 𝒈𝒓𝒂𝒎𝒔| 𝑲𝒊𝒔𝒉𝒎𝒊𝒔𝒉 |𝑴𝒖𝒏𝒂𝒌𝒌𝒂 |𝑺𝒐𝒖𝒓𝒄𝒆 𝒐𝒇 𝑭𝒊𝒃𝒓𝒆",
-      "price": 255,
-      "mrp": 299,
-      "discount_pct": 57.0,
-      "saving": 44,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CBRXH9TN?tag=lootkabhandar-21",
-      "image": "img/1797.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1797,
-      "posted_at": "2026-11-14T19:29:37+05:30"
     }
   ]
 }
