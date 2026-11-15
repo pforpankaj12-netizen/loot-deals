@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T11:23:40+05:30",
+  "updated_at": "2026-11-15T11:36:04+05:30",
   "deals": [
+    {
+      "title": "₹129 :",
+      "price": 129,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Flipkart",
+      "link": "https://fktr.in/jfs4H5t",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1841,
+      "posted_at": "2026-11-15T11:36:04+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑨𝒅𝒗𝒂𝒏𝒔𝒆𝒅 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑬𝒏𝒓𝒊𝒄𝒉𝒆𝒅 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 𝑯𝒂𝒊𝒓 𝑶𝒊𝒍 𝑮𝒐𝒍𝒅 | 𝟓𝑿 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑾𝒊𝒕𝒉 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 | 𝑴𝒂𝒌𝒆𝒔 𝑯𝒂𝒊𝒓 𝑺𝒐𝒐𝒑𝒆𝒓𝒓 𝑺𝒐𝒇𝒕 | 𝟔𝟎𝟎𝒎𝒍",
       "price": null,
