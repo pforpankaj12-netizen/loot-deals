@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T12:23:40+05:30",
+  "updated_at": "2026-11-15T12:37:57+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 🌟𝑯𝑷 𝟏𝟓 (𝟐𝟎𝟐𝟔), 𝑨𝑴𝑫 𝑹𝒚𝒛𝒆𝒏 𝟓 𝑯𝒆𝒙𝒂 𝑪𝒐𝒓𝒆 𝟕𝟓𝟑𝟓𝑼 𝒂𝒕 𝑷𝑵𝑩 𝑪𝒓𝒆𝒅𝒊𝒕 𝑪𝒂𝒓𝒅𝒔.",
+      "price": 50640,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HGS4MW9W?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1848,
+      "posted_at": "2026-11-15T12:37:57+05:30"
+    },
     {
       "title": "Bajaj Almond Drops Moisturising Soap, 125 gm (Pack of 3)",
       "price": 81,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1804,
       "posted_at": "2026-11-14T19:54:22+05:30"
-    },
-    {
-      "title": "KamaSutra SkinFEEL Thinnest Condom for Men | Skin to Skin Sensation | Combo Pack of 10",
-      "price": 49,
-      "mrp": 180,
-      "discount_pct": 72.0,
-      "saving": 131,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0B2R8J2PF?tag=lootkabhandar-21",
-      "image": "img/1802.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1802,
-      "posted_at": "2026-11-14T19:54:13+05:30"
     }
   ]
 }
