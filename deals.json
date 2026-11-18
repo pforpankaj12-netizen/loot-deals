@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T17:28:35+05:30",
+  "updated_at": "2026-11-18T18:05:24+05:30",
   "deals": [
+    {
+      "title": "🔥 🛒 Grocery Loots 𝑾𝒂𝒈𝒉 𝑩𝒂𝒌𝒓𝒊 𝑮𝒓𝒆𝒆𝒏 𝑻𝒆𝒂 𝑺𝒉𝒖𝒅𝒉 𝑲𝒂𝒉𝒘𝒂 𝑻𝒆𝒂 𝑩𝒂𝒈, 𝟐𝟓 𝑻𝒆𝒂 𝑩𝒂𝒈*𝟐.𝟓𝑮, 𝟔𝟐.𝟓 𝑮𝒓𝒂𝒎𝒔",
+      "price": 149,
+      "mrp": null,
+      "discount_pct": 50.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07YF2TW6R?tag=lootkabhandar-21",
+      "image": "img/1894.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1894,
+      "posted_at": "2026-11-18T18:05:24+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑺𝑯𝑰𝑻𝑯𝑰 𝟓 𝑳𝒂𝒚𝒆𝒓 𝑷𝒂𝒏𝒕𝒔 𝑯𝒂𝒏𝒈𝒆𝒓 𝑺𝒆𝒕 𝒐𝒇 𝟓 | 𝑺𝒑𝒂𝒄𝒆 𝑺𝒂𝒗𝒊𝒏𝒈 𝑻𝒓𝒐𝒖𝒔𝒆𝒓 𝑱𝒆𝒂𝒏𝒔 𝑫𝒖𝒑𝒂𝒕𝒕𝒂 𝑶𝒓𝒈𝒂𝒏𝒊𝒛𝒆𝒓 | 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑴𝒖𝒍𝒕𝒊 𝑳𝒂𝒚𝒆𝒓 𝑾𝒂𝒓𝒅𝒓𝒐𝒃𝒆 𝑪𝒍𝒐𝒔𝒆𝒕 𝑯𝒂𝒏𝒈𝒆𝒓 𝑨𝒔𝒔𝒐𝒓𝒕𝒆𝒅 𝑪𝒐𝒍𝒐𝒖𝒓",
+      "price": 249,
+      "mrp": 499,
+      "discount_pct": 50.0,
+      "saving": 250,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HLWNTKSC?tag=lootkabhandar-21",
+      "image": "img/1893.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1893,
+      "posted_at": "2026-11-18T18:03:30+05:30"
+    },
     {
       "title": "20W USB-C Charger with Type-C Cable Fast Charging for iPhone,iPad & AirPod",
       "price": 319,
@@ -495,32 +521,6 @@
       "store": "Flipkart",
       "telegram_msg_id": 1841,
       "title": "₹129 :"
-    },
-    {
-      "category": "Other",
-      "discount_pct": 65.0,
-      "image": "img/1840.jpg",
-      "link": "https://www.amazon.in/dp/B0FY6C3GXS?tag=lootkabhandar-21",
-      "mrp": null,
-      "posted_at": "2026-11-15T10:48:17+05:30",
-      "price": null,
-      "saving": null,
-      "store": "Amazon",
-      "telegram_msg_id": 1840,
-      "title": "🔥 💄 Beauty Loots 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑨𝒅𝒗𝒂𝒏𝒔𝒆𝒅 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑬𝒏𝒓𝒊𝒄𝒉𝒆𝒅 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 𝑯𝒂𝒊𝒓 𝑶𝒊𝒍 𝑮𝒐𝒍𝒅 | 𝟓𝑿 𝑨𝒍𝒐𝒆 𝑽𝒆𝒓𝒂 𝑾𝒊𝒕𝒉 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 | 𝑴𝒂𝒌𝒆𝒔 𝑯𝒂𝒊𝒓 𝑺𝒐𝒐𝒑𝒆𝒓𝒓 𝑺𝒐𝒇𝒕 | 𝟔𝟎𝟎𝒎𝒍"
-    },
-    {
-      "category": "Other",
-      "discount_pct": 79.0,
-      "image": null,
-      "link": "https://www.amazon.in/dp/B0HCW3VMHY?tag=lootkabhandar-21",
-      "mrp": 8999,
-      "posted_at": "2026-11-15T10:37:37+05:30",
-      "price": 1899,
-      "saving": 7100,
-      "store": "Amazon",
-      "telegram_msg_id": 1839,
-      "title": "🔥 💥 LOOT 🚨 𝑻𝒉𝒊𝒔 𝒅𝒆𝒂𝒍 𝒊𝒔 𝒕𝒐𝒐 𝒈𝒐𝒐𝒅 𝒕𝒐 𝒎𝒊𝒔𝒔!𝑳𝒖𝒙𝒖𝒓𝒚 𝑻𝒊𝒕𝒂𝒏𝒊𝒖𝒎 𝑫𝒖𝒂𝒍 𝑳𝒂𝒚𝒆𝒓 𝑺𝒊𝒍𝒊𝒄𝒐𝒏𝒆 𝑴𝒂𝒈𝒏𝒆𝒕𝒊𝒄 𝑳𝒊𝒏𝒌 𝑩𝒂𝒏𝒅 𝒇𝒐𝒓 𝑨𝒑𝒑𝒍𝒆 𝑾𝒂𝒕𝒄𝒉💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚"
     }
   ]
 }
