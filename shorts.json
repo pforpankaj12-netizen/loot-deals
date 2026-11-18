@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-18T23:15:20+05:30",
+ "updated_at": "2026-11-18T23:17:11+05:30",
  "shorts": [
   {
    "number": 157,
@@ -9,6 +9,7 @@
    "discount_pct": 80.0,
    "price": 399,
    "mrp": 1999,
+   "video_id": "NqNOSjW9zA4",
    "youtube_url": "https://www.youtube.com/shorts/NqNOSjW9zA4",
    "posted_at": "2026-11-18T19:12:19+05:30"
   },
@@ -19,6 +20,7 @@
    "discount_pct": 89.0,
    "price": 620,
    "mrp": null,
+   "video_id": "A8Vs5Kx2Rvg",
    "youtube_url": "https://www.youtube.com/shorts/A8Vs5Kx2Rvg",
    "posted_at": "2026-11-15T19:12:31+05:30"
   },
@@ -29,6 +31,7 @@
    "discount_pct": 88.0,
    "price": 399,
    "mrp": null,
+   "video_id": "E8WTYpL-yVc",
    "youtube_url": "https://www.youtube.com/shorts/E8WTYpL-yVc",
    "posted_at": "2026-11-15T07:32:48+05:30"
   },
@@ -39,6 +42,7 @@
    "discount_pct": 82.0,
    "price": 199,
    "mrp": null,
+   "video_id": "H9GxqJxkGNQ",
    "youtube_url": "https://www.youtube.com/shorts/H9GxqJxkGNQ",
    "posted_at": "2026-11-13T20:14:09+05:30"
   }
