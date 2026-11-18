@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T17:22:14+05:30",
+  "updated_at": "2026-11-18T17:28:35+05:30",
   "deals": [
+    {
+      "title": "20W USB-C Charger with Type-C Cable Fast Charging for iPhone,iPad & AirPod",
+      "price": 319,
+      "mrp": 2999,
+      "discount_pct": 89.0,
+      "saving": 2680,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HG9CDRZF?tag=lootkabhandar-21",
+      "image": "img/1892.jpg",
+      "category": "Smartphone & Mobile",
+      "telegram_msg_id": 1892,
+      "posted_at": "2026-11-18T17:28:35+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑻𝑹𝑬𝑺𝒆𝒎𝒎𝒆 𝑯𝒂𝒊𝒓𝒇𝒂𝒍𝒍 𝑫𝒆𝒇𝒆𝒏𝒔𝒆+ 𝑺𝒉𝒂𝒎𝒑𝒐𝒐 𝟓𝟖𝟎𝒎𝒍 𝑾𝒊𝒕𝒉 𝑲𝒆𝒓𝒂𝒕𝒊𝒏 𝑭𝒊𝒍𝒍𝒆𝒓𝒔 | 𝑳𝒐𝒏𝒈𝒆𝒓 𝒂𝒏𝒅 𝑺𝒕𝒓𝒐𝒏𝒈𝒆𝒓 𝒉𝒂𝒊𝒓 | 𝑷𝒓𝒆𝒗𝒆𝒏𝒕𝒔 𝑯𝒂𝒊𝒓 𝑭𝒂𝒍𝒍 𝒅𝒖𝒆 𝒕𝒐 𝑩𝒓𝒆𝒂𝒌𝒂𝒈𝒆 | 𝑷𝒂𝒓𝒂𝒃𝒆𝒏-𝑭𝒓𝒆𝒆",
       "price": 386,
@@ -508,19 +521,6 @@
       "store": "Amazon",
       "telegram_msg_id": 1839,
       "title": "🔥 💥 LOOT 🚨 𝑻𝒉𝒊𝒔 𝒅𝒆𝒂𝒍 𝒊𝒔 𝒕𝒐𝒐 𝒈𝒐𝒐𝒅 𝒕𝒐 𝒎𝒊𝒔𝒔!𝑳𝒖𝒙𝒖𝒓𝒚 𝑻𝒊𝒕𝒂𝒏𝒊𝒖𝒎 𝑫𝒖𝒂𝒍 𝑳𝒂𝒚𝒆𝒓 𝑺𝒊𝒍𝒊𝒄𝒐𝒏𝒆 𝑴𝒂𝒈𝒏𝒆𝒕𝒊𝒄 𝑳𝒊𝒏𝒌 𝑩𝒂𝒏𝒅 𝒇𝒐𝒓 𝑨𝒑𝒑𝒍𝒆 𝑾𝒂𝒕𝒄𝒉💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚"
-    },
-    {
-      "category": "Other",
-      "discount_pct": 50.0,
-      "image": "img/1838.jpg",
-      "link": "https://www.amazon.in/dp/B07KSPKVGL?tag=lootkabhandar-21",
-      "mrp": 185,
-      "posted_at": "2026-11-15T10:30:06+05:30",
-      "price": 92,
-      "saving": 93,
-      "store": "Amazon",
-      "telegram_msg_id": 1838,
-      "title": "🔥 💄 Beauty Loots 𝑾𝒊𝒍𝒅 𝑺𝒕𝒐𝒏𝒆 𝑬𝒅𝒈𝒆 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉 𝒇𝒐𝒓 𝑴𝒆𝒏 𝟏𝟎𝟎𝒎𝒍"
     }
   ]
 }
