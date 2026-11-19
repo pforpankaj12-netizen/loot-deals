@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T09:59:18+05:30",
+  "updated_at": "2026-11-19T10:11:18+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑳𝒊𝒗𝒐𝒏 𝑲𝒆𝒓𝒂𝒕𝒊𝒏 𝑺𝒉𝒂𝒎𝒑𝒐𝒐 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏 & 𝑴𝒆𝒏 | 𝑹𝒆𝒑𝒂𝒊𝒓𝒔 𝑫𝒂𝒎𝒂𝒈𝒆𝒅 𝑯𝒂𝒊𝒓 | 𝑺𝒎𝒐𝒐𝒕𝒉 & 𝟓𝒙 𝑺𝒕𝒓𝒐𝒏𝒈𝒆𝒓 𝑯𝒂𝒊𝒓 | 𝑵𝒐 𝑷𝒂𝒓𝒂𝒃𝒆𝒏𝒔 | 𝟔𝟓𝟎𝒎𝒍",
+      "price": 238,
+      "mrp": 800,
+      "discount_pct": 70.0,
+      "saving": 562,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FNN4954M?tag=lootkabhandar-21",
+      "image": "img/1908.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1908,
+      "posted_at": "2026-11-19T10:11:18+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑨𝒅𝒗𝒂𝒏𝒔𝒆𝒅 𝑪𝒐𝒄𝒐𝒂 𝑹𝒆𝒑𝒂𝒊𝒓 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏 𝒘𝒊𝒕𝒉 𝑷𝒖𝒓𝒆 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 𝑴𝒊𝒍𝒌 & 𝑪𝒐𝒄𝒐𝒂 𝑩𝒖𝒕𝒕𝒆𝒓 | 𝟏𝟎 𝑳𝒂𝒚𝒆𝒓 𝑫𝒆𝒆𝒑 𝑨𝒄𝒕𝒊𝒐𝒏 | 𝟕𝟐 𝑯𝒓 | 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒛𝒆𝒓 | 𝑰𝒏𝒕𝒆𝒏𝒔𝒆 𝑹𝒆𝒑𝒂𝒊𝒓 𝒇𝒐𝒓 𝑬𝒙𝒕𝒓𝒂 𝑫𝒓𝒚 𝑺𝒌𝒊𝒏 | 𝑭𝒐𝒓 𝑾𝒐𝒎𝒆𝒏 | 𝟒𝟎𝟎𝒎𝒍 | 𝑭𝒐𝒓 𝑾𝒊𝒏𝒕𝒆𝒓 | 𝑫𝒂𝒊𝒍𝒚 𝑼𝒔𝒆",
       "price": 186,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1864,
       "posted_at": "2026-11-18T13:05:41+05:30"
-    },
-    {
-      "title": "🔥 👟 Footwear Loots 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑼𝒑𝒕𝒐 𝟕𝟎- 𝑨𝒍𝒍𝒆𝒏 𝑺𝒐𝒍𝒍𝒚 𝑪𝒍𝒐𝒕𝒉𝒊𝒏𝒈 & 𝑭𝒐𝒐𝒕𝒘𝒆𝒂𝒓 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟑𝟏𝟒.",
-      "price": 314,
-      "mrp": null,
-      "discount_pct": 81.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=allen+solly&rh=p_123%3A398346%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A69-&dc=&ds=v1%3AkMf5AUgEiBYvA8oTcJtm5bg3jm8ia%2BY0gD4mU9SNuT4&crid=2O9UJNUBSIL68&qid=1794891236&rnid=2665398031&sprefix=allen+soll%2Caps%2C314&ref=sr_nr_p_n_pct-off-with-tax_5&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 1862,
-      "posted_at": "2026-11-18T11:51:48+05:30"
     }
   ]
 }
