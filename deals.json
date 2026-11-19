@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T08:22:13+05:30",
+  "updated_at": "2026-11-19T09:25:55+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑺𝒂𝒇𝒇𝒐𝒍𝒂 𝑯𝒐𝒏𝒆𝒚 𝑨𝒄𝒕𝒊𝒗𝒆, 𝟏𝒌𝒈, 𝑴𝒂𝒅𝒆 𝒘𝒊𝒕𝒉 𝑭𝒐𝒓𝒆𝒔𝒕 𝑯𝒐𝒏𝒆𝒚, 𝑷𝒖𝒓𝒆 𝑯𝒐𝒏𝒆𝒚, 𝑵𝒐 𝒔𝒖𝒈𝒂𝒓 𝒂𝒅𝒖𝒍𝒕𝒆𝒓𝒂𝒕𝒊𝒐𝒏, 𝑵𝒂𝒕𝒖𝒓𝒂𝒍 𝑰𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒃𝒐𝒐𝒔𝒕𝒆𝒓",
+      "price": 224,
+      "mrp": 499,
+      "discount_pct": 55.0,
+      "saving": 275,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08B44K4YS?tag=lootkabhandar-21",
+      "image": "img/1902.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1902,
+      "posted_at": "2026-11-19T09:25:55+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑷𝒐𝒏𝒅𝒔 𝑻𝒓𝒊𝒑𝒍𝒆 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒊𝒏𝒈 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏, 𝟔𝟎𝟎𝒎𝒍",
       "price": 366,
@@ -508,19 +521,6 @@
       "store": "Amazon",
       "telegram_msg_id": 1848,
       "title": "🔥 💥 LOOT 🌟𝑯𝑷 𝟏𝟓 (𝟐𝟎𝟐𝟔), 𝑨𝑴𝑫 𝑹𝒚𝒛𝒆𝒏 𝟓 𝑯𝒆𝒙𝒂 𝑪𝒐𝒓𝒆 𝟕𝟓𝟑𝟓𝑼 𝒂𝒕 𝑷𝑵𝑩 𝑪𝒓𝒆𝒅𝒊𝒕 𝑪𝒂𝒓𝒅𝒔."
-    },
-    {
-      "category": "Beauty & Personal Care",
-      "discount_pct": 57.0,
-      "image": "img/1847.jpg",
-      "link": "https://www.amazon.in/dp/B0FF3GYM52?tag=lootkabhandar-21",
-      "mrp": 189,
-      "posted_at": "2026-11-15T12:23:40+05:30",
-      "price": 81,
-      "saving": 108,
-      "store": "Amazon",
-      "telegram_msg_id": 1847,
-      "title": "Bajaj Almond Drops Moisturising Soap, 125 gm (Pack of 3)"
     }
   ]
 }
