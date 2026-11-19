@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T13:41:38+05:30",
+  "updated_at": "2026-11-19T13:54:34+05:30",
   "deals": [
+    {
+      "title": "🔥 👗 Fashion Loots 𝑳𝒀 𝑾𝒐𝒎𝒆𝒏 𝑫𝒓𝒆𝒔𝒔",
+      "price": 734,
+      "mrp": 3799,
+      "discount_pct": 81.0,
+      "saving": 3065,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=ONLY&rh=p_123%3A391307&ascsubtag=20261119clrdirdahfip&tag=lootkabhandar-21",
+      "image": "img/1922.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1922,
+      "posted_at": "2026-11-19T13:54:34+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑪𝒓𝒆𝒕𝒂 𝑪𝒐𝒕𝒕𝒐𝒏 𝑩𝒍𝒆𝒏𝒅 𝑩𝒓𝒊𝒆𝒇 · 𝑺𝒉𝒐𝒑𝒔𝒚",
+      "price": 49,
+      "mrp": 399,
+      "discount_pct": 88.0,
+      "saving": 350,
+      "store": "Shopsy",
+      "link": "https://bitli.in/PVxqhLa",
+      "image": "img/1921.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1921,
+      "posted_at": "2026-11-19T13:54:04+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑹𝑹 𝑺𝒊𝒈𝒏𝒂𝒕𝒖𝒓𝒆 𝑹𝒂𝒑𝒕𝒐𝒓 𝟏𝟐𝟎𝟎𝒎𝒎 𝑩𝑳𝑫𝑪 𝑫𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝑪𝒆𝒊𝒍𝒊𝒏𝒈 𝑭𝒂𝒏 | 𝟑𝟓𝟎 𝑹𝑷𝑴, 𝟑𝟐𝑾 𝑳𝒐𝒘 𝑷𝒐𝒘𝒆𝒓 | 𝟔𝟎% 𝑬𝒏𝒆𝒓𝒈𝒚 𝑺𝒂𝒗𝒊𝒏𝒈 | 𝟒 𝑺𝒎𝒂𝒓𝒕 𝑴𝒐𝒅𝒆𝒔 | 𝑯𝒊𝒈𝒉 𝑨𝒊𝒓𝒇𝒍𝒐𝒘 | 𝑳𝒐𝒘 𝑵𝒐𝒊𝒔𝒆 | 𝟐-𝒀𝒆𝒂𝒓 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚 [𝑶𝑿𝑭𝑶𝑹𝑫 𝑩𝑳𝑼𝑬] 𝑭𝒓𝒆𝒆 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏",
       "price": 2699,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1878,
       "posted_at": "2026-11-18T16:30:13+05:30"
-    },
-    {
-      "title": "🔥 👟 Footwear Loots 𝑲𝒖𝒃𝒆𝒓 𝑰𝒏𝒅𝒖𝒔𝒕𝒓𝒊𝒆𝒔 𝑺𝒉𝒐𝒆 𝑩𝒂𝒈𝒔 𝑷𝒐𝒖𝒄𝒉𝒆𝒔|𝑺𝒉𝒐𝒆 𝑪𝒐𝒗𝒆𝒓 𝒇𝒐𝒓 𝑻𝒓𝒂𝒗𝒆𝒍𝒊𝒏𝒈|𝑵𝒐𝒏 𝑾𝒐𝒗𝒆𝒏 𝑫𝒓𝒂𝒘𝒔𝒕𝒓𝒊𝒏𝒈 𝑩𝒂𝒈|𝑺𝒉𝒐𝒆 𝑩𝒂𝒈 𝒇𝒐𝒓 𝑺𝒉𝒐𝒆𝒔, 𝑺𝒍𝒊𝒑𝒑𝒆𝒓, 𝑯𝒆𝒆𝒍𝒔|𝑻𝒓𝒂𝒏𝒔𝒑𝒂𝒓𝒆𝒏𝒕 𝑾𝒊𝒏𝒅𝒐𝒘|𝑷𝒂𝒄𝒌 𝒐𝒇 𝟔 (𝑩𝒍𝒖𝒆)",
-      "price": 156,
-      "mrp": null,
-      "discount_pct": 76.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C592Y5YJ?tag=lootkabhandar-21",
-      "image": "img/1877.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 1877,
-      "posted_at": "2026-11-18T16:29:40+05:30"
-    },
-    {
-      "title": "Apply 299 off coupon @ 300https://www.amazon.in/dp/B0D3QPVT5G?tag=lootkabhandar-21",
-      "price": 599,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D3QPVT5G?tag=lootkabhandar-21",
-      "image": "img/1876.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1876,
-      "posted_at": "2026-11-18T16:29:21+05:30"
     }
   ]
 }
