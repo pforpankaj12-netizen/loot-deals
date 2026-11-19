@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T11:01:17+05:30",
+  "updated_at": "2026-11-19T11:04:11+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑷𝒂𝒕𝒂𝒏𝒋𝒂𝒍𝒊 𝑲𝒆𝒔𝒉 𝑲𝒂𝒏𝒕𝒊 𝑨𝒏𝒕𝒊-𝑫𝒂𝒏𝒅𝒓𝒖𝒇𝒇 𝑯𝒂𝒊𝒓 𝑪𝒍𝒆𝒂𝒏𝒔𝒆𝒓 𝟔𝟓𝟎 𝒎𝒍, 𝑵𝒂𝒕𝒖𝒓𝒂𝒍 𝑺𝒉𝒂𝒎𝒑𝒐𝒐 𝒇𝒐𝒓 𝑫𝒂𝒏𝒅𝒓𝒖𝒇𝒇 & 𝑯𝒂𝒊𝒓𝒇𝒂𝒍𝒍, 𝑺𝒄𝒂𝒍𝒑 𝑪𝒍𝒆𝒂𝒏𝒔𝒆𝒓𝒔 𝒇𝒐𝒓 𝑴𝒆𝒏 𝒂𝒏𝒅 𝑾𝒐𝒎𝒆𝒏, 𝑨𝒍𝒍 𝑯𝒂𝒊𝒓 𝑻𝒚𝒑𝒆𝒔",
+      "price": 240,
+      "mrp": 600,
+      "discount_pct": 60.0,
+      "saving": 360,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D8BRRD1B?tag=lootkabhandar-21",
+      "image": "img/1910.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1910,
+      "posted_at": "2026-11-19T11:04:11+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑵𝒐𝒉.𝑽𝒐𝒉 - 𝑺𝑨𝑺𝑺𝑨𝑭𝑹𝑨𝑺 𝑲𝒊𝒅𝒔 𝑩𝒍𝒂𝒄𝒌 𝑨𝒄𝒊𝒅 𝑾𝒂𝒔𝒉 𝑷𝒂𝒑𝒆𝒓 𝑩𝒂𝒈 𝑾𝒂𝒊𝒔𝒕 𝑺𝒕𝒓𝒂𝒊𝒈𝒉𝒕 𝑱𝒆𝒂𝒏𝒔",
       "price": 251,
