@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T19:58:26+05:30",
+  "updated_at": "2026-11-19T20:19:13+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑵𝒊𝒗𝒊𝒂 𝑺𝒕𝒓𝒊𝒏𝒈 𝟐.𝟎 𝑪𝒐𝒎𝒑𝒂𝒄𝒕 𝑩𝒂𝒄𝒌𝒑𝒂𝒄𝒌 𝑭𝒐𝒓 𝑴𝒆𝒏 & 𝑾𝒐𝒎𝒆𝒏, 𝑳𝒊𝒈𝒉𝒕𝒘𝒆𝒊𝒈𝒉𝒕 𝑩𝒂𝒈 𝒇𝒐𝒓 𝑬𝒗𝒆𝒓𝒚𝒅𝒂𝒚 𝑼𝒔𝒆, 𝑫𝒓𝒂𝒘𝒔𝒕𝒓𝒊𝒏𝒈 𝑪𝒍𝒐𝒔𝒖𝒓𝒆, 𝑩𝒓𝒆𝒂𝒕𝒉𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒆𝒅 𝑩𝒂𝒄𝒌, 𝑪𝒂𝒑𝒂𝒄𝒊𝒕𝒚-𝟓 𝑳𝒊𝒕𝒓𝒆𝒔",
+      "price": 85,
+      "mrp": 249,
+      "discount_pct": 66.0,
+      "saving": 164,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GYS218W3?tag=lootkabhandar-21",
+      "image": "img/1963.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1963,
+      "posted_at": "2026-11-19T20:19:13+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝒁𝑬𝑩𝑹𝑶𝑵𝑰𝑪𝑺 𝑶𝑻𝑮𝟏 𝑻𝒚𝒑𝒆 𝑪 𝒕𝒐 𝑶𝑻𝑮 𝑪𝒐𝒏𝒏𝒆𝒄𝒕𝒐𝒓",
       "price": 179,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1910,
       "posted_at": "2026-11-19T11:04:11+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑵𝒐𝒉.𝑽𝒐𝒉 - 𝑺𝑨𝑺𝑺𝑨𝑭𝑹𝑨𝑺 𝑲𝒊𝒅𝒔 𝑩𝒍𝒂𝒄𝒌 𝑨𝒄𝒊𝒅 𝑾𝒂𝒔𝒉 𝑷𝒂𝒑𝒆𝒓 𝑩𝒂𝒈 𝑾𝒂𝒊𝒔𝒕 𝑺𝒕𝒓𝒂𝒊𝒈𝒉𝒕 𝑱𝒆𝒂𝒏𝒔",
-      "price": 251,
-      "mrp": 2199,
-      "discount_pct": 88.0,
-      "saving": 1948,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FH6VGGGJ?tag=lootkabhandar-21",
-      "image": "img/1909.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1909,
-      "posted_at": "2026-11-19T10:23:43+05:30"
     },
     {
       "kind": "coupon",
