@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T22:18:19+05:30",
+  "updated_at": "2026-11-19T22:46:51+05:30",
   "deals": [
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝑴𝑰𝑳𝑻𝑶𝑵 𝑪𝒐𝒎𝒆𝒕 𝟏𝟎𝟎𝟎 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑾𝒂𝒕𝒆𝒓 𝑩𝒐𝒕𝒕𝒍𝒆 𝟏𝟎𝟎𝟎 𝒎𝒍, 𝑺𝒊𝒏𝒈𝒍𝒆 𝑾𝒂𝒍𝒍𝒆𝒅, 𝑰𝑺𝑰 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅 𝑰 𝑳𝒆𝒂𝒌 𝑷𝒓𝒐𝒐𝒇 𝑳𝒊𝒅, 𝑹𝒖𝒔𝒕 𝑷𝒓𝒐𝒐𝒇 𝑰 𝑭𝒐𝒓 𝑺𝒄𝒉𝒐𝒐𝒍, 𝑶𝒇𝒇𝒊𝒄𝒆, 𝑮𝒚𝒎 𝑰 𝑩𝒍𝒂𝒄𝒌",
+      "price": 249,
+      "mrp": 440,
+      "discount_pct": 43.0,
+      "saving": 191,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CXNSCCVW?tag=lootkabhandar-21",
+      "image": "img/1976.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1976,
+      "posted_at": "2026-11-19T22:46:51+05:30"
+    },
     {
       "title": "CORSICA Textured Wedge Heels💰 ₹474 ₹1,899 · 75% off🛒 Myntra🔗",
       "price": 474,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 1923,
       "posted_at": "2026-11-19T14:08:46+05:30"
-    },
-    {
-      "title": "🔥 👗 Fashion Loots 𝑳𝒀 𝑾𝒐𝒎𝒆𝒏 𝑫𝒓𝒆𝒔𝒔",
-      "price": 734,
-      "mrp": 3799,
-      "discount_pct": 81.0,
-      "saving": 3065,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=ONLY&rh=p_123%3A391307&ascsubtag=20261119clrdirdahfip&tag=lootkabhandar-21",
-      "image": "img/1922.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1922,
-      "posted_at": "2026-11-19T13:54:34+05:30"
     },
     {
       "kind": "coupon",
