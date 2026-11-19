@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T16:47:18+05:30",
+  "updated_at": "2026-11-19T17:03:33+05:30",
   "deals": [
+    {
+      "title": "Loot : Minus30 Sugar Free Icecream, 40 ml @23.https://www.amazon.in/dp/B0FKMNKY5C?tag=lootkabhandar-21Buy Max Qty | Hyderabad Available",
+      "price": 799,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FKMNKY5C?tag=lootkabhandar-21",
+      "image": "img/1937.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 1937,
+      "posted_at": "2026-11-19T17:03:33+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑫𝒐𝒗𝒆 𝑺𝒉𝒆𝒂 𝑩𝒖𝒕𝒕𝒆𝒓 𝒂𝒏𝒅 𝑽𝒂𝒏𝒊𝒍𝒍𝒂 𝑯𝒂𝒏𝒅 𝑾𝒂𝒔𝒉, 𝟐𝟓𝟎 𝒎𝒊𝒍𝒍𝒊𝒍𝒊𝒕𝒆𝒓𝒔",
       "price": 67,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1886,
       "posted_at": "2026-11-18T16:46:22+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑨𝑺𝑼𝑺 𝑽𝒊𝒗𝒐𝒃𝒐𝒐𝒌 𝟏𝟓 (𝟐𝟎𝟐𝟔),𝑰𝒏𝒕𝒆𝒍 𝑪𝒐𝒓𝒆 𝟑 𝟑𝟎𝟒 (𝑺𝒆𝒓𝒊𝒆𝒔 𝟑-𝑳𝒂𝒕𝒆𝒔𝒕 𝑮𝒆𝒏),𝑰𝒏𝒕𝒆𝒍 𝒊𝑮𝑷𝑼,𝟖𝑮𝑩 𝑹𝑨𝑴,𝟓𝟏𝟐𝑮𝑩 𝑺𝑺𝑫,𝑻𝒐𝒖𝒄𝒉𝒔𝒄𝒓𝒆𝒆𝒏, 𝑭𝑯𝑫,𝟏𝟓.𝟔\"(𝟑𝟗.𝟔 𝒄𝒎),𝑾𝒊𝒏 𝟏𝟏,𝑴𝟑𝟔𝟓 𝑩𝒂𝒔𝒊𝒄(𝟏𝒀),𝑶𝒇𝒇𝒊𝒄𝒆 𝟐𝟒,𝑪𝒐𝒐𝒍 𝑺𝒊𝒍𝒗𝒆𝒓,𝟏.𝟕 𝑲𝒈,𝑿𝟏𝟓𝟎𝟒𝑴𝑨-𝑬𝟖𝟏𝟐𝟗𝑾𝑺,𝑨𝑰 𝑳𝒂𝒑𝒕𝒐𝒑",
-      "price": 64990,
-      "mrp": 119990,
-      "discount_pct": 46.0,
-      "saving": 55000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H75PMPZM?tag=lootkabhandar-21",
-      "image": "img/1885.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1885,
-      "posted_at": "2026-11-18T16:46:01+05:30"
     }
   ]
 }
