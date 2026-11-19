@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T20:40:50+05:30",
+  "updated_at": "2026-11-19T20:52:12+05:30",
   "deals": [
+    {
+      "title": "🔥 ⚡ PRICE ERROR 🏋️ Fitness Loots 𝑺𝒕𝒂𝒓 𝑿 𝑯𝒆𝒙𝒂 𝑷𝑽𝑪 𝑫𝒖𝒎𝒃𝒃𝒆𝒍𝒍 𝑺𝒆𝒕 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 𝑮𝒚𝒎 𝑾𝒐𝒓𝒌𝒐𝒖𝒕, 𝑫𝒖𝒎𝒃𝒆𝒍𝒍𝒔 𝒇𝒐𝒓 𝑭𝒊𝒕𝒏𝒆𝒔𝒔",
+      "price": 148,
+      "mrp": 6000,
+      "discount_pct": 98.0,
+      "saving": 5852,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B8DBNMTS?tag=lootkabhandar-21",
+      "image": "img/1967.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1967,
+      "posted_at": "2026-11-19T20:52:12+05:30"
+    },
+    {
+      "title": "Libas Printed Silk Blend Straight Kurta with Trouser💰 ₹1,179 ~₹5,449~ · 78% offLibas Embellished Silk Blend A-Line Kurta with Palazzo💰 ₹1,719 ~₹8,249~ · 79% offLibas Peach Woven Design Cotton Blend Straight Kurta💰 ₹699 ~₹4,849~ · 86% offLibas Printed Cotton Night Suit💰 ₹689 ~₹3,799~ · 82% off🛒 Amazon🔗",
+      "price": 1179,
+      "mrp": 5449,
+      "discount_pct": 78.0,
+      "saving": 4270,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=libas&i=apparel&rh=n%3A1571271031%2Cp_123%3A335869%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A79-&btn_type=ss&btn_ref=srctok-57d1d7a5381b7055&ascsubtag=20261119clbx27vxyz17&tag=lootkabhandar-21",
+      "image": "img/1966.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 1966,
+      "posted_at": "2026-11-19T20:52:02+05:30"
+    },
     {
       "title": "🔥 ⚡ PRICE ERROR 𝒔𝒉𝒂𝒓𝒎𝒂 𝒋𝒊 𝒔𝒕𝒐𝒓𝒆 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑺𝒉𝒐𝒆 𝑹𝒂𝒄𝒌 · 𝑺𝒉𝒐𝒑𝒔𝒚",
       "price": 75,
@@ -495,32 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 1914,
       "posted_at": "2026-11-19T12:06:58+05:30"
-    },
-    {
-      "title": "SPARX Sneaker SL-342 White for Women",
-      "price": 313,
-      "mrp": 699,
-      "discount_pct": 55.0,
-      "saving": 386,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GQBTNCHT?tag=lootkabhandar-21",
-      "image": "img/1913.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1913,
-      "posted_at": "2026-11-19T12:05:55+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒚𝒎𝒃𝒐𝒍 𝑾𝒐𝒎𝒆𝒏 𝑻𝒂𝒑𝒆𝒓𝒆𝒅 𝑷𝒂𝒑𝒆𝒓 𝑩𝒂𝒈 𝑻𝒓𝒐𝒖𝒔𝒆𝒓𝒔 (𝑯𝒊𝒈𝒉 𝑹𝒊𝒔𝒆 𝑨𝒏𝒌𝒍𝒆 𝑳𝒆𝒏𝒈𝒕𝒉 | 𝒘𝒊𝒕𝒉 𝑺𝒆𝒍𝒇 𝑭𝒂𝒃𝒓𝒊𝒄 𝑩𝒆𝒍𝒕) (𝑨𝒗𝒂𝒊𝒍𝒂𝒃𝒍𝒆 𝒊𝒏 𝑷𝒍𝒖𝒔 𝑺𝒊𝒛𝒆𝒔)",
-      "price": 219,
-      "mrp": 1999,
-      "discount_pct": 89.0,
-      "saving": 1780,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08HZTK4HW?tag=lootkabhandar-21",
-      "image": "img/1912.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1912,
-      "posted_at": "2026-11-19T11:41:18+05:30"
     },
     {
       "kind": "coupon",
