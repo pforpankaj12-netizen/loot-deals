@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T10:11:18+05:30",
+  "updated_at": "2026-11-19T10:23:43+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑵𝒐𝒉.𝑽𝒐𝒉 - 𝑺𝑨𝑺𝑺𝑨𝑭𝑹𝑨𝑺 𝑲𝒊𝒅𝒔 𝑩𝒍𝒂𝒄𝒌 𝑨𝒄𝒊𝒅 𝑾𝒂𝒔𝒉 𝑷𝒂𝒑𝒆𝒓 𝑩𝒂𝒈 𝑾𝒂𝒊𝒔𝒕 𝑺𝒕𝒓𝒂𝒊𝒈𝒉𝒕 𝑱𝒆𝒂𝒏𝒔",
+      "price": 251,
+      "mrp": 2199,
+      "discount_pct": 88.0,
+      "saving": 1948,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FH6VGGGJ?tag=lootkabhandar-21",
+      "image": "img/1909.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1909,
+      "posted_at": "2026-11-19T10:23:43+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑳𝒊𝒗𝒐𝒏 𝑲𝒆𝒓𝒂𝒕𝒊𝒏 𝑺𝒉𝒂𝒎𝒑𝒐𝒐 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏 & 𝑴𝒆𝒏 | 𝑹𝒆𝒑𝒂𝒊𝒓𝒔 𝑫𝒂𝒎𝒂𝒈𝒆𝒅 𝑯𝒂𝒊𝒓 | 𝑺𝒎𝒐𝒐𝒕𝒉 & 𝟓𝒙 𝑺𝒕𝒓𝒐𝒏𝒈𝒆𝒓 𝑯𝒂𝒊𝒓 | 𝑵𝒐 𝑷𝒂𝒓𝒂𝒃𝒆𝒏𝒔 | 𝟔𝟓𝟎𝒎𝒍",
       "price": 238,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1865,
       "posted_at": "2026-11-18T13:05:48+05:30"
-    },
-    {
-      "title": "Organic India Tulsi Original Black Tea, 25 Infusion Tea Bags (1 Bag x 1.74 gm Each)",
-      "price": 110,
-      "mrp": 244,
-      "discount_pct": 54.0,
-      "saving": 134,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B004UC5SEM?tag=lootkabhandar-21",
-      "image": "img/1864.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1864,
-      "posted_at": "2026-11-18T13:05:41+05:30"
     }
   ]
 }
