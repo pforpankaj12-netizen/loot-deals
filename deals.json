@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T13:54:34+05:30",
+  "updated_at": "2026-11-19T14:08:46+05:30",
   "deals": [
+    {
+      "title": "🔥 👟 Footwear Loots 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑵𝒐𝒓𝒕𝒉 𝑺𝒕𝒂𝒓 𝑺𝒉𝒐𝒆𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟑𝟕𝟒.",
+      "price": 374,
+      "mrp": null,
+      "discount_pct": 75.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?rh=n%3A1571283031%2Cp_4%3ANorth%2BStar%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 1923,
+      "posted_at": "2026-11-19T14:08:46+05:30"
+    },
     {
       "title": "🔥 👗 Fashion Loots 𝑳𝒀 𝑾𝒐𝒎𝒆𝒏 𝑫𝒓𝒆𝒔𝒔",
       "price": 734,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1879,
       "posted_at": "2026-11-18T16:30:24+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑷𝒂𝒏𝒂𝒔𝒐𝒏𝒊𝒄 𝟖𝑾 𝑫𝒆𝒆𝒑 𝑱𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑳𝑬𝑫 𝑫𝒐𝒘𝒏𝒍𝒊𝒈𝒉𝒕𝒆𝒓, 𝑯𝒊𝒈𝒉-𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚 𝟏𝟎𝟎 𝑳𝒎/𝑾 𝑭𝒂𝒍𝒔𝒆 𝑪𝒆𝒊𝒍𝒊𝒏𝒈 𝑳𝒊𝒈𝒉𝒕, 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑫𝑶𝑩 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 - 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅 𝑫𝒓𝒊𝒗𝒆, 𝑪𝒖𝒕𝒐𝒖𝒕 𝟒𝟔𝒎𝒎, (𝑮𝒓𝒆𝒆𝒏)",
-      "price": 149,
-      "mrp": null,
-      "discount_pct": 63.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HBKBQ98D?tag=lootkabhandar-21",
-      "image": "img/1878.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1878,
-      "posted_at": "2026-11-18T16:30:13+05:30"
     }
   ]
 }
