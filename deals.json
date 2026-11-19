@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T18:10:51+05:30",
+  "updated_at": "2026-11-19T18:33:44+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑮𝒓𝒂𝒃 : 𝑭𝒚𝒕𝒊𝒌𝒂 𝑺𝒆𝒂 𝑩𝒖𝒄𝒌𝒕𝒉𝒐𝒓𝒏 𝑱𝒖𝒊𝒄𝒆 (𝑽𝒆𝒈, 𝑶𝒎𝒆𝒈𝒂 𝟑,𝟔,𝟕,𝟗), 𝟑𝟎𝟎 𝒎𝒍 @𝟐𝟗𝟕.",
+      "price": 297,
+      "mrp": null,
+      "discount_pct": 46.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FBKCFSKY?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1945,
+      "posted_at": "2026-11-19T18:33:44+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑽𝒂𝒏 𝑯𝒆𝒖𝒔𝒆𝒏 𝑴𝒆𝒏 𝑪𝒐𝒍𝒐𝒖𝒓 𝑭𝒓𝒆𝒔𝒉 𝑩𝒓𝒊𝒆𝒇𝒔 - 𝟏𝟎𝟎% 𝑷𝒊𝒎𝒂 𝑪𝒐𝒕𝒕𝒐𝒏",
       "price": 185,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1894,
       "posted_at": "2026-11-18T18:05:24+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑺𝑯𝑰𝑻𝑯𝑰 𝟓 𝑳𝒂𝒚𝒆𝒓 𝑷𝒂𝒏𝒕𝒔 𝑯𝒂𝒏𝒈𝒆𝒓 𝑺𝒆𝒕 𝒐𝒇 𝟓 | 𝑺𝒑𝒂𝒄𝒆 𝑺𝒂𝒗𝒊𝒏𝒈 𝑻𝒓𝒐𝒖𝒔𝒆𝒓 𝑱𝒆𝒂𝒏𝒔 𝑫𝒖𝒑𝒂𝒕𝒕𝒂 𝑶𝒓𝒈𝒂𝒏𝒊𝒛𝒆𝒓 | 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑴𝒖𝒍𝒕𝒊 𝑳𝒂𝒚𝒆𝒓 𝑾𝒂𝒓𝒅𝒓𝒐𝒃𝒆 𝑪𝒍𝒐𝒔𝒆𝒕 𝑯𝒂𝒏𝒈𝒆𝒓 𝑨𝒔𝒔𝒐𝒓𝒕𝒆𝒅 𝑪𝒐𝒍𝒐𝒖𝒓",
-      "price": 249,
-      "mrp": 499,
-      "discount_pct": 50.0,
-      "saving": 250,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HLWNTKSC?tag=lootkabhandar-21",
-      "image": "img/1893.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1893,
-      "posted_at": "2026-11-18T18:03:30+05:30"
     },
     {
       "kind": "coupon",
