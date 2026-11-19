@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T20:52:12+05:30",
+  "updated_at": "2026-11-19T21:02:55+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑻𝒉𝒆 𝑺𝑽 𝑺𝒕𝒚𝒍𝒆 𝑴𝒆𝒏'𝒔 𝑳𝒂𝒚𝒆𝒓𝒆𝒅 𝑳𝒐𝒏𝒈 𝑺𝒍𝒆𝒆𝒗𝒆 𝑯𝒐𝒐𝒅𝒊𝒆, 𝑹𝒆𝒅 𝒂𝒏𝒅 𝑾𝒉𝒊𝒕𝒆, 𝑪𝒐𝒕𝒕𝒐𝒏 𝑩𝒍𝒆𝒏𝒅, 𝑪𝒂𝒔𝒖𝒂𝒍 𝑷𝒖𝒍𝒍𝒐𝒗𝒆𝒓",
+      "price": 166,
+      "mrp": 999,
+      "discount_pct": 83.0,
+      "saving": 833,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0FHQ716SM?lv=shuf&btn_type=ss&btn_ref=srctok-2957250241909743&channelId=704&ascsubtag=20261119cl2u3rmm3s6a&tag=lootkabhandar-21",
+      "image": "img/1968.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1968,
+      "posted_at": "2026-11-19T21:02:55+05:30"
+    },
     {
       "title": "🔥 ⚡ PRICE ERROR 🏋️ Fitness Loots 𝑺𝒕𝒂𝒓 𝑿 𝑯𝒆𝒙𝒂 𝑷𝑽𝑪 𝑫𝒖𝒎𝒃𝒃𝒆𝒍𝒍 𝑺𝒆𝒕 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 𝑮𝒚𝒎 𝑾𝒐𝒓𝒌𝒐𝒖𝒕, 𝑫𝒖𝒎𝒃𝒆𝒍𝒍𝒔 𝒇𝒐𝒓 𝑭𝒊𝒕𝒏𝒆𝒔𝒔",
       "price": 148,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1916,
       "posted_at": "2026-11-19T12:31:49+05:30"
-    },
-    {
-      "title": "🔥 🍳 Kitchen Loots 𝑴𝒊𝒍𝒕𝒐𝒏 𝑨𝒓𝒕𝒊𝒔 𝑴𝒊𝒙𝒆𝒓 𝑮𝒓𝒊𝒏𝒅𝒆𝒓, 𝑰𝑺𝑰 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅, 𝑮𝒓𝒊𝒏𝒅𝒔𝒕𝒐𝒏𝒆 𝑩𝒍𝒂𝒅𝒆 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝟑 𝑱𝒂𝒓 + 𝟏 𝑩𝒍𝒆𝒏𝒅𝒆𝒓 𝑱𝒂𝒓, 𝟖𝟎𝟎 𝑾 (𝟐𝟏𝟎𝟎𝟎 𝑹𝑷𝑴), 𝟓 𝒚𝒓 𝒎𝒐𝒕𝒐𝒓 𝒘𝒂𝒓𝒓𝒂𝒏𝒕𝒚, 𝟐 𝒚𝒓 𝒑𝒓𝒐𝒅𝒖𝒄𝒕 𝒘𝒂𝒓𝒓𝒂𝒏𝒕𝒚 𝑰 𝑾𝒊𝒏𝒆",
-      "price": 3622,
-      "mrp": 8449,
-      "discount_pct": 57.0,
-      "saving": 4827,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0G2YMCHGW?tag=lootkabhandar-21",
-      "image": "img/1914.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1914,
-      "posted_at": "2026-11-19T12:06:58+05:30"
     },
     {
       "kind": "coupon",
