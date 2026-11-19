@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T17:41:21+05:30",
+  "updated_at": "2026-11-19T17:49:44+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑮𝒍𝒂𝒅𝒇𝒖𝒍 𝑷𝒂𝒏𝒄𝒂𝒌𝒆 𝑴𝒊𝒙 | 𝑩𝒖𝒚 𝟑 𝒑𝒂𝒄𝒌𝒔, 𝒈𝒆𝒕 𝟏 𝑭𝑹𝑬𝑬 | 𝑭𝒍𝒂𝒗𝒐𝒖𝒓𝒔 𝑺𝒕𝒓𝒂𝒘𝒃𝒆𝒓𝒓𝒚, 𝑩𝒍𝒖𝒆𝒃𝒆𝒓𝒓𝒚, 𝑩𝒂𝒏𝒂𝒏𝒂, 𝑪𝒉𝒐𝒄𝒐𝒍𝒂𝒕𝒆 | 𝑯𝒊𝒈𝒉-𝑷𝒓𝒐𝒕𝒆𝒊𝒏 | 𝑷𝒍𝒂𝒏𝒕-𝑩𝒂𝒔𝒆𝒅 𝑩𝒓𝒆𝒂𝒌𝒇𝒂𝒔𝒕 | 𝑵𝒐 𝑴𝒂𝒊𝒅𝒂 | 𝑵𝒐 𝑹𝒆𝒇𝒊𝒏𝒆𝒅 𝑺𝒖𝒈𝒂𝒓 | 𝑴𝒂𝒅𝒆 𝒘𝒊𝒕𝒉 𝑺𝒑𝒓𝒐𝒖𝒕𝒆𝒅 𝑴𝒊𝒍𝒍𝒆𝒕𝒔 | 𝟔𝟎𝟎 𝒈𝒎 (𝟏𝟓𝟎𝒈 𝒙 𝟒) | 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟒",
+      "price": 251,
+      "mrp": 447,
+      "discount_pct": 44.0,
+      "saving": 196,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DJGYP8YV?tag=lootkabhandar-21",
+      "image": "img/1941.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1941,
+      "posted_at": "2026-11-19T17:49:44+05:30"
+    },
     {
       "title": "Jarrow Formulas, PQQ (Pyrroloquinoline Quinone), 20 mg, 60 Capsules",
       "price": 7039,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1891,
       "posted_at": "2026-11-18T17:22:14+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑯𝒚𝟑𝟐𝟎 𝑴𝒊𝒏𝒊 𝑷𝒐𝒓𝒕𝒂𝒃𝒍𝒆 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒐𝒓-𝟓𝑮 𝑾𝒊𝑭𝒊 𝟔,𝑩𝒍𝒖𝒆𝒕𝒐𝒐𝒕𝒉 𝟓.𝟎 𝒂𝒏𝒅 𝑨𝒏𝒅𝒓𝒐𝒊𝒅 𝟏𝟏,𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝟒𝑲 𝒂𝒏𝒅 𝟏𝟎𝟖𝟎𝑷 𝑭𝒖𝒍𝒍 𝑯𝒅,𝟏𝟐,𝟎𝟎𝟎 𝑳𝒖𝒎𝒆𝒏𝒔,𝑳𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒐𝒓 𝒘𝒊𝒕𝒉 𝟒𝑫/𝟒𝑷 (𝑱𝑭𝑷𝟒𝟓)",
-      "price": 3699,
-      "mrp": 12999,
-      "discount_pct": 71.0,
-      "saving": 9300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HJD5WKWR?tag=lootkabhandar-21",
-      "image": "img/1890.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1890,
-      "posted_at": "2026-11-18T17:21:07+05:30"
     },
     {
       "kind": "coupon",
