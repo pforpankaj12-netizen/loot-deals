@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T11:41:18+05:30",
+  "updated_at": "2026-11-19T12:05:55+05:30",
   "deals": [
+    {
+      "title": "SPARX Sneaker SL-342 White for Women",
+      "price": 313,
+      "mrp": 699,
+      "discount_pct": 55.0,
+      "saving": 386,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GQBTNCHT?tag=lootkabhandar-21",
+      "image": "img/1913.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1913,
+      "posted_at": "2026-11-19T12:05:55+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒚𝒎𝒃𝒐𝒍 𝑾𝒐𝒎𝒆𝒏 𝑻𝒂𝒑𝒆𝒓𝒆𝒅 𝑷𝒂𝒑𝒆𝒓 𝑩𝒂𝒈 𝑻𝒓𝒐𝒖𝒔𝒆𝒓𝒔 (𝑯𝒊𝒈𝒉 𝑹𝒊𝒔𝒆 𝑨𝒏𝒌𝒍𝒆 𝑳𝒆𝒏𝒈𝒕𝒉 | 𝒘𝒊𝒕𝒉 𝑺𝒆𝒍𝒇 𝑭𝒂𝒃𝒓𝒊𝒄 𝑩𝒆𝒍𝒕) (𝑨𝒗𝒂𝒊𝒍𝒂𝒃𝒍𝒆 𝒊𝒏 𝑷𝒍𝒖𝒔 𝑺𝒊𝒛𝒆𝒔)",
       "price": 219,
@@ -508,19 +521,6 @@
       "category": "Jewellery",
       "telegram_msg_id": 1868,
       "posted_at": "2026-11-18T16:27:07+05:30"
-    },
-    {
-      "title": "Just Herbs Naturally Chic Makeup Hamper | For Her | Makeup Gift Kit | Rakhi Gift - Kit of 5 + Chic Sling Bag",
-      "price": 370,
-      "mrp": 1099,
-      "discount_pct": 66.0,
-      "saving": 729,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FJXKJ4R6?tag=lootkabhandar-21",
-      "image": "img/1867.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 1867,
-      "posted_at": "2026-11-18T13:05:57+05:30"
     }
   ]
 }
