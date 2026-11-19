@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T20:32:10+05:30",
+  "updated_at": "2026-11-19T20:40:50+05:30",
   "deals": [
+    {
+      "title": "🔥 ⚡ PRICE ERROR 𝒔𝒉𝒂𝒓𝒎𝒂 𝒋𝒊 𝒔𝒕𝒐𝒓𝒆 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑺𝒉𝒐𝒆 𝑹𝒂𝒄𝒌 · 𝑺𝒉𝒐𝒑𝒔𝒚",
+      "price": 75,
+      "mrp": 799,
+      "discount_pct": 90.0,
+      "saving": 724,
+      "store": "Shopsy",
+      "link": "https://bitli.in/piwIGCR",
+      "image": "img/1965.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1965,
+      "posted_at": "2026-11-19T20:40:50+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 🔥 𝑮𝒓𝒂𝒃 𝒕𝒉𝒊𝒔 𝒅𝒆𝒂𝒍 𝒃𝒆𝒇𝒐𝒓𝒆 𝒊𝒕'𝒔 𝒈𝒐𝒏𝒆!𝑷𝑼𝑴𝑨 𝑭𝒂𝒔𝒉𝒊𝒐𝒏 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
       "price": 2279,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1912,
       "posted_at": "2026-11-19T11:41:18+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑫𝑨𝑩𝑼𝑹 𝑯𝒆𝒓𝒃'𝑳 𝑨𝒄𝒕𝒊𝒗𝒂𝒕𝒆𝒅 𝑪𝒉𝒂𝒓𝒄𝒐𝒂𝒍 𝑻𝒐𝒐𝒕𝒉𝒑𝒂𝒔𝒕𝒆 𝟐𝟒𝟎𝑮 (𝟏𝟐𝟎𝑮 𝒙𝟐, 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟐)|𝑾𝒉𝒊𝒕𝒆𝒏𝒊𝒏𝒈 𝑩𝒍𝒂𝒄𝒌 𝑮𝒆𝒍 𝑻𝒐𝒐𝒕𝒉𝒑𝒂𝒔𝒕𝒆|𝑭𝒍𝒖𝒐𝒓𝒊𝒅𝒆 𝑭𝒓𝒆𝒆|𝑭𝒊𝒈𝒉𝒕𝒔 𝑷𝒍𝒂𝒒𝒖𝒆 & 𝑬𝒙𝒕𝒓𝒊𝒏𝒔𝒊𝒄 𝑺𝒕𝒂𝒊𝒏𝒔|𝑾𝒊𝒕𝒉 𝑷𝒐𝒘𝒆𝒓 𝒐𝒇 𝑴𝒊𝒏𝒕|𝑪𝒐𝒐𝒍 & 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑴𝒐𝒖𝒕𝒉 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆",
-      "price": 96,
-      "mrp": null,
-      "discount_pct": 74.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BQC6B15R?tag=lootkabhandar-21",
-      "image": "img/1911.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1911,
-      "posted_at": "2026-11-19T11:18:24+05:30"
     },
     {
       "kind": "coupon",
