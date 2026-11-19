@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T18:05:24+05:30",
+  "updated_at": "2026-11-19T08:20:24+05:30",
   "deals": [
+    {
+      "title": "Peppa Pig 2-in-1 Party Bus Playset with 3 Figures and 13 Accessory Pieces, Preschool Toys for Girls and Boys, Kids Gifts, Ages 3+",
+      "price": 14195,
+      "mrp": 27659,
+      "discount_pct": 48.0,
+      "saving": 13464,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CJVPXN6S?tag=lootkabhandar-21",
+      "image": "img/1900.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1900,
+      "posted_at": "2026-11-19T08:20:24+05:30"
+    },
+    {
+      "title": "DIY Crafts 50 Grm, 3&#34; Set, Buffing & Polishing Pad Kit Choice 1&#34; 2&#34; 3&#34; Kit with 5/8&#34;-11 Thread Backing pad & Adapters for Car Sanding, Polishing, Waxing, Sealing Glaz(50 Grm, 3&#34; Set)",
+      "price": 219,
+      "mrp": 4495,
+      "discount_pct": 95.0,
+      "saving": 4276,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09VLHHZQR?tag=lootkabhandar-21",
+      "image": "img/1899.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1899,
+      "posted_at": "2026-11-19T08:20:20+05:30"
+    },
+    {
+      "title": "Mother Sparsh Natural Care Baby Wash & Shampoo-400ml | Baby Head to Toe Wash | Tear Free Formula With Organic Coconut Oil, Calendula & Avocado | Suitable for Newborn Sensitive Skin",
+      "price": 224,
+      "mrp": 449,
+      "discount_pct": 50.0,
+      "saving": 225,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FJY5P6RG?tag=lootkabhandar-21",
+      "image": "img/1898.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 1898,
+      "posted_at": "2026-11-19T08:20:14+05:30"
+    },
+    {
+      "title": "ANYCUBIC Washing and Curing Station 3.0, Resin 3D Printer for Post-Process of Most LCD/SLA/MSLA/DLP Resin Printers, Detergent Saving and Dual Cleaning and Curing Models",
+      "price": 13999,
+      "mrp": 57213,
+      "discount_pct": 75.0,
+      "saving": 43214,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D7VJLPB7?tag=lootkabhandar-21",
+      "image": "img/1897.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 1897,
+      "posted_at": "2026-11-19T08:20:10+05:30"
+    },
     {
       "title": "🔥 🛒 Grocery Loots 𝑾𝒂𝒈𝒉 𝑩𝒂𝒌𝒓𝒊 𝑮𝒓𝒆𝒆𝒏 𝑻𝒆𝒂 𝑺𝒉𝒖𝒅𝒉 𝑲𝒂𝒉𝒘𝒂 𝑻𝒆𝒂 𝑩𝒂𝒈, 𝟐𝟓 𝑻𝒆𝒂 𝑩𝒂𝒈*𝟐.𝟓𝑮, 𝟔𝟐.𝟓 𝑮𝒓𝒂𝒎𝒔",
       "price": 149,
@@ -469,58 +521,6 @@
       "store": "Amazon",
       "telegram_msg_id": 1845,
       "title": "French Vanilla Aroma Diffuser Oil |15 ML|Premium Fragrance| IFRA Certified"
-    },
-    {
-      "category": "Other",
-      "discount_pct": 76.0,
-      "image": "img/1844.jpg",
-      "link": "https://www.amazon.in/dp/B09NDKDJJB?tag=lootkabhandar-21",
-      "mrp": 690,
-      "posted_at": "2026-11-15T12:02:13+05:30",
-      "price": 169,
-      "saving": 521,
-      "store": "Amazon",
-      "telegram_msg_id": 1844,
-      "title": "🔥 💥 LOOT 𝑾𝒊𝒑𝒓𝒐 𝑷𝒐𝒍𝒚𝒄𝒂𝒓𝒃𝒐𝒏𝒂𝒕𝒆 𝑮𝒂𝒓𝒏𝒆𝒕 𝟔𝑾 𝑹𝒊𝒎𝒍𝒆𝒔𝒔 𝑹𝒐𝒖𝒏𝒅"
-    },
-    {
-      "category": "Other",
-      "discount_pct": 70.0,
-      "image": null,
-      "link": "https://www.amazon.in/dp/B09DD67M2W?tag=lootkabhandar-21",
-      "mrp": null,
-      "posted_at": "2026-11-15T11:50:11+05:30",
-      "price": 190,
-      "saving": null,
-      "store": "Amazon",
-      "telegram_msg_id": 1843,
-      "title": "🔥 💥 LOOT 𝑬𝒗𝒆𝒓𝒚𝒖𝒕𝒉 𝑵𝒂𝒕𝒖𝒓𝒂𝒍𝒔 𝑪𝒐𝒄𝒐𝒂 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏 (𝟓𝟎𝟎𝒎𝒍) @𝟏𝟗𝟎."
-    },
-    {
-      "category": "Other",
-      "discount_pct": 67.0,
-      "image": "img/1842.jpg",
-      "link": "https://www.amazon.in/dp/B0DK1WFTQK?tag=lootkabhandar-21",
-      "mrp": 1199,
-      "posted_at": "2026-11-15T11:43:55+05:30",
-      "price": 395,
-      "saving": 804,
-      "store": "Amazon",
-      "telegram_msg_id": 1842,
-      "title": "🔥 💥 LOOT 𝑳𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄 𝒀𝒐𝒈𝒖𝒓𝒕 & 𝑪𝒖𝒓𝒅 𝑴𝒂𝒌𝒆𝒓 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 | 𝑨𝒖𝒕𝒐 𝑻𝒆𝒎𝒑𝒆𝒓𝒂𝒕𝒖𝒓𝒆 𝑹𝒆𝒈𝒖𝒍𝒂𝒕𝒊𝒐𝒏 | 𝑬𝒍𝒆𝒄𝒕𝒓𝒊𝒄 𝑷𝒓𝒐𝒃𝒊𝒐𝒕𝒊𝒄 𝒀𝒐𝒈𝒖𝒓𝒕 𝑴𝒂𝒌𝒆𝒓 𝒇𝒐𝒓 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 (𝟏 𝑳) | 𝑻𝒉𝒊𝒄𝒌 𝑪𝒓𝒆𝒂𝒎𝒚 𝑷𝒓𝒐𝒃𝒊𝒐𝒕𝒊𝒄 𝑪𝒖𝒓𝒅 |𝟑𝟎𝟒 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑪𝒐𝒏𝒕𝒂𝒊𝒏𝒆𝒓"
-    },
-    {
-      "category": "Other",
-      "discount_pct": null,
-      "image": null,
-      "link": "https://fktr.in/jfs4H5t",
-      "mrp": null,
-      "posted_at": "2026-11-15T11:36:04+05:30",
-      "price": 129,
-      "saving": null,
-      "store": "Flipkart",
-      "telegram_msg_id": 1841,
-      "title": "₹129 :"
     }
   ]
 }
