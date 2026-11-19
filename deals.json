@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T21:02:55+05:30",
+  "updated_at": "2026-11-19T21:24:16+05:30",
   "deals": [
+    {
+      "title": "🔥 👗 Fashion Loots 𝑮𝑨𝑷 𝑩𝒂𝒃𝒚-𝑮𝒊𝒓𝒍'𝒔 𝑪𝒐𝒕𝒕𝒐𝒏 𝑨-𝑳𝒊𝒏𝒆 𝑨𝒃𝒐𝒗𝒆 𝑻𝒉𝒆 𝑲𝒏𝒆𝒆 𝑪𝒂𝒔𝒖𝒂𝒍 𝑫𝒓𝒆𝒔𝒔",
+      "price": 299,
+      "mrp": 749,
+      "discount_pct": 60.1,
+      "saving": 450,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F6YJ3C26?tag=lootkabhandar-21",
+      "image": "img/1969.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1969,
+      "posted_at": "2026-11-19T21:24:16+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑻𝒉𝒆 𝑺𝑽 𝑺𝒕𝒚𝒍𝒆 𝑴𝒆𝒏'𝒔 𝑳𝒂𝒚𝒆𝒓𝒆𝒅 𝑳𝒐𝒏𝒈 𝑺𝒍𝒆𝒆𝒗𝒆 𝑯𝒐𝒐𝒅𝒊𝒆, 𝑹𝒆𝒅 𝒂𝒏𝒅 𝑾𝒉𝒊𝒕𝒆, 𝑪𝒐𝒕𝒕𝒐𝒏 𝑩𝒍𝒆𝒏𝒅, 𝑪𝒂𝒔𝒖𝒂𝒍 𝑷𝒖𝒍𝒍𝒐𝒗𝒆𝒓",
       "price": 166,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1917,
       "posted_at": "2026-11-19T12:45:17+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝒃𝒆𝒔𝒒𝒖𝒆𝒔𝒕𝒊𝒙 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒛𝒊𝒏𝒈 𝑮𝒆𝒍 𝑯𝒆𝒆𝒍 𝑺𝒐𝒄𝒌𝒔 𝒇𝒐𝒓 𝑪𝒓𝒂𝒄𝒌𝒆𝒅 𝑯𝒆𝒆𝒍𝒔, 𝑺𝒊𝒍𝒊𝒄𝒐𝒏𝒆 𝑺𝒑𝒂 𝑺𝒐𝒄𝒌𝒔 𝒇𝒐𝒓 𝑫𝒓𝒚 𝑭𝒆𝒆𝒕 𝑹𝒆𝒑𝒂𝒊𝒓, 𝑯𝒆𝒆𝒍 𝑷𝒂𝒊𝒏 𝑹𝒆𝒍𝒊𝒆𝒇 & 𝑭𝒐𝒐𝒕 𝑪𝒂𝒓𝒆, 𝑹𝒆𝒖𝒔𝒂𝒃𝒍𝒆 𝑯𝒚𝒅𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒐𝒄𝒌𝒔 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏 , 𝑶𝒗𝒆𝒓𝒏𝒊𝒈𝒉𝒕 𝑯𝒆𝒆𝒍 𝑺𝒐𝒇𝒕𝒆𝒏𝒊𝒏𝒈 & 𝑹𝒆𝒑𝒂𝒊𝒓 𝑻𝒓𝒆𝒂𝒕𝒎𝒆𝒏𝒕 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑬 &𝒅𝒆𝒂𝒅 𝒔𝒌𝒊𝒏(𝟏 𝑷𝑨𝑰𝑹)(𝒃𝒂𝒃𝒚 𝒑𝒊𝒏𝒌)",
-      "price": 195,
-      "mrp": 499,
-      "discount_pct": 61.0,
-      "saving": 304,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GYPCBTXL?tag=lootkabhandar-21",
-      "image": "img/1916.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1916,
-      "posted_at": "2026-11-19T12:31:49+05:30"
     },
     {
       "kind": "coupon",
