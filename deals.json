@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T21:41:22+05:30",
+  "updated_at": "2026-11-19T22:18:19+05:30",
   "deals": [
+    {
+      "title": "CORSICA Textured Wedge Heels💰 ₹474 ₹1,899 · 75% off🛒 Myntra🔗",
+      "price": 474,
+      "mrp": null,
+      "discount_pct": 75.0,
+      "saving": null,
+      "store": "Myntra",
+      "link": "https://myntr.it/qD2iJCn",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 1975,
+      "posted_at": "2026-11-19T22:18:19+05:30"
+    },
     {
       "title": "Acerpure Amrit Premium Water Purifier by Acer |6.5L RO|DIY Filter Replacement|Stainless Steel Tank|24 Months Free Filter|TDS Meter| 6 Stage Purification|For Borewell,Tanker & Municipal Water |(Purple)",
       "price": 5999,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1922,
       "posted_at": "2026-11-19T13:54:34+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑪𝒓𝒆𝒕𝒂 𝑪𝒐𝒕𝒕𝒐𝒏 𝑩𝒍𝒆𝒏𝒅 𝑩𝒓𝒊𝒆𝒇 · 𝑺𝒉𝒐𝒑𝒔𝒚",
-      "price": 49,
-      "mrp": 399,
-      "discount_pct": 88.0,
-      "saving": 350,
-      "store": "Shopsy",
-      "link": "https://bitli.in/PVxqhLa",
-      "image": "img/1921.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1921,
-      "posted_at": "2026-11-19T13:54:04+05:30"
     },
     {
       "kind": "coupon",
