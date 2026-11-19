@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T11:18:24+05:30",
+  "updated_at": "2026-11-19T11:41:18+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒚𝒎𝒃𝒐𝒍 𝑾𝒐𝒎𝒆𝒏 𝑻𝒂𝒑𝒆𝒓𝒆𝒅 𝑷𝒂𝒑𝒆𝒓 𝑩𝒂𝒈 𝑻𝒓𝒐𝒖𝒔𝒆𝒓𝒔 (𝑯𝒊𝒈𝒉 𝑹𝒊𝒔𝒆 𝑨𝒏𝒌𝒍𝒆 𝑳𝒆𝒏𝒈𝒕𝒉 | 𝒘𝒊𝒕𝒉 𝑺𝒆𝒍𝒇 𝑭𝒂𝒃𝒓𝒊𝒄 𝑩𝒆𝒍𝒕) (𝑨𝒗𝒂𝒊𝒍𝒂𝒃𝒍𝒆 𝒊𝒏 𝑷𝒍𝒖𝒔 𝑺𝒊𝒛𝒆𝒔)",
+      "price": 219,
+      "mrp": 1999,
+      "discount_pct": 89.0,
+      "saving": 1780,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08HZTK4HW?tag=lootkabhandar-21",
+      "image": "img/1912.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1912,
+      "posted_at": "2026-11-19T11:41:18+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑫𝑨𝑩𝑼𝑹 𝑯𝒆𝒓𝒃'𝑳 𝑨𝒄𝒕𝒊𝒗𝒂𝒕𝒆𝒅 𝑪𝒉𝒂𝒓𝒄𝒐𝒂𝒍 𝑻𝒐𝒐𝒕𝒉𝒑𝒂𝒔𝒕𝒆 𝟐𝟒𝟎𝑮 (𝟏𝟐𝟎𝑮 𝒙𝟐, 𝑷𝒂𝒄𝒌 𝒐𝒇 𝟐)|𝑾𝒉𝒊𝒕𝒆𝒏𝒊𝒏𝒈 𝑩𝒍𝒂𝒄𝒌 𝑮𝒆𝒍 𝑻𝒐𝒐𝒕𝒉𝒑𝒂𝒔𝒕𝒆|𝑭𝒍𝒖𝒐𝒓𝒊𝒅𝒆 𝑭𝒓𝒆𝒆|𝑭𝒊𝒈𝒉𝒕𝒔 𝑷𝒍𝒂𝒒𝒖𝒆 & 𝑬𝒙𝒕𝒓𝒊𝒏𝒔𝒊𝒄 𝑺𝒕𝒂𝒊𝒏𝒔|𝑾𝒊𝒕𝒉 𝑷𝒐𝒘𝒆𝒓 𝒐𝒇 𝑴𝒊𝒏𝒕|𝑪𝒐𝒐𝒍 & 𝑹𝒆𝒇𝒓𝒆𝒔𝒉𝒊𝒏𝒈 𝑴𝒐𝒖𝒕𝒉 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆",
       "price": 96,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 1867,
       "posted_at": "2026-11-18T13:05:57+05:30"
-    },
-    {
-      "title": "Drumstone (𝟏𝟓 𝐘𝐞𝐚𝐫𝐬 𝐖𝐚𝐫𝐫𝐚𝐧𝐭𝐲 in-Ear Wired Earphones with Mic | Deep Bass Boosted Sound | Noise-Isolating Wired Headphones for Gaming, Music, Calls | 3.5mm Jack, Tangle-Free Cable",
-      "price": 399,
-      "mrp": 1999,
-      "discount_pct": 80.0,
-      "saving": 1600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F92Y8BC7?tag=lootkabhandar-21",
-      "image": "img/1866.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 1866,
-      "posted_at": "2026-11-18T13:05:54+05:30"
     }
   ]
 }
