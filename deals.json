@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T12:06:58+05:30",
+  "updated_at": "2026-11-19T12:31:49+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝒃𝒆𝒔𝒒𝒖𝒆𝒔𝒕𝒊𝒙 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒛𝒊𝒏𝒈 𝑮𝒆𝒍 𝑯𝒆𝒆𝒍 𝑺𝒐𝒄𝒌𝒔 𝒇𝒐𝒓 𝑪𝒓𝒂𝒄𝒌𝒆𝒅 𝑯𝒆𝒆𝒍𝒔, 𝑺𝒊𝒍𝒊𝒄𝒐𝒏𝒆 𝑺𝒑𝒂 𝑺𝒐𝒄𝒌𝒔 𝒇𝒐𝒓 𝑫𝒓𝒚 𝑭𝒆𝒆𝒕 𝑹𝒆𝒑𝒂𝒊𝒓, 𝑯𝒆𝒆𝒍 𝑷𝒂𝒊𝒏 𝑹𝒆𝒍𝒊𝒆𝒇 & 𝑭𝒐𝒐𝒕 𝑪𝒂𝒓𝒆, 𝑹𝒆𝒖𝒔𝒂𝒃𝒍𝒆 𝑯𝒚𝒅𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒐𝒄𝒌𝒔 𝒇𝒐𝒓 𝑾𝒐𝒎𝒆𝒏 , 𝑶𝒗𝒆𝒓𝒏𝒊𝒈𝒉𝒕 𝑯𝒆𝒆𝒍 𝑺𝒐𝒇𝒕𝒆𝒏𝒊𝒏𝒈 & 𝑹𝒆𝒑𝒂𝒊𝒓 𝑻𝒓𝒆𝒂𝒕𝒎𝒆𝒏𝒕 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑬 &𝒅𝒆𝒂𝒅 𝒔𝒌𝒊𝒏(𝟏 𝑷𝑨𝑰𝑹)(𝒃𝒂𝒃𝒚 𝒑𝒊𝒏𝒌)",
+      "price": 195,
+      "mrp": 499,
+      "discount_pct": 61.0,
+      "saving": 304,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GYPCBTXL?tag=lootkabhandar-21",
+      "image": "img/1916.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1916,
+      "posted_at": "2026-11-19T12:31:49+05:30"
+    },
     {
       "title": "🔥 🍳 Kitchen Loots 𝑴𝒊𝒍𝒕𝒐𝒏 𝑨𝒓𝒕𝒊𝒔 𝑴𝒊𝒙𝒆𝒓 𝑮𝒓𝒊𝒏𝒅𝒆𝒓, 𝑰𝑺𝑰 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅, 𝑮𝒓𝒊𝒏𝒅𝒔𝒕𝒐𝒏𝒆 𝑩𝒍𝒂𝒅𝒆 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝟑 𝑱𝒂𝒓 + 𝟏 𝑩𝒍𝒆𝒏𝒅𝒆𝒓 𝑱𝒂𝒓, 𝟖𝟎𝟎 𝑾 (𝟐𝟏𝟎𝟎𝟎 𝑹𝑷𝑴), 𝟓 𝒚𝒓 𝒎𝒐𝒕𝒐𝒓 𝒘𝒂𝒓𝒓𝒂𝒏𝒕𝒚, 𝟐 𝒚𝒓 𝒑𝒓𝒐𝒅𝒖𝒄𝒕 𝒘𝒂𝒓𝒓𝒂𝒏𝒕𝒚 𝑰 𝑾𝒊𝒏𝒆",
       "price": 3622,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1871,
       "posted_at": "2026-11-18T16:27:25+05:30"
-    },
-    {
-      "title": "A TATA Product - Organic India Tulsi Original, 100g",
-      "price": 158,
-      "mrp": 300,
-      "discount_pct": 47.0,
-      "saving": 142,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07B61GM2C?tag=lootkabhandar-21",
-      "image": "img/1869.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1869,
-      "posted_at": "2026-11-18T16:27:14+05:30"
     }
   ]
 }
