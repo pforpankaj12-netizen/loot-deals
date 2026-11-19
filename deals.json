@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T18:33:44+05:30",
+  "updated_at": "2026-11-19T19:26:04+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒐𝒍𝒊𝒎𝒐 𝑴𝒂𝒓𝒖𝒕𝒊 𝑽𝒊𝒕𝒂𝒓𝒂 𝑩𝒓𝒆𝒛𝒛𝒂 𝑼𝒗 𝑷𝒓𝒐𝒕𝒆𝒄𝒕𝒊𝒐𝒏 & 𝑫𝒖𝒔𝒕𝒑𝒓𝒐𝒐𝒇 𝑪𝒂𝒓 𝑪𝒐𝒗𝒆𝒓 (𝑫𝒂𝒓𝒌 𝑩𝒍𝒖𝒆 & 𝑺𝒊𝒍𝒗𝒆𝒓), 𝒇𝒐𝒓 𝑪𝒂𝒓",
+      "price": 371,
+      "mrp": 995,
+      "discount_pct": 62.7,
+      "saving": 624,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07JBCZ876?tag=lootkabhandar-21",
+      "image": "img/1947.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1947,
+      "posted_at": "2026-11-19T19:26:04+05:30"
+    },
+    {
+      "title": "🔥 👟 Footwear Loots 𝒂𝒅𝒊𝒅𝒂𝒔 𝑴𝒆𝒏𝒔 𝑳𝒊𝒈𝒉𝒕𝒓𝒖𝒏 𝒁𝒐𝒐𝒎𝒆𝒓 𝑴 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆𝒔",
+      "price": 2279,
+      "mrp": 5299,
+      "discount_pct": 57.0,
+      "saving": 3020,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GFN8NNXP?tag=lootkabhandar-21",
+      "image": "img/1946.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 1946,
+      "posted_at": "2026-11-19T19:24:28+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑮𝒓𝒂𝒃 : 𝑭𝒚𝒕𝒊𝒌𝒂 𝑺𝒆𝒂 𝑩𝒖𝒄𝒌𝒕𝒉𝒐𝒓𝒏 𝑱𝒖𝒊𝒄𝒆 (𝑽𝒆𝒈, 𝑶𝒎𝒆𝒈𝒂 𝟑,𝟔,𝟕,𝟗), 𝟑𝟎𝟎 𝒎𝒍 @𝟐𝟗𝟕.",
       "price": 297,
@@ -495,32 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 1898,
       "posted_at": "2026-11-19T08:20:14+05:30"
-    },
-    {
-      "title": "ANYCUBIC Washing and Curing Station 3.0, Resin 3D Printer for Post-Process of Most LCD/SLA/MSLA/DLP Resin Printers, Detergent Saving and Dual Cleaning and Curing Models",
-      "price": 13999,
-      "mrp": 57213,
-      "discount_pct": 75.0,
-      "saving": 43214,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D7VJLPB7?tag=lootkabhandar-21",
-      "image": "img/1897.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 1897,
-      "posted_at": "2026-11-19T08:20:10+05:30"
-    },
-    {
-      "title": "🔥 🛒 Grocery Loots 𝑾𝒂𝒈𝒉 𝑩𝒂𝒌𝒓𝒊 𝑮𝒓𝒆𝒆𝒏 𝑻𝒆𝒂 𝑺𝒉𝒖𝒅𝒉 𝑲𝒂𝒉𝒘𝒂 𝑻𝒆𝒂 𝑩𝒂𝒈, 𝟐𝟓 𝑻𝒆𝒂 𝑩𝒂𝒈*𝟐.𝟓𝑮, 𝟔𝟐.𝟓 𝑮𝒓𝒂𝒎𝒔",
-      "price": 149,
-      "mrp": null,
-      "discount_pct": 50.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07YF2TW6R?tag=lootkabhandar-21",
-      "image": "img/1894.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1894,
-      "posted_at": "2026-11-18T18:05:24+05:30"
     },
     {
       "kind": "coupon",
