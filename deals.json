@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T09:58:10+05:30",
+  "updated_at": "2026-11-19T09:59:18+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑨𝒅𝒗𝒂𝒏𝒔𝒆𝒅 𝑪𝒐𝒄𝒐𝒂 𝑹𝒆𝒑𝒂𝒊𝒓 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏 𝒘𝒊𝒕𝒉 𝑷𝒖𝒓𝒆 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 𝑴𝒊𝒍𝒌 & 𝑪𝒐𝒄𝒐𝒂 𝑩𝒖𝒕𝒕𝒆𝒓 | 𝟏𝟎 𝑳𝒂𝒚𝒆𝒓 𝑫𝒆𝒆𝒑 𝑨𝒄𝒕𝒊𝒐𝒏 | 𝟕𝟐 𝑯𝒓 | 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒛𝒆𝒓 | 𝑰𝒏𝒕𝒆𝒏𝒔𝒆 𝑹𝒆𝒑𝒂𝒊𝒓 𝒇𝒐𝒓 𝑬𝒙𝒕𝒓𝒂 𝑫𝒓𝒚 𝑺𝒌𝒊𝒏 | 𝑭𝒐𝒓 𝑾𝒐𝒎𝒆𝒏 | 𝟒𝟎𝟎𝒎𝒍 | 𝑭𝒐𝒓 𝑾𝒊𝒏𝒕𝒆𝒓 | 𝑫𝒂𝒊𝒍𝒚 𝑼𝒔𝒆",
+      "price": 186,
+      "mrp": 500,
+      "discount_pct": 63.0,
+      "saving": 314,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09HC85ZPS?tag=lootkabhandar-21",
+      "image": "img/1907.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1907,
+      "posted_at": "2026-11-19T09:59:18+05:30"
+    },
     {
       "title": "Brew Head Gasket Rings Espresso Maker Silicone Gasket for E61 Coffee Machine|Drip Coffee Machines|Coffee, Tea & Espresso|Kitchen & Home Appliances",
       "price": 258,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 1862,
       "posted_at": "2026-11-18T11:51:48+05:30"
-    },
-    {
-      "title": "Amazon Brand @358.https://www.amazon.in/dp/B0F93VVSWQ?tag=lootkabhandar-21",
-      "price": 1179,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F93VVSWQ?tag=lootkabhandar-21",
-      "image": "img/1861.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1861,
-      "posted_at": "2026-11-18T11:51:42+05:30"
     }
   ]
 }
