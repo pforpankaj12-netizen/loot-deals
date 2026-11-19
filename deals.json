@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T22:46:51+05:30",
+  "updated_at": "2026-11-19T23:06:32+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑫𝒂𝒃𝒖𝒓 𝑹𝒆𝒅 𝑮𝒆𝒍 𝑨𝒚𝒖𝒓𝒗𝒆𝒅𝒊𝒄 𝑻𝒐𝒐𝒕𝒉𝒑𝒂𝒔𝒕𝒆 - 𝟔𝟎𝟎𝒈 (𝟏𝟓𝟎𝒈 𝒙 𝟒) | 𝑹𝒆𝒅𝒖𝒄𝒕𝒊𝒐𝒏 𝒊𝒏 𝑩𝒂𝒅 𝑩𝒓𝒆𝒂𝒕𝒉, 𝑷𝒍𝒂𝒒𝒖𝒆 & 𝑮𝒊𝒏𝒈𝒊𝒗𝒊𝒕𝒊𝒔 | 𝑭𝒓𝒆𝒔𝒉𝒏𝒆𝒔𝒔 𝒘𝒊𝒕𝒉 𝑷𝒓𝒐𝒕𝒆𝒄𝒕𝒊𝒐𝒏 | 𝑭𝒐𝒓 𝑯𝒆𝒂𝒍𝒕𝒉𝒚 𝑮𝒖𝒎𝒔 & 𝑬𝒇𝒇𝒆𝒄𝒕𝒊𝒗𝒆 𝑫𝒆𝒏𝒕𝒂𝒍 𝑪𝒂𝒓𝒆",
+      "price": 219,
+      "mrp": 540,
+      "discount_pct": 59.0,
+      "saving": 321,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F4R4BG5G?tag=lootkabhandar-21",
+      "image": "img/1977.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1977,
+      "posted_at": "2026-11-19T23:06:32+05:30"
+    },
     {
       "title": "🔥 🍳 Kitchen Loots 𝑴𝑰𝑳𝑻𝑶𝑵 𝑪𝒐𝒎𝒆𝒕 𝟏𝟎𝟎𝟎 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑾𝒂𝒕𝒆𝒓 𝑩𝒐𝒕𝒕𝒍𝒆 𝟏𝟎𝟎𝟎 𝒎𝒍, 𝑺𝒊𝒏𝒈𝒍𝒆 𝑾𝒂𝒍𝒍𝒆𝒅, 𝑰𝑺𝑰 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅 𝑰 𝑳𝒆𝒂𝒌 𝑷𝒓𝒐𝒐𝒇 𝑳𝒊𝒅, 𝑹𝒖𝒔𝒕 𝑷𝒓𝒐𝒐𝒇 𝑰 𝑭𝒐𝒓 𝑺𝒄𝒉𝒐𝒐𝒍, 𝑶𝒇𝒇𝒊𝒄𝒆, 𝑮𝒚𝒎 𝑰 𝑩𝒍𝒂𝒄𝒌",
       "price": 249,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1928,
       "posted_at": "2026-11-19T15:03:52+05:30"
-    },
-    {
-      "title": "🔥 👟 Footwear Loots 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑵𝒐𝒓𝒕𝒉 𝑺𝒕𝒂𝒓 𝑺𝒉𝒐𝒆𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟑𝟕𝟒.",
-      "price": 374,
-      "mrp": null,
-      "discount_pct": 75.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?rh=n%3A1571283031%2Cp_4%3ANorth%2BStar%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 1923,
-      "posted_at": "2026-11-19T14:08:46+05:30"
     },
     {
       "kind": "coupon",
