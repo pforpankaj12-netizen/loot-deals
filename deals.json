@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T23:40:42+05:30",
+  "updated_at": "2026-11-19T23:48:17+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑩𝒐𝒓𝒐𝑷𝒍𝒖𝒔 𝑺𝒐𝒇𝒕 𝑳𝒊𝒈𝒉𝒕 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒊𝒏𝒈 𝑪𝒓𝒆𝒂𝒎|𝑳𝒊𝒈𝒉𝒕 & 𝑵𝒐𝒏-𝒔𝒕𝒊𝒄𝒌𝒚|𝑷𝒓𝒐𝒗𝒊𝒅𝒆𝒔 𝟐𝟒 𝒉𝒐𝒖𝒓 𝒎𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒂𝒕𝒊𝒐𝒏 | 𝑭𝒐𝒓 𝑺𝒐𝒇𝒕 𝑭𝒓𝒆𝒔𝒉 𝑺𝒌𝒊𝒏 𝟐𝟎𝟎 𝒎𝒍",
+      "price": 128,
+      "mrp": 310,
+      "discount_pct": 59.0,
+      "saving": 182,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B8QG4K3G?tag=lootkabhandar-21",
+      "image": "img/1979.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1979,
+      "posted_at": "2026-11-19T23:48:17+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑨𝒑𝒑𝒍𝒆 𝑾𝒂𝒕𝒄𝒉 𝑺𝒆𝒓𝒊𝒆𝒔 𝟏𝟏 𝑮𝑷𝑺 + 𝑪𝒆𝒍𝒍𝒖𝒍𝒂𝒓 𝟒𝟐𝒎𝒎 𝑨𝒕 𝑹𝒆𝒈𝒖𝒍𝒂𝒓",
       "price": 49990,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1934,
       "posted_at": "2026-11-19T15:39:43+05:30"
-    },
-    {
-      "title": "Loot ₹84 Talcum Powder 600g",
-      "price": 84,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Myntra",
-      "link": "https://myntr.it/e98VCyj",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1932,
-      "posted_at": "2026-11-19T15:04:03+05:30"
     },
     {
       "kind": "coupon",
