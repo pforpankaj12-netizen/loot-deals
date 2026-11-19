@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T12:05:55+05:30",
+  "updated_at": "2026-11-19T12:06:58+05:30",
   "deals": [
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝑴𝒊𝒍𝒕𝒐𝒏 𝑨𝒓𝒕𝒊𝒔 𝑴𝒊𝒙𝒆𝒓 𝑮𝒓𝒊𝒏𝒅𝒆𝒓, 𝑰𝑺𝑰 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒆𝒅, 𝑮𝒓𝒊𝒏𝒅𝒔𝒕𝒐𝒏𝒆 𝑩𝒍𝒂𝒅𝒆 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚, 𝟑 𝑱𝒂𝒓 + 𝟏 𝑩𝒍𝒆𝒏𝒅𝒆𝒓 𝑱𝒂𝒓, 𝟖𝟎𝟎 𝑾 (𝟐𝟏𝟎𝟎𝟎 𝑹𝑷𝑴), 𝟓 𝒚𝒓 𝒎𝒐𝒕𝒐𝒓 𝒘𝒂𝒓𝒓𝒂𝒏𝒕𝒚, 𝟐 𝒚𝒓 𝒑𝒓𝒐𝒅𝒖𝒄𝒕 𝒘𝒂𝒓𝒓𝒂𝒏𝒕𝒚 𝑰 𝑾𝒊𝒏𝒆",
+      "price": 3622,
+      "mrp": 8449,
+      "discount_pct": 57.0,
+      "saving": 4827,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G2YMCHGW?tag=lootkabhandar-21",
+      "image": "img/1914.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1914,
+      "posted_at": "2026-11-19T12:06:58+05:30"
+    },
     {
       "title": "SPARX Sneaker SL-342 White for Women",
       "price": 313,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1869,
       "posted_at": "2026-11-18T16:27:14+05:30"
-    },
-    {
-      "title": "LOVETC Filter Finish Compact Powder, Pore-Blurring, Espresso Truffle 9g",
-      "price": 425,
-      "mrp": 1599,
-      "discount_pct": 73.0,
-      "saving": 1174,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FQJRXCJ6?tag=lootkabhandar-21",
-      "image": "img/1868.jpg",
-      "category": "Jewellery",
-      "telegram_msg_id": 1868,
-      "posted_at": "2026-11-18T16:27:07+05:30"
     }
   ]
 }
