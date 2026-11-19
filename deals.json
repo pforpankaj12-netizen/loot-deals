@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T13:08:05+05:30",
+  "updated_at": "2026-11-19T13:31:34+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑪𝒆𝒕𝒂𝒑𝒉𝒊𝒍 𝑩𝒆𝒂𝒖𝒕𝒚 𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒔 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟗𝟗.",
+      "price": 99,
+      "mrp": null,
+      "discount_pct": 56.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Cetaphil&rh=n%3A1355016031%2Cp_123%3A236065%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665400031&i=beauty&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 1919,
+      "posted_at": "2026-11-19T13:31:34+05:30"
+    },
     {
       "title": "JVX Unisex-Adult Sweatshirt",
       "price": 399,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1875,
       "posted_at": "2026-11-18T16:28:18+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒐𝒍𝒊𝒎𝒐 𝑴𝒖𝒍𝒕𝒊𝒑𝒖𝒓𝒑𝒐𝒔𝒆 𝑮𝒍𝒂𝒔𝒔 𝟏𝟐𝟎𝒎𝒍, 𝑺𝒆𝒕 𝒐𝒇 𝟔, 𝑻𝒓𝒂𝒏𝒔𝒑𝒂𝒓𝒆𝒏𝒕",
-      "price": 397,
-      "mrp": 1199,
-      "discount_pct": 67.0,
-      "saving": 802,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07P5Z6H7W?tag=lootkabhandar-21",
-      "image": "img/1873.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1873,
-      "posted_at": "2026-11-18T16:27:54+05:30"
     }
   ]
 }
