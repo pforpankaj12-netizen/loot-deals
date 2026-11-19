@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T08:20:24+05:30",
+  "updated_at": "2026-11-19T08:22:13+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑷𝒐𝒏𝒅𝒔 𝑻𝒓𝒊𝒑𝒍𝒆 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒊𝒏𝒈 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏, 𝟔𝟎𝟎𝒎𝒍",
+      "price": 366,
+      "mrp": null,
+      "discount_pct": 60.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09FN1TRL1?tag=lootkabhandar-21",
+      "image": "img/1901.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1901,
+      "posted_at": "2026-11-19T08:22:13+05:30"
+    },
     {
       "title": "Peppa Pig 2-in-1 Party Bus Playset with 3 Figures and 13 Accessory Pieces, Preschool Toys for Girls and Boys, Kids Gifts, Ages 3+",
       "price": 14195,
@@ -508,19 +521,6 @@
       "store": "Amazon",
       "telegram_msg_id": 1847,
       "title": "Bajaj Almond Drops Moisturising Soap, 125 gm (Pack of 3)"
-    },
-    {
-      "category": "Other",
-      "discount_pct": 91.0,
-      "image": "img/1845.jpg",
-      "link": "https://www.amazon.in/dp/B0H18QYCBM?tag=lootkabhandar-21",
-      "mrp": 1999,
-      "posted_at": "2026-11-15T12:23:27+05:30",
-      "price": 169,
-      "saving": 1830,
-      "store": "Amazon",
-      "telegram_msg_id": 1845,
-      "title": "French Vanilla Aroma Diffuser Oil |15 ML|Premium Fragrance| IFRA Certified"
     }
   ]
 }
