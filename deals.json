@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T11:33:37+05:30",
+  "updated_at": "2026-11-20T11:43:51+05:30",
   "deals": [
+    {
+      "title": "Scotch-Brite (950-CT-W) Glass Cooktop Refill Pads, Cleans with Just Water, Tackle Burnt-On Messes, 1 Wand and 2 Replacement Heads",
+      "price": 338,
+      "mrp": 1500,
+      "discount_pct": 77.0,
+      "saving": 1162,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07PYFD589?tag=lootkabhandar-21",
+      "image": "img/1999.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1999,
+      "posted_at": "2026-11-20T11:43:51+05:30"
+    },
+    {
+      "title": "NOC High Caffeine Cold Brew Coffee Shot | 2.4X Caffeine | Instant Liquid Coffee Concentrate | Patented Super Drop Technology from South Korea | Premium Brazilian & Ethiopian Beans | Low Acid | 20ml",
+      "price": 145,
+      "mrp": 325,
+      "discount_pct": 55.0,
+      "saving": 180,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FRRHPJZB?tag=lootkabhandar-21",
+      "image": "img/1998.jpg",
+      "category": "Grocery & Food",
+      "telegram_msg_id": 1998,
+      "posted_at": "2026-11-20T11:43:48+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑮𝒂𝒓𝒏𝒊𝒆𝒓 𝑴𝒆𝒏 𝑨𝒄𝒏𝒐 𝑭𝒊𝒈𝒉𝒕 𝑨𝒏𝒕𝒊 𝑷𝒊𝒎𝒑𝒍𝒆 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉 + 𝑼𝑽 𝑺𝒆𝒓𝒖𝒎",
       "price": 306,
@@ -495,32 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 1952,
       "posted_at": "2026-11-19T19:40:02+05:30"
-    },
-    {
-      "title": "Shark VACMOP Reveal Cordless Vacuum & Spray Mop, Ivory, VM401IV",
-      "price": 21723,
-      "mrp": 46922,
-      "discount_pct": 53.0,
-      "saving": 25199,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GXC5TFPX?tag=lootkabhandar-21",
-      "image": "img/1951.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 1951,
-      "posted_at": "2026-11-19T19:39:59+05:30"
-    },
-    {
-      "title": "LG 24 inch (60.4 cm) IPS FHD (1920 x 1080 Pixels), HDR 10, Height Adjust, Display Port, HDMI, AMD FreeSync, 75 Hz Refresh, Black Color - 24MP450",
-      "price": 1998,
-      "mrp": 17100,
-      "discount_pct": 88.0,
-      "saving": 15102,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BNQDLGMR?tag=lootkabhandar-21",
-      "image": "img/1950.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 1950,
-      "posted_at": "2026-11-19T19:39:56+05:30"
     },
     {
       "kind": "coupon",
