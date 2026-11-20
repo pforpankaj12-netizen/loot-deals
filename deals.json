@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T17:47:12+05:30",
+  "updated_at": "2026-11-20T18:53:11+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑹𝒊𝒄𝒐𝒉 𝟖𝟒𝟏𝟗𝟏𝟗 𝒀𝒆𝒍𝒍𝒐𝒘 𝑻𝒐𝒏𝒆𝒓 𝑪𝒂𝒓𝒕𝒓𝒊𝒅𝒈𝒆 (𝟗𝟓𝟎𝟎 𝒀𝒊𝒆𝒍𝒅) 𝑻𝒐𝒏𝒆𝒓",
+      "price": 4818,
+      "mrp": 22565,
+      "discount_pct": 79.0,
+      "saving": 17747,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B01H9LF89U?tag=lootkabhandar-21",
+      "image": "img/2045.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2045,
+      "posted_at": "2026-11-20T18:53:11+05:30"
+    },
     {
       "title": "Colgate ZigZag Charcoal Toothbrush Set | Medium Bristles - 4Pcs (Multicolor)",
       "price": 80,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1994,
       "posted_at": "2026-11-20T10:51:26+05:30"
-    },
-    {
-      "title": "🔥 🍳 Kitchen Loots 𝑺𝒄𝒐𝒕𝒄𝒉-𝑩𝒓𝒊𝒕𝒆 𝑭𝒊𝒃𝒓𝒆 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑮𝒍𝒐𝒗𝒆𝒔 𝑳𝒂𝒓𝒈𝒆 𝒂𝒏𝒅 𝑱𝒆𝒕 𝑺𝒄𝒓𝒖𝒃𝒃𝒆𝒓 𝑩𝒓𝒖𝒔𝒉 𝑻𝒐𝒖𝒈𝒉 (𝑴𝒖𝒍𝒕𝒊𝒄𝒐𝒍𝒐𝒖𝒓)",
-      "price": 168,
-      "mrp": 360,
-      "discount_pct": 53.0,
-      "saving": 192,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07CCN56N5?tag=lootkabhandar-21",
-      "image": "img/1993.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1993,
-      "posted_at": "2026-11-20T10:50:56+05:30"
     },
     {
       "kind": "coupon",
