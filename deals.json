@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T08:42:31+05:30",
+  "updated_at": "2026-11-20T09:29:49+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑲𝒆𝒏𝒔𝒕𝒂𝒓 𝑰𝒏𝒇𝒓𝒂 𝑳𝑼𝑴𝑶 𝟐𝟎𝟎𝟎𝑾 𝑰𝒏𝒇𝒓𝒂𝒓𝒆𝒅 𝑺𝒕𝒐𝒗𝒆",
+      "price": 2352,
+      "mrp": 7999,
+      "discount_pct": 71.0,
+      "saving": 5647,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H5KF92L2?tag=lootkabhandar-21",
+      "image": "img/1987.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1987,
+      "posted_at": "2026-11-20T09:29:49+05:30"
+    },
     {
       "title": "BIGASUO Camera Security Camera for Home Outdoor High HD Focus Magnet Mini WiFi Magnetic Live Stream Night Vision IP Wireless 1080P Audio Video CCTV for Home and Office Monitor (1029) (Black, TMY-05)",
       "price": 599,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1940,
       "posted_at": "2026-11-19T17:38:59+05:30"
-    },
-    {
-      "title": "BENE Alaska Pendant Lamp, Mild Steel Indoor Modern Hanging Lamp, E-27 Base Ceiling Hanging Light for Home Decor, Kitchen, Living Room, Bedroom, 13 cm (Black, Pack of 1 Pc)",
-      "price": 459,
-      "mrp": 1800,
-      "discount_pct": 74.0,
-      "saving": 1341,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F78LWGNP?tag=lootkabhandar-21",
-      "image": "img/1939.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 1939,
-      "posted_at": "2026-11-19T17:38:56+05:30"
     },
     {
       "kind": "coupon",
