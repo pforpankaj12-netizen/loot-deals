@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T11:51:17+05:30",
+  "updated_at": "2026-11-20T12:02:04+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑺𝒂𝒇𝒂𝒓𝒊 𝑰𝒎𝒑𝒆𝒓𝒊𝒂 𝑻𝒓𝒐𝒍𝒍𝒆𝒚 𝟑 𝒀𝒆𝒂𝒓𝒔 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚 𝑫𝒖𝒇𝒇𝒍𝒆 𝑩𝒂𝒈 (𝟓𝟖 𝑪𝒎, 𝑻𝒆𝒂𝒍)",
+      "price": 1339,
+      "mrp": 4520,
+      "discount_pct": 70.0,
+      "saving": 3181,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HLDD7VM6?tag=lootkabhandar-21",
+      "image": "img/2001.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2001,
+      "posted_at": "2026-11-20T12:02:04+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑩𝒐𝒔𝒄𝒉 𝟐𝟒𝟑𝑳 𝑫𝒐𝒖𝒃𝒍𝒆 𝑫𝒐𝒐𝒓 𝑹𝒆𝒇𝒓𝒊𝒈𝒆𝒓𝒂𝒕𝒐𝒓 | 𝟔-𝒊𝒏-𝟏 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆",
       "price": 22865,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1954,
       "posted_at": "2026-11-19T19:48:13+05:30"
-    },
-    {
-      "title": "Amazon Basics Side Window Sun Shade for Maruti Suzuki Swift (2024 Onwards) - Front Half Cut + Rear Zipper | Custom-Fit Magnetic Car Curtains | Black | Pack of 4 Pcs | Cotton Mesh",
-      "price": 448,
-      "mrp": 4399,
-      "discount_pct": 89.0,
-      "saving": 3951,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GTW51P2Y?tag=lootkabhandar-21",
-      "image": "img/1953.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1953,
-      "posted_at": "2026-11-19T19:40:04+05:30"
     },
     {
       "kind": "coupon",
