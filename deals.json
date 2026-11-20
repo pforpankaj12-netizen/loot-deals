@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T21:03:47+05:30",
+  "updated_at": "2026-11-20T21:30:15+05:30",
   "deals": [
+    {
+      "title": "🔥 👟 Footwear Loots 𝑺𝒌𝒆𝒄𝒉𝒆𝒓𝒔 𝑴𝒆𝒏𝒔 𝑮𝒐 𝑹𝒖𝒏 𝑷𝒖𝒓𝒆 𝑺𝒏𝒆𝒂𝒌𝒆𝒓",
+      "price": 2405,
+      "mrp": 6499,
+      "discount_pct": 63.0,
+      "saving": 4094,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GF789S6T?tag=lootkabhandar-21",
+      "image": "img/2062.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2062,
+      "posted_at": "2026-11-20T21:30:15+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑽𝒂𝒔𝒆𝒍𝒊𝒏𝒆 𝑳𝒊𝒑 𝑪𝒂𝒓𝒆 | 𝑹𝒐𝒔𝒚 𝑳𝒊𝒑𝒔 𝑻𝒊𝒏𝒕𝒆𝒅 𝑳𝒊𝒑 𝑩𝒂𝒍𝒎 𝑺𝒕𝒊𝒄𝒌 | 𝑼𝒑 𝒕𝒐 𝟒𝟖𝑯𝒓 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒛𝒂𝒕𝒊𝒐𝒏 | 𝒘𝒊𝒕𝒉 𝑨𝒍𝒎𝒐𝒏𝒅 𝑶𝒊𝒍 & 𝑹𝒐𝒔𝒆 𝑬𝒙𝒕𝒓𝒂𝒄𝒕 | 𝑴𝒂𝒅𝒆 𝒊𝒏 𝑺𝒐𝒖𝒕𝒉 𝑲𝒐𝒓𝒆𝒂 | 𝟒.𝟖𝒈",
+      "price": 91,
+      "mrp": 299,
+      "discount_pct": 70.0,
+      "saving": 208,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08HN3N28W?tag=lootkabhandar-21",
+      "image": "img/2061.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2061,
+      "posted_at": "2026-11-20T21:24:19+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑷𝒂𝒓𝒂𝒄𝒉𝒖𝒕𝒆 𝑨𝒅𝒗𝒂𝒏𝒔𝒆𝒅 𝑨𝒍𝒎𝒐𝒏𝒅 𝒆𝒏𝒓𝒊𝒄𝒉𝒆𝒅 𝑪𝒐𝒄𝒐𝒏𝒖𝒕 𝑯𝒂𝒊𝒓 𝑶𝒊𝒍 𝒘𝒊𝒕𝒉 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑬, 𝟏𝟎𝟎𝒎𝒍|𝑵𝒐𝒖𝒓𝒊𝒔𝒉𝒆𝒔 & 𝑺𝒐𝒇𝒕𝒆𝒏𝒔 𝑯𝒂𝒊𝒓 | 𝑯𝒆𝒍𝒑𝒔 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑯𝒂𝒊𝒓 𝑭𝒂𝒍𝒍| 𝑯𝒆𝒍𝒑𝒔 𝑷𝒓𝒐𝒎𝒐𝒕𝒆𝒔 𝑯𝒂𝒊𝒓 𝑮𝒓𝒐𝒘𝒕𝒉 | 𝑼𝒑 𝒕𝒐 𝟐𝒙 𝑺𝒐𝒇𝒕𝒆𝒓 𝑯𝒂𝒊𝒓|𝑵𝒐𝒏-𝑺𝒕𝒊𝒄𝒌𝒚 𝑭𝒐𝒓𝒎𝒖𝒍𝒂| 𝑫𝒆𝒓𝒎𝒂𝒕𝒐𝒍𝒐𝒈𝒊𝒄𝒂𝒍𝒍𝒚-𝑻𝒆𝒔𝒕𝒆𝒅 𝑯𝒂𝒊𝒓 𝑶𝒊𝒍 | 𝑭𝒐𝒓 𝑴𝒆𝒏 & 𝑾𝒐𝒎𝒆𝒏",
       "price": 60,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2007,
       "posted_at": "2026-11-20T13:18:33+05:30"
-    },
-    {
-      "title": "The Indian Garage Co Men Checked Slim Fit Shirt💰 ₹434 ₹1,549 · 72% offThe Indian Garage Co Printed Shirt with Curved Hemline💰 ₹464 ₹1,599 · 71% off🛒 AJIO🔗",
-      "price": 434,
-      "mrp": 1549,
-      "discount_pct": 72.0,
-      "saving": 1115,
-      "store": "Ajio",
-      "link": "https://ajiio.in/xp3ge4b",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2006,
-      "posted_at": "2026-11-20T13:09:10+05:30"
-    },
-    {
-      "title": "6 Amp Extension Board with 4Mtr Cable @372.https://www.amazon.in/dp/B08KS3C5JN?tag=lootkabhandar-21",
-      "price": 681,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08KS3C5JN?tag=lootkabhandar-21",
-      "image": "img/2005.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2005,
-      "posted_at": "2026-11-20T12:39:09+05:30"
     },
     {
       "kind": "coupon",
