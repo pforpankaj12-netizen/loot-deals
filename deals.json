@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T10:33:26+05:30",
+  "updated_at": "2026-11-20T10:51:26+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑴𝒆𝒅𝒊𝒎𝒊𝒙 𝑨𝒚𝒖𝒓𝒗𝒆𝒅𝒊𝒄 𝑺𝒌𝒊𝒏𝒇𝒊𝒕 𝑩𝒂𝒕𝒉𝒊𝒏𝒈 𝑺𝒐𝒂𝒑𝒔 𝟏𝟐𝟓𝒈 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟓)",
+      "price": 240,
+      "mrp": 440,
+      "discount_pct": 45.0,
+      "saving": 200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B49L5JH2?tag=lootkabhandar-21",
+      "image": "img/1994.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1994,
+      "posted_at": "2026-11-20T10:51:26+05:30"
+    },
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝑺𝒄𝒐𝒕𝒄𝒉-𝑩𝒓𝒊𝒕𝒆 𝑭𝒊𝒃𝒓𝒆 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑮𝒍𝒐𝒗𝒆𝒔 𝑳𝒂𝒓𝒈𝒆 𝒂𝒏𝒅 𝑱𝒆𝒕 𝑺𝒄𝒓𝒖𝒃𝒃𝒆𝒓 𝑩𝒓𝒖𝒔𝒉 𝑻𝒐𝒖𝒈𝒉 (𝑴𝒖𝒍𝒕𝒊𝒄𝒐𝒍𝒐𝒖𝒓)",
+      "price": 168,
+      "mrp": 360,
+      "discount_pct": 53.0,
+      "saving": 192,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07CCN56N5?tag=lootkabhandar-21",
+      "image": "img/1993.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 1993,
+      "posted_at": "2026-11-20T10:50:56+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑩𝒆𝒍𝒄𝒐 𝑺𝒑𝒐𝒓𝒕𝒔 𝑪𝒚𝒄𝒍𝒐𝒏𝒆 𝑹𝒖𝒃𝒃𝒆𝒓 𝑴𝒐𝒖𝒍𝒅𝒆𝒅 𝑭𝒐𝒐𝒕𝒃𝒂𝒍𝒍 𝑺𝒊𝒛𝒆 𝟓 (𝑮𝒓𝒆𝒆𝒏)",
+      "price": 199,
+      "mrp": 1199,
+      "discount_pct": 83.0,
+      "saving": 1000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07PQVY6VZ?tag=lootkabhandar-21",
+      "image": "img/1992.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1992,
+      "posted_at": "2026-11-20T10:50:37+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑮𝒓𝒂𝒃 𝟗𝟒𝟒 𝑾𝑰𝑻𝑯 𝑨𝑵𝑪",
       "price": 944,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1948,
       "posted_at": "2026-11-19T19:35:50+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑺𝒐𝒍𝒊𝒎𝒐 𝑴𝒂𝒓𝒖𝒕𝒊 𝑽𝒊𝒕𝒂𝒓𝒂 𝑩𝒓𝒆𝒛𝒛𝒂 𝑼𝒗 𝑷𝒓𝒐𝒕𝒆𝒄𝒕𝒊𝒐𝒏 & 𝑫𝒖𝒔𝒕𝒑𝒓𝒐𝒐𝒇 𝑪𝒂𝒓 𝑪𝒐𝒗𝒆𝒓 (𝑫𝒂𝒓𝒌 𝑩𝒍𝒖𝒆 & 𝑺𝒊𝒍𝒗𝒆𝒓), 𝒇𝒐𝒓 𝑪𝒂𝒓",
-      "price": 371,
-      "mrp": 995,
-      "discount_pct": 62.7,
-      "saving": 624,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07JBCZ876?tag=lootkabhandar-21",
-      "image": "img/1947.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1947,
-      "posted_at": "2026-11-19T19:26:04+05:30"
-    },
-    {
-      "title": "🔥 👟 Footwear Loots 𝒂𝒅𝒊𝒅𝒂𝒔 𝑴𝒆𝒏𝒔 𝑳𝒊𝒈𝒉𝒕𝒓𝒖𝒏 𝒁𝒐𝒐𝒎𝒆𝒓 𝑴 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆𝒔",
-      "price": 2279,
-      "mrp": 5299,
-      "discount_pct": 57.0,
-      "saving": 3020,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GFN8NNXP?tag=lootkabhandar-21",
-      "image": "img/1946.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 1946,
-      "posted_at": "2026-11-19T19:24:28+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑮𝒓𝒂𝒃 : 𝑭𝒚𝒕𝒊𝒌𝒂 𝑺𝒆𝒂 𝑩𝒖𝒄𝒌𝒕𝒉𝒐𝒓𝒏 𝑱𝒖𝒊𝒄𝒆 (𝑽𝒆𝒈, 𝑶𝒎𝒆𝒈𝒂 𝟑,𝟔,𝟕,𝟗), 𝟑𝟎𝟎 𝒎𝒍 @𝟐𝟗𝟕.",
-      "price": 297,
-      "mrp": null,
-      "discount_pct": 46.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FBKCFSKY?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1945,
-      "posted_at": "2026-11-19T18:33:44+05:30"
     },
     {
       "kind": "coupon",
