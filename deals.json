@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T13:18:33+05:30",
+  "updated_at": "2026-11-20T13:36:18+05:30",
   "deals": [
+    {
+      "title": "🔥 👗 Fashion Loots 𝑺𝒉𝒊𝒗 𝑻𝒆𝒙𝒕𝒊𝒍𝒆𝒔 𝑾𝒐𝒎𝒆𝒏'𝒔 𝑷𝒍𝒂𝒊𝒏 𝑮𝒆𝒐𝒓𝒈𝒆𝒕𝒕𝒆 𝑺𝒂𝒓𝒆𝒆",
+      "price": 198,
+      "mrp": 999,
+      "discount_pct": 80.0,
+      "saving": 801,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0DF66WK36?lv=shuf&btn_type=ss&btn_ref=srctok-5b8e67da2cfc7f71&channelId=704&ascsubtag=20261120cl55h7ethkbw&tag=lootkabhandar-21",
+      "image": "img/2008.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2008,
+      "posted_at": "2026-11-20T13:36:18+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑷𝑯𝑰𝑳𝑰𝑷𝑺 𝑪𝑿 𝟓𝟓𝟑𝟓/𝟏𝟏 𝑩𝒍𝒂𝒅𝒆𝒍𝒆𝒔𝒔 𝑻𝒐𝒘𝒆𝒓 𝑭𝒂𝒏",
       "price": 7247,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1964,
       "posted_at": "2026-11-19T20:32:10+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑵𝒊𝒗𝒊𝒂 𝑺𝒕𝒓𝒊𝒏𝒈 𝟐.𝟎 𝑪𝒐𝒎𝒑𝒂𝒄𝒕 𝑩𝒂𝒄𝒌𝒑𝒂𝒄𝒌 𝑭𝒐𝒓 𝑴𝒆𝒏 & 𝑾𝒐𝒎𝒆𝒏, 𝑳𝒊𝒈𝒉𝒕𝒘𝒆𝒊𝒈𝒉𝒕 𝑩𝒂𝒈 𝒇𝒐𝒓 𝑬𝒗𝒆𝒓𝒚𝒅𝒂𝒚 𝑼𝒔𝒆, 𝑫𝒓𝒂𝒘𝒔𝒕𝒓𝒊𝒏𝒈 𝑪𝒍𝒐𝒔𝒖𝒓𝒆, 𝑩𝒓𝒆𝒂𝒕𝒉𝒂𝒃𝒍𝒆 𝑽𝒆𝒏𝒕𝒊𝒍𝒂𝒕𝒆𝒅 𝑩𝒂𝒄𝒌, 𝑪𝒂𝒑𝒂𝒄𝒊𝒕𝒚-𝟓 𝑳𝒊𝒕𝒓𝒆𝒔",
-      "price": 85,
-      "mrp": 249,
-      "discount_pct": 66.0,
-      "saving": 164,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GYS218W3?tag=lootkabhandar-21",
-      "image": "img/1963.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1963,
-      "posted_at": "2026-11-19T20:19:13+05:30"
     },
     {
       "kind": "coupon",
