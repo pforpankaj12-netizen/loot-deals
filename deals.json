@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T20:29:11+05:30",
+  "updated_at": "2026-11-20T20:47:45+05:30",
   "deals": [
+    {
+      "title": "🔥 💳 BANK OFFER 𝑩𝒉𝒊𝒎𝒂 𝑱𝒆𝒘𝒆𝒍𝒔 𝟐𝟒𝑲 𝟗𝟗𝟓 𝑷𝒖𝒓𝒊𝒕𝒚 𝒀𝒆𝒍𝒍𝒐𝒘 𝑮𝒐𝒍𝒅 𝑽𝒆𝒅𝒉𝒂𝒏𝒊 𝑹𝒊𝒏𝒈 𝟒𝒈",
+      "price": 51105,
+      "mrp": 55305,
+      "discount_pct": 7.6,
+      "saving": 4200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H4RC7LQ7?tag=lootkabhandar-21",
+      "image": "img/2058.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2058,
+      "posted_at": "2026-11-20T20:47:45+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑪𝒉𝒊𝒄𝒄𝒐 𝑩𝒂𝒃𝒚 𝑴𝒐𝒎𝒆𝒏𝒕𝒔 𝑮𝒆𝒏𝒕𝒍𝒆 𝑩𝒐𝒅𝒚 𝑾𝒂𝒔𝒉 & 𝑺𝒉𝒂𝒎𝒑𝒐𝒐 𝟓𝟎𝒎𝒍",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2002,
       "posted_at": "2026-11-20T12:18:29+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑺𝒂𝒇𝒂𝒓𝒊 𝑰𝒎𝒑𝒆𝒓𝒊𝒂 𝑻𝒓𝒐𝒍𝒍𝒆𝒚 𝟑 𝒀𝒆𝒂𝒓𝒔 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚 𝑫𝒖𝒇𝒇𝒍𝒆 𝑩𝒂𝒈 (𝟓𝟖 𝑪𝒎, 𝑻𝒆𝒂𝒍)",
-      "price": 1339,
-      "mrp": 4520,
-      "discount_pct": 70.0,
-      "saving": 3181,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HLDD7VM6?tag=lootkabhandar-21",
-      "image": "img/2001.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2001,
-      "posted_at": "2026-11-20T12:02:04+05:30"
     },
     {
       "kind": "coupon",
