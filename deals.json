@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T11:43:51+05:30",
+  "updated_at": "2026-11-20T11:51:17+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑩𝒐𝒔𝒄𝒉 𝟐𝟒𝟑𝑳 𝑫𝒐𝒖𝒃𝒍𝒆 𝑫𝒐𝒐𝒓 𝑹𝒆𝒇𝒓𝒊𝒈𝒆𝒓𝒂𝒕𝒐𝒓 | 𝟔-𝒊𝒏-𝟏 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆",
+      "price": 22865,
+      "mrp": 38490,
+      "discount_pct": 21.0,
+      "saving": 15625,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GR9VR199?tag=lootkabhandar-21",
+      "image": "img/2000.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2000,
+      "posted_at": "2026-11-20T11:51:17+05:30"
+    },
     {
       "title": "Scotch-Brite (950-CT-W) Glass Cooktop Refill Pads, Cleans with Just Water, Tackle Burnt-On Messes, 1 Wand and 2 Replacement Heads",
       "price": 338,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1953,
       "posted_at": "2026-11-19T19:40:04+05:30"
-    },
-    {
-      "title": "XIAOMI 14 Civi Shadow Black (8GB RAM 256GB Storage) | 50 MP Leica Triple Camera| SB 8s Gen 3 | 1.5K Quad Curved AMOLED HyperOS",
-      "price": 39999,
-      "mrp": 64999,
-      "discount_pct": 38.0,
-      "saving": 25000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D81JPDKX?tag=lootkabhandar-21",
-      "image": "img/1952.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 1952,
-      "posted_at": "2026-11-19T19:40:02+05:30"
     },
     {
       "kind": "coupon",
