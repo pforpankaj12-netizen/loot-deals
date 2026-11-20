@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T13:09:10+05:30",
+  "updated_at": "2026-11-20T13:18:33+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑷𝑯𝑰𝑳𝑰𝑷𝑺 𝑪𝑿 𝟓𝟓𝟑𝟓/𝟏𝟏 𝑩𝒍𝒂𝒅𝒆𝒍𝒆𝒔𝒔 𝑻𝒐𝒘𝒆𝒓 𝑭𝒂𝒏",
+      "price": 7247,
+      "mrp": 14495,
+      "discount_pct": 50.0,
+      "saving": 7248,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BWS9FY8K?tag=lootkabhandar-21",
+      "image": "img/2007.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2007,
+      "posted_at": "2026-11-20T13:18:33+05:30"
+    },
     {
       "title": "The Indian Garage Co Men Checked Slim Fit Shirt💰 ₹434 ₹1,549 · 72% offThe Indian Garage Co Printed Shirt with Curved Hemline💰 ₹464 ₹1,599 · 71% off🛒 AJIO🔗",
       "price": 434,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1963,
       "posted_at": "2026-11-19T20:19:13+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝒁𝑬𝑩𝑹𝑶𝑵𝑰𝑪𝑺 𝑶𝑻𝑮𝟏 𝑻𝒚𝒑𝒆 𝑪 𝒕𝒐 𝑶𝑻𝑮 𝑪𝒐𝒏𝒏𝒆𝒄𝒕𝒐𝒓",
-      "price": 179,
-      "mrp": 499,
-      "discount_pct": 64.0,
-      "saving": 320,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CKVVYY4W?tag=lootkabhandar-21",
-      "image": "img/1962.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1962,
-      "posted_at": "2026-11-19T19:58:26+05:30"
     },
     {
       "kind": "coupon",
