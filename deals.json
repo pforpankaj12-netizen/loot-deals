@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T12:02:04+05:30",
+  "updated_at": "2026-11-20T12:18:29+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑾𝒐𝒃𝒃𝒐𝒙 𝑺𝒕𝒂𝒕𝒊𝒐𝒏𝒆𝒓𝒚 𝑺𝒆𝒕 - 𝑩𝒊𝒓𝒕𝒉𝒅𝒂𝒚 𝑹𝒆𝒕𝒖𝒓𝒏 𝑮𝒊𝒇𝒕 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟐)",
+      "price": 128,
+      "mrp": 599,
+      "discount_pct": 79.0,
+      "saving": 471,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FMYGKFMD?tag=lootkabhandar-21",
+      "image": "img/2002.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2002,
+      "posted_at": "2026-11-20T12:18:29+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑺𝒂𝒇𝒂𝒓𝒊 𝑰𝒎𝒑𝒆𝒓𝒊𝒂 𝑻𝒓𝒐𝒍𝒍𝒆𝒚 𝟑 𝒀𝒆𝒂𝒓𝒔 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚 𝑫𝒖𝒇𝒇𝒍𝒆 𝑩𝒂𝒈 (𝟓𝟖 𝑪𝒎, 𝑻𝒆𝒂𝒍)",
       "price": 1339,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1955,
       "posted_at": "2026-11-19T19:49:30+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑲𝒊𝒏𝒈𝒍𝒂𝒏𝒅 𝑨𝒏𝒂𝒍𝒐𝒈 𝑾𝒂𝒕𝒄𝒉 𝑭𝒐𝒓 𝑴𝒆𝒏 · 𝑺𝒉𝒐𝒑𝒔𝒚",
-      "price": 137,
-      "mrp": 799,
-      "discount_pct": 82.0,
-      "saving": 662,
-      "store": "Shopsy",
-      "link": "https://bitli.in/lHQeWXL",
-      "image": "img/1954.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1954,
-      "posted_at": "2026-11-19T19:48:13+05:30"
     },
     {
       "kind": "coupon",
