@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T19:50:09+05:30",
+  "updated_at": "2026-11-20T20:14:28+05:30",
   "deals": [
+    {
+      "title": "🔥 💳 BANK OFFER 𝑩𝒐𝒔𝒄𝒉 𝟑𝟎𝟐𝑳, 𝟑 𝑺𝒕𝒂𝒓, 𝑴𝒂𝒙𝑭𝒍𝒆𝒙 𝑪𝒐𝒏𝒗𝒆𝒓𝒕 𝑭𝒓𝒐𝒔𝒕 𝑭𝒓𝒆𝒆 𝑻𝒓𝒊𝒑𝒍𝒆 𝑫𝒐𝒐𝒓 𝑹𝒆𝒇𝒓𝒊𝒈𝒆𝒓𝒂𝒕𝒐𝒓 | 𝟖-𝒊𝒏-𝟏 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 𝑴𝒐𝒅𝒆𝒔|𝟓𝟕𝑳 𝑬𝒙𝒕𝒓𝒂 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆 𝒁𝒐𝒏𝒆|𝑪𝒐𝒐𝒍 𝑬𝒙𝒕𝒆𝒏𝒅 𝒖𝒑 𝒕𝒐 𝟏𝟖 𝒉𝒐𝒖𝒓𝒔 (𝑪𝑴𝑪𝟑𝟑𝑺𝟑𝟑𝑽𝑰, 𝟐𝟎𝟐𝟔 𝑴𝒐𝒅𝒆𝒍, 𝑪𝒐𝒔𝒎𝒊𝒄 𝑺𝒕𝒆𝒆𝒍)",
+      "price": 30490,
+      "mrp": 39990,
+      "discount_pct": 23.8,
+      "saving": 9500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H9T73HJ7?tag=lootkabhandar-21",
+      "image": "img/2056.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2056,
+      "posted_at": "2026-11-20T20:14:28+05:30"
+    },
     {
       "title": "🔥 👟 Footwear Loots 🔥 𝑫𝒐𝒏'𝒕 𝒎𝒊𝒔𝒔 𝒕𝒉𝒊𝒔 𝒂𝒎𝒂𝒛𝒊𝒏𝒈 𝒅𝒆𝒂𝒍!𝑯𝑹𝑿 𝒃𝒚 𝑯𝒓𝒊𝒕𝒉𝒊𝒌 𝑹𝒐𝒔𝒉𝒂𝒏 𝑾𝒐𝒎𝒆𝒏 𝑴𝒆𝒔𝒉 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆𝒔 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 🔁 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
       "price": 789,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2000,
       "posted_at": "2026-11-20T11:51:17+05:30"
-    },
-    {
-      "title": "Scotch-Brite (950-CT-W) Glass Cooktop Refill Pads, Cleans with Just Water, Tackle Burnt-On Messes, 1 Wand and 2 Replacement Heads",
-      "price": 338,
-      "mrp": 1500,
-      "discount_pct": 77.0,
-      "saving": 1162,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07PYFD589?tag=lootkabhandar-21",
-      "image": "img/1999.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1999,
-      "posted_at": "2026-11-20T11:43:51+05:30"
     },
     {
       "kind": "coupon",
