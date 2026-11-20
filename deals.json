@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T15:48:15+05:30",
+  "updated_at": "2026-11-20T16:18:40+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑺𝒄𝒉𝒏𝒆𝒊𝒅𝒆𝒓 𝟐𝟔𝟖𝑳, 𝟐 𝑺𝒕𝒂𝒓, 𝟓-𝒊𝒏-𝟏 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆 𝑹𝒆𝒇𝒓𝒊𝒈𝒆𝒓𝒂𝒕𝒐𝒓",
+      "price": 25740,
+      "mrp": 43990,
+      "discount_pct": 41.0,
+      "saving": 18250,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HK857D68?tag=lootkabhandar-21",
+      "image": "img/2034.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2034,
+      "posted_at": "2026-11-20T16:18:40+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑺𝒉𝒊𝒎𝒎𝒆𝒓 𝑳𝒊𝒒𝒖𝒊𝒅 𝑫𝒆𝒕𝒆𝒓𝒈𝒆𝒏𝒕 - 𝟓𝑳 𝑷𝒂𝒄𝒌 | 𝑵𝒐𝒏 𝑻𝒐𝒙𝒊𝒄 & 𝑬𝒄𝒐 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 | 𝑻𝒐𝒑 𝑳𝒐𝒂𝒅 & 𝑭𝒓𝒐𝒏𝒕 𝑳𝒐𝒂𝒅 𝑬𝒙𝒑𝒆𝒓𝒕 | 𝑹𝒆𝒎𝒐𝒗𝒆𝒔 𝑻𝒐𝒖𝒈𝒉 𝑺𝒕𝒂𝒊𝒏𝒔 | 𝑭𝒓𝒆𝒏𝒄𝒉 𝑳𝒂𝒗𝒆𝒏𝒅𝒆𝒓 𝑭𝒓𝒂𝒈𝒓𝒂𝒏𝒄𝒆 | 𝑼𝒑𝒈𝒓𝒂𝒅𝒆 𝒇𝒓𝒐𝒎 𝑫𝒆𝒕𝒆𝒓𝒈𝒆𝒏𝒕 𝑷𝒐𝒘𝒅𝒆𝒓, 𝑵𝒐 𝑹𝒆𝒔𝒊𝒅𝒖𝒆 𝒐𝒏 𝑪𝒍𝒐𝒕𝒉𝒆𝒔",
       "price": 259,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 1983,
       "posted_at": "2026-11-20T08:11:13+05:30"
-    },
-    {
-      "title": "🔥 💄 Beauty Loots 𝑳𝑨𝑲𝑴𝑬 𝑩𝒍𝒖𝒔𝒉 & 𝑮𝒍𝒐𝒘, 𝑱𝒆𝒍𝒍𝒚 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉, 𝟏𝟓𝟎 𝒈 @𝟏𝟗𝟎.",
-      "price": 190,
-      "mrp": null,
-      "discount_pct": 61.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GSZ2PHQF?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 1982,
-      "posted_at": "2026-11-20T08:07:16+05:30"
     },
     {
       "kind": "coupon",
