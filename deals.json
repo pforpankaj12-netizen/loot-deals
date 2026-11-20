@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T18:53:11+05:30",
+  "updated_at": "2026-11-20T19:31:42+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑷𝑺𝟒 𝑮𝒂𝒎𝒊𝒏𝒈 𝑯𝒆𝒂𝒅𝒔𝒆𝒕 𝒘𝒊𝒕𝒉 𝑴𝒊𝒄 𝒇𝒐𝒓 𝑿𝒃𝒐𝒙 𝑶𝒏𝒆, 𝑵𝒊𝒏𝒕𝒆𝒏𝒅𝒐 𝑺𝒘𝒊𝒕𝒄𝒉, 𝑴𝒐𝒃𝒊𝒍𝒆 𝑷𝒉𝒐𝒏𝒆, 𝒊𝑷𝒂𝒅, 𝑷𝑪 𝒂𝒏𝒅 𝑵𝒐𝒕𝒆𝒃𝒐𝒐𝒌, 𝑪𝒐𝒏𝒕𝒓𝒐𝒍𝒍𝒂𝒃𝒍𝒆 𝑽𝒐𝒍𝒖𝒎𝒆 𝑮𝒂𝒎𝒊𝒏𝒈 𝑯𝒆𝒂𝒅𝒑𝒉𝒐𝒏𝒆𝒔 𝒘𝒊𝒕𝒉 𝑺𝒐𝒇𝒕 𝑬𝒂𝒓𝒎𝒖𝒇𝒇𝒔",
+      "price": 3559,
+      "mrp": 7139,
+      "discount_pct": 50.0,
+      "saving": 3580,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08G84VLJY?tag=lootkabhandar-21",
+      "image": "img/2046.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2046,
+      "posted_at": "2026-11-20T19:31:42+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑹𝒊𝒄𝒐𝒉 𝟖𝟒𝟏𝟗𝟏𝟗 𝒀𝒆𝒍𝒍𝒐𝒘 𝑻𝒐𝒏𝒆𝒓 𝑪𝒂𝒓𝒕𝒓𝒊𝒅𝒈𝒆 (𝟗𝟓𝟎𝟎 𝒀𝒊𝒆𝒍𝒅) 𝑻𝒐𝒏𝒆𝒓",
       "price": 4818,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1996,
       "posted_at": "2026-11-20T11:09:08+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑴𝒆𝒅𝒊𝒎𝒊𝒙 𝑨𝒚𝒖𝒓𝒗𝒆𝒅𝒊𝒄 𝑺𝒌𝒊𝒏𝒇𝒊𝒕 𝑩𝒂𝒕𝒉𝒊𝒏𝒈 𝑺𝒐𝒂𝒑𝒔 𝟏𝟐𝟓𝒈 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟓)",
-      "price": 240,
-      "mrp": 440,
-      "discount_pct": 45.0,
-      "saving": 200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0B49L5JH2?tag=lootkabhandar-21",
-      "image": "img/1994.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1994,
-      "posted_at": "2026-11-20T10:51:26+05:30"
     },
     {
       "kind": "coupon",
