@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T16:18:40+05:30",
+  "updated_at": "2026-11-20T16:41:37+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑼𝒑𝒕𝒐 𝑶𝒏 𝑴𝒊𝒏 𝑳𝒆𝒗𝒊'𝒔 𝑰𝒏𝒏𝒆𝒓𝒘𝒆𝒂𝒓 𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈 @𝟐𝟕𝟒.",
+      "price": 274,
+      "mrp": null,
+      "discount_pct": 68.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=levi%27s+innerwear&rh=n%3A1571271031%2Cp_89%3ALevi%2527s%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=apparel&ref=sr_rib_m_web_PR_3_0_a_p_n_pct-off-with-tax_2665401031_3&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2035,
+      "posted_at": "2026-11-20T16:41:37+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑺𝒄𝒉𝒏𝒆𝒊𝒅𝒆𝒓 𝟐𝟔𝟖𝑳, 𝟐 𝑺𝒕𝒂𝒓, 𝟓-𝒊𝒏-𝟏 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆 𝑹𝒆𝒇𝒓𝒊𝒈𝒆𝒓𝒂𝒕𝒐𝒓",
       "price": 25740,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1984,
       "posted_at": "2026-11-20T08:42:22+05:30"
-    },
-    {
-      "title": "Axe Best Perfume for Men, 100ml @374. Hydrating Aloe Vera Face Wash (200ml) @170.",
-      "price": 170,
-      "mrp": 374,
-      "discount_pct": 54.5,
-      "saving": 204,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FQP1N4TL?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 1983,
-      "posted_at": "2026-11-20T08:11:13+05:30"
     },
     {
       "kind": "coupon",
