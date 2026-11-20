@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T10:24:24+05:30",
+  "updated_at": "2026-11-20T10:33:26+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑮𝒓𝒂𝒃 𝟗𝟒𝟒 𝑾𝑰𝑻𝑯 𝑨𝑵𝑪",
+      "price": 944,
+      "mrp": 4100,
+      "discount_pct": 77.0,
+      "saving": 3156,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DGX1T42T?tag=lootkabhandar-21",
+      "image": "img/1991.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1991,
+      "posted_at": "2026-11-20T10:33:26+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑪𝒂𝒓𝒍𝒕𝒐𝒏 𝑳𝒐𝒏𝒅𝒐𝒏 𝑷𝒐𝒊𝒔𝒆 𝑬𝒂𝒖 𝑫𝒆 𝑷𝒂𝒓𝒇𝒖𝒎 - 𝟐𝟎 𝒎𝒍 · 𝑴𝒚𝒏𝒕𝒓𝒂",
       "price": 89,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1945,
       "posted_at": "2026-11-19T18:33:44+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑽𝒂𝒏 𝑯𝒆𝒖𝒔𝒆𝒏 𝑴𝒆𝒏 𝑪𝒐𝒍𝒐𝒖𝒓 𝑭𝒓𝒆𝒔𝒉 𝑩𝒓𝒊𝒆𝒇𝒔 - 𝟏𝟎𝟎% 𝑷𝒊𝒎𝒂 𝑪𝒐𝒕𝒕𝒐𝒏",
-      "price": 185,
-      "mrp": 399,
-      "discount_pct": 40.0,
-      "saving": 214,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Van+Heusen&i=apparel&rh=n%3A1968126031%2Cp_123%3A232761%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&qid=1732960439&rnid=2665398031&ds=v1%3ApEFhTOxQtpgtNa12Z42SVdpe6I40r%2FvmRtIR4tP4vgY&btn_type=ss&btn_ref=srctok-60c7d813c3c39549&ascsubtag=20261119cllpj31beqjx&tag=lootkabhandar-21",
-      "image": "img/1944.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1944,
-      "posted_at": "2026-11-19T18:10:51+05:30"
     },
     {
       "kind": "coupon",
