@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T09:29:49+05:30",
+  "updated_at": "2026-11-20T10:07:03+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑨𝒍𝒊𝒆𝒏𝒔 𝑯𝒊𝒈𝒉 𝑺𝒑𝒆𝒆𝒅 𝑯𝑫𝑴𝑰 𝒕𝒐 𝑯𝑫𝑴𝑰 𝑪𝒂𝒃𝒍𝒆 𝟏.𝟓𝑴",
+      "price": 299,
+      "mrp": 999,
+      "discount_pct": 70.0,
+      "saving": 700,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DP7BQH1W?tag=lootkabhandar-21",
+      "image": "img/1988.jpg",
+      "category": "Other",
+      "telegram_msg_id": 1988,
+      "posted_at": "2026-11-20T10:07:03+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑲𝒆𝒏𝒔𝒕𝒂𝒓 𝑰𝒏𝒇𝒓𝒂 𝑳𝑼𝑴𝑶 𝟐𝟎𝟎𝟎𝑾 𝑰𝒏𝒇𝒓𝒂𝒓𝒆𝒅 𝑺𝒕𝒐𝒗𝒆",
       "price": 2352,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1941,
       "posted_at": "2026-11-19T17:49:44+05:30"
-    },
-    {
-      "title": "Jarrow Formulas, PQQ (Pyrroloquinoline Quinone), 20 mg, 60 Capsules",
-      "price": 7039,
-      "mrp": 21300,
-      "discount_pct": 66.0,
-      "saving": 14261,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B010EAND2M?tag=lootkabhandar-21",
-      "image": "img/1940.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1940,
-      "posted_at": "2026-11-19T17:38:59+05:30"
     },
     {
       "kind": "coupon",
