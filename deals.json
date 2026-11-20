@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T13:47:48+05:30",
+  "updated_at": "2026-11-20T15:27:14+05:30",
   "deals": [
+    {
+      "title": "SAM & ROY Men Regular Fit Solid Button Down Shirt💰 ₹198 ~₹2,199~ · 90% offSAM & ROY Men Regular Fit Solid Button Down Shirt💰 ₹198 ~₹2,199~ · 90% offSAM & ROY Men Regular Fit Solid Button Down Shirt💰 ₹198 ~₹2,199~ · 90% offSAM & ROY Men Regular Fit Striped Button Down Shirt💰 ₹198 ~₹2,799~ · 92% off🛒 Flipkart🔗",
+      "price": 198,
+      "mrp": 2199,
+      "discount_pct": 90.0,
+      "saving": 2001,
+      "store": "Flipkart",
+      "link": "https://fktr.in/KU6bHki",
+      "image": "img/2027.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2027,
+      "posted_at": "2026-11-20T15:27:14+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 🔥 𝑫𝒐𝒏'𝒕 𝒎𝒊𝒔𝒔 𝒕𝒉𝒊𝒔 𝒂𝒎𝒂𝒛𝒊𝒏𝒈 𝒅𝒆𝒂𝒍!𝑹𝒐𝒂𝒅𝒔𝒕𝒆𝒓 𝑼𝒏𝒊𝒔𝒆𝒙 𝑪𝒐𝒍𝒐𝒖𝒓𝒃𝒍𝒐𝒄𝒌𝒆𝒅 𝑪𝒐𝒏𝒕𝒓𝒂𝒔𝒕 𝑫𝒆𝒕𝒂𝒊𝒍 𝑩𝒂𝒄𝒌𝒑𝒂𝒄𝒌 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 🔁 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
       "price": 599,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1973,
       "posted_at": "2026-11-19T21:41:22+05:30"
-    },
-    {
-      "title": "Sturlite Lexxo 15W (3in1) Round LED Surface Light| Warm, Neutral & Cool White Color Temperature | 1200 Lumens with CRI Tech for Accurate Color Representation - (Pack of 1) LED Bulb",
-      "price": 375,
-      "mrp": 1150,
-      "discount_pct": 67.0,
-      "saving": 775,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CRVH2RFN?tag=lootkabhandar-21",
-      "image": "img/1972.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 1972,
-      "posted_at": "2026-11-19T21:41:18+05:30"
     },
     {
       "kind": "coupon",
