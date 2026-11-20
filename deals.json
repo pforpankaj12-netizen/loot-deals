@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T21:49:14+05:30",
+  "updated_at": "2026-11-20T21:54:19+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑹𝒂𝒕 𝑹𝒆𝒑𝒆𝒍𝒍𝒆𝒏𝒕 𝒇𝒐𝒓 𝑪𝒂𝒓 𝑯𝒐𝒎𝒆 𝑴𝒐𝒖𝒔𝒆 𝑹𝒆𝒑𝒆𝒍𝒍𝒆𝒏𝒕 𝑷𝒆𝒑𝒑𝒆𝒓𝒎𝒊𝒏𝒕 𝑶𝒊𝒍 𝒕𝒐 𝑷𝒓𝒐𝒕𝒆𝒄𝒕 𝑾𝒊𝒓𝒆𝒔 𝒊𝒏 𝑪𝒂𝒓, 𝑩𝒊𝒌𝒆 & 𝑻𝒓𝒖𝒄𝒌 𝑬𝒏𝒈𝒊𝒏𝒆 𝑵𝒐 𝑲𝒊𝒍𝒍 𝑶𝒏𝒍𝒚 𝑹𝒆𝒑𝒆𝒍𝒔 𝑯𝒐𝒎𝒆 𝑰𝒏𝒅𝒐𝒐𝒓-𝑶𝒖𝒕𝒅𝒐𝒐𝒓 𝑮𝒂𝒓𝒂𝒈𝒆 𝑹𝒂𝒕 𝑪𝒐𝒏𝒕𝒓𝒐𝒍𝒍𝒆𝒓 𝑹𝒐𝒅𝒆𝒏𝒕𝒔 𝑶𝒖𝒕 𝒐𝒇 𝑪𝒂𝒓 (𝟏𝟎)",
+      "price": 199,
+      "mrp": 710,
+      "discount_pct": 72.0,
+      "saving": 511,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HN4XPTMR?lv=shuf&social_share=cm_sw_r_cso_wa_apin_dp_6HAXA935761BT65X7PVK&channelId=704&ascsubtag=20261120clpvkn5wm7ou&tag=lootkabhandar-21",
+      "image": "img/2067.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2067,
+      "posted_at": "2026-11-20T21:54:19+05:30"
+    },
     {
       "title": "TOSAA TRIPLY MINI Fry PAN- 3-Ply Stainless Steel | Small Non-Stick Frying Pan | Induction & Gas Compatible,Mini Triply Fry Pan for Everyday Cooking | Non-Reactive Steel,Use for TADKA | 430 ml",
       "price": 370,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2012,
       "posted_at": "2026-11-20T13:46:10+05:30"
-    },
-    {
-      "title": "Premchand Katha Sahitya (Boxed Set) - Hindi",
-      "price": 170,
-      "mrp": 1179,
-      "discount_pct": 85.0,
-      "saving": 1009,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/9362140020?tag=lootkabhandar-21",
-      "image": "img/2011.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2011,
-      "posted_at": "2026-11-20T13:44:52+05:30"
     },
     {
       "kind": "coupon",
