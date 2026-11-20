@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T15:27:14+05:30",
+  "updated_at": "2026-11-20T15:37:42+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑽𝑳𝑪𝑪 𝑫𝒊𝒂𝒎𝒐𝒏𝒅 𝑭𝒂𝒄𝒊𝒂𝒍 𝑲𝒊𝒕, 𝟓𝟎𝒈+𝟏𝟎𝒎𝒍",
+      "price": 204,
+      "mrp": 430,
+      "discount_pct": 53.0,
+      "saving": 226,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B007E9GV2Q?tag=lootkabhandar-21",
+      "image": "img/2028.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2028,
+      "posted_at": "2026-11-20T15:37:42+05:30"
+    },
     {
       "title": "SAM & ROY Men Regular Fit Solid Button Down Shirt💰 ₹198 ~₹2,199~ · 90% offSAM & ROY Men Regular Fit Solid Button Down Shirt💰 ₹198 ~₹2,199~ · 90% offSAM & ROY Men Regular Fit Solid Button Down Shirt💰 ₹198 ~₹2,199~ · 90% offSAM & ROY Men Regular Fit Striped Button Down Shirt💰 ₹198 ~₹2,799~ · 92% off🛒 Flipkart🔗",
       "price": 198,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 1975,
       "posted_at": "2026-11-19T22:18:19+05:30"
-    },
-    {
-      "title": "Acerpure Amrit Premium Water Purifier by Acer |6.5L RO|DIY Filter Replacement|Stainless Steel Tank|24 Months Free Filter|TDS Meter| 6 Stage Purification|For Borewell,Tanker & Municipal Water |(Purple)",
-      "price": 5999,
-      "mrp": 21999,
-      "discount_pct": 72.0,
-      "saving": 16000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D5Y4D8PW?tag=lootkabhandar-21",
-      "image": "img/1973.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1973,
-      "posted_at": "2026-11-19T21:41:22+05:30"
     },
     {
       "kind": "coupon",
