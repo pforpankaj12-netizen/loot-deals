@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T19:48:13+05:30",
+  "updated_at": "2026-11-20T19:50:09+05:30",
   "deals": [
+    {
+      "title": "🔥 👟 Footwear Loots 🔥 𝑫𝒐𝒏'𝒕 𝒎𝒊𝒔𝒔 𝒕𝒉𝒊𝒔 𝒂𝒎𝒂𝒛𝒊𝒏𝒈 𝒅𝒆𝒂𝒍!𝑯𝑹𝑿 𝒃𝒚 𝑯𝒓𝒊𝒕𝒉𝒊𝒌 𝑹𝒐𝒔𝒉𝒂𝒏 𝑾𝒐𝒎𝒆𝒏 𝑴𝒆𝒔𝒉 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆𝒔 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 🔁 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
+      "price": 789,
+      "mrp": 5699,
+      "discount_pct": 86.0,
+      "saving": 4910,
+      "store": "Myntra",
+      "link": "https://myntr.it/T7fvRwM",
+      "image": "img/2050.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2050,
+      "posted_at": "2026-11-20T19:50:09+05:30"
+    },
     {
       "title": "Bose New SoundLink Micro (2nd Generation) Portable Bluetooth Speaker, Wireless Outdoor Speaker, Up to 12 Hours Battery Life, Water and Dust Resistant, Black",
       "price": 9900,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 1999,
       "posted_at": "2026-11-20T11:43:51+05:30"
-    },
-    {
-      "title": "NOC High Caffeine Cold Brew Coffee Shot | 2.4X Caffeine | Instant Liquid Coffee Concentrate | Patented Super Drop Technology from South Korea | Premium Brazilian & Ethiopian Beans | Low Acid | 20ml",
-      "price": 145,
-      "mrp": 325,
-      "discount_pct": 55.0,
-      "saving": 180,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FRRHPJZB?tag=lootkabhandar-21",
-      "image": "img/1998.jpg",
-      "category": "Grocery & Food",
-      "telegram_msg_id": 1998,
-      "posted_at": "2026-11-20T11:43:48+05:30"
     },
     {
       "kind": "coupon",
