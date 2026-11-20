@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T22:18:44+05:30",
+  "updated_at": "2026-11-20T23:03:30+05:30",
   "deals": [
+    {
+      "title": "🔥 🧸 Toys Loots 𝑭𝒓𝒊𝒄𝒕𝒊𝒐𝒏 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑷𝒖𝒑𝒑𝒚 𝑫𝒐𝒈 𝑻𝒐𝒚 𝑪𝒂𝒓 𝒇𝒐𝒓 𝑻𝒐𝒅𝒅𝒍𝒆𝒓𝒔 - 𝟑𝟔𝟎° 𝑭𝒍𝒊𝒑 𝑺𝒕𝒖𝒏𝒕 𝑨𝒄𝒕𝒊𝒐𝒏, 𝟑 𝑭𝒂𝒄𝒆 𝑬𝒙𝒑𝒓𝒆𝒔𝒔𝒊𝒐𝒏𝒔, 𝑵𝒐 𝑩𝒂𝒕𝒕𝒆𝒓𝒊𝒆𝒔 𝑵𝒆𝒆𝒅𝒆𝒅 - 𝑷𝒖𝒔𝒉 𝒂𝒏𝒅 𝑮𝒐 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑻𝒐𝒚 𝑮𝒊𝒇𝒕 𝒇𝒐𝒓 𝑲𝒊𝒅𝒔 𝑩𝒐𝒚𝒔 𝑮𝒊𝒓𝒍𝒔 𝑨𝒈𝒆𝒔 𝟏-𝟒",
+      "price": 299,
+      "mrp": 599,
+      "discount_pct": 50.0,
+      "saving": 300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F2HHSXV8?tag=lootkabhandar-21",
+      "image": "img/2071.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2071,
+      "posted_at": "2026-11-20T23:03:30+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑷𝒖𝒎𝒂 𝑴𝒆𝒏𝒔 𝑮𝒂𝒍𝒂𝒙𝒊𝒔 𝑷𝒓𝒐 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆",
       "price": 2659,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2014,
       "posted_at": "2026-11-20T13:47:38+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 🔥 𝑫𝒐𝒏’𝒕 𝒎𝒊𝒔𝒔 𝒐𝒖𝒕 𝒐𝒏 𝒕𝒉𝒊𝒔 𝒔𝒕𝒚𝒍𝒊𝒔𝒉 𝒇𝒊𝒏𝒅!𝑺𝑼𝑷𝑬𝑹𝑫𝑹𝒀 𝑽𝒊𝒏𝒕𝒂𝒈𝒆 𝑨𝒕𝒉𝒍𝒆𝒕𝒆 𝑲𝒏𝒊𝒕 𝑱𝒖𝒎𝒑𝒆𝒓 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 🔁 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
-      "price": 3602,
-      "mrp": 9480,
-      "discount_pct": 62.0,
-      "saving": 5878,
-      "store": "Ajio",
-      "link": "https://ajiio.in/2sPtdww",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2013,
-      "posted_at": "2026-11-20T13:47:35+05:30"
     },
     {
       "kind": "coupon",
