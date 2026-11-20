@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T19:31:42+05:30",
+  "updated_at": "2026-11-20T19:48:13+05:30",
   "deals": [
+    {
+      "title": "Bose New SoundLink Micro (2nd Generation) Portable Bluetooth Speaker, Wireless Outdoor Speaker, Up to 12 Hours Battery Life, Water and Dust Resistant, Black",
+      "price": 9900,
+      "mrp": 15900,
+      "discount_pct": 37.0,
+      "saving": 6000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FDLD34V5?tag=lootkabhandar-21",
+      "image": "img/2049.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2049,
+      "posted_at": "2026-11-20T19:48:13+05:30"
+    },
+    {
+      "title": "Bonsicoky 7 Inch Wool Buffing Pads, Soft Car Buffer Backing Pads Polishing Wheel with Hook and Loop for Car Polishing, Buffing and Cutting (Pack of 2)",
+      "price": 2851,
+      "mrp": 6159,
+      "discount_pct": 53.0,
+      "saving": 3308,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09SNVC3XH?tag=lootkabhandar-21",
+      "image": "img/2048.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2048,
+      "posted_at": "2026-11-20T19:48:10+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑷𝑺𝟒 𝑮𝒂𝒎𝒊𝒏𝒈 𝑯𝒆𝒂𝒅𝒔𝒆𝒕 𝒘𝒊𝒕𝒉 𝑴𝒊𝒄 𝒇𝒐𝒓 𝑿𝒃𝒐𝒙 𝑶𝒏𝒆, 𝑵𝒊𝒏𝒕𝒆𝒏𝒅𝒐 𝑺𝒘𝒊𝒕𝒄𝒉, 𝑴𝒐𝒃𝒊𝒍𝒆 𝑷𝒉𝒐𝒏𝒆, 𝒊𝑷𝒂𝒅, 𝑷𝑪 𝒂𝒏𝒅 𝑵𝒐𝒕𝒆𝒃𝒐𝒐𝒌, 𝑪𝒐𝒏𝒕𝒓𝒐𝒍𝒍𝒂𝒃𝒍𝒆 𝑽𝒐𝒍𝒖𝒎𝒆 𝑮𝒂𝒎𝒊𝒏𝒈 𝑯𝒆𝒂𝒅𝒑𝒉𝒐𝒏𝒆𝒔 𝒘𝒊𝒕𝒉 𝑺𝒐𝒇𝒕 𝑬𝒂𝒓𝒎𝒖𝒇𝒇𝒔",
       "price": 3559,
@@ -495,32 +521,6 @@
       "category": "Grocery & Food",
       "telegram_msg_id": 1998,
       "posted_at": "2026-11-20T11:43:48+05:30"
-    },
-    {
-      "title": "🔥 💄 Beauty Loots 𝑮𝒂𝒓𝒏𝒊𝒆𝒓 𝑴𝒆𝒏 𝑨𝒄𝒏𝒐 𝑭𝒊𝒈𝒉𝒕 𝑨𝒏𝒕𝒊 𝑷𝒊𝒎𝒑𝒍𝒆 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉 + 𝑼𝑽 𝑺𝒆𝒓𝒖𝒎",
-      "price": 306,
-      "mrp": 628,
-      "discount_pct": 51.0,
-      "saving": 322,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F18L1ZZB?tag=lootkabhandar-21",
-      "image": "img/1997.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1997,
-      "posted_at": "2026-11-20T11:33:37+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 🔥 𝑫𝒐𝒏'𝒕 𝒎𝒊𝒔𝒔 𝒐𝒖𝒕 𝒐𝒏 𝒕𝒉𝒊𝒔 𝒇𝒂𝒃 𝒇𝒊𝒏𝒅!𝑨𝒏𝒐𝒖𝒌 𝑾𝒐𝒎𝒆𝒏 𝑬𝒎𝒃𝒆𝒍𝒍𝒊𝒔𝒉𝒆𝒅 𝑷𝒂𝒓𝒕𝒚 𝑶𝒑𝒆𝒏 𝑻𝒐𝒆 𝑭𝒍𝒂𝒕𝒔 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 🔁 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
-      "price": 402,
-      "mrp": 3699,
-      "discount_pct": 89.0,
-      "saving": 3297,
-      "store": "Myntra",
-      "link": "https://myntr.it/2tEhPvm",
-      "image": "img/1996.jpg",
-      "category": "Other",
-      "telegram_msg_id": 1996,
-      "posted_at": "2026-11-20T11:09:08+05:30"
     },
     {
       "kind": "coupon",
