@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T23:26:34+05:30",
+  "updated_at": "2026-11-21T23:44:01+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑫𝒓. 𝑷𝒆𝒕𝒔 𝑻𝒓𝒆𝒆𝒕𝒐𝒔 𝑪𝒉𝒊𝒄𝒌𝒆𝒏 𝑺𝒕𝒊𝒙 𝑫𝒐𝒈 𝑻𝒓𝒆𝒂𝒕𝒔 𝟏𝟎𝒙𝟖𝟓𝒈",
+      "price": 404,
+      "mrp": 2100,
+      "discount_pct": 81.0,
+      "saving": 1696,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D7195GWR?tag=lootkabhandar-21",
+      "image": "img/2164.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2164,
+      "posted_at": "2026-11-21T23:44:01+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑨𝑴𝑫 𝑹𝒚𝒛𝒆𝒏 𝟓 𝟕𝟔𝟎𝟎𝑿 𝑫𝒆𝒔𝒌𝒕𝒐𝒑 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒐𝒓 𝟔𝑪/𝟏𝟐𝑻 𝟒.𝟕𝑮𝑯𝒛",
+      "price": 23999,
+      "mrp": 43000,
+      "discount_pct": 44.0,
+      "saving": 19001,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BBJDS62N?tag=lootkabhandar-21",
+      "image": "img/2163.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2163,
+      "posted_at": "2026-11-21T23:43:16+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑲𝒊𝒕𝒄𝒉𝒆𝒏𝒆𝒕𝒊𝒄 𝑯𝒐𝒎𝒆 𝑺𝑪_𝟎𝟏 𝑽𝒆𝒈𝒆𝒕𝒂𝒃𝒍𝒆 & 𝑭𝒓𝒖𝒊𝒕 𝑪𝒉𝒐𝒑𝒑𝒆𝒓 · 𝑺𝒉𝒐𝒑𝒔𝒚",
       "price": 113,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2107,
       "posted_at": "2026-11-21T13:48:06+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑽𝒀𝑶𝑹𝑨 𝑺𝒉𝒆𝒍𝒇 𝑶𝒓𝒈𝒂𝒏𝒊𝒛𝒆𝒓𝒔 (𝑩𝒍𝒂𝒄𝒌) · 𝑺𝒉𝒐𝒑𝒔𝒚",
-      "price": 193,
-      "mrp": 899,
-      "discount_pct": 78.0,
-      "saving": 706,
-      "store": "Shopsy",
-      "link": "https://bitli.in/waxdXVS",
-      "image": "img/2106.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2106,
-      "posted_at": "2026-11-21T13:45:37+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑪𝒐𝒗𝒆𝒓𝒃𝒓𝒐𝒘𝒏 𝑬𝒍𝒆𝒄𝒕𝒓𝒊𝒄 𝑭𝒐𝒍𝒅𝒂𝒃𝒍𝒆 𝑯𝒂𝒊𝒓 𝑫𝒓𝒚𝒆𝒓 𝟏𝟎𝟎𝟎𝑾 · 𝑺𝒉𝒐𝒑𝒔𝒚",
-      "price": 186,
-      "mrp": 999,
-      "discount_pct": 81.0,
-      "saving": 813,
-      "store": "Shopsy",
-      "link": "https://bitli.in/A424a8a",
-      "image": "img/2105.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2105,
-      "posted_at": "2026-11-21T13:45:03+05:30"
     },
     {
       "kind": "coupon",
