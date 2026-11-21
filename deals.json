@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T11:51:59+05:30",
+  "updated_at": "2026-11-21T12:17:49+05:30",
   "deals": [
+    {
+      "title": "🔥 🧸 Toys Loots 𝑫𝒓𝒐𝒐𝒍𝒔 𝑵𝒐𝒏-𝑻𝒐𝒙𝒊𝒄 𝑹𝒖𝒃𝒃𝒆𝒓 𝑻𝒐𝒚 𝒇𝒐𝒓 𝑫𝒐𝒈𝒔, 𝑻𝒓𝒊𝒐 𝑩𝒐𝒍𝒕 𝑹𝒊𝒏𝒈 𝟏𝟏𝟓𝒈 𝑷𝒂𝒄𝒌 | 𝑵𝒐𝒏 𝑫𝒆𝒔𝒕𝒓𝒖𝒄𝒕𝒊𝒗𝒆 𝑪𝒉𝒆𝒘𝒊𝒏𝒈 | 𝑬𝒏𝒉𝒂𝒏𝒄𝒆 𝑫𝒆𝒏𝒕𝒂𝒍 𝑯𝒆𝒂𝒍𝒕𝒉 | 𝑯𝒆𝒍𝒑𝒔 𝒊𝒏 𝑾𝒆𝒊𝒈𝒉𝒕 𝑴𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕",
+      "price": 72,
+      "mrp": 299,
+      "discount_pct": 76.0,
+      "saving": 227,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BS9J61NQ?tag=lootkabhandar-21",
+      "image": "img/2099.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2099,
+      "posted_at": "2026-11-21T12:17:49+05:30"
+    },
     {
       "title": "Boldfit Gym Gallon Water Bottle, 2. 2 Litre Bottle for Gym Workout, Motivational Sipper gallons for Adults, Water Bottles 2 + LTR, 2litre Sipper for Men & Women Motivational gallons",
       "price": 449,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2050,
       "posted_at": "2026-11-20T19:50:09+05:30"
-    },
-    {
-      "title": "Bose New SoundLink Micro (2nd Generation) Portable Bluetooth Speaker, Wireless Outdoor Speaker, Up to 12 Hours Battery Life, Water and Dust Resistant, Black",
-      "price": 9900,
-      "mrp": 15900,
-      "discount_pct": 37.0,
-      "saving": 6000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FDLD34V5?tag=lootkabhandar-21",
-      "image": "img/2049.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2049,
-      "posted_at": "2026-11-20T19:48:13+05:30"
     },
     {
       "kind": "coupon",
