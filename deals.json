@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T22:10:46+05:30",
+  "updated_at": "2026-11-21T23:26:34+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑲𝒊𝒕𝒄𝒉𝒆𝒏𝒆𝒕𝒊𝒄 𝑯𝒐𝒎𝒆 𝑺𝑪_𝟎𝟏 𝑽𝒆𝒈𝒆𝒕𝒂𝒃𝒍𝒆 & 𝑭𝒓𝒖𝒊𝒕 𝑪𝒉𝒐𝒑𝒑𝒆𝒓 · 𝑺𝒉𝒐𝒑𝒔𝒚",
+      "price": 113,
+      "mrp": 999,
+      "discount_pct": 88.0,
+      "saving": 886,
+      "store": "Shopsy",
+      "link": "https://bitli.in/ky5zMCX",
+      "image": "img/2162.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2162,
+      "posted_at": "2026-11-21T23:26:34+05:30"
+    },
     {
       "title": "🔥 🍳 Kitchen Loots 𝑨𝑫𝑫𝟐𝑪𝑨𝑹𝑻 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑺𝒄𝒊𝒔𝒔𝒐𝒓 𝒇𝒐𝒓 𝑮𝒆𝒏𝒆𝒓𝒂𝒍 𝑼𝒔𝒆, 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑹𝒂𝒑𝒕𝒐𝒓 𝑴𝒆𝒂𝒕 𝑺𝒉𝒆𝒂𝒓𝒔, 𝑪𝒐𝒐𝒌𝒊𝒏𝒈 𝑺𝒄𝒊𝒔𝒔𝒐𝒓𝒔, 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑴𝒖𝒍𝒕𝒊-𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝑺𝒄𝒊𝒔𝒔𝒐𝒓𝒔 𝒇𝒐𝒓 𝑭𝒐𝒐𝒅, 𝑪𝒉𝒊𝒄𝒌𝒆𝒏, 𝑷𝒐𝒖𝒍𝒕𝒓𝒚, 𝑭𝒊𝒔𝒉, 𝑷𝒊𝒛𝒛𝒂, 𝑯𝒆𝒓𝒃𝒔 (𝑷𝑨𝑪𝑲 𝑶𝑭 𝟏)",
       "price": 99,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2105,
       "posted_at": "2026-11-21T13:45:03+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑩𝒍𝒖𝒆𝒕𝒐𝒐𝒕𝒉 𝑵𝒆𝒄𝒌𝒃𝒂𝒏𝒅 · 𝑺𝒉𝒐𝒑𝒔𝒚",
-      "price": 438,
-      "mrp": 1199,
-      "discount_pct": 63.0,
-      "saving": 761,
-      "store": "Shopsy",
-      "link": "https://bitli.in/whVY0KN",
-      "image": "img/2104.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2104,
-      "posted_at": "2026-11-21T13:44:29+05:30"
     },
     {
       "kind": "coupon",
