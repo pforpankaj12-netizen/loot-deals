@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T15:54:20+05:30",
+  "updated_at": "2026-11-21T17:55:17+05:30",
   "deals": [
+    {
+      "title": "Frenchware Set of 3 Non-Stick Premium Silicone Spatula Set for Cooking, Baking & Mixing | Seamless One-Piece Design | Heat-Resistant -40°C to 230°C | Food-Grade & BPA-Free | Dishwasher Safe (Black)",
+      "price": 149,
+      "mrp": 599,
+      "discount_pct": 75.0,
+      "saving": 450,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B084GWW8JG?tag=lootkabhandar-21",
+      "image": "img/2131.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2131,
+      "posted_at": "2026-11-21T17:55:17+05:30"
+    },
+    {
+      "title": "Cult Vibeflip Dual-Side Walkpad with Vibration & Acupressure Massage Grooves | 4HP BLDC Motor | Max User Weight 120Kg | Remote Control & Tablet Holder | Perfect for Home Workout",
+      "price": 13999,
+      "mrp": 43999,
+      "discount_pct": 68.0,
+      "saving": 30000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HKWLXX1R?tag=lootkabhandar-21",
+      "image": "img/2130.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2130,
+      "posted_at": "2026-11-21T17:55:14+05:30"
+    },
     {
       "title": "AILKIN 100W Fast Charger Adapter with Type C Cable | Warp/Dash Fast Charging Compatible for OnePlus 13/13R/12/12R/11/11R/10/10 Pro/9/8T/8/7/Nord/CE Series & Other USB Type C Devices",
       "price": 499,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2083,
       "posted_at": "2026-11-21T08:37:25+05:30"
-    },
-    {
-      "title": "🔥 👗 Fashion Loots 𝑴𝒂𝒓𝒌𝒔 & 𝑺𝒑𝒆𝒏𝒄𝒆𝒓 𝑩𝒐𝒚'𝒔 𝑹𝒆𝒈𝒖𝒍𝒂𝒓 𝑭𝒊𝒕 𝑻-𝑺𝒉𝒊𝒓𝒕 𝟗-𝟏𝟎 𝒀",
-      "price": 394,
-      "mrp": 1999,
-      "discount_pct": 80.0,
-      "saving": 1605,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DW93VC53?tag=lootkabhandar-21",
-      "image": "img/2082.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2082,
-      "posted_at": "2026-11-21T08:33:34+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑴𝑨𝑯𝑨𝑹𝑨𝑱𝑨 𝑷𝒍𝒂𝒔𝒕𝒊𝒄 𝑪𝒉𝒂𝒊𝒓 & 𝑻𝒂𝒃𝒍𝒆 𝑪𝒐𝒎𝒃𝒐 | 𝑬𝒍𝒆𝒈𝒂𝒏𝒕 𝑫𝒆𝒔𝒊𝒈𝒏 𝒇𝒐𝒓 𝑰𝒏𝒅𝒐𝒐𝒓 & 𝑶𝒖𝒕𝒅𝒐𝒐𝒓 𝑼𝒔𝒆 | 𝑳𝒊𝒈𝒉𝒕𝒘𝒆𝒊𝒈𝒉𝒕 & 𝑫𝒖𝒓𝒂𝒃𝒍𝒆 (𝑻𝒆𝒂𝒌𝒘𝒐𝒐𝒅, 𝟐 𝑪𝒉𝒂𝒊𝒓+𝟏 𝑻𝒂𝒃𝒍𝒆)",
-      "price": 4525,
-      "mrp": 9712,
-      "discount_pct": 53.4,
-      "saving": 5187,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F9YBVKXC?tag=lootkabhandar-21",
-      "image": "img/2081.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2081,
-      "posted_at": "2026-11-21T08:07:32+05:30"
     },
     {
       "kind": "coupon",
