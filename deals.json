@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T09:50:46+05:30",
+  "updated_at": "2026-11-21T10:05:49+05:30",
   "deals": [
+    {
+      "title": "🔥 💄 Beauty Loots 𝑩𝒐𝒓𝒐𝑷𝒍𝒖𝒔 𝑺𝒐𝒇𝒕 𝑳𝒊𝒈𝒉𝒕 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒊𝒏𝒈 𝑪𝒓𝒆𝒂𝒎 | 𝑳𝒊𝒈𝒉𝒕 & 𝑵𝒐𝒏-𝒔𝒕𝒊𝒄𝒌𝒚 | 𝑷𝒓𝒐𝒗𝒊𝒅𝒆𝒔 𝟐𝟒 𝒉𝒐𝒖𝒓 𝒎𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒂𝒕𝒊𝒐𝒏 | 𝑭𝒐𝒓 𝑺𝒐𝒇𝒕 𝑭𝒓𝒆𝒔𝒉 𝑺𝒌𝒊𝒏 𝟓𝟎𝒎𝒍",
+      "price": 44,
+      "mrp": 99,
+      "discount_pct": 56.0,
+      "saving": 55,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CMCW69WH?tag=lootkabhandar-21",
+      "image": "img/2089.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2089,
+      "posted_at": "2026-11-21T10:05:49+05:30"
+    },
+    {
+      "title": "🔥 💄 Beauty Loots 𝑷𝒐𝒏𝒅'𝒔 𝑩𝒓𝒊𝒈𝒉𝒕 𝑴𝒊𝒓𝒂𝒄𝒍𝒆 𝑼𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝑩𝒓𝒊𝒈𝒉𝒕𝒆𝒏𝒊𝒏𝒈 𝑺𝒆𝒓𝒖𝒎 𝒘𝒊𝒕𝒉 𝑵𝒊𝒂𝒔𝒐𝒓𝒄𝒊𝒏𝒐𝒍 | 𝟑𝟎𝑿 𝒃𝒆𝒕𝒕𝒆𝒓 𝒕𝒉𝒂𝒏 𝑽𝒊𝒕𝒂𝒎𝒊𝒏 𝑪 | 𝑭𝒐𝒓 𝑽𝒊𝒔𝒊𝒃𝒍𝒚 𝑩𝒓𝒊𝒈𝒉𝒕𝒆𝒓, 𝑺𝒑𝒐𝒕-𝑭𝒓𝒆𝒆 𝑺𝒌𝒊𝒏 𝒊𝒏 𝟏 𝑾𝒆𝒆𝒌 | 𝑳𝒊𝒈𝒉𝒕𝒘𝒆𝒊𝒈𝒉𝒕 & 𝑭𝒂𝒔𝒕 𝑨𝒃𝒔𝒐𝒓𝒃𝒊𝒏𝒈 | 𝟑𝟎𝒎𝒍",
+      "price": 263,
+      "mrp": 599,
+      "discount_pct": 56.0,
+      "saving": 336,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09FMM9V9N?tag=lootkabhandar-21",
+      "image": "img/2088.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2088,
+      "posted_at": "2026-11-21T10:05:40+05:30"
+    },
     {
       "title": "Drumstone Green Desert Cooler Personal Air Cooler with Water Tank, Portable Evaporative Cooling System for Home, Office & Room, Energy Efficient Summer Cooling Solution",
       "price": 539,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2040,
       "posted_at": "2026-11-20T17:46:58+05:30"
-    },
-    {
-      "title": "PHILIPS T Beamer 20w Rechargeable Emergency Inverter LED Light Bulb, Cool Day White, Standard, b22d",
-      "price": 309,
-      "mrp": 899,
-      "discount_pct": 65.0,
-      "saving": 590,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B097MZ9SV3?tag=lootkabhandar-21",
-      "image": "img/2039.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2039,
-      "posted_at": "2026-11-20T17:46:55+05:30"
-    },
-    {
-      "title": "Microsoft HFR-00005 USB-C to VGA Adapter",
-      "price": 1016,
-      "mrp": 4999,
-      "discount_pct": 79.0,
-      "saving": 3983,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07B78Q11W?tag=lootkabhandar-21",
-      "image": "img/2038.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2038,
-      "posted_at": "2026-11-20T17:46:53+05:30"
     },
     {
       "kind": "coupon",
