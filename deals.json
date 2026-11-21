@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T19:56:16+05:30",
+  "updated_at": "2026-11-21T20:13:38+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑻𝒓𝒖𝒍𝒐 𝑴𝒐𝒏𝒌 𝑭𝒓𝒖𝒊𝒕 𝑺𝒘𝒆𝒆𝒕𝒆𝒏𝒆𝒓 𝑫𝒓𝒐𝒑𝒔 𝟏𝟎𝒎𝒍 | 𝒁𝒆𝒓𝒐 𝑪𝒂𝒍𝒐𝒓𝒊𝒆𝒔 | 𝑫𝒊𝒂𝒃𝒆𝒕𝒊𝒄 𝒂𝒏𝒅 𝑲𝒆𝒕𝒐 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 | 𝟐𝟎𝟎 𝑫𝒓𝒐𝒑𝒔 | 𝑵𝒐 𝑬𝒓𝒚𝒕𝒉𝒓𝒊𝒕𝒐𝒍 | 𝒁𝒆𝒓𝒐 𝑺𝒖𝒈𝒂𝒓, 𝑻𝒓𝒂𝒗𝒆𝒍 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚",
+      "price": 296,
+      "mrp": 599,
+      "discount_pct": 51.0,
+      "saving": 303,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HLYY54SH?lv=shuf&social_share=cm_sw_r_cso_wa_apin_dp_4ZY9KXJM0582E69VFW5B&channelId=704&ascsubtag=20261121cl1b1m6o7l9a&tag=lootkabhandar-21",
+      "image": "img/2147.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2147,
+      "posted_at": "2026-11-21T20:13:38+05:30"
+    },
     {
       "title": "V311 Foldable Mobile Stand Tabletop Stand Adjustable Phone Holder and iPad Stand & For Bed , Table, Office, Video Recording Compatible With All Smartphones, Tablet (Black, White & Pink )",
       "price": 69,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2092,
       "posted_at": "2026-11-21T11:05:08+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑻𝒐𝒌𝒚𝒐 𝑻𝒂𝒍𝒌𝒊𝒆𝒔 𝑾𝒐𝒎𝒆𝒏 𝑻𝒐𝒑𝒔 - 𝑩𝒍𝒂𝒄𝒌/𝑾𝒉𝒊𝒕𝒆, 𝑺𝒊𝒛𝒆 𝑺",
-      "price": 199,
-      "mrp": 799,
-      "discount_pct": 75.0,
-      "saving": 600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FFTB3M4S?tag=lootkabhandar-21",
-      "image": "img/2091.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2091,
-      "posted_at": "2026-11-21T10:49:51+05:30"
     },
     {
       "kind": "coupon",
