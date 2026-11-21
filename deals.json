@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T18:24:39+05:30",
+  "updated_at": "2026-11-21T18:50:31+05:30",
   "deals": [
+    {
+      "title": "🔥 👗 Fashion Loots 𝑨𝑵𝑵𝑰 𝑫𝑬𝑺𝑰𝑮𝑵𝑬𝑹 𝑾𝒐𝒎𝒆𝒏 𝑲𝒖𝒓𝒕𝒂 𝒘𝒊𝒕𝒉 𝑷𝒂𝒏𝒕 & 𝑫𝒖𝒑𝒂𝒕𝒕𝒂",
+      "price": 299,
+      "mrp": 2599,
+      "discount_pct": 88.0,
+      "saving": 2300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?i=apparel&rh=n%3A1968255031%2Cp_n_g-1003257321111%3A28197005031%2Cp_36%3A29500-41000&s=price-asc-rank&qid=1795266329&rnid=4595083031&btn_type=ss&btn_ref=srctok-7e5713a2e6ac363f&ascsubtag=20261121cl29hnzmizu9&tag=lootkabhandar-21",
+      "image": "img/2133.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2133,
+      "posted_at": "2026-11-21T18:50:31+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑮𝒂𝒓𝒃𝒂𝒈𝒆 𝑩𝒂𝒈𝒔 | 𝑳𝒂𝒓𝒈𝒆 𝑺𝒊𝒛𝒆 |𝟔𝟎 𝑩𝒂𝒈𝒔 (𝟏𝟓 𝑩𝒂𝒈𝒔 𝒙 𝟒 𝑹𝒐𝒍𝒍𝒔) | 𝟐𝟒 𝒙 𝟑𝟐 𝒊𝒏𝒄𝒉𝒆𝒔 | 𝑩𝒍𝒂𝒄𝒌",
       "price": 219,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2085,
       "posted_at": "2026-11-21T09:50:40+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑭𝒊𝒂𝒎𝒂 𝑩𝒐𝒅𝒚 𝑾𝒂𝒔𝒉 𝑺𝒉𝒐𝒘𝒆𝒓 𝑮𝒆𝒍 𝑷𝒂𝒕𝒄𝒉𝒐𝒖𝒍𝒊 & 𝑴𝒂𝒄𝒂𝒅𝒂𝒎𝒊𝒂 𝟐𝟓𝟎𝒎𝒍",
-      "price": 105,
-      "mrp": 199,
-      "discount_pct": 47.0,
-      "saving": 94,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&ascsubtag=20261121clh3ugxiw8tg&tag=lootkabhandar-21",
-      "image": "img/2084.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2084,
-      "posted_at": "2026-11-21T09:45:15+05:30"
     },
     {
       "kind": "coupon",
