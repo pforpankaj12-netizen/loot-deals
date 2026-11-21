@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T12:50:51+05:30",
+  "updated_at": "2026-11-21T13:03:17+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑹𝑹 𝑺𝒊𝒈𝒏𝒂𝒕𝒖𝒓𝒆 𝒁𝒆𝒍𝒍𝒐 𝑷𝑹𝑶 𝟏𝟓𝑳 𝑺𝒕𝒂𝒓 𝑹𝒂𝒕𝒆𝒅 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 𝑾𝒂𝒕𝒆𝒓 𝑯𝒆𝒂𝒕𝒆𝒓 𝒇𝒐𝒓 𝑯𝒐𝒎𝒆 | 𝟖 𝑩𝒂𝒓, 𝑺𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝒇𝒐𝒓 𝑯𝒊𝒈𝒉 𝑹𝒊𝒔𝒆 | 𝑻𝒉𝒆𝒓𝒎𝒂𝒍 𝑪𝒖𝒕𝒐𝒖𝒕 | 𝑺𝒂𝒇𝒆𝒕𝒚 𝑽𝒂𝒍𝒗𝒆 𝟐 𝒀𝒓 𝑾𝒂𝒓𝒓𝒂𝒏𝒕𝒚 𝒐𝒏 𝑷𝒓𝒐𝒅𝒖𝒄𝒕 & 𝟓 𝒀𝒓 𝒐𝒏 𝑻𝒂𝒏𝒌 𝒃𝒚 𝑹𝑹",
+      "price": 4515,
+      "mrp": 12500,
+      "discount_pct": 64.0,
+      "saving": 7985,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D8LH7NFK?tag=lootkabhandar-21",
+      "image": "img/2101.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2101,
+      "posted_at": "2026-11-21T13:03:17+05:30"
+    },
     {
       "title": "🔥 👟 Footwear Loots 𝑷𝒖𝒎𝒂 𝑼𝒏𝒊𝒔𝒆𝒙-𝑨𝒅𝒖𝒍𝒕 𝑹𝒖𝒔𝒉𝒙 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆",
       "price": 2249,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2057,
       "posted_at": "2026-11-20T20:29:11+05:30"
-    },
-    {
-      "title": "🔥 💳 BANK OFFER 𝑩𝒐𝒔𝒄𝒉 𝟑𝟎𝟐𝑳, 𝟑 𝑺𝒕𝒂𝒓, 𝑴𝒂𝒙𝑭𝒍𝒆𝒙 𝑪𝒐𝒏𝒗𝒆𝒓𝒕 𝑭𝒓𝒐𝒔𝒕 𝑭𝒓𝒆𝒆 𝑻𝒓𝒊𝒑𝒍𝒆 𝑫𝒐𝒐𝒓 𝑹𝒆𝒇𝒓𝒊𝒈𝒆𝒓𝒂𝒕𝒐𝒓 | 𝟖-𝒊𝒏-𝟏 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 𝑴𝒐𝒅𝒆𝒔|𝟓𝟕𝑳 𝑬𝒙𝒕𝒓𝒂 𝑪𝒐𝒏𝒗𝒆𝒓𝒕𝒊𝒃𝒍𝒆 𝒁𝒐𝒏𝒆|𝑪𝒐𝒐𝒍 𝑬𝒙𝒕𝒆𝒏𝒅 𝒖𝒑 𝒕𝒐 𝟏𝟖 𝒉𝒐𝒖𝒓𝒔 (𝑪𝑴𝑪𝟑𝟑𝑺𝟑𝟑𝑽𝑰, 𝟐𝟎𝟐𝟔 𝑴𝒐𝒅𝒆𝒍, 𝑪𝒐𝒔𝒎𝒊𝒄 𝑺𝒕𝒆𝒆𝒍)",
-      "price": 30490,
-      "mrp": 39990,
-      "discount_pct": 23.8,
-      "saving": 9500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H9T73HJ7?tag=lootkabhandar-21",
-      "image": "img/2056.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2056,
-      "posted_at": "2026-11-20T20:14:28+05:30"
     },
     {
       "kind": "coupon",
