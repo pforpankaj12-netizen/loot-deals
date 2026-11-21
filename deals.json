@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T11:05:08+05:30",
+  "updated_at": "2026-11-21T11:33:59+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑨𝒎𝒂𝒛𝒐𝒏 𝑩𝒓𝒂𝒏𝒅 - 𝑷𝒓𝒆𝒔𝒕𝒐! 𝑹𝒐𝒔𝒆 𝑳𝒊𝒒𝒖𝒊𝒅 𝑯𝒂𝒏𝒅𝒘𝒂𝒔𝒉 𝟓𝑳 | 𝑲𝒊𝒍𝒍𝒔 𝟗𝟗% 𝑮𝒆𝒓𝒎𝒔 | 𝒑𝑯 𝑩𝒂𝒍𝒂𝒏𝒄𝒆𝒅, 𝑮𝒆𝒏𝒕𝒍𝒆 𝒐𝒏 𝑺𝒌𝒊𝒏 | 𝑵𝒐 𝑨𝒅𝒅𝒆𝒅 𝑷𝒂𝒓𝒂𝒃𝒆𝒏𝒔 & 𝑻𝒓𝒊𝒄𝒍𝒐𝒔𝒂𝒏 | 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒊𝒏𝒈 𝑭𝒐𝒓𝒎𝒖𝒍𝒂",
+      "price": 250,
+      "mrp": 1400,
+      "discount_pct": 82.0,
+      "saving": 1150,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GWS73DY2?tag=lootkabhandar-21",
+      "image": "img/2093.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2093,
+      "posted_at": "2026-11-21T11:33:59+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑯𝒊𝒎𝒂𝒍𝒂𝒚𝒂 𝑫𝒂𝒓𝒌 𝑺𝒑𝒐𝒕 𝑪𝒍𝒆𝒂𝒓𝒊𝒏𝒈 𝑻𝒖𝒓𝒎𝒆𝒓𝒊𝒄 𝑲𝒊𝒕 (𝑷𝒂𝒄𝒌 𝒐𝒇 𝟑) | 𝟏𝟎𝟎% 𝑶𝒓𝒈𝒂𝒏𝒊𝒄𝒂𝒍𝒍𝒚 𝒔𝒐𝒖𝒓𝒄𝒆𝒅 𝑺𝒗𝒂𝒓𝒂𝒔𝒂 𝑻𝒖𝒓𝒎𝒆𝒓𝒊𝒄 | 𝑭𝒓𝒆𝒆 𝑱𝒖𝒕𝒆 𝑩𝒂𝒈 | 𝑭𝒂𝒄𝒆 𝑾𝒂𝒔𝒉 𝟏𝟎𝟎 𝒎𝒍 | 𝑭𝒂𝒄𝒆 𝑷𝒂𝒄𝒌 𝟏𝟎𝟎 𝒈𝒎 | 𝑺𝒆𝒓𝒖𝒎 𝟑𝟎 𝒎𝒍 | 𝑷𝒐𝒘𝒆𝒓 𝒐𝒇 𝑮𝒍𝒚𝒄𝒐𝒍𝒊𝒄 𝑨𝒄𝒊𝒅 & 𝑵𝒊𝒂𝒄𝒊𝒏𝒂𝒎𝒊𝒅𝒆 | 𝑮𝒊𝒗𝒆𝒔 𝒓𝒂𝒅𝒊𝒂𝒏𝒕 𝒔𝒑𝒐𝒕 𝒇𝒓𝒆𝒆 𝒔𝒌𝒊𝒏 | 𝑵𝒐𝒏-𝑺𝒕𝒂𝒊𝒏𝒊𝒏𝒈",
       "price": 352,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2044,
       "posted_at": "2026-11-20T17:47:12+05:30"
-    },
-    {
-      "title": "SENSE SAFETY Fire Bucket - Alloy Steel Iron for Fireplace, Burning Wood, Indoor Outdoor Ashes Carrier Container | Safety Gear for Home and Outdoors | Red - 9L",
-      "price": 349,
-      "mrp": 699,
-      "discount_pct": 50.0,
-      "saving": 350,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DF77ZGD5?tag=lootkabhandar-21",
-      "image": "img/2043.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2043,
-      "posted_at": "2026-11-20T17:47:09+05:30"
     },
     {
       "kind": "coupon",
