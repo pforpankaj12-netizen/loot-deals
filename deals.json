@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T14:52:31+05:30",
+  "updated_at": "2026-11-21T15:54:20+05:30",
   "deals": [
+    {
+      "title": "AILKIN 100W Fast Charger Adapter with Type C Cable | Warp/Dash Fast Charging Compatible for OnePlus 13/13R/12/12R/11/11R/10/10 Pro/9/8T/8/7/Nord/CE Series & Other USB Type C Devices",
+      "price": 499,
+      "mrp": 2999,
+      "discount_pct": 83.0,
+      "saving": 2500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GSH3D6M4?tag=lootkabhandar-21",
+      "image": "img/2128.jpg",
+      "category": "Smartphone & Mobile",
+      "telegram_msg_id": 2128,
+      "posted_at": "2026-11-21T15:54:20+05:30"
+    },
+    {
+      "title": "Disposable Paper Plates 6 inch, 50 Count, Square, Beige | Eco-Friendly Sugarcane Plates for Wedding, Party, Cafes | Ideal for Both Hot & Cold Food",
+      "price": 111,
+      "mrp": 499,
+      "discount_pct": 77.0,
+      "saving": 388,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FV8QMB2X?tag=lootkabhandar-21",
+      "image": "img/2127.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2127,
+      "posted_at": "2026-11-21T15:54:17+05:30"
+    },
+    {
+      "title": "PALMONAS Crystal Heart Charm Gold Necklace for Womens - Waterproof & Anti-Tarnish, Gift for Girls & Women",
+      "price": 1099,
+      "mrp": 4799,
+      "discount_pct": 77.0,
+      "saving": 3700,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F7FBKJ6P?tag=lootkabhandar-21",
+      "image": "img/2126.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2126,
+      "posted_at": "2026-11-21T15:54:14+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝟐𝟒 𝑲𝒂𝒓𝒂𝒕 𝑷𝒖𝒓𝒆 𝟏𝒈 𝑮𝒐𝒍𝒅 𝑩𝒂𝒓 𝑷𝒆𝒏𝒅𝒂𝒏𝒕 - 𝑭𝒍𝒐𝒘𝒆𝒓 | 𝑰𝑩𝑱𝑨",
       "price": 11017,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2081,
       "posted_at": "2026-11-21T08:07:32+05:30"
-    },
-    {
-      "title": "Lowest : JACK & JONES Men's Cotton Blend T-Shirt @400.https://www.amazon.in/dp/B0BTP8C9KF?tag=lootkabhandar-21",
-      "price": 699,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BTP8C9KF?tag=lootkabhandar-21",
-      "image": "img/2080.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2080,
-      "posted_at": "2026-11-21T08:07:06+05:30"
-    },
-    {
-      "title": "Parle Platina Hide & Seek Black Bourbon (300gm) @100.https://www.amazon.in/dp/B08LNS2G1K?tag=lootkabhandar-21",
-      "price": 170,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08LNS2G1K?tag=lootkabhandar-21",
-      "image": "img/2079.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2079,
-      "posted_at": "2026-11-21T08:06:57+05:30"
-    },
-    {
-      "title": "🔥 💄 Beauty Loots 𝑮 𝑩𝒆𝒂𝒖𝒕𝒚 𝑾𝒐𝒎𝒆𝒏 𝑯𝒊𝒑𝒔𝒕𝒆𝒓 𝑩𝒍𝒂𝒄𝒌 𝑷𝒂𝒏𝒕𝒚 · 𝑺𝒉𝒐𝒑𝒔𝒚",
-      "price": 21,
-      "mrp": 149,
-      "discount_pct": 86.0,
-      "saving": 128,
-      "store": "Shopsy",
-      "link": "https://bitli.in/PVxqhLa",
-      "image": "img/2078.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2078,
-      "posted_at": "2026-11-21T08:02:53+05:30"
     },
     {
       "kind": "coupon",
