@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T12:17:49+05:30",
+  "updated_at": "2026-11-21T12:50:51+05:30",
   "deals": [
+    {
+      "title": "🔥 👟 Footwear Loots 𝑷𝒖𝒎𝒂 𝑼𝒏𝒊𝒔𝒆𝒙-𝑨𝒅𝒖𝒍𝒕 𝑹𝒖𝒔𝒉𝒙 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆",
+      "price": 2249,
+      "mrp": 7499,
+      "discount_pct": 70.0,
+      "saving": 5250,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GSGMXYQX?tag=lootkabhandar-21",
+      "image": "img/2100.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2100,
+      "posted_at": "2026-11-21T12:50:51+05:30"
+    },
     {
       "title": "🔥 🧸 Toys Loots 𝑫𝒓𝒐𝒐𝒍𝒔 𝑵𝒐𝒏-𝑻𝒐𝒙𝒊𝒄 𝑹𝒖𝒃𝒃𝒆𝒓 𝑻𝒐𝒚 𝒇𝒐𝒓 𝑫𝒐𝒈𝒔, 𝑻𝒓𝒊𝒐 𝑩𝒐𝒍𝒕 𝑹𝒊𝒏𝒈 𝟏𝟏𝟓𝒈 𝑷𝒂𝒄𝒌 | 𝑵𝒐𝒏 𝑫𝒆𝒔𝒕𝒓𝒖𝒄𝒕𝒊𝒗𝒆 𝑪𝒉𝒆𝒘𝒊𝒏𝒈 | 𝑬𝒏𝒉𝒂𝒏𝒄𝒆 𝑫𝒆𝒏𝒕𝒂𝒍 𝑯𝒆𝒂𝒍𝒕𝒉 | 𝑯𝒆𝒍𝒑𝒔 𝒊𝒏 𝑾𝒆𝒊𝒈𝒉𝒕 𝑴𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕",
       "price": 72,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2056,
       "posted_at": "2026-11-20T20:14:28+05:30"
-    },
-    {
-      "title": "🔥 👟 Footwear Loots 🔥 𝑫𝒐𝒏'𝒕 𝒎𝒊𝒔𝒔 𝒕𝒉𝒊𝒔 𝒂𝒎𝒂𝒛𝒊𝒏𝒈 𝒅𝒆𝒂𝒍!𝑯𝑹𝑿 𝒃𝒚 𝑯𝒓𝒊𝒕𝒉𝒊𝒌 𝑹𝒐𝒔𝒉𝒂𝒏 𝑾𝒐𝒎𝒆𝒏 𝑴𝒆𝒔𝒉 𝑹𝒖𝒏𝒏𝒊𝒏𝒈 𝑺𝒉𝒐𝒆𝒔 𝑫𝒆𝒂𝒍 🔥😍💥 𝑵𝒐𝒘 𝒐𝒏𝒍𝒚 🔁 𝑺𝒉𝒂𝒓𝒆 • @𝑮𝒓𝒂𝒃𝑶𝒏𝑰𝒏𝒅𝒊𝒂𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 - 𝟓𝟎+ 𝒍𝒐𝒐𝒕𝒔 𝒅𝒂𝒊𝒍𝒚",
-      "price": 789,
-      "mrp": 5699,
-      "discount_pct": 86.0,
-      "saving": 4910,
-      "store": "Myntra",
-      "link": "https://myntr.it/T7fvRwM",
-      "image": "img/2050.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2050,
-      "posted_at": "2026-11-20T19:50:09+05:30"
     },
     {
       "kind": "coupon",
