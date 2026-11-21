@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T19:03:00+05:30",
+  "updated_at": "2026-11-21T19:43:11+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑵𝑨𝑹𝑰𝒀𝑨 𝟏𝟔 𝑷𝒊𝒆𝒄𝒆 𝑺𝒑𝒊𝒄𝒆 𝑺𝒆𝒕 (𝑷𝒍𝒂𝒔𝒕𝒊𝒄) · 𝑺𝒉𝒐𝒑𝒔𝒚",
+      "price": 267,
+      "mrp": 799,
+      "discount_pct": 66.0,
+      "saving": 532,
+      "store": "Shopsy",
+      "link": "https://bitli.in/EAX5olN",
+      "image": "img/2137.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2137,
+      "posted_at": "2026-11-21T19:43:11+05:30"
+    },
+    {
+      "title": "🔥 💥 LOOT 𝑴𝒂𝒎𝒂𝒆𝒂𝒓𝒕𝒉 𝑼𝒃𝒕𝒂𝒏 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒛𝒊𝒏𝒈 𝑩𝒐𝒅𝒚 𝑳𝒐𝒕𝒊𝒐𝒏 𝟏𝟎𝟎𝒎𝒍 · 𝑺𝒉𝒐𝒑𝒔𝒚",
+      "price": 74,
+      "mrp": 125,
+      "discount_pct": 40.0,
+      "saving": 51,
+      "store": "Shopsy",
+      "link": "https://bitli.in/uylR1aO",
+      "image": "img/2136.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2136,
+      "posted_at": "2026-11-21T19:42:35+05:30"
+    },
     {
       "title": "🔥 👗 Fashion Loots 𝑳𝒊𝒃𝒂𝒔 𝑾𝒐𝒎𝒆𝒏 𝑲𝒖𝒓𝒕𝒂 𝑺𝒆𝒕 𝑾𝒊𝒕𝒉 𝑫𝒖𝒑𝒂𝒕𝒕𝒂",
       "price": 299,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2088,
       "posted_at": "2026-11-21T10:05:40+05:30"
-    },
-    {
-      "title": "Drumstone Green Desert Cooler Personal Air Cooler with Water Tank, Portable Evaporative Cooling System for Home, Office & Room, Energy Efficient Summer Cooling Solution",
-      "price": 539,
-      "mrp": 3999,
-      "discount_pct": 86.0,
-      "saving": 3460,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H4HD6VRJ?tag=lootkabhandar-21",
-      "image": "img/2087.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2087,
-      "posted_at": "2026-11-21T09:50:46+05:30"
-    },
-    {
-      "title": "Amazon Brand - Solimo Gold Polished Decorative Metallic Lotus Tealight Candle Holder - Urli Bowl | for Floating Flowers & Tealights | for Diwali, Weddings, Anniversaries, House Warmings | Gold Finish",
-      "price": 224,
-      "mrp": 809,
-      "discount_pct": 72.0,
-      "saving": 585,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DDQ7J4QM?tag=lootkabhandar-21",
-      "image": "img/2086.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2086,
-      "posted_at": "2026-11-21T09:50:44+05:30"
     },
     {
       "kind": "coupon",
