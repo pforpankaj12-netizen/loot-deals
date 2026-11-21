@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T17:55:17+05:30",
+  "updated_at": "2026-11-21T18:24:39+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑮𝒂𝒓𝒃𝒂𝒈𝒆 𝑩𝒂𝒈𝒔 | 𝑳𝒂𝒓𝒈𝒆 𝑺𝒊𝒛𝒆 |𝟔𝟎 𝑩𝒂𝒈𝒔 (𝟏𝟓 𝑩𝒂𝒈𝒔 𝒙 𝟒 𝑹𝒐𝒍𝒍𝒔) | 𝟐𝟒 𝒙 𝟑𝟐 𝒊𝒏𝒄𝒉𝒆𝒔 | 𝑩𝒍𝒂𝒄𝒌",
+      "price": 219,
+      "mrp": 899,
+      "discount_pct": 76.0,
+      "saving": 680,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H6KJ71V2?tag=lootkabhandar-21",
+      "image": "img/2132.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2132,
+      "posted_at": "2026-11-21T18:24:39+05:30"
+    },
     {
       "title": "Frenchware Set of 3 Non-Stick Premium Silicone Spatula Set for Cooking, Baking & Mixing | Seamless One-Piece Design | Heat-Resistant -40°C to 230°C | Food-Grade & BPA-Free | Dishwasher Safe (Black)",
       "price": 149,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2084,
       "posted_at": "2026-11-21T09:45:15+05:30"
-    },
-    {
-      "title": "🔥 📱 Electronics Loots 𝑵𝒐𝒊𝒔𝒆 𝑻𝒘𝒊𝒔𝒕 𝑮𝒐 𝑹𝒐𝒖𝒏𝒅 𝒅𝒊𝒂𝒍 𝑺𝒎𝒂𝒓𝒕𝒘𝒂𝒕𝒄𝒉 𝒘𝒊𝒕𝒉 𝑩𝑻 𝑪𝒂𝒍𝒍𝒊𝒏𝒈, 𝟏.𝟑𝟗\" 𝑫𝒊𝒔𝒑𝒍𝒂𝒚, 𝑴𝒆𝒕𝒂𝒍 𝑩𝒖𝒊𝒍𝒅, 𝟏𝟎𝟎+ 𝑾𝒂𝒕𝒄𝒉 𝑭𝒂𝒄𝒆𝒔, 𝑰𝑷𝟔𝟖, 𝑺𝒍𝒆𝒆𝒑 𝑻𝒓𝒂𝒄𝒌𝒊𝒏𝒈, 𝟏𝟎𝟎+ 𝑺𝒑𝒐𝒓𝒕𝒔 𝑴𝒐𝒅𝒆𝒔, 𝟐𝟒/𝟕 𝑯𝒆𝒂𝒓𝒕 𝑹𝒂𝒕𝒆 𝑴𝒐𝒏𝒊𝒕𝒐𝒓𝒊𝒏𝒈 (𝑹𝒐𝒔𝒆 𝑷𝒊𝒏𝒌)",
-      "price": 1599,
-      "mrp": 4999,
-      "discount_pct": 68.0,
-      "saving": 3400,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CQ4JT6NT?tag=lootkabhandar-21",
-      "image": "img/2083.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2083,
-      "posted_at": "2026-11-21T08:37:25+05:30"
     },
     {
       "kind": "coupon",
