@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T10:20:45+05:30",
+  "updated_at": "2026-11-21T10:49:51+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑻𝒐𝒌𝒚𝒐 𝑻𝒂𝒍𝒌𝒊𝒆𝒔 𝑾𝒐𝒎𝒆𝒏 𝑻𝒐𝒑𝒔 - 𝑩𝒍𝒂𝒄𝒌/𝑾𝒉𝒊𝒕𝒆, 𝑺𝒊𝒛𝒆 𝑺",
+      "price": 199,
+      "mrp": 799,
+      "discount_pct": 75.0,
+      "saving": 600,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FFTB3M4S?tag=lootkabhandar-21",
+      "image": "img/2091.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2091,
+      "posted_at": "2026-11-21T10:49:51+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑫𝒆𝒄𝒐𝒓𝒂𝒕𝒊𝒗𝒆 𝑫𝒊𝒚𝒂 𝑺𝒆𝒕 (𝟐 𝒑𝒄𝒔)",
       "price": 499,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2042,
       "posted_at": "2026-11-20T17:47:06+05:30"
-    },
-    {
-      "title": "Ching's Hot Garlic Instant Noodles 240 gm",
-      "price": 36,
-      "mrp": 80,
-      "discount_pct": 55.0,
-      "saving": 44,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B01JRUYKOK?tag=lootkabhandar-21",
-      "image": "img/2041.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2041,
-      "posted_at": "2026-11-20T17:47:04+05:30"
     },
     {
       "kind": "coupon",
