@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T18:50:31+05:30",
+  "updated_at": "2026-11-21T19:03:00+05:30",
   "deals": [
+    {
+      "title": "🔥 👗 Fashion Loots 𝑳𝒊𝒃𝒂𝒔 𝑾𝒐𝒎𝒆𝒏 𝑲𝒖𝒓𝒕𝒂 𝑺𝒆𝒕 𝑾𝒊𝒕𝒉 𝑫𝒖𝒑𝒂𝒕𝒕𝒂",
+      "price": 299,
+      "mrp": 1000,
+      "discount_pct": 70.0,
+      "saving": 701,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/b?node=1968255031&ascsubtag=20261121clg4yzoiu296&tag=lootkabhandar-21",
+      "image": "img/2134.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2134,
+      "posted_at": "2026-11-21T19:03:00+05:30"
+    },
     {
       "title": "🔥 👗 Fashion Loots 𝑨𝑵𝑵𝑰 𝑫𝑬𝑺𝑰𝑮𝑵𝑬𝑹 𝑾𝒐𝒎𝒆𝒏 𝑲𝒖𝒓𝒕𝒂 𝒘𝒊𝒕𝒉 𝑷𝒂𝒏𝒕 & 𝑫𝒖𝒑𝒂𝒕𝒕𝒂",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2086,
       "posted_at": "2026-11-21T09:50:44+05:30"
-    },
-    {
-      "title": "Samsung Original 65W Tri Port,Type-C & USB-A,Super Fast Charger (Cable not Included),Black,Tablet",
-      "price": 899,
-      "mrp": 4499,
-      "discount_pct": 80.0,
-      "saving": 3600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BG4JX79W?tag=lootkabhandar-21",
-      "image": "img/2085.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2085,
-      "posted_at": "2026-11-21T09:50:40+05:30"
     },
     {
       "kind": "coupon",
