@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T21:57:26+05:30",
+  "updated_at": "2026-11-21T22:10:46+05:30",
   "deals": [
+    {
+      "title": "🔥 🍳 Kitchen Loots 𝑨𝑫𝑫𝟐𝑪𝑨𝑹𝑻 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑺𝒄𝒊𝒔𝒔𝒐𝒓 𝒇𝒐𝒓 𝑮𝒆𝒏𝒆𝒓𝒂𝒍 𝑼𝒔𝒆, 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑹𝒂𝒑𝒕𝒐𝒓 𝑴𝒆𝒂𝒕 𝑺𝒉𝒆𝒂𝒓𝒔, 𝑪𝒐𝒐𝒌𝒊𝒏𝒈 𝑺𝒄𝒊𝒔𝒔𝒐𝒓𝒔, 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑴𝒖𝒍𝒕𝒊-𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝑺𝒄𝒊𝒔𝒔𝒐𝒓𝒔 𝒇𝒐𝒓 𝑭𝒐𝒐𝒅, 𝑪𝒉𝒊𝒄𝒌𝒆𝒏, 𝑷𝒐𝒖𝒍𝒕𝒓𝒚, 𝑭𝒊𝒔𝒉, 𝑷𝒊𝒛𝒛𝒂, 𝑯𝒆𝒓𝒃𝒔 (𝑷𝑨𝑪𝑲 𝑶𝑭 𝟏)",
+      "price": 99,
+      "mrp": 399,
+      "discount_pct": 75.0,
+      "saving": 300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HCP9VQ31?tag=lootkabhandar-21",
+      "image": "img/2159.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 2159,
+      "posted_at": "2026-11-21T22:10:46+05:30"
+    },
     {
       "title": "Drumstone (𝐁𝐞𝐬𝐭 𝐂𝐡𝐨𝐢𝐜𝐞) USB Charger Fast Charging Adapter for Smartphones, Tablets & Other USB Devices,Portable Wall Charger for Home,Office & Travel,Compact Power Adapter 15 Years Warranty",
       "price": 459,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2104,
       "posted_at": "2026-11-21T13:44:29+05:30"
-    },
-    {
-      "title": "Myntra Loot (200 ml) @146 + Coupon.Apply Coupon : Buy Max Qty | 100 ml @399.",
-      "price": 146,
-      "mrp": 399,
-      "discount_pct": 63.4,
-      "saving": 253,
-      "store": "Myntra",
-      "link": "https://myntr.it/ItBNYuQ",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2103,
-      "posted_at": "2026-11-21T13:43:17+05:30"
     },
     {
       "kind": "coupon",
