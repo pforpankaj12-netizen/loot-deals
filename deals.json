@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T14:24:16+05:30",
+  "updated_at": "2026-11-21T14:52:31+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝟐𝟒 𝑲𝒂𝒓𝒂𝒕 𝑷𝒖𝒓𝒆 𝟏𝒈 𝑮𝒐𝒍𝒅 𝑩𝒂𝒓 𝑷𝒆𝒏𝒅𝒂𝒏𝒕 - 𝑭𝒍𝒐𝒘𝒆𝒓 | 𝑰𝑩𝑱𝑨",
+      "price": 11017,
+      "mrp": 25000,
+      "discount_pct": 56.0,
+      "saving": 13983,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HF835R2V?tag=lootkabhandar-21",
+      "image": "img/2125.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2125,
+      "posted_at": "2026-11-21T14:52:31+05:30"
+    },
     {
       "title": "🔥 💥 LOOT 𝑫𝒓𝒐𝒐𝒍𝒔 𝑷𝒖𝒑𝒑𝒚 𝟏𝟎𝟎% 𝑽𝒆𝒈 𝑪𝒉𝒖𝒏𝒌𝒔 𝑮𝒓𝒂𝒗𝒚 𝟏𝟐𝟎𝒈",
       "price": 50,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2078,
       "posted_at": "2026-11-21T08:02:53+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑫𝒊𝑺𝒂𝒏𝒐 𝑭𝒖𝒔𝒊𝒍𝒍𝒊 𝑷𝒂𝒔𝒕𝒂 𝟏𝒌𝒈, 𝑯𝒆𝒂𝒍𝒕𝒉𝒚 𝑷𝒂𝒔𝒕𝒂, 𝑴𝒂𝒅𝒆 𝒘𝒊𝒕𝒉 𝑫𝒖𝒓𝒖𝒎 𝑾𝒉𝒆𝒂𝒕 𝑺𝒆𝒎𝒐𝒍𝒊𝒏𝒂, 𝑺𝒖𝒋𝒊, 𝑵𝒐 𝑴𝒂𝒊𝒅𝒂, 𝑺𝒐𝒖𝒓𝒄𝒆 𝒐𝒇 𝑷𝒓𝒐𝒕𝒆𝒊𝒏 & 𝑭𝒊𝒃𝒓𝒆, 𝑵𝒐𝒏-𝑺𝒕𝒊𝒄𝒌𝒚",
-      "price": 115,
-      "mrp": 270,
-      "discount_pct": 57.0,
-      "saving": 155,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08HSTJD4L?tag=lootkabhandar-21",
-      "image": "img/2077.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2077,
-      "posted_at": "2026-11-21T08:02:09+05:30"
     },
     {
       "kind": "coupon",
