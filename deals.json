@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T10:05:49+05:30",
+  "updated_at": "2026-11-21T10:20:45+05:30",
   "deals": [
+    {
+      "title": "🔥 💥 LOOT 𝑫𝒆𝒄𝒐𝒓𝒂𝒕𝒊𝒗𝒆 𝑫𝒊𝒚𝒂 𝑺𝒆𝒕 (𝟐 𝒑𝒄𝒔)",
+      "price": 499,
+      "mrp": 1000,
+      "discount_pct": 50.0,
+      "saving": 501,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BDG3LP9F?tag=lootkabhandar-21",
+      "image": "img/2090.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2090,
+      "posted_at": "2026-11-21T10:20:45+05:30"
+    },
     {
       "title": "🔥 💄 Beauty Loots 𝑩𝒐𝒓𝒐𝑷𝒍𝒖𝒔 𝑺𝒐𝒇𝒕 𝑳𝒊𝒈𝒉𝒕 𝑴𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒊𝒏𝒈 𝑪𝒓𝒆𝒂𝒎 | 𝑳𝒊𝒈𝒉𝒕 & 𝑵𝒐𝒏-𝒔𝒕𝒊𝒄𝒌𝒚 | 𝑷𝒓𝒐𝒗𝒊𝒅𝒆𝒔 𝟐𝟒 𝒉𝒐𝒖𝒓 𝒎𝒐𝒊𝒔𝒕𝒖𝒓𝒊𝒔𝒂𝒕𝒊𝒐𝒏 | 𝑭𝒐𝒓 𝑺𝒐𝒇𝒕 𝑭𝒓𝒆𝒔𝒉 𝑺𝒌𝒊𝒏 𝟓𝟎𝒎𝒍",
       "price": 44,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2041,
       "posted_at": "2026-11-20T17:47:04+05:30"
-    },
-    {
-      "title": "TE-A-ME Earl Grey Tea Tin 50 Grams | Black Tea | Earl Grey Tea",
-      "price": 147,
-      "mrp": 295,
-      "discount_pct": 50.0,
-      "saving": 148,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B086Y8LQVY?tag=lootkabhandar-21",
-      "image": "img/2040.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2040,
-      "posted_at": "2026-11-20T17:46:58+05:30"
     },
     {
       "kind": "coupon",
