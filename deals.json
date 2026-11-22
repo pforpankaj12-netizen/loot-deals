@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T22:35:52+05:30",
+  "updated_at": "2026-11-22T22:49:50+05:30",
   "deals": [
+    {
+      "title": "Slim Fit Jeans💰 ₹1,200 ₹2,000 · 40% offStraight Fit Jeans💰 ₹1,500 ₹2,500 · 40% offBlack Jeans💰 ₹1,800 ₹3,000 · 40% offStretchable Denim Jeans💰 ₹1,000 ₹1,800 · 44% off🛒 Shopsy🔗",
+      "price": 1200,
+      "mrp": 2000,
+      "discount_pct": 40.0,
+      "saving": 800,
+      "store": "Shopsy",
+      "link": "https://bitli.in/v90JolR",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2204,
+      "posted_at": "2026-11-22T22:49:50+05:30"
+    },
     {
       "title": "Dove Men + Care|150ml Oil Control facewash|with Kaolin Clay|Soap-free facewash|For Normal to Oily Skin",
       "price": 239,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2148,
       "posted_at": "2026-11-21T21:12:04+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑻𝒓𝒖𝒍𝒐 𝑴𝒐𝒏𝒌 𝑭𝒓𝒖𝒊𝒕 𝑺𝒘𝒆𝒆𝒕𝒆𝒏𝒆𝒓 𝑫𝒓𝒐𝒑𝒔 𝟏𝟎𝒎𝒍 | 𝒁𝒆𝒓𝒐 𝑪𝒂𝒍𝒐𝒓𝒊𝒆𝒔 | 𝑫𝒊𝒂𝒃𝒆𝒕𝒊𝒄 𝒂𝒏𝒅 𝑲𝒆𝒕𝒐 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 | 𝟐𝟎𝟎 𝑫𝒓𝒐𝒑𝒔 | 𝑵𝒐 𝑬𝒓𝒚𝒕𝒉𝒓𝒊𝒕𝒐𝒍 | 𝒁𝒆𝒓𝒐 𝑺𝒖𝒈𝒂𝒓, 𝑻𝒓𝒂𝒗𝒆𝒍 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚",
-      "price": 296,
-      "mrp": 599,
-      "discount_pct": 51.0,
-      "saving": 303,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0HLYY54SH?lv=shuf&social_share=cm_sw_r_cso_wa_apin_dp_4ZY9KXJM0582E69VFW5B&channelId=704&ascsubtag=20261121cl1b1m6o7l9a&tag=lootkabhandar-21",
-      "image": "img/2147.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2147,
-      "posted_at": "2026-11-21T20:13:38+05:30"
     },
     {
       "kind": "coupon",
