@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T20:17:22+05:30",
+  "updated_at": "2026-11-22T20:23:14+05:30",
   "deals": [
+    {
+      "title": "Basics AAA Rechargeable 750 mAh Batteries",
+      "price": 222,
+      "mrp": 999,
+      "discount_pct": 78.0,
+      "saving": 777,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CZ7LL9CW?tag=lootkabhandar-21",
+      "image": "img/2197.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2197,
+      "posted_at": "2026-11-22T20:23:14+05:30"
+    },
     {
       "title": "Adidas Unisex Adult Tennis Headband – Moisture-Wicking, Stretchable, Lightweight Sweatband for Sports, Gym, Outdoor & Everyday for All Season",
       "price": 359,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2134,
       "posted_at": "2026-11-21T19:03:00+05:30"
-    },
-    {
-      "title": "🔥 👗 Fashion Loots 𝑨𝑵𝑵𝑰 𝑫𝑬𝑺𝑰𝑮𝑵𝑬𝑹 𝑾𝒐𝒎𝒆𝒏 𝑲𝒖𝒓𝒕𝒂 𝒘𝒊𝒕𝒉 𝑷𝒂𝒏𝒕 & 𝑫𝒖𝒑𝒂𝒕𝒕𝒂",
-      "price": 299,
-      "mrp": 2599,
-      "discount_pct": 88.0,
-      "saving": 2300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?i=apparel&rh=n%3A1968255031%2Cp_n_g-1003257321111%3A28197005031%2Cp_36%3A29500-41000&s=price-asc-rank&qid=1795266329&rnid=4595083031&btn_type=ss&btn_ref=srctok-7e5713a2e6ac363f&ascsubtag=20261121cl29hnzmizu9&tag=lootkabhandar-21",
-      "image": "img/2133.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2133,
-      "posted_at": "2026-11-21T18:50:31+05:30"
     },
     {
       "kind": "coupon",
