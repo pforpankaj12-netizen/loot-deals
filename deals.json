@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T23:15:05+05:30",
+  "updated_at": "2026-11-22T23:52:53+05:30",
   "deals": [
+    {
+      "title": "Bata Men's Mule Slipper - Red",
+      "price": 324,
+      "mrp": 649,
+      "discount_pct": 50.0,
+      "saving": 325,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F7LBYWPF?tag=lootkabhandar-21",
+      "image": "img/2211.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2211,
+      "posted_at": "2026-11-22T23:52:53+05:30"
+    },
+    {
+      "title": "Noise Icon Rise 1 - Midnight Blue Strap · Flipkart",
+      "price": 999,
+      "mrp": 4999,
+      "discount_pct": 80.0,
+      "saving": 4000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/shop/woodailydeals/list/1HOPFVHOV23ST?domainId=influencer&asc_contentid=amzn1.ideas.1HOPFVHOV23ST&ascsubtag=20261122clyzkrzugbmj&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2210,
+      "posted_at": "2026-11-22T23:52:45+05:30"
+    },
     {
       "title": "🌟Bata Men's Broker E Sneaker .🔗https://www.amazon.in/dp/B0GMK7RVPQ?tag=lootkabhandar-21",
       "price": 1518,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2153,
       "posted_at": "2026-11-21T21:57:11+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑳𝑶𝑶𝑻 𝑭𝑨𝑺𝑻 : 𝑨𝒑𝒑𝒍𝒕 𝒂𝒕 𝑪𝒉𝒆𝒄𝒌𝒐𝒖𝒕 : 𝟕𝟕",
-      "price": 125,
-      "mrp": null,
-      "discount_pct": 50.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s/?keywords=body+wash+for+man&ie=UTF8&field-asin=B0FJ2JHL43&rh=i%3Aaps%2Cssx%3Arelevance&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2150,
-      "posted_at": "2026-11-21T21:12:40+05:30"
-    },
-    {
-      "title": "🔥 💳 BANK OFFER 𝑻𝑪𝑳 𝟖𝟎 𝒄𝒎𝒔 (𝟑𝟐 𝒊𝒏𝒄𝒉𝒆𝒔) 𝑺𝒎𝒂𝒓𝒕𝒄𝒉𝒐𝒊𝒄𝒆 𝑭𝒖𝒍𝒍 𝑯𝑫 𝑺𝒎𝒂𝒓𝒕 𝑸𝑳𝑬𝑫 𝑮𝒐𝒐𝒈𝒍𝒆 𝑻𝑽 | 𝑫𝒐𝒍𝒃𝒚 𝑨𝒖𝒅𝒊𝒐 𝟐𝟒 𝒘𝒂𝒕𝒕𝒔 | 𝑨𝒊 𝑪𝒍𝒂𝒓𝒊𝒕𝒚 | 𝑴𝒆𝒕𝒂𝒍𝒍𝒊𝒄 𝑩𝒆𝒛𝒆𝒍-𝑳𝒆𝒔𝒔 | 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑽𝒊𝒆𝒘𝒊𝒏𝒈 𝑴𝒐𝒅𝒆 | 𝟑𝟐𝑽𝟓𝑪",
-      "price": 15990,
-      "mrp": 19990,
-      "discount_pct": 20.0,
-      "saving": 4000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DZHNQJQW?tag=lootkabhandar-21",
-      "image": "img/2149.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2149,
-      "posted_at": "2026-11-21T21:12:34+05:30"
     },
     {
       "kind": "coupon",
