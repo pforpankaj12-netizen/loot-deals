@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T22:49:50+05:30",
+  "updated_at": "2026-11-22T23:15:05+05:30",
   "deals": [
+    {
+      "title": "🌟Bata Men's Broker E Sneaker .🔗https://www.amazon.in/dp/B0GMK7RVPQ?tag=lootkabhandar-21",
+      "price": 1518,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GMK7RVPQ?tag=lootkabhandar-21",
+      "image": "img/2208.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2208,
+      "posted_at": "2026-11-22T23:15:05+05:30"
+    },
     {
       "title": "Slim Fit Jeans💰 ₹1,200 ₹2,000 · 40% offStraight Fit Jeans💰 ₹1,500 ₹2,500 · 40% offBlack Jeans💰 ₹1,800 ₹3,000 · 40% offStretchable Denim Jeans💰 ₹1,000 ₹1,800 · 44% off🛒 Shopsy🔗",
       "price": 1200,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2149,
       "posted_at": "2026-11-21T21:12:34+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑩𝒆𝒔𝒕 𝒅𝒆𝒂𝒍 𝑩𝒖𝒚 𝑭𝒂𝒔𝒕 : 𝑨𝒏𝒄𝒉𝒐𝒓 𝑻𝒐𝒐𝒕𝒉𝒑𝒂𝒔𝒕𝒆 𝟗𝟎𝟎𝒈 (𝟒𝟓𝟎𝒈 𝒙 𝟐) .𝑩𝒖𝒚 𝑴𝒂𝒙 𝑸𝒕𝒚 : 𝟏𝟓𝟎𝒈 𝑻𝒖𝒃𝒆 𝒂𝒕 𝑶𝒏𝒍𝒚",
-      "price": 259,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DHGRWMWS?tag=lootkabhandar-21",
-      "image": "img/2148.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2148,
-      "posted_at": "2026-11-21T21:12:04+05:30"
     },
     {
       "kind": "coupon",
