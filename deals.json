@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T15:01:57+05:30",
+  "updated_at": "2026-11-22T19:45:22+05:30",
   "deals": [
+    {
+      "title": "Drumstone (10 Years Assured Warranty Rechargeable 3 in 1 Handheld Car Vacuum Cleaner with Air Duster Function, Portable Multi Surface Cleaning Device for Cars, Home, Office & Travel Convenience",
+      "price": 999,
+      "mrp": 99900,
+      "discount_pct": 99.0,
+      "saving": 98901,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H662MNV7?tag=lootkabhandar-21",
+      "image": "img/2185.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2185,
+      "posted_at": "2026-11-22T19:45:22+05:30"
+    },
     {
       "title": "U.S. POLO ASSN. Polycotton Mens Standard Length Jackets",
       "price": 1769,
@@ -508,19 +521,6 @@
       "category": "Jewellery",
       "telegram_msg_id": 2126,
       "posted_at": "2026-11-21T15:54:14+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝟐𝟒 𝑲𝒂𝒓𝒂𝒕 𝑷𝒖𝒓𝒆 𝟏𝒈 𝑮𝒐𝒍𝒅 𝑩𝒂𝒓 𝑷𝒆𝒏𝒅𝒂𝒏𝒕 - 𝑭𝒍𝒐𝒘𝒆𝒓 | 𝑰𝑩𝑱𝑨",
-      "price": 11017,
-      "mrp": 25000,
-      "discount_pct": 56.0,
-      "saving": 13983,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HF835R2V?tag=lootkabhandar-21",
-      "image": "img/2125.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2125,
-      "posted_at": "2026-11-21T14:52:31+05:30"
     },
     {
       "kind": "coupon",
