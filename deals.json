@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T22:23:30+05:30",
+  "updated_at": "2026-11-22T22:35:52+05:30",
   "deals": [
+    {
+      "title": "Dove Men + Care|150ml Oil Control facewash|with Kaolin Clay|Soap-free facewash|For Normal to Oily Skin",
+      "price": 239,
+      "mrp": 599,
+      "discount_pct": 60.0,
+      "saving": 360,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FY5QH8T5?tag=lootkabhandar-21",
+      "image": "img/2203.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2203,
+      "posted_at": "2026-11-22T22:35:52+05:30"
+    },
     {
       "title": "Oakcraft Premium Ergonomic Office Chair",
       "price": 5499,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2147,
       "posted_at": "2026-11-21T20:13:38+05:30"
-    },
-    {
-      "title": "V311 Foldable Mobile Stand Tabletop Stand Adjustable Phone Holder and iPad Stand & For Bed , Table, Office, Video Recording Compatible With All Smartphones, Tablet (Black, White & Pink )",
-      "price": 69,
-      "mrp": 499,
-      "discount_pct": 86.0,
-      "saving": 430,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09SG423JT?tag=lootkabhandar-21",
-      "image": "img/2146.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2146,
-      "posted_at": "2026-11-21T19:56:16+05:30"
     },
     {
       "kind": "coupon",
