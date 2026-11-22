@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-22T09:36:13+05:30",
+ "updated_at": "2026-11-22T15:36:42+05:30",
  "shorts": [
   {
    "number": 158,
@@ -53,9 +53,19 @@
    "price_text": "Rs. 483",
    "youtube_id": "EMp6Wb-Ndj8",
    "youtube_url": "https://www.youtube.com/shorts/EMp6Wb-Ndj8",
+   "instagram_url": "https://www.instagram.com/reel/DgB3QVIEQo0/",
+   "facebook_url": "https://www.facebook.com/reel/1155961020490238/",
+   "shop_url": "https://www.meesho.com/s/p/8gf0tp",
+   "date": "2026-11-22"
+  },
+  {
+   "product": "Peach Anarkali + Dupatta",
+   "price_text": "Rs. 393",
+   "youtube_id": "3i6sZ9yCYVE",
+   "youtube_url": "https://www.youtube.com/shorts/3i6sZ9yCYVE",
    "instagram_url": "",
    "facebook_url": "",
-   "shop_url": "https://www.meesho.com/s/p/8gf0tp",
+   "shop_url": "https://www.meesho.com/af_invite/24203536:instagram_stories:15997270?p_id=459632819&ext_id=7lniyb&utm_source=instagram_stories",
    "date": "2026-11-22"
   },
   {
@@ -77,16 +87,6 @@
    "facebook_url": "",
    "shop_url": "https://www.meesho.com/s/p/gjpswa",
    "date": "2026-11-19"
-  },
-  {
-   "product": "Denim Dress",
-   "price_text": "Rs. 368",
-   "youtube_id": "edoGF2NBFLA",
-   "youtube_url": "https://www.youtube.com/shorts/edoGF2NBFLA",
-   "instagram_url": "https://www.instagram.com/reel/Df4mnhoFEsE/",
-   "facebook_url": "https://www.facebook.com/reel/1528201809361858/",
-   "shop_url": "https://www.meesho.com/af_invite/24203536:instagram_stories:15997355?p_id=434461092&ext_id=76o0bo&utm_source=instagram_stories",
-   "date": "2026-11-18"
   }
  ]
 }
