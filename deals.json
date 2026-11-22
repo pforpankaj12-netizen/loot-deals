@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T14:44:06+05:30",
+  "updated_at": "2026-11-22T15:01:57+05:30",
   "deals": [
+    {
+      "title": "U.S. POLO ASSN. Polycotton Mens Standard Length Jackets",
+      "price": 1769,
+      "mrp": 4799,
+      "discount_pct": 63.0,
+      "saving": 3030,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B9SBQJ5K?tag=lootkabhandar-21",
+      "image": "img/2183.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2183,
+      "posted_at": "2026-11-22T15:01:57+05:30"
+    },
     {
       "title": "Interio by Godrej Monarch 3-Seater Synthetic Leather Sofa",
       "price": 16390,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2125,
       "posted_at": "2026-11-21T14:52:31+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑫𝒓𝒐𝒐𝒍𝒔 𝑷𝒖𝒑𝒑𝒚 𝟏𝟎𝟎% 𝑽𝒆𝒈 𝑪𝒉𝒖𝒏𝒌𝒔 𝑮𝒓𝒂𝒗𝒚 𝟏𝟐𝟎𝒈",
-      "price": 50,
-      "mrp": 100,
-      "discount_pct": 50.0,
-      "saving": 50,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H83T5N1N?tag=lootkabhandar-21",
-      "image": "img/2124.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2124,
-      "posted_at": "2026-11-21T14:24:16+05:30"
     },
     {
       "kind": "coupon",
