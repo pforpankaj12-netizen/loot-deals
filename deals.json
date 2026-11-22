@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T19:50:17+05:30",
+  "updated_at": "2026-11-22T20:17:22+05:30",
   "deals": [
+    {
+      "title": "Adidas Unisex Adult Tennis Headband – Moisture-Wicking, Stretchable, Lightweight Sweatband for Sports, Gym, Outdoor & Everyday for All Season",
+      "price": 359,
+      "mrp": 599,
+      "discount_pct": 40.0,
+      "saving": 240,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BQWMKW5D?tag=lootkabhandar-21",
+      "image": "img/2196.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2196,
+      "posted_at": "2026-11-22T20:17:22+05:30"
+    },
+    {
+      "title": "WROGN 45L Unisex Laptop Backpack, 3 Compartments · Shopsy",
+      "price": 467,
+      "mrp": 2999,
+      "discount_pct": 84.0,
+      "saving": 2532,
+      "store": "Shopsy",
+      "link": "https://bitli.in/PVxqhLa",
+      "image": null,
+      "category": "Electronics",
+      "telegram_msg_id": 2194,
+      "posted_at": "2026-11-22T20:06:51+05:30"
+    },
     {
       "title": "Sneak in style with these shoes!HRX by Hrithik Roshan Women's Walking Shoes Deal 🔥😍💥 Now only",
       "price": 378,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2133,
       "posted_at": "2026-11-21T18:50:31+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑮𝒂𝒓𝒃𝒂𝒈𝒆 𝑩𝒂𝒈𝒔 | 𝑳𝒂𝒓𝒈𝒆 𝑺𝒊𝒛𝒆 |𝟔𝟎 𝑩𝒂𝒈𝒔 (𝟏𝟓 𝑩𝒂𝒈𝒔 𝒙 𝟒 𝑹𝒐𝒍𝒍𝒔) | 𝟐𝟒 𝒙 𝟑𝟐 𝒊𝒏𝒄𝒉𝒆𝒔 | 𝑩𝒍𝒂𝒄𝒌",
-      "price": 219,
-      "mrp": 899,
-      "discount_pct": 76.0,
-      "saving": 680,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H6KJ71V2?tag=lootkabhandar-21",
-      "image": "img/2132.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2132,
-      "posted_at": "2026-11-21T18:24:39+05:30"
-    },
-    {
-      "title": "Frenchware Set of 3 Non-Stick Premium Silicone Spatula Set for Cooking, Baking & Mixing | Seamless One-Piece Design | Heat-Resistant -40°C to 230°C | Food-Grade & BPA-Free | Dishwasher Safe (Black)",
-      "price": 149,
-      "mrp": 599,
-      "discount_pct": 75.0,
-      "saving": 450,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B084GWW8JG?tag=lootkabhandar-21",
-      "image": "img/2131.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2131,
-      "posted_at": "2026-11-21T17:55:17+05:30"
     },
     {
       "kind": "coupon",
