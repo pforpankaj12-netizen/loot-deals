@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T21:55:04+05:30",
+  "updated_at": "2026-11-22T22:23:30+05:30",
   "deals": [
+    {
+      "title": "Oakcraft Premium Ergonomic Office Chair",
+      "price": 5499,
+      "mrp": 19999,
+      "discount_pct": 73.0,
+      "saving": 14500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H99HYBKV?tag=lootkabhandar-21",
+      "image": "img/2202.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2202,
+      "posted_at": "2026-11-22T22:23:30+05:30"
+    },
     {
       "title": "Bata Women's Slip-on Sandal",
       "price": 262,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2146,
       "posted_at": "2026-11-21T19:56:16+05:30"
-    },
-    {
-      "title": "aeac Smart Watch for Women/Men, Fitness Watch, Alexa Built-in & Stable Bluetooth Call, with Heart Rate/SpO2/Sleep Monitor, 100 Sports, IP68 Waterproof Smartwatches for iOS Android",
-      "price": 5999,
-      "mrp": 9598,
-      "discount_pct": 37.0,
-      "saving": 3599,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BHNS7D7V?tag=lootkabhandar-21",
-      "image": "img/2145.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2145,
-      "posted_at": "2026-11-21T19:56:13+05:30"
     },
     {
       "kind": "coupon",
