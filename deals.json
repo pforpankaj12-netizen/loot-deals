@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T20:23:14+05:30",
+  "updated_at": "2026-11-22T20:51:24+05:30",
   "deals": [
+    {
+      "title": "Armani Exchange Silver Watch AX2862",
+      "price": 9897,
+      "mrp": 16495,
+      "discount_pct": 40.0,
+      "saving": 6598,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DSBSGK15?tag=lootkabhandar-21",
+      "image": "img/2198.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2198,
+      "posted_at": "2026-11-22T20:51:24+05:30"
+    },
     {
       "title": "Basics AAA Rechargeable 750 mAh Batteries",
       "price": 222,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2136,
       "posted_at": "2026-11-21T19:42:35+05:30"
-    },
-    {
-      "title": "🔥 👗 Fashion Loots 𝑳𝒊𝒃𝒂𝒔 𝑾𝒐𝒎𝒆𝒏 𝑲𝒖𝒓𝒕𝒂 𝑺𝒆𝒕 𝑾𝒊𝒕𝒉 𝑫𝒖𝒑𝒂𝒕𝒕𝒂",
-      "price": 299,
-      "mrp": 1000,
-      "discount_pct": 70.0,
-      "saving": 701,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/b?node=1968255031&ascsubtag=20261121clg4yzoiu296&tag=lootkabhandar-21",
-      "image": "img/2134.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2134,
-      "posted_at": "2026-11-21T19:03:00+05:30"
     },
     {
       "kind": "coupon",
