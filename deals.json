@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T23:45:02+05:30",
+  "updated_at": "2026-11-23T23:53:52+05:30",
   "deals": [
+    {
+      "title": "Deal of the day — price error, grab now! 😱",
+      "price": 69,
+      "mrp": 399,
+      "discount_pct": 83.0,
+      "saving": 330,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/b?node=1355016031&ascsubtag=20261123clart7w6koq2&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2298,
+      "posted_at": "2026-11-23T23:53:52+05:30"
+    },
     {
       "title": "Upto On Min. Sedell Paris Luxury Beauty Starting @69.",
       "price": 69,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2254,
       "posted_at": "2026-11-23T15:08:27+05:30"
-    },
-    {
-      "title": "LuvIt. Goodies Chocolatey Gift Pack | Premium Assorted Gift Box | Perfect for Gifting, Celebrations, Festivals, Birthdays, & Special Occasions | Pack of 2-163.70g Each",
-      "price": 171,
-      "mrp": 280,
-      "discount_pct": 38.0,
-      "saving": 109,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FRXCFCPB?tag=lootkabhandar-21",
-      "image": "img/2253.jpg",
-      "category": "Grocery & Food",
-      "telegram_msg_id": 2253,
-      "posted_at": "2026-11-23T14:49:23+05:30"
     },
     {
       "kind": "coupon",
