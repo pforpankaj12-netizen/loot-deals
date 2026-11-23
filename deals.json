@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T22:56:05+05:30",
+  "updated_at": "2026-11-23T23:24:42+05:30",
   "deals": [
+    {
+      "title": "SARFARAJ INDIA Nylon Chiffon Saree Red 6.5 Meters",
+      "price": 199,
+      "mrp": 599,
+      "discount_pct": 67.0,
+      "saving": 400,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HMP1XS1X?lv=shuf&btn_type=ss&btn_ref=srctok-020b6b8d2f51bc42&channelId=704&ascsubtag=20261123clnzk8wk2ked&tag=lootkabhandar-21",
+      "image": "img/2296.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2296,
+      "posted_at": "2026-11-23T23:24:42+05:30"
+    },
     {
       "title": "GKD Coaster Set of 6 Birds Design Wooden Coasters",
       "price": 90,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2252,
       "posted_at": "2026-11-23T14:49:15+05:30"
-    },
-    {
-      "title": "Cockatoo Fitness & Fans Starting ₹5,039.Cockatoo CTM-03 Home Use 2 HP ₹12,990. CTM- Series 6 HP Peak DC Motorised Multi ₹13,869. Fitness Foldable Exercise Bike (1.5kg) ₹5,039. Stainless-Steel Ctm101 Steel Manual Incline ₹13,490. Sonic 5 HP Peak BLDC Motorized (150kg) ₹12,599.",
-      "price": 5039,
-      "mrp": 12990,
-      "discount_pct": 61.2,
-      "saving": 7951,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07DFYWWSQ?tag=lootkabhandar-21",
-      "image": "img/2251.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2251,
-      "posted_at": "2026-11-23T14:46:25+05:30"
     },
     {
       "kind": "coupon",
