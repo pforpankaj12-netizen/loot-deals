@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T10:33:39+05:30",
+  "updated_at": "2026-11-23T10:47:18+05:30",
   "deals": [
+    {
+      "title": "adidas Men India Official T20 International Cricket Fan Jersey",
+      "price": 450,
+      "mrp": 999,
+      "discount_pct": 54.0,
+      "saving": 549,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G58XFQS6?tag=lootkabhandar-21",
+      "image": "img/2228.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2228,
+      "posted_at": "2026-11-23T10:47:18+05:30"
+    },
     {
       "title": "Upgrade your space with this must-have!FFO Stepora Shoe Rack Deal 🔥😍💥 Now only",
       "price": 5984,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2171,
       "posted_at": "2026-11-22T13:35:01+05:30"
-    },
-    {
-      "title": "Grab this deal before it’s gone!Crompton DX 750W Mixer Grinder Deal 🔥😍💥 Now only",
-      "price": 3099,
-      "mrp": 6600,
-      "discount_pct": 53.0,
-      "saving": 3501,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H69TBSNW?tag=lootkabhandar-21",
-      "image": "img/2170.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 2170,
-      "posted_at": "2026-11-22T13:34:44+05:30"
     },
     {
       "kind": "coupon",
