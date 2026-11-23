@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T15:08:27+05:30",
+  "updated_at": "2026-11-23T15:24:20+05:30",
   "deals": [
+    {
+      "title": "Cockatoo Hand Grip Strengthener at",
+      "price": 59,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C347Q7BX?tag=lootkabhandar-21",
+      "image": "img/2256.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2256,
+      "posted_at": "2026-11-23T15:24:20+05:30"
+    },
+    {
+      "title": "Zoyi Stainless Steel Chopping Board 31x21 cm",
+      "price": 227,
+      "mrp": 699,
+      "discount_pct": 68.0,
+      "saving": 472,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GFFKYNCY?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2255,
+      "posted_at": "2026-11-23T15:21:34+05:30"
+    },
     {
       "title": "Shield Heavy Duty Bike & Scooty Cover Tvs Jupiter 125",
       "price": 179,
@@ -495,32 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2195,
       "posted_at": "2026-11-22T20:07:39+05:30"
-    },
-    {
-      "title": "Santoor Brightening Shower Gel With Natural Saffron & Marigold Extracts| For Men & Women| For Glowing Skin| Suitable For All Skin Types| No Parabens| No Silicones| 500ml",
-      "price": 119,
-      "mrp": 350,
-      "discount_pct": 66.0,
-      "saving": 231,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CQYG22TN?tag=lootkabhandar-21",
-      "image": "img/2186.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2186,
-      "posted_at": "2026-11-22T19:46:38+05:30"
-    },
-    {
-      "title": "Armani Exchange Silver Watch AX2862",
-      "price": 9897,
-      "mrp": 16495,
-      "discount_pct": 40.0,
-      "saving": 6598,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DSBSGK15?tag=lootkabhandar-21",
-      "image": "img/2198.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2198,
-      "posted_at": "2026-11-22T20:51:24+05:30"
     },
     {
       "kind": "coupon",
