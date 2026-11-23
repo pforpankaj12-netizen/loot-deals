@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T13:46:37+05:30",
+  "updated_at": "2026-11-23T14:49:23+05:30",
   "deals": [
+    {
+      "title": "LuvIt. Goodies Chocolatey Gift Pack | Premium Assorted Gift Box | Perfect for Gifting, Celebrations, Festivals, Birthdays, & Special Occasions | Pack of 2-163.70g Each",
+      "price": 171,
+      "mrp": 280,
+      "discount_pct": 38.0,
+      "saving": 109,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FRXCFCPB?tag=lootkabhandar-21",
+      "image": "img/2253.jpg",
+      "category": "Grocery & Food",
+      "telegram_msg_id": 2253,
+      "posted_at": "2026-11-23T14:49:23+05:30"
+    },
+    {
+      "title": "Special Edition Nylon with Silicone Strap for Google Fitbit Air",
+      "price": 999,
+      "mrp": 4500,
+      "discount_pct": 77.0,
+      "saving": 3501,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HKYWHM73?tag=lootkabhandar-21",
+      "image": "img/2252.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2252,
+      "posted_at": "2026-11-23T14:49:15+05:30"
+    },
+    {
+      "title": "Cockatoo Fitness & Fans Starting ₹5,039.Cockatoo CTM-03 Home Use 2 HP ₹12,990. CTM- Series 6 HP Peak DC Motorised Multi ₹13,869. Fitness Foldable Exercise Bike (1.5kg) ₹5,039. Stainless-Steel Ctm101 Steel Manual Incline ₹13,490. Sonic 5 HP Peak BLDC Motorized (150kg) ₹12,599.",
+      "price": 5039,
+      "mrp": 12990,
+      "discount_pct": 61.2,
+      "saving": 7951,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07DFYWWSQ?tag=lootkabhandar-21",
+      "image": "img/2251.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2251,
+      "posted_at": "2026-11-23T14:46:25+05:30"
+    },
     {
       "title": "Grab this stunning kurta set before it's gone! InWeave Women Ethnic Wear A-Line Kurta Set Deal 🔥😍💥 Now only",
       "price": 1049,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2197,
       "posted_at": "2026-11-22T20:23:14+05:30"
-    },
-    {
-      "title": "Adidas Unisex Adult Tennis Headband – Moisture-Wicking, Stretchable, Lightweight Sweatband for Sports, Gym, Outdoor & Everyday for All Season",
-      "price": 359,
-      "mrp": 599,
-      "discount_pct": 40.0,
-      "saving": 240,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BQWMKW5D?tag=lootkabhandar-21",
-      "image": "img/2196.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2196,
-      "posted_at": "2026-11-22T20:17:22+05:30"
-    },
-    {
-      "title": "WROGN 45L Unisex Laptop Backpack, 3 Compartments · Shopsy",
-      "price": 467,
-      "mrp": 2999,
-      "discount_pct": 84.0,
-      "saving": 2532,
-      "store": "Shopsy",
-      "link": "https://bitli.in/PVxqhLa",
-      "image": null,
-      "category": "Electronics",
-      "telegram_msg_id": 2194,
-      "posted_at": "2026-11-22T20:06:51+05:30"
-    },
-    {
-      "title": "Sneak in style with these shoes!HRX by Hrithik Roshan Women's Walking Shoes Deal 🔥😍💥 Now only",
-      "price": 378,
-      "mrp": 2999,
-      "discount_pct": 87.0,
-      "saving": 2621,
-      "store": "Myntra",
-      "link": "https://myntr.it/s99xIGN",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2193,
-      "posted_at": "2026-11-22T19:50:17+05:30"
     },
     {
       "kind": "coupon",
