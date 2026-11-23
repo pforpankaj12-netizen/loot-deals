@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T16:34:33+05:30",
+  "updated_at": "2026-11-23T16:50:12+05:30",
   "deals": [
+    {
+      "title": "25W Single Port USB Type-C Fast Charger Compatible with Samsung All Series,Vivo,Oppo,Realme,Motorola & Type-C Devices",
+      "price": 299,
+      "mrp": 649,
+      "discount_pct": 53.0,
+      "saving": 350,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HDSZD4B2?tag=lootkabhandar-21",
+      "image": "img/2263.jpg",
+      "category": "Smartphone & Mobile",
+      "telegram_msg_id": 2263,
+      "posted_at": "2026-11-23T16:50:12+05:30"
+    },
     {
       "title": "Grab this deal before it's gone!PUMA Shoes Deal 🔥😍💥 Now only",
       "price": 2249,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2210,
       "posted_at": "2026-11-22T23:52:45+05:30"
-    },
-    {
-      "title": "🌟Bata Men's Broker E Sneaker .🔗https://www.amazon.in/dp/B0GMK7RVPQ?tag=lootkabhandar-21",
-      "price": 1518,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GMK7RVPQ?tag=lootkabhandar-21",
-      "image": "img/2208.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2208,
-      "posted_at": "2026-11-22T23:15:05+05:30"
     },
     {
       "kind": "coupon",
