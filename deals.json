@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T19:48:04+05:30",
+  "updated_at": "2026-11-23T19:58:31+05:30",
   "deals": [
+    {
+      "title": "LOOT DEAL — price error, grab it before it's fixed! ⚡",
+      "price": 52700,
+      "mrp": 99990,
+      "discount_pct": 47.0,
+      "saving": 47290,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HGS2BS9C?tag=lootkabhandar-21",
+      "image": "img/2286.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2286,
+      "posted_at": "2026-11-23T19:58:31+05:30"
+    },
     {
       "title": "This deal won't last long!Red Tape Colourblocked Ergonomic Backpack Deal 🔥😍💥 Now only",
       "price": 519,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2240,
       "posted_at": "2026-11-23T12:48:29+05:30"
-    },
-    {
-      "title": "Solid Woolen Sweater for Women - Classic Round Neck",
-      "price": 207,
-      "mrp": 499,
-      "discount_pct": 59.0,
-      "saving": 292,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0FWJZDFBH?lv=shuf&btn_type=ss&btn_ref=srctok-6f7bef37a335bcff&channelId=704&ascsubtag=20261123claegt5dpr92&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2238,
-      "posted_at": "2026-11-23T12:44:08+05:30"
     },
     {
       "kind": "coupon",
