@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T11:54:44+05:30",
+  "updated_at": "2026-11-23T12:07:06+05:30",
   "deals": [
+    {
+      "title": "LOOT DEAL — price error, grab it before it's fixed! ⚡",
+      "price": 95,
+      "mrp": 499,
+      "discount_pct": 81.0,
+      "saving": 404,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HN4X4ZGX?tag=lootkabhandar-21",
+      "image": "img/2236.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2236,
+      "posted_at": "2026-11-23T12:07:06+05:30"
+    },
     {
       "title": "Besquestix Microfiber Cleaning Cloth Roll 20 Towels",
       "price": 199,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2177,
       "posted_at": "2026-11-22T13:49:38+05:30"
-    },
-    {
-      "title": "Goshudh Roasted Chana (1000 g) · Shopsy",
-      "price": 253,
-      "mrp": 600,
-      "discount_pct": 58.0,
-      "saving": 347,
-      "store": "Shopsy",
-      "link": "https://bitli.in/2uF7wjb",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2176,
-      "posted_at": "2026-11-22T13:48:49+05:30"
     },
     {
       "kind": "coupon",
