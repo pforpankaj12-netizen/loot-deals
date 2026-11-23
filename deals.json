@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T12:07:06+05:30",
+  "updated_at": "2026-11-23T12:34:47+05:30",
   "deals": [
+    {
+      "title": "Limited time deal on an amazing gadget!Noise Smartwatch Deal 🔥😍💥 Now just",
+      "price": 1499,
+      "mrp": 6999,
+      "discount_pct": 79.0,
+      "saving": 5500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D4ZG7593?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Electronics",
+      "telegram_msg_id": 2237,
+      "posted_at": "2026-11-23T12:34:47+05:30"
+    },
     {
       "title": "LOOT DEAL — price error, grab it before it's fixed! ⚡",
       "price": 95,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2178,
       "posted_at": "2026-11-22T13:52:00+05:30"
-    },
-    {
-      "title": "Tryfly Tr-8 Yellow/White With Red/Blue 30W DC 9v-60v · Shopsy",
-      "price": 54,
-      "mrp": 499,
-      "discount_pct": 89.0,
-      "saving": 445,
-      "store": "Shopsy",
-      "link": "https://bitli.in/i3oXB9N",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2177,
-      "posted_at": "2026-11-22T13:49:38+05:30"
     },
     {
       "kind": "coupon",
