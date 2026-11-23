@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T23:24:42+05:30",
+  "updated_at": "2026-11-23T23:45:02+05:30",
   "deals": [
+    {
+      "title": "Upto On Min. Sedell Paris Luxury Beauty Starting @69.",
+      "price": 69,
+      "mrp": null,
+      "discount_pct": 83.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dv/s?rh=n%3A1355016031%2Cp_89%3ASedell%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A80-&s=exact-aware-popularity-rank&i=beauty&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2297,
+      "posted_at": "2026-11-23T23:45:02+05:30"
+    },
     {
       "title": "SARFARAJ INDIA Nylon Chiffon Saree Red 6.5 Meters",
       "price": 199,
@@ -508,19 +521,6 @@
       "category": "Grocery & Food",
       "telegram_msg_id": 2253,
       "posted_at": "2026-11-23T14:49:23+05:30"
-    },
-    {
-      "title": "Special Edition Nylon with Silicone Strap for Google Fitbit Air",
-      "price": 999,
-      "mrp": 4500,
-      "discount_pct": 77.0,
-      "saving": 3501,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HKYWHM73?tag=lootkabhandar-21",
-      "image": "img/2252.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2252,
-      "posted_at": "2026-11-23T14:49:15+05:30"
     },
     {
       "kind": "coupon",
