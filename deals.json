@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T20:26:49+05:30",
+  "updated_at": "2026-11-23T20:42:15+05:30",
   "deals": [
+    {
+      "title": "New Launch : Sony CH730 Wireless Headphone @11,899 + Bank Offer.",
+      "price": 11899,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Flipkart",
+      "link": "https://fktr.in/jfs4H5t",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2289,
+      "posted_at": "2026-11-23T20:42:15+05:30"
+    },
     {
       "title": "Grab this deal before it's gone!PUMA Running Shoes Deal 🔥😍💥 Now only",
       "price": 2199,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2243,
       "posted_at": "2026-11-23T13:46:22+05:30"
-    },
-    {
-      "title": "Don't miss out on this PUMA steal!PUMA Classic Sneaker Deal 🔥😍💥 Now only",
-      "price": 3599,
-      "mrp": 7999,
-      "discount_pct": 55.0,
-      "saving": 4400,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DBFZ82GP?tag=lootkabhandar-21",
-      "image": "img/2242.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2242,
-      "posted_at": "2026-11-23T13:46:18+05:30"
     },
     {
       "kind": "coupon",
