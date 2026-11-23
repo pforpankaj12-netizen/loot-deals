@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T20:52:28+05:30",
+  "updated_at": "2026-11-23T22:01:37+05:30",
   "deals": [
+    {
+      "title": "Havells 1000W Dry Iron .Apply Coupon : 1250W Steam Iron .Apply Coupon :",
+      "price": 714,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07LDPLSZC?tag=lootkabhandar-21",
+      "image": "img/2293.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2293,
+      "posted_at": "2026-11-23T22:01:37+05:30"
+    },
     {
       "title": "ANNI Designer Women's Viscose Straight Printed Kurta with Pant | Ethnic Indian Kurta Set | Round Neck Keyhole Design | Elbow Sleeve Traditional Dress | Office Occasion Outfit",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2248,
       "posted_at": "2026-11-23T13:46:37+05:30"
-    },
-    {
-      "title": "Don't miss out on this steal!Red Tape Women Mesh Walking Sports Shoes Deal 🔥😍💥 Now only",
-      "price": 1385,
-      "mrp": 7699,
-      "discount_pct": 82.0,
-      "saving": 6314,
-      "store": "Myntra",
-      "link": "https://myntr.it/T1dr30Q",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2247,
-      "posted_at": "2026-11-23T13:46:34+05:30"
     },
     {
       "kind": "coupon",
