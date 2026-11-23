@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T15:38:17+05:30",
+  "updated_at": "2026-11-23T15:48:23+05:30",
   "deals": [
+    {
+      "title": "Surya Peanut Chikki 900g (Pack of 10)",
+      "price": 38,
+      "mrp": 500,
+      "discount_pct": 92.0,
+      "saving": 462,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09X73SDNP?tag=lootkabhandar-21",
+      "image": "img/2259.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2259,
+      "posted_at": "2026-11-23T15:48:23+05:30"
+    },
     {
       "title": "Say goodbye to stubborn wrinkles!Crompton Fabriautotech Steam Iron Deal 🔥😍💥 Now only",
       "price": 3808,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2203,
       "posted_at": "2026-11-22T22:35:52+05:30"
-    },
-    {
-      "title": "Oakcraft Premium Ergonomic Office Chair",
-      "price": 5499,
-      "mrp": 19999,
-      "discount_pct": 73.0,
-      "saving": 14500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H99HYBKV?tag=lootkabhandar-21",
-      "image": "img/2202.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2202,
-      "posted_at": "2026-11-22T22:23:30+05:30"
     },
     {
       "kind": "coupon",
