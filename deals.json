@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T17:10:02+05:30",
+  "updated_at": "2026-11-23T18:15:28+05:30",
   "deals": [
+    {
+      "title": "Philips 30W B22 LED Cool Day Light Bulb",
+      "price": 329,
+      "mrp": 633,
+      "discount_pct": 48.0,
+      "saving": 304,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07P2J21V5?tag=lootkabhandar-21",
+      "image": "img/2266.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2266,
+      "posted_at": "2026-11-23T18:15:28+05:30"
+    },
     {
       "title": "Zista Washing Machine Cleaner Tablets 15 Tablets",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2214,
       "posted_at": "2026-11-23T08:02:29+05:30"
-    },
-    {
-      "title": "Bata Men's Mule Slipper - Red",
-      "price": 324,
-      "mrp": 649,
-      "discount_pct": 50.0,
-      "saving": 325,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F7LBYWPF?tag=lootkabhandar-21",
-      "image": "img/2211.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2211,
-      "posted_at": "2026-11-22T23:52:53+05:30"
     },
     {
       "kind": "coupon",
