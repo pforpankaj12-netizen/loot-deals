@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T08:03:50+05:30",
+  "updated_at": "2026-11-23T08:46:26+05:30",
   "deals": [
+    {
+      "title": "Portronics CineArc 200W Bluetooth Soundbar with Wired Subwoofer for Deep Bass, 5.1 Channel Home Theatre, HD Sound,Multiple EQ Modes, BT 5.4V,HDMI, Optical, AUX, Sleek Remote Control(Black)",
+      "price": 4989,
+      "mrp": 14999,
+      "discount_pct": 66.0,
+      "saving": 10010,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GYZKW57F?tag=lootkabhandar-21",
+      "image": "img/2219.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2219,
+      "posted_at": "2026-11-23T08:46:26+05:30"
+    },
     {
       "title": "MILTON Helix Water Bottle, 1 Litre .",
       "price": 73,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2156,
       "posted_at": "2026-11-21T21:57:21+05:30"
-    },
-    {
-      "title": "Portable Mini Sealing Machine, Handheld Packet Sealer for Food, Snacks, Chips, Fresh Storage, Plastic Bags Sealing Machine (Multi Color)",
-      "price": 69,
-      "mrp": 149,
-      "discount_pct": 53.0,
-      "saving": 80,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FR28L3LS?tag=lootkabhandar-21",
-      "image": "img/2155.jpg",
-      "category": "Grocery & Food",
-      "telegram_msg_id": 2155,
-      "posted_at": "2026-11-21T21:57:18+05:30"
     },
     {
       "kind": "coupon",
