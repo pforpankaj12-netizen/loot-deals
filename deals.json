@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T19:58:31+05:30",
+  "updated_at": "2026-11-23T20:26:49+05:30",
   "deals": [
+    {
+      "title": "Grab this deal before it's gone!PUMA Running Shoes Deal 🔥😍💥 Now only",
+      "price": 2199,
+      "mrp": 5499,
+      "discount_pct": 60.0,
+      "saving": 3300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BN6J8BP4?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2288,
+      "posted_at": "2026-11-23T20:26:49+05:30"
+    },
     {
       "title": "LOOT DEAL — price error, grab it before it's fixed! ⚡",
       "price": 52700,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2242,
       "posted_at": "2026-11-23T13:46:18+05:30"
-    },
-    {
-      "title": "Puma Unisex-Adult BMW MMS Catch Sneaker",
-      "price": 3599,
-      "mrp": 7999,
-      "discount_pct": 55.0,
-      "saving": 4400,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F9KVY9BX?tag=lootkabhandar-21",
-      "image": "img/2240.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2240,
-      "posted_at": "2026-11-23T12:48:29+05:30"
     },
     {
       "kind": "coupon",
