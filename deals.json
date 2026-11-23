@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T09:50:38+05:30",
+  "updated_at": "2026-11-23T10:03:47+05:30",
   "deals": [
+    {
+      "title": "Tosaa Insulated Stainless Steel Casserole, 2400ml",
+      "price": 418,
+      "mrp": 1160,
+      "discount_pct": 64.0,
+      "saving": 742,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DPQCXF95?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2224,
+      "posted_at": "2026-11-23T10:03:47+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 9013,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2163,
       "posted_at": "2026-11-21T23:43:16+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑲𝒊𝒕𝒄𝒉𝒆𝒏𝒆𝒕𝒊𝒄 𝑯𝒐𝒎𝒆 𝑺𝑪_𝟎𝟏 𝑽𝒆𝒈𝒆𝒕𝒂𝒃𝒍𝒆 & 𝑭𝒓𝒖𝒊𝒕 𝑪𝒉𝒐𝒑𝒑𝒆𝒓 · 𝑺𝒉𝒐𝒑𝒔𝒚",
-      "price": 113,
-      "mrp": 999,
-      "discount_pct": 88.0,
-      "saving": 886,
-      "store": "Shopsy",
-      "link": "https://bitli.in/ky5zMCX",
-      "image": "img/2162.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2162,
-      "posted_at": "2026-11-21T23:26:34+05:30"
     },
     {
       "kind": "coupon",
