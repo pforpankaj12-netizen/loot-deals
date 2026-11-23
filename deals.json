@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T15:24:20+05:30",
+  "updated_at": "2026-11-23T15:38:17+05:30",
   "deals": [
+    {
+      "title": "Say goodbye to stubborn wrinkles!Crompton Fabriautotech Steam Iron Deal 🔥😍💥 Now only",
+      "price": 3808,
+      "mrp": 8200,
+      "discount_pct": 54.0,
+      "saving": 4392,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BNKSZFSL?tag=lootkabhandar-21",
+      "image": "img/2258.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2258,
+      "posted_at": "2026-11-23T15:38:17+05:30"
+    },
+    {
+      "title": "Khetika Dates Powder 200g at",
+      "price": 99,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H5CL9MFQ?tag=lootkabhandar-21",
+      "image": "img/2257.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2257,
+      "posted_at": "2026-11-23T15:37:38+05:30"
+    },
     {
       "title": "Cockatoo Hand Grip Strengthener at",
       "price": 59,
@@ -495,32 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2202,
       "posted_at": "2026-11-22T22:23:30+05:30"
-    },
-    {
-      "title": "Bata Women's Slip-on Sandal",
-      "price": 262,
-      "mrp": 749,
-      "discount_pct": 65.0,
-      "saving": 487,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Bata&i=shoes&rh=n%3A1571283031%2Cn%3A1983396031%2Cn%3A1983578031%2Cp_123%3A5730760%257C627141%2Cp_6%3AA1WYWER0W24N8S%257CAWRHVFFS77KOB%2Cp_n_pct-off-with-tax%3A40-&s=price-asc-rank&ds=v1%3AVqqMCVr4gXd7jDKpqMFj7E04ca1KcyGZXouZqvJh938&rnid=1983396031&ascsubtag=20261122cl4ert4paadl&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2201,
-      "posted_at": "2026-11-22T21:55:04+05:30"
-    },
-    {
-      "title": "Himalaya Aloe Vera Face Wash, 200 ml .",
-      "price": 170,
-      "mrp": 447,
-      "discount_pct": 62.0,
-      "saving": 277,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F6TZBQK4?tag=lootkabhandar-21",
-      "image": "img/2195.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2195,
-      "posted_at": "2026-11-22T20:07:39+05:30"
     },
     {
       "kind": "coupon",
