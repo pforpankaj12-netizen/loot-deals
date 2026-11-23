@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T18:57:30+05:30",
+  "updated_at": "2026-11-23T19:25:59+05:30",
   "deals": [
+    {
+      "title": "Waterproof Tape 2 Inch x 5 Meter",
+      "price": 179,
+      "mrp": 500,
+      "discount_pct": 64.0,
+      "saving": 321,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H6NC774L?tag=lootkabhandar-21",
+      "image": "img/2274.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2274,
+      "posted_at": "2026-11-23T19:25:59+05:30"
+    },
     {
       "title": "GharNest Microfiber Cleaning Cloth Roll 20Pcs",
       "price": 199,
@@ -508,19 +521,6 @@
       "category": "Jewellery",
       "telegram_msg_id": 2225,
       "posted_at": "2026-11-23T10:29:55+05:30"
-    },
-    {
-      "title": "Tosaa Insulated Stainless Steel Casserole, 2400ml",
-      "price": 418,
-      "mrp": 1160,
-      "discount_pct": 64.0,
-      "saving": 742,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DPQCXF95?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2224,
-      "posted_at": "2026-11-23T10:03:47+05:30"
     },
     {
       "kind": "coupon",
