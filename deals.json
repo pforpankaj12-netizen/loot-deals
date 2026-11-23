@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T22:01:37+05:30",
+  "updated_at": "2026-11-23T22:56:05+05:30",
   "deals": [
+    {
+      "title": "GKD Coaster Set of 6 Birds Design Wooden Coasters",
+      "price": 90,
+      "mrp": 199,
+      "discount_pct": 55.0,
+      "saving": 109,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D2KSQ7DP?tag=lootkabhandar-21",
+      "image": "img/2294.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2294,
+      "posted_at": "2026-11-23T22:56:05+05:30"
+    },
     {
       "title": "Havells 1000W Dry Iron .Apply Coupon : 1250W Steam Iron .Apply Coupon :",
       "price": 714,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2251,
       "posted_at": "2026-11-23T14:46:25+05:30"
-    },
-    {
-      "title": "Grab this stunning kurta set before it's gone! InWeave Women Ethnic Wear A-Line Kurta Set Deal 🔥😍💥 Now only",
-      "price": 1049,
-      "mrp": 4995,
-      "discount_pct": 79.0,
-      "saving": 3946,
-      "store": "Ajio",
-      "link": "https://ajiio.in/ilbZHbQ",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2248,
-      "posted_at": "2026-11-23T13:46:37+05:30"
     },
     {
       "kind": "coupon",
