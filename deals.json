@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T10:03:47+05:30",
+  "updated_at": "2026-11-23T10:33:39+05:30",
   "deals": [
+    {
+      "title": "Upgrade your space with this must-have!FFO Stepora Shoe Rack Deal 🔥😍💥 Now only",
+      "price": 5984,
+      "mrp": 19999,
+      "discount_pct": 70.0,
+      "saving": 14015,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HJ4XM539?tag=lootkabhandar-21",
+      "image": "img/2227.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2227,
+      "posted_at": "2026-11-23T10:33:39+05:30"
+    },
+    {
+      "title": "MamyPoko Pants Skin Breathe Care XXL Diapers 18 Count",
+      "price": 344,
+      "mrp": 749,
+      "discount_pct": 54.0,
+      "saving": 405,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07Y8RFKR6?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2226,
+      "posted_at": "2026-11-23T10:30:11+05:30"
+    },
+    {
+      "title": "Nayasa Square Ring Funk Bucket and Mug Set",
+      "price": 284,
+      "mrp": 499,
+      "discount_pct": 43.0,
+      "saving": 215,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B074PN2S42?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Jewellery",
+      "telegram_msg_id": 2225,
+      "posted_at": "2026-11-23T10:29:55+05:30"
+    },
     {
       "title": "Tosaa Insulated Stainless Steel Casserole, 2400ml",
       "price": 418,
@@ -482,45 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 2170,
       "posted_at": "2026-11-22T13:34:44+05:30"
-    },
-    {
-      "title": "Deal of the day — price error, grab now! 😱",
-      "price": 279,
-      "mrp": 1199,
-      "discount_pct": 77.0,
-      "saving": 920,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GPJN33JQ?tag=lootkabhandar-21",
-      "image": "img/2169.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2169,
-      "posted_at": "2026-11-22T13:31:43+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑫𝒓. 𝑷𝒆𝒕𝒔 𝑻𝒓𝒆𝒆𝒕𝒐𝒔 𝑪𝒉𝒊𝒄𝒌𝒆𝒏 𝑺𝒕𝒊𝒙 𝑫𝒐𝒈 𝑻𝒓𝒆𝒂𝒕𝒔 𝟏𝟎𝒙𝟖𝟓𝒈",
-      "price": 404,
-      "mrp": 2100,
-      "discount_pct": 81.0,
-      "saving": 1696,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D7195GWR?tag=lootkabhandar-21",
-      "image": "img/2164.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2164,
-      "posted_at": "2026-11-21T23:44:01+05:30"
-    },
-    {
-      "title": "🔥 💥 LOOT 𝑨𝑴𝑫 𝑹𝒚𝒛𝒆𝒏 𝟓 𝟕𝟔𝟎𝟎𝑿 𝑫𝒆𝒔𝒌𝒕𝒐𝒑 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒐𝒓 𝟔𝑪/𝟏𝟐𝑻 𝟒.𝟕𝑮𝑯𝒛",
-      "price": 23999,
-      "mrp": 43000,
-      "discount_pct": 44.0,
-      "saving": 19001,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BBJDS62N?tag=lootkabhandar-21",
-      "image": "img/2163.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2163,
-      "posted_at": "2026-11-21T23:43:16+05:30"
     },
     {
       "kind": "coupon",
