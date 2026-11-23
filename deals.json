@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T20:42:15+05:30",
+  "updated_at": "2026-11-23T20:52:28+05:30",
   "deals": [
+    {
+      "title": "ANNI Designer Women's Viscose Straight Printed Kurta with Pant | Ethnic Indian Kurta Set | Round Neck Keyhole Design | Elbow Sleeve Traditional Dress | Office Occasion Outfit",
+      "price": 299,
+      "mrp": 2599,
+      "discount_pct": 88.0,
+      "saving": 2300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GNN57W4H?tag=lootkabhandar-21",
+      "image": "img/2292.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2292,
+      "posted_at": "2026-11-23T20:52:28+05:30"
+    },
+    {
+      "title": "MAA SILVER Pure Silver 7 Inch Pooja Thali for Gifting, Religious & Pooja/Puja Use(97% Purity)(200 Grams)",
+      "price": 46689,
+      "mrp": 158999,
+      "discount_pct": 70.0,
+      "saving": 112310,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07HKR6JK9?tag=lootkabhandar-21",
+      "image": "img/2291.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2291,
+      "posted_at": "2026-11-23T20:52:16+05:30"
+    },
+    {
+      "title": "RIO Women Roll with Fortune Print Crew-Neck T-Shirt💰 ₹140 ₹399 · 65% offRIO Women Typographic Print Round-Neck Top💰 ₹104 ₹399 · 74% off🛒 AJIO🔗",
+      "price": 140,
+      "mrp": 399,
+      "discount_pct": 65.0,
+      "saving": 259,
+      "store": "Ajio",
+      "link": "https://ajiio.in/F7FTz62",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2290,
+      "posted_at": "2026-11-23T20:51:38+05:30"
+    },
     {
       "title": "New Launch : Sony CH730 Wireless Headphone @11,899 + Bank Offer.",
       "price": 11899,
@@ -482,45 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2247,
       "posted_at": "2026-11-23T13:46:34+05:30"
-    },
-    {
-      "title": "Fashion & Lifestyle Loot Deals 🔥Under ₹700Fashion & Lifestyle -",
-      "price": 700,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Ajio",
-      "link": "https://ajiio.in/7XgjNXu",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2245,
-      "posted_at": "2026-11-23T13:46:29+05:30"
-    },
-    {
-      "title": "Must-have running shoes for every workout!Skechers Women Running Shoes Deal 🔥😍💥 Now only",
-      "price": 2600,
-      "mrp": 6499,
-      "discount_pct": 60.0,
-      "saving": 3899,
-      "store": "Ajio",
-      "link": "https://ajiio.in/iCwEfz2",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2244,
-      "posted_at": "2026-11-23T13:46:26+05:30"
-    },
-    {
-      "title": "Fashion & Lifestyle Loot Deals 🔥Under ₹700Fashion & Lifestyle -",
-      "price": 700,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Myntra",
-      "link": "https://myntr.it/o8ROw68",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2243,
-      "posted_at": "2026-11-23T13:46:22+05:30"
     },
     {
       "kind": "coupon",
