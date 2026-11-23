@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T23:52:53+05:30",
+  "updated_at": "2026-11-23T08:03:50+05:30",
   "deals": [
+    {
+      "title": "MILTON Helix Water Bottle, 1 Litre .",
+      "price": 73,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B098KG4RP4?tag=lootkabhandar-21",
+      "image": "img/2215.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2215,
+      "posted_at": "2026-11-23T08:03:50+05:30"
+    },
+    {
+      "title": "Anni Designer Women's Rayon Viscose Printed Suit",
+      "price": 299,
+      "mrp": 2599,
+      "discount_pct": 88.0,
+      "saving": 2300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=anni+designer+kurta+with+pant&i=specialty-aps&srs=15901075031&s=price-asc-rank&ds=v1%3AjrFSZlkW3ha0gAixPsyloMh10clgR%2FEpb37YzvZHvbg&qid=1795371449&ascsubtag=20261123clinhmtgragz&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2214,
+      "posted_at": "2026-11-23T08:02:29+05:30"
+    },
     {
       "title": "Bata Men's Mule Slipper - Red",
       "price": 324,
@@ -495,32 +521,6 @@
       "category": "Grocery & Food",
       "telegram_msg_id": 2155,
       "posted_at": "2026-11-21T21:57:18+05:30"
-    },
-    {
-      "title": "Baidyanath Chyawanprash Special Pack - 1.2kg | Ayurvedic Health Supplement | With Amla, Giloy & 52 Potent Herbs | Supports Immunity, Strength & Stamina | Daily Wellness & Energy Formula",
-      "price": 209,
-      "mrp": 430,
-      "discount_pct": 51.0,
-      "saving": 221,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B00I5CZT92?tag=lootkabhandar-21",
-      "image": "img/2154.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2154,
-      "posted_at": "2026-11-21T21:57:15+05:30"
-    },
-    {
-      "title": "GLUN® Premium Kids' Mealtime Set, 3 Compartment Feeding Plate with Durable Stainless Steel Spoon, Soft-Grip with Travel Case, Ergonomic Handle & Portable",
-      "price": 111,
-      "mrp": 549,
-      "discount_pct": 79.0,
-      "saving": 438,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GWHWHSHM?tag=lootkabhandar-21",
-      "image": "img/2153.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2153,
-      "posted_at": "2026-11-21T21:57:11+05:30"
     },
     {
       "kind": "coupon",
