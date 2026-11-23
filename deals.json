@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T18:51:14+05:30",
+  "updated_at": "2026-11-23T18:57:30+05:30",
   "deals": [
+    {
+      "title": "GharNest Microfiber Cleaning Cloth Roll 20Pcs",
+      "price": 199,
+      "mrp": 499,
+      "discount_pct": 60.0,
+      "saving": 300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HLLFXWSS?tag=lootkabhandar-21",
+      "image": "img/2273.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2273,
+      "posted_at": "2026-11-23T18:57:30+05:30"
+    },
     {
       "title": "TIMEX Expedition Tonneau 41mm Black Dial Mechanical Automatic Men Watch - TW2Y63800UJ",
       "price": 29997,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2224,
       "posted_at": "2026-11-23T10:03:47+05:30"
-    },
-    {
-      "title": "Deal of the day — price error, grab now! 😱",
-      "price": 9013,
-      "mrp": 22590,
-      "discount_pct": 60.0,
-      "saving": 13577,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D1JT43BV?tag=lootkabhandar-21",
-      "image": "img/2223.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2223,
-      "posted_at": "2026-11-23T09:50:38+05:30"
     },
     {
       "kind": "coupon",
