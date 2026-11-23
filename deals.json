@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T08:46:26+05:30",
+  "updated_at": "2026-11-23T09:23:24+05:30",
   "deals": [
+    {
+      "title": "Milton Pro Cook Induction Cookware Set | 5 Pc",
+      "price": 1555,
+      "mrp": 5156,
+      "discount_pct": 70.0,
+      "saving": 3601,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CGXB5ZDP?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Kitchen",
+      "telegram_msg_id": 2220,
+      "posted_at": "2026-11-23T09:23:24+05:30"
+    },
     {
       "title": "Portronics CineArc 200W Bluetooth Soundbar with Wired Subwoofer for Deep Bass, 5.1 Channel Home Theatre, HD Sound,Multiple EQ Modes, BT 5.4V,HDMI, Optical, AUX, Sleek Remote Control(Black)",
       "price": 4989,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2157,
       "posted_at": "2026-11-21T21:57:23+05:30"
-    },
-    {
-      "title": "ANNI Designer Women’s Rayon Viscose Printed Straight Kurta Pant Set with Dupatta | Full Length Kurti | Bell Sleeve | Round Neck Ethnic Wear",
-      "price": 399,
-      "mrp": 2599,
-      "discount_pct": 84.0,
-      "saving": 2200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0G43PQMM6?tag=lootkabhandar-21",
-      "image": "img/2156.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2156,
-      "posted_at": "2026-11-21T21:57:21+05:30"
     },
     {
       "kind": "coupon",
