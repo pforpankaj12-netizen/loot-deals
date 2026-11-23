@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T14:49:23+05:30",
+  "updated_at": "2026-11-23T15:08:27+05:30",
   "deals": [
+    {
+      "title": "Shield Heavy Duty Bike & Scooty Cover Tvs Jupiter 125",
+      "price": 179,
+      "mrp": 999,
+      "discount_pct": 82.0,
+      "saving": 820,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HFSTTPWL?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2254,
+      "posted_at": "2026-11-23T15:08:27+05:30"
+    },
     {
       "title": "LuvIt. Goodies Chocolatey Gift Pack | Premium Assorted Gift Box | Perfect for Gifting, Celebrations, Festivals, Birthdays, & Special Occasions | Pack of 2-163.70g Each",
       "price": 171,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2198,
       "posted_at": "2026-11-22T20:51:24+05:30"
-    },
-    {
-      "title": "Basics AAA Rechargeable 750 mAh Batteries",
-      "price": 222,
-      "mrp": 999,
-      "discount_pct": 78.0,
-      "saving": 777,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CZ7LL9CW?tag=lootkabhandar-21",
-      "image": "img/2197.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2197,
-      "posted_at": "2026-11-22T20:23:14+05:30"
     },
     {
       "kind": "coupon",
