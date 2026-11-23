@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T18:15:28+05:30",
+  "updated_at": "2026-11-23T18:29:22+05:30",
   "deals": [
+    {
+      "title": "CELLO Aluminium Nonstick 12 Cavity Appam Patra Pan Maker with Steel Lid, Black | Single Bakelite Handle, Gas Stove Compatible Mini Die-Cast Uttappa Paniyarakkal Cup Cake Frying Pan Kadhai for Kitchen",
+      "price": 408,
+      "mrp": 1200,
+      "discount_pct": 66.0,
+      "saving": 792,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07PXH9VS2?tag=lootkabhandar-21",
+      "image": "img/2268.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 2268,
+      "posted_at": "2026-11-23T18:29:22+05:30"
+    },
+    {
+      "title": "Pink Non-Slip Socks (Pack of 2)",
+      "price": 199,
+      "mrp": 497,
+      "discount_pct": 60.0,
+      "saving": 298,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HQNX14WJ?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_1YZ2Y5JS7CPV3FPKXF56&channelId=704&ascsubtag=20261123clga12via3hl&tag=lootkabhandar-21",
+      "image": "img/2267.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2267,
+      "posted_at": "2026-11-23T18:29:11+05:30"
+    },
     {
       "title": "Philips 30W B22 LED Cool Day Light Bulb",
       "price": 329,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2219,
       "posted_at": "2026-11-23T08:46:26+05:30"
-    },
-    {
-      "title": "MILTON Helix Water Bottle, 1 Litre .",
-      "price": 73,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B098KG4RP4?tag=lootkabhandar-21",
-      "image": "img/2215.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2215,
-      "posted_at": "2026-11-23T08:03:50+05:30"
-    },
-    {
-      "title": "Anni Designer Women's Rayon Viscose Printed Suit",
-      "price": 299,
-      "mrp": 2599,
-      "discount_pct": 88.0,
-      "saving": 2300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=anni+designer+kurta+with+pant&i=specialty-aps&srs=15901075031&s=price-asc-rank&ds=v1%3AjrFSZlkW3ha0gAixPsyloMh10clgR%2FEpb37YzvZHvbg&qid=1795371449&ascsubtag=20261123clinhmtgragz&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2214,
-      "posted_at": "2026-11-23T08:02:29+05:30"
     },
     {
       "kind": "coupon",
