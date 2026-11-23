@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T09:23:24+05:30",
+  "updated_at": "2026-11-23T09:50:38+05:30",
   "deals": [
+    {
+      "title": "Deal of the day — price error, grab now! 😱",
+      "price": 9013,
+      "mrp": 22590,
+      "discount_pct": 60.0,
+      "saving": 13577,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D1JT43BV?tag=lootkabhandar-21",
+      "image": "img/2223.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2223,
+      "posted_at": "2026-11-23T09:50:38+05:30"
+    },
+    {
+      "title": "CORSICA Block Mules with Bows💰 ₹337 ~₹999~ · 66% offDressBerry Woven Design Open Toe Flats💰 ₹386 ~₹1699~ · 77% offCORSICA Heels💰 ₹337 ~₹2499~ · 87% off🛒 Myntra🔗",
+      "price": 337,
+      "mrp": 999,
+      "discount_pct": 66.0,
+      "saving": 662,
+      "store": "Myntra",
+      "link": "https://myntr.it/qD2iJCn",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2222,
+      "posted_at": "2026-11-23T09:50:07+05:30"
+    },
+    {
+      "title": "Ant Esports AEH0105 HDMI Cable 4K 1.5M",
+      "price": 89,
+      "mrp": 699,
+      "discount_pct": 87.0,
+      "saving": 610,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CDPJ565Q?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2221,
+      "posted_at": "2026-11-23T09:50:03+05:30"
+    },
     {
       "title": "Milton Pro Cook Induction Cookware Set | 5 Pc",
       "price": 1555,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2162,
       "posted_at": "2026-11-21T23:26:34+05:30"
-    },
-    {
-      "title": "🔥 🍳 Kitchen Loots 𝑨𝑫𝑫𝟐𝑪𝑨𝑹𝑻 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑺𝒄𝒊𝒔𝒔𝒐𝒓 𝒇𝒐𝒓 𝑮𝒆𝒏𝒆𝒓𝒂𝒍 𝑼𝒔𝒆, 𝑯𝒆𝒂𝒗𝒚 𝑫𝒖𝒕𝒚 𝑲𝒊𝒕𝒄𝒉𝒆𝒏 𝑹𝒂𝒑𝒕𝒐𝒓 𝑴𝒆𝒂𝒕 𝑺𝒉𝒆𝒂𝒓𝒔, 𝑪𝒐𝒐𝒌𝒊𝒏𝒈 𝑺𝒄𝒊𝒔𝒔𝒐𝒓𝒔, 𝑺𝒕𝒂𝒊𝒏𝒍𝒆𝒔𝒔 𝑺𝒕𝒆𝒆𝒍 𝑴𝒖𝒍𝒕𝒊-𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝑺𝒄𝒊𝒔𝒔𝒐𝒓𝒔 𝒇𝒐𝒓 𝑭𝒐𝒐𝒅, 𝑪𝒉𝒊𝒄𝒌𝒆𝒏, 𝑷𝒐𝒖𝒍𝒕𝒓𝒚, 𝑭𝒊𝒔𝒉, 𝑷𝒊𝒛𝒛𝒂, 𝑯𝒆𝒓𝒃𝒔 (𝑷𝑨𝑪𝑲 𝑶𝑭 𝟏)",
-      "price": 99,
-      "mrp": 399,
-      "discount_pct": 75.0,
-      "saving": 300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HCP9VQ31?tag=lootkabhandar-21",
-      "image": "img/2159.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 2159,
-      "posted_at": "2026-11-21T22:10:46+05:30"
-    },
-    {
-      "title": "Drumstone (𝐁𝐞𝐬𝐭 𝐂𝐡𝐨𝐢𝐜𝐞) USB Charger Fast Charging Adapter for Smartphones, Tablets & Other USB Devices,Portable Wall Charger for Home,Office & Travel,Compact Power Adapter 15 Years Warranty",
-      "price": 459,
-      "mrp": 999,
-      "discount_pct": 54.0,
-      "saving": 540,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HB7JCM1C?tag=lootkabhandar-21",
-      "image": "img/2158.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2158,
-      "posted_at": "2026-11-21T21:57:26+05:30"
-    },
-    {
-      "title": "ANNI Designer Bandhani Embroidery Kurta Plazzo Set with Dupatta – Women Kurta Sets for Women | Kurti Set for Women | Suit Set for Women Cotton",
-      "price": 399,
-      "mrp": 2599,
-      "discount_pct": 84.0,
-      "saving": 2200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FLQJB4YB?tag=lootkabhandar-21",
-      "image": "img/2157.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2157,
-      "posted_at": "2026-11-21T21:57:23+05:30"
     },
     {
       "kind": "coupon",
