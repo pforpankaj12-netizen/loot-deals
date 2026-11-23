@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T11:11:19+05:30",
+  "updated_at": "2026-11-23T11:54:44+05:30",
   "deals": [
+    {
+      "title": "Besquestix Microfiber Cleaning Cloth Roll 20 Towels",
+      "price": 199,
+      "mrp": 600,
+      "discount_pct": 67.0,
+      "saving": 401,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HMCS4CG6?tag=lootkabhandar-21",
+      "image": "img/2234.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2234,
+      "posted_at": "2026-11-23T11:54:44+05:30"
+    },
     {
       "title": "Upto On Lux Beauty Products Starting @99.",
       "price": 99,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2176,
       "posted_at": "2026-11-22T13:48:49+05:30"
-    },
-    {
-      "title": "Van Heusen Men's Cotton Solid Standard Length Casual Jacket",
-      "price": 2064,
-      "mrp": 6999,
-      "discount_pct": 71.0,
-      "saving": 4935,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DGQDHWB7?tag=lootkabhandar-21",
-      "image": "img/2175.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2175,
-      "posted_at": "2026-11-22T13:48:00+05:30"
     },
     {
       "kind": "coupon",
