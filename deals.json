@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T10:10:55+05:30",
+  "updated_at": "2026-11-24T10:37:53+05:30",
   "deals": [
+    {
+      "title": "Don't miss out on this powerhouse!Lenovo Smartchoice ThinkPad E14 Deal 🔥😍💥 Now only",
+      "price": 95990,
+      "mrp": 186960,
+      "discount_pct": 49.0,
+      "saving": 90970,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H4RKWP9S?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2315,
+      "posted_at": "2026-11-24T10:37:53+05:30"
+    },
     {
       "title": "Safewash Matic Liquid Detergent 1.8L Refill Pouch",
       "price": 199,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2262,
       "posted_at": "2026-11-23T16:34:33+05:30"
-    },
-    {
-      "title": "Zebronics MagBoost C 25W Wireless Car Charger",
-      "price": 999,
-      "mrp": 4799,
-      "discount_pct": 79.0,
-      "saving": 3800,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HQJLP2CN?tag=lootkabhandar-21",
-      "image": "img/2261.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2261,
-      "posted_at": "2026-11-23T16:31:23+05:30"
     },
     {
       "kind": "coupon",
