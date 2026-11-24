@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T13:56:12+05:30",
+  "updated_at": "2026-11-24T14:08:26+05:30",
   "deals": [
+    {
+      "title": "Cello H2O Stainless Steel Water Bottle 1000ml",
+      "price": 223,
+      "mrp": 535,
+      "discount_pct": 58.0,
+      "saving": 312,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07F5SL8HR?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2340,
+      "posted_at": "2026-11-24T14:08:26+05:30"
+    },
     {
       "title": "RR Signature BrightAir 1200mm BLDC Ceiling Fan",
       "price": 2399,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2280,
       "posted_at": "2026-11-23T19:47:50+05:30"
-    },
-    {
-      "title": "Apis Himalaya Honey, 1kg at .",
-      "price": 188,
-      "mrp": null,
-      "discount_pct": 62.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B083QW83KM?tag=lootkabhandar-21",
-      "image": "img/2279.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2279,
-      "posted_at": "2026-11-23T19:46:25+05:30"
     },
     {
       "kind": "coupon",
