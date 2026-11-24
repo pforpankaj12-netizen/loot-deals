@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T18:32:47+05:30",
+  "updated_at": "2026-11-24T18:53:02+05:30",
   "deals": [
+    {
+      "title": "Loot : Bosch 302L, MaxFlex Convert Triple Door Refrigerator + /",
+      "price": 30490,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H9T73HJ7?tag=lootkabhandar-21",
+      "image": "img/2365.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2365,
+      "posted_at": "2026-11-24T18:53:02+05:30"
+    },
+    {
+      "title": "Sounce Nitro Wired Gaming USB Mouse 800/1200/1600 DPI",
+      "price": 149,
+      "mrp": 399,
+      "discount_pct": 63.0,
+      "saving": 250,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G1C2FR3Z?tag=lootkabhandar-21",
+      "image": "img/2364.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2364,
+      "posted_at": "2026-11-24T18:52:27+05:30"
+    },
     {
       "title": "BEST : TCL (32 inches) Smart QLED Google TV + With ICICI/SBI CC TCL (43 inches) 4K Ultra HD Smart QLED Google TV + / With ICICI/SBI CC",
       "price": 15490,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2315,
       "posted_at": "2026-11-24T10:37:53+05:30"
-    },
-    {
-      "title": "Safewash Matic Liquid Detergent 1.8L Refill Pouch",
-      "price": 199,
-      "mrp": 490,
-      "discount_pct": 59.0,
-      "saving": 291,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07VS1YTY2?tag=lootkabhandar-21",
-      "image": "img/2314.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2314,
-      "posted_at": "2026-11-24T10:10:55+05:30"
-    },
-    {
-      "title": "RARE RABBIT Gallardo Backpack 2 20L Water Rep",
-      "price": 5499,
-      "mrp": 9999,
-      "discount_pct": 45.0,
-      "saving": 4500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=rare+rabbit&rh=p_123%3A1095176&ascsubtag=20261124cl4hb3gjvdja&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2311,
-      "posted_at": "2026-11-24T09:32:59+05:30"
     },
     {
       "kind": "coupon",
