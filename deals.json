@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T11:14:30+05:30",
+  "updated_at": "2026-11-24T11:30:23+05:30",
   "deals": [
+    {
+      "title": "Grab this smartwatch before it’s gone!boAt Ultima Ember 2 Smartwatch Deal 🔥😍💥 Now just",
+      "price": 2099,
+      "mrp": 7999,
+      "discount_pct": 74.0,
+      "saving": 5900,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H2HHZTNQ?tag=lootkabhandar-21",
+      "image": "img/2320.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2320,
+      "posted_at": "2026-11-24T11:30:23+05:30"
+    },
     {
       "title": "Unibic Swaadesi Bandhan Gifting 300G",
       "price": 180,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2266,
       "posted_at": "2026-11-23T18:15:28+05:30"
-    },
-    {
-      "title": "Zista Washing Machine Cleaner Tablets 15 Tablets",
-      "price": 299,
-      "mrp": 499,
-      "discount_pct": 40.0,
-      "saving": 200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HHTK6NCT?tag=lootkabhandar-21",
-      "image": "img/2264.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2264,
-      "posted_at": "2026-11-23T17:10:02+05:30"
     },
     {
       "kind": "coupon",
