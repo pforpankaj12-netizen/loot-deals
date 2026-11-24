@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T23:18:31+05:30",
+  "updated_at": "2026-11-24T23:39:09+05:30",
   "deals": [
+    {
+      "title": "Clay Craft Premium Fine Ceramic Dinner Set 8 Pieces | Microwave & Dishwasher Safe | Slim, Lightweight, Ultra-White | Lead & Cadmium Free | Daily Use Crockery Set for Home & Gifting",
+      "price": 479,
+      "mrp": 1919,
+      "discount_pct": 45.0,
+      "saving": 1440,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D5DRCH6H?tag=lootkabhandar-21",
+      "image": "img/2388.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 2388,
+      "posted_at": "2026-11-24T23:39:09+05:30"
+    },
     {
       "title": "Samsung Galaxy Watch8 (40mm, Bluetooth, Graphite) with 3nm Processor | Dual GPS | Sapphire Glass & Armor Aluminum | 5ATM & IP68 | BP, ECG, IHRN & Vascular Load Monitoring | Anti-oxidant Index",
       "price": 22999,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2345,
       "posted_at": "2026-11-24T14:55:52+05:30"
-    },
-    {
-      "title": "Limited time offer on this powerhouse!HP 15 Backlit Laptop Deal 🔥😍💥 Now only",
-      "price": 61990,
-      "mrp": 108576,
-      "discount_pct": 43.0,
-      "saving": 46586,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GF8BZ3G2?tag=lootkabhandar-21",
-      "image": "img/2344.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2344,
-      "posted_at": "2026-11-24T14:35:33+05:30"
     },
     {
       "kind": "coupon",
