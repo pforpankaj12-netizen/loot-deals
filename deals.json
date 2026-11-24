@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T13:09:18+05:30",
+  "updated_at": "2026-11-24T13:21:34+05:30",
   "deals": [
+    {
+      "title": "Amazon Brand - Solimo Modular Plastic Storage Containers with Lid (3 L each) | Stackable | BPA-Free | Multipurpose Use for Snacks, Spices, & more (Set of 2) (Light Red)",
+      "price": 315,
+      "mrp": 1299,
+      "discount_pct": 76.0,
+      "saving": 984,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D22XG31W?tag=lootkabhandar-21",
+      "image": "img/2332.jpg",
+      "category": "Grocery & Food",
+      "telegram_msg_id": 2332,
+      "posted_at": "2026-11-24T13:21:34+05:30"
+    },
     {
       "title": "boAt Bassheads 102 Wired Earphones with Mic",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2275,
       "posted_at": "2026-11-23T19:40:42+05:30"
-    },
-    {
-      "title": "Waterproof Tape 2 Inch x 5 Meter",
-      "price": 179,
-      "mrp": 500,
-      "discount_pct": 64.0,
-      "saving": 321,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H6NC774L?tag=lootkabhandar-21",
-      "image": "img/2274.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2274,
-      "posted_at": "2026-11-23T19:25:59+05:30"
     },
     {
       "kind": "coupon",
