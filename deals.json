@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T22:02:43+05:30",
+  "updated_at": "2026-11-24T22:34:32+05:30",
   "deals": [
+    {
+      "title": "RIO Graphic Print Crew-Neck Sweatshirt💰 ₹96 ₹299 · 68% offDNMX Typographic Print Relaxed Fit Sweatshirt💰 ₹125 ₹499 · 75% off🛒 AJIO🔗",
+      "price": 96,
+      "mrp": 299,
+      "discount_pct": 68.0,
+      "saving": 203,
+      "store": "Ajio",
+      "link": "https://ajiio.in/F7FTz62",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2386,
+      "posted_at": "2026-11-24T22:34:32+05:30"
+    },
     {
       "title": "Striped Crew-Neck T-shirt by Jack & Jones💰 ₹172 ₹1,149 · 85% offStriped Slim Fit Crew-Neck T-shirt by Jack & Jones💰 ₹195 ₹1,299 · 85% off🛒 AJIO🔗",
       "price": 172,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2343,
       "posted_at": "2026-11-24T14:20:44+05:30"
-    },
-    {
-      "title": "Cello H2O Stainless Steel Water Bottle 1000ml",
-      "price": 223,
-      "mrp": 535,
-      "discount_pct": 58.0,
-      "saving": 312,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07F5SL8HR?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2340,
-      "posted_at": "2026-11-24T14:08:26+05:30"
     },
     {
       "kind": "coupon",
