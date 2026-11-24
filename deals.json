@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T11:39:36+05:30",
+  "updated_at": "2026-11-24T11:53:14+05:30",
   "deals": [
+    {
+      "title": "MSI Prestige 13 AI Evo, Intel 1st Gen. Core Ultra 5 125H, Built-in AI, 34CM 2.8k at k Using Card",
+      "price": 97,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CV3Y3R81?tag=lootkabhandar-21",
+      "image": "img/2323.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2323,
+      "posted_at": "2026-11-24T11:53:14+05:30"
+    },
     {
       "title": "Himalaya Cocoa Butter Intensive Serum Body Lotion 400ml💰 ₹206 ~₹445~ · 54% offHimalaya Aloe & Cucumber Refreshing Serum Body Lotion 400ml💰 ₹370 ~₹499~ · 26% offHimalaya Ghee Kesar Moisturizing Body Lotion for Dry Skin 400ml💰 ₹203 ~₹339~ · 40% offHimalaya Ghee Kesar Moisturizing Body Lotion for Dry Skin 400ml💰 ₹359 ~₹599~ · 40% off🛒 Amazon🔗",
       "price": 206,
@@ -508,19 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 2268,
       "posted_at": "2026-11-23T18:29:22+05:30"
-    },
-    {
-      "title": "Pink Non-Slip Socks (Pack of 2)",
-      "price": 199,
-      "mrp": 497,
-      "discount_pct": 60.0,
-      "saving": 298,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0HQNX14WJ?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_1YZ2Y5JS7CPV3FPKXF56&channelId=704&ascsubtag=20261123clga12via3hl&tag=lootkabhandar-21",
-      "image": "img/2267.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2267,
-      "posted_at": "2026-11-23T18:29:11+05:30"
     },
     {
       "kind": "coupon",
