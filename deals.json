@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T13:21:34+05:30",
+  "updated_at": "2026-11-24T13:47:17+05:30",
   "deals": [
+    {
+      "title": "This deal is a total steal!Roadster Men's Lightweight Fisherman Sandals Deal 🔥😍💥 Now only",
+      "price": 605,
+      "mrp": 4995,
+      "discount_pct": 88.0,
+      "saving": 4390,
+      "store": "Myntra",
+      "link": "https://myntr.it/e5Slxlo",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2338,
+      "posted_at": "2026-11-24T13:47:17+05:30"
+    },
+    {
+      "title": "Don't miss out on this amazing find!Habere Minimalist Jute Pouffes Deal 🔥😍💥 Now only",
+      "price": 1866,
+      "mrp": 6663,
+      "discount_pct": 72.0,
+      "saving": 4797,
+      "store": "Ajio",
+      "link": "https://ajiio.in/LzXmM2U",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2337,
+      "posted_at": "2026-11-24T13:47:14+05:30"
+    },
+    {
+      "title": "Don't miss this cozy sweatshirt deal!Trampoline Girlsb Graphic Sweatshirt Deal 🔥😍💥 Now only",
+      "price": 333,
+      "mrp": 1449,
+      "discount_pct": 77.0,
+      "saving": 1116,
+      "store": "Ajio",
+      "link": "https://ajiio.in/lun36rM",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2335,
+      "posted_at": "2026-11-24T13:47:08+05:30"
+    },
     {
       "title": "Amazon Brand - Solimo Modular Plastic Storage Containers with Lid (3 L each) | Stackable | BPA-Free | Multipurpose Use for Snacks, Spices, & more (Set of 2) (Light Red)",
       "price": 315,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2278,
       "posted_at": "2026-11-23T19:43:25+05:30"
-    },
-    {
-      "title": "LOOT DEAL — price error, grab it before it's fixed! ⚡",
-      "price": 191,
-      "mrp": 599,
-      "discount_pct": 68.0,
-      "saving": 408,
-      "store": "Shopsy",
-      "link": "https://bitli.in/aHEW3wN",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2277,
-      "posted_at": "2026-11-23T19:42:37+05:30"
-    },
-    {
-      "title": "LOOT DEAL — price error, grab it before it's fixed! ⚡",
-      "price": 22,
-      "mrp": 199,
-      "discount_pct": 88.0,
-      "saving": 177,
-      "store": "Shopsy",
-      "link": "https://bitli.in/pPYKJbh",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2276,
-      "posted_at": "2026-11-23T19:41:47+05:30"
-    },
-    {
-      "title": "DressBerry Non-Marking Shoes · Myntra",
-      "price": 481,
-      "mrp": 3499,
-      "discount_pct": 86.0,
-      "saving": 3018,
-      "store": "Myntra",
-      "link": "https://myntr.it/xCBZyn6",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2275,
-      "posted_at": "2026-11-23T19:40:42+05:30"
     },
     {
       "kind": "coupon",
