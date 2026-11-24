@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T12:55:57+05:30",
+  "updated_at": "2026-11-24T13:09:18+05:30",
   "deals": [
+    {
+      "title": "boAt Bassheads 102 Wired Earphones with Mic",
+      "price": 299,
+      "mrp": 1290,
+      "discount_pct": 77.0,
+      "saving": 991,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07S8PSW59?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2331,
+      "posted_at": "2026-11-24T13:09:18+05:30"
+    },
     {
       "title": "Shri Vishnu Sahasranam Stotram | Hindi Anuvad Sahit | Vishnu Ji Ke 1000 Naam | Saral Hindi Arth Ke Saath | Gita Press Gorakhpur | Bhagwan Vishnu Bhakti Granth and Daily Path Book",
       "price": 45,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2274,
       "posted_at": "2026-11-23T19:25:59+05:30"
-    },
-    {
-      "title": "GharNest Microfiber Cleaning Cloth Roll 20Pcs",
-      "price": 199,
-      "mrp": 499,
-      "discount_pct": 60.0,
-      "saving": 300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HLLFXWSS?tag=lootkabhandar-21",
-      "image": "img/2273.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2273,
-      "posted_at": "2026-11-23T18:57:30+05:30"
     },
     {
       "kind": "coupon",
