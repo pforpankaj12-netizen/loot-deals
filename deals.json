@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T18:02:31+05:30",
+  "updated_at": "2026-11-24T18:32:47+05:30",
   "deals": [
+    {
+      "title": "BEST : TCL (32 inches) Smart QLED Google TV + With ICICI/SBI CC TCL (43 inches) 4K Ultra HD Smart QLED Google TV + / With ICICI/SBI CC",
+      "price": 15490,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DZHMX6D3?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Electronics",
+      "telegram_msg_id": 2363,
+      "posted_at": "2026-11-24T18:32:47+05:30"
+    },
     {
       "title": "Portronics Mport 51 5-in-1 Type C HUB/Docking Station with RJ 45 Ethernet Port, 5Gbps Data Transfer, HDMI Port, USB 3.0, PD Quick Charge, 4K Ultra HD Data Quality(Grey)",
       "price": 998,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2311,
       "posted_at": "2026-11-24T09:32:59+05:30"
-    },
-    {
-      "title": "Saffola Cold Pressed Coconut Oil, 1L",
-      "price": 347,
-      "mrp": 849,
-      "discount_pct": 59.0,
-      "saving": 502,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0G1SKX4CM?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2309,
-      "posted_at": "2026-11-24T08:56:12+05:30"
     },
     {
       "kind": "coupon",
