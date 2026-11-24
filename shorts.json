@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-23T21:35:49+05:30",
+ "updated_at": "2026-11-24T09:43:33+05:30",
  "shorts": [
   {
    "number": 170,
@@ -49,6 +49,16 @@
  ],
  "reels": [
   {
+   "product": "Three Shoe Products Under Rs. 168",
+   "price_text": "",
+   "youtube_id": "IPS29KmS2hc",
+   "youtube_url": "https://www.youtube.com/shorts/IPS29KmS2hc",
+   "instagram_url": "",
+   "facebook_url": "https://www.facebook.com/reel/1872192887537937/",
+   "shop_url": "https://www.meesho.com/s/p/8q5gtm",
+   "date": "2026-11-24"
+  },
+  {
    "product": "Aqua Partywear Dress",
    "price_text": "Rs. 358",
    "youtube_id": "6nPnFaYcBPc",
@@ -77,16 +87,6 @@
    "facebook_url": "",
    "shop_url": "https://www.meesho.com/af_invite/24203536:instagram_stories:15997355?p_id=434461092&ext_id=76o0bo&utm_source=instagram_stories",
    "date": "2026-11-23"
-  },
-  {
-   "product": "Floral Gown",
-   "price_text": "Rs. 352",
-   "youtube_id": "wsdQE3nFRz8",
-   "youtube_url": "https://www.youtube.com/shorts/wsdQE3nFRz8",
-   "instagram_url": "https://www.instagram.com/reel/DgC8BAjoThg/",
-   "facebook_url": "",
-   "shop_url": "https://www.meesho.com/af_invite/24203536:instagram_stories:15997476?p_id=544626195&ext_id=90989f&utm_source=instagram_stories",
-   "date": "2026-11-22"
   }
  ]
 }
