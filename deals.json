@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:05:50+05:30",
+  "updated_at": "2026-11-24T08:53:39+05:30",
   "deals": [
+    {
+      "title": "2TB Creator Phone SSD - Up to 1,000 MB/s - Compatible with MagSafe for Your USB-C Smartphone - Shoot in ProRes with iPhone 15 Pro/Pro Max and iPhone 16 Pro/Pro Max, 5 Y Warranty",
+      "price": 18499,
+      "mrp": 31000,
+      "discount_pct": 40.0,
+      "saving": 12501,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HC7N2H28?tag=lootkabhandar-21",
+      "image": "img/2308.jpg",
+      "category": "Smartphone & Mobile",
+      "telegram_msg_id": 2308,
+      "posted_at": "2026-11-24T08:53:39+05:30"
+    },
+    {
+      "title": "Dreamfarm Big Upcup, 5-in-1 Adjustable Measuring Cup",
+      "price": 3005,
+      "mrp": 9758,
+      "discount_pct": 69.0,
+      "saving": 6753,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09H6KLY55?tag=lootkabhandar-21",
+      "image": "img/2307.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2307,
+      "posted_at": "2026-11-24T08:53:27+05:30"
+    },
     {
       "title": "Lowest : 360° Baby Walker @99.https://www.amazon.in/dp/B0HGB2LWQY?tag=lootkabhandar-21",
       "price": 1199,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2257,
       "posted_at": "2026-11-23T15:37:38+05:30"
-    },
-    {
-      "title": "Cockatoo Hand Grip Strengthener at",
-      "price": 59,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C347Q7BX?tag=lootkabhandar-21",
-      "image": "img/2256.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2256,
-      "posted_at": "2026-11-23T15:24:20+05:30"
-    },
-    {
-      "title": "Zoyi Stainless Steel Chopping Board 31x21 cm",
-      "price": 227,
-      "mrp": 699,
-      "discount_pct": 68.0,
-      "saving": 472,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GFFKYNCY?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2255,
-      "posted_at": "2026-11-23T15:21:34+05:30"
     },
     {
       "kind": "coupon",
