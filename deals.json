@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T15:34:31+05:30",
+  "updated_at": "2026-11-24T15:58:08+05:30",
   "deals": [
+    {
+      "title": "Live to Drive Car Sticker, Waterproof Vinyl Decal, Motivational Driving Quote 5.5 Inch, UV Resistant, Pack of 1",
+      "price": 49,
+      "mrp": 399,
+      "discount_pct": 87.0,
+      "saving": 350,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GQV28BGX?tag=lootkabhandar-21",
+      "image": "img/2352.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2352,
+      "posted_at": "2026-11-24T15:58:08+05:30"
+    },
     {
       "title": "Dove Body Wash, 1L at .",
       "price": 379,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2292,
       "posted_at": "2026-11-23T20:52:28+05:30"
-    },
-    {
-      "title": "MAA SILVER Pure Silver 7 Inch Pooja Thali for Gifting, Religious & Pooja/Puja Use(97% Purity)(200 Grams)",
-      "price": 46689,
-      "mrp": 158999,
-      "discount_pct": 70.0,
-      "saving": 112310,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07HKR6JK9?tag=lootkabhandar-21",
-      "image": "img/2291.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2291,
-      "posted_at": "2026-11-23T20:52:16+05:30"
     },
     {
       "kind": "coupon",
