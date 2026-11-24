@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T17:41:06+05:30",
+  "updated_at": "2026-11-24T17:52:07+05:30",
   "deals": [
+    {
+      "title": "Parachute Advanced Coco Nourish Body Lotion 400ml",
+      "price": 132,
+      "mrp": 440,
+      "discount_pct": 70.0,
+      "saving": 308,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B00CBRJ34E?tag=lootkabhandar-21",
+      "image": "img/2361.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2361,
+      "posted_at": "2026-11-24T17:52:07+05:30"
+    },
     {
       "title": "Hot Wheels 1:64 Scale Die-Cast Toy Car",
       "price": 179,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2308,
       "posted_at": "2026-11-24T08:53:39+05:30"
-    },
-    {
-      "title": "Dreamfarm Big Upcup, 5-in-1 Adjustable Measuring Cup",
-      "price": 3005,
-      "mrp": 9758,
-      "discount_pct": 69.0,
-      "saving": 6753,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09H6KLY55?tag=lootkabhandar-21",
-      "image": "img/2307.jpg",
-      "category": "Jewellery",
-      "telegram_msg_id": 2307,
-      "posted_at": "2026-11-24T08:53:27+05:30"
     },
     {
       "kind": "coupon",
