@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T09:32:59+05:30",
+  "updated_at": "2026-11-24T10:10:55+05:30",
   "deals": [
+    {
+      "title": "Safewash Matic Liquid Detergent 1.8L Refill Pouch",
+      "price": 199,
+      "mrp": 490,
+      "discount_pct": 59.0,
+      "saving": 291,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07VS1YTY2?tag=lootkabhandar-21",
+      "image": "img/2314.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2314,
+      "posted_at": "2026-11-24T10:10:55+05:30"
+    },
     {
       "title": "RARE RABBIT Gallardo Backpack 2 20L Water Rep",
       "price": 5499,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2261,
       "posted_at": "2026-11-23T16:31:23+05:30"
-    },
-    {
-      "title": "Surya Peanut Chikki 900g (Pack of 10)",
-      "price": 38,
-      "mrp": 500,
-      "discount_pct": 92.0,
-      "saving": 462,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09X73SDNP?tag=lootkabhandar-21",
-      "image": "img/2259.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2259,
-      "posted_at": "2026-11-23T15:48:23+05:30"
     },
     {
       "kind": "coupon",
