@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T14:20:44+05:30",
+  "updated_at": "2026-11-24T14:35:33+05:30",
   "deals": [
+    {
+      "title": "Limited time offer on this powerhouse!HP 15 Backlit Laptop Deal 🔥😍💥 Now only",
+      "price": 61990,
+      "mrp": 108576,
+      "discount_pct": 43.0,
+      "saving": 46586,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GF8BZ3G2?tag=lootkabhandar-21",
+      "image": "img/2344.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2344,
+      "posted_at": "2026-11-24T14:35:33+05:30"
+    },
     {
       "title": "Joy Casserole 1700 ml (1.7 L) with Lid",
       "price": 476,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2282,
       "posted_at": "2026-11-23T19:47:58+05:30"
-    },
-    {
-      "title": "Don't miss this stylish catch!GUESS Men Water-Resistant Stainless Steel Strap Analogue Watch Deal 🔥😍💥 Now only",
-      "price": 8797,
-      "mrp": 15995,
-      "discount_pct": 45.0,
-      "saving": 7198,
-      "store": "Ajio",
-      "link": "https://ajiio.in/THnfXDN",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2281,
-      "posted_at": "2026-11-23T19:47:55+05:30"
     },
     {
       "kind": "coupon",
