@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T19:57:46+05:30",
+  "updated_at": "2026-11-24T20:18:58+05:30",
   "deals": [
+    {
+      "title": "Lenovo IdeaPad Slim 3 Ryzen 7 Laptop (16GB RAM/512GB SSD) at . with HDFC Credit Card",
+      "price": 64990,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H7HR27JX?tag=lootkabhandar-21",
+      "image": "img/2375.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2375,
+      "posted_at": "2026-11-24T20:18:58+05:30"
+    },
     {
       "title": "Del Monte Foodcraft Penne Pasta 400g",
       "price": 59,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2329,
       "posted_at": "2026-11-24T12:55:44+05:30"
-    },
-    {
-      "title": "Dell Pro 24 PC Monitor - P2426H, Full HD (1920x1080), 120Hz, IPS, 5ms",
-      "price": 15499,
-      "mrp": 23359,
-      "discount_pct": 33.0,
-      "saving": 7860,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GVRCKV8J?tag=lootkabhandar-21",
-      "image": "img/2328.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2328,
-      "posted_at": "2026-11-24T12:55:32+05:30"
     },
     {
       "kind": "coupon",
