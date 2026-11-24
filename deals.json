@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T20:59:40+05:30",
+  "updated_at": "2026-11-24T21:09:55+05:30",
   "deals": [
+    {
+      "title": "Design03 Refrigerator Top Cover",
+      "price": 94,
+      "mrp": 499,
+      "discount_pct": 81.0,
+      "saving": 405,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0CYY715QR?lv=shuf&btn_type=ss&btn_ref=srctok-2e6a88fca71c52c4&channelId=704&ascsubtag=20261124clrrxr98mk1z&tag=lootkabhandar-21",
+      "image": "img/2383.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2383,
+      "posted_at": "2026-11-24T21:09:55+05:30"
+    },
     {
       "title": "Razer Huntsman V3 HE Magnetic Mini 65% 8KHz Wired Gaming Keyboard",
       "price": 11499,
@@ -508,19 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2339,
       "posted_at": "2026-11-24T13:56:12+05:30"
-    },
-    {
-      "title": "This deal is a total steal!Roadster Men's Lightweight Fisherman Sandals Deal 🔥😍💥 Now only",
-      "price": 605,
-      "mrp": 4995,
-      "discount_pct": 88.0,
-      "saving": 4390,
-      "store": "Myntra",
-      "link": "https://myntr.it/e5Slxlo",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2338,
-      "posted_at": "2026-11-24T13:47:17+05:30"
     },
     {
       "kind": "coupon",
