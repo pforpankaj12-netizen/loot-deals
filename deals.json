@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T15:58:08+05:30",
+  "updated_at": "2026-11-24T16:08:49+05:30",
   "deals": [
+    {
+      "title": "Don't miss out on this incredible speaker!Sony SRS-XB100 Portable Bluetooth Speaker Deal 🔥😍💥 Now only",
+      "price": 2294,
+      "mrp": 5990,
+      "discount_pct": 62.0,
+      "saving": 3696,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C29CL98P?tag=lootkabhandar-21",
+      "image": "img/2353.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2353,
+      "posted_at": "2026-11-24T16:08:49+05:30"
+    },
     {
       "title": "Live to Drive Car Sticker, Waterproof Vinyl Decal, Motivational Driving Quote 5.5 Inch, UV Resistant, Pack of 1",
       "price": 49,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2293,
       "posted_at": "2026-11-23T22:01:37+05:30"
-    },
-    {
-      "title": "ANNI Designer Women's Viscose Straight Printed Kurta with Pant | Ethnic Indian Kurta Set | Round Neck Keyhole Design | Elbow Sleeve Traditional Dress | Office Occasion Outfit",
-      "price": 299,
-      "mrp": 2599,
-      "discount_pct": 88.0,
-      "saving": 2300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GNN57W4H?tag=lootkabhandar-21",
-      "image": "img/2292.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2292,
-      "posted_at": "2026-11-23T20:52:28+05:30"
     },
     {
       "kind": "coupon",
