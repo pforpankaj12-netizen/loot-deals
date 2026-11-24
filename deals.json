@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T17:09:21+05:30",
+  "updated_at": "2026-11-24T17:41:06+05:30",
   "deals": [
+    {
+      "title": "Hot Wheels 1:64 Scale Die-Cast Toy Car",
+      "price": 179,
+      "mrp": 499,
+      "discount_pct": 64.0,
+      "saving": 320,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HJD59MHG?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2360,
+      "posted_at": "2026-11-24T17:41:06+05:30"
+    },
     {
       "title": "Whisper Super Absorbent Period Panty, 6 M-L Pants",
       "price": 151,
@@ -508,19 +521,6 @@
       "category": "Jewellery",
       "telegram_msg_id": 2307,
       "posted_at": "2026-11-24T08:53:27+05:30"
-    },
-    {
-      "title": "Lowest : 360° Baby Walker @99.https://www.amazon.in/dp/B0HGB2LWQY?tag=lootkabhandar-21",
-      "price": 1199,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HGB2LWQY?tag=lootkabhandar-21",
-      "image": "img/2305.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2305,
-      "posted_at": "2026-11-24T08:05:50+05:30"
     },
     {
       "kind": "coupon",
