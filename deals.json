@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T20:18:58+05:30",
+  "updated_at": "2026-11-24T20:49:04+05:30",
   "deals": [
+    {
+      "title": "French Connection Soleil Rose Gold Round Dial Watch",
+      "price": 1329,
+      "mrp": 6350,
+      "discount_pct": 79.0,
+      "saving": 5021,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D78PCJFL?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2377,
+      "posted_at": "2026-11-24T20:49:04+05:30"
+    },
     {
       "title": "Lenovo IdeaPad Slim 3 Ryzen 7 Laptop (16GB RAM/512GB SSD) at . with HDFC Credit Card",
       "price": 64990,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2330,
       "posted_at": "2026-11-24T12:55:57+05:30"
-    },
-    {
-      "title": "Chalk My Theme Marvelous Water Fall Good Luck Wall Art Home Decor, Living Room, Bedroom, Cafe, Room Painting For Wall Decoration -9 x 12 Inches | 6mm Thick Pinewood",
-      "price": 299,
-      "mrp": 1499,
-      "discount_pct": 80.0,
-      "saving": 1200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D6KP2BFV?tag=lootkabhandar-21",
-      "image": "img/2329.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2329,
-      "posted_at": "2026-11-24T12:55:44+05:30"
     },
     {
       "kind": "coupon",
