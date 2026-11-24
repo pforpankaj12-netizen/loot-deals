@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T21:09:55+05:30",
+  "updated_at": "2026-11-24T22:02:43+05:30",
   "deals": [
+    {
+      "title": "Striped Crew-Neck T-shirt by Jack & Jones💰 ₹172 ₹1,149 · 85% offStriped Slim Fit Crew-Neck T-shirt by Jack & Jones💰 ₹195 ₹1,299 · 85% off🛒 AJIO🔗",
+      "price": 172,
+      "mrp": 1149,
+      "discount_pct": 85.0,
+      "saving": 977,
+      "store": "Ajio",
+      "link": "https://ajiio.in/dtJ7qP8",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2385,
+      "posted_at": "2026-11-24T22:02:43+05:30"
+    },
     {
       "title": "Design03 Refrigerator Top Cover",
       "price": 94,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2340,
       "posted_at": "2026-11-24T14:08:26+05:30"
-    },
-    {
-      "title": "RR Signature BrightAir 1200mm BLDC Ceiling Fan",
-      "price": 2399,
-      "mrp": 5790,
-      "discount_pct": 59.0,
-      "saving": 3391,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DSW7W946?tag=lootkabhandar-21",
-      "image": "img/2339.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2339,
-      "posted_at": "2026-11-24T13:56:12+05:30"
     },
     {
       "kind": "coupon",
