@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T14:57:24+05:30",
+  "updated_at": "2026-11-24T15:07:49+05:30",
   "deals": [
+    {
+      "title": "SleepZ by Raymond Men Comfort Fit Kurta Set",
+      "price": 449,
+      "mrp": 899,
+      "discount_pct": 50.0,
+      "saving": 450,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DXBVYBFV?tag=lootkabhandar-21",
+      "image": "img/2349.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2349,
+      "posted_at": "2026-11-24T15:07:49+05:30"
+    },
     {
       "title": "Promotion Pack for ChessUp 2 Electronic Smart Chess Board by Bryght Labs",
       "price": 9999,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2289,
       "posted_at": "2026-11-23T20:42:15+05:30"
-    },
-    {
-      "title": "Grab this deal before it's gone!PUMA Running Shoes Deal 🔥😍💥 Now only",
-      "price": 2199,
-      "mrp": 5499,
-      "discount_pct": 60.0,
-      "saving": 3300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BN6J8BP4?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2288,
-      "posted_at": "2026-11-23T20:26:49+05:30"
     },
     {
       "kind": "coupon",
