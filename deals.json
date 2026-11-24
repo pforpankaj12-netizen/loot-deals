@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:56:12+05:30",
+  "updated_at": "2026-11-24T09:32:59+05:30",
   "deals": [
+    {
+      "title": "RARE RABBIT Gallardo Backpack 2 20L Water Rep",
+      "price": 5499,
+      "mrp": 9999,
+      "discount_pct": 45.0,
+      "saving": 4500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=rare+rabbit&rh=p_123%3A1095176&ascsubtag=20261124cl4hb3gjvdja&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2311,
+      "posted_at": "2026-11-24T09:32:59+05:30"
+    },
     {
       "title": "Saffola Cold Pressed Coconut Oil, 1L",
       "price": 347,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2259,
       "posted_at": "2026-11-23T15:48:23+05:30"
-    },
-    {
-      "title": "Say goodbye to stubborn wrinkles!Crompton Fabriautotech Steam Iron Deal 🔥😍💥 Now only",
-      "price": 3808,
-      "mrp": 8200,
-      "discount_pct": 54.0,
-      "saving": 4392,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BNKSZFSL?tag=lootkabhandar-21",
-      "image": "img/2258.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2258,
-      "posted_at": "2026-11-23T15:38:17+05:30"
     },
     {
       "kind": "coupon",
