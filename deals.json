@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T13:47:17+05:30",
+  "updated_at": "2026-11-24T13:56:12+05:30",
   "deals": [
+    {
+      "title": "RR Signature BrightAir 1200mm BLDC Ceiling Fan",
+      "price": 2399,
+      "mrp": 5790,
+      "discount_pct": 59.0,
+      "saving": 3391,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DSW7W946?tag=lootkabhandar-21",
+      "image": "img/2339.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2339,
+      "posted_at": "2026-11-24T13:56:12+05:30"
+    },
     {
       "title": "This deal is a total steal!Roadster Men's Lightweight Fisherman Sandals Deal 🔥😍💥 Now only",
       "price": 605,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2279,
       "posted_at": "2026-11-23T19:46:25+05:30"
-    },
-    {
-      "title": "Bpride Men's Multicolor Texas Leatherite Belt · Shopsy",
-      "price": 70,
-      "mrp": 699,
-      "discount_pct": 90.0,
-      "saving": 629,
-      "store": "Shopsy",
-      "link": "https://bitli.in/Mih0P0D",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2278,
-      "posted_at": "2026-11-23T19:43:25+05:30"
     },
     {
       "kind": "coupon",
