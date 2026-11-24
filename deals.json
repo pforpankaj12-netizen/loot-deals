@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T10:37:53+05:30",
+  "updated_at": "2026-11-24T10:54:36+05:30",
   "deals": [
+    {
+      "title": "2025 k8 3D 4K HDMI Video Games for Kids 5 to 21 Years 64G for Kids 4k HD Classic Games Console Built-in 40,000 Game, 18 Emulators, HDMI Output TV Video Game Console for Kids, (Kids Edition)",
+      "price": 1999,
+      "mrp": 8999,
+      "discount_pct": 77.0,
+      "saving": 7000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DTRJR6WP?tag=lootkabhandar-21",
+      "image": "img/2316.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2316,
+      "posted_at": "2026-11-24T10:54:36+05:30"
+    },
     {
       "title": "Don't miss out on this powerhouse!Lenovo Smartchoice ThinkPad E14 Deal 🔥😍💥 Now only",
       "price": 95990,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2263,
       "posted_at": "2026-11-23T16:50:12+05:30"
-    },
-    {
-      "title": "Grab this deal before it's gone!PUMA Shoes Deal 🔥😍💥 Now only",
-      "price": 2249,
-      "mrp": 7499,
-      "discount_pct": 70.0,
-      "saving": 5250,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GSG5YXF8?tag=lootkabhandar-21",
-      "image": "img/2262.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2262,
-      "posted_at": "2026-11-23T16:34:33+05:30"
     },
     {
       "kind": "coupon",
