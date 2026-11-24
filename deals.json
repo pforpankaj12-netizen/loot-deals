@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T23:53:52+05:30",
+  "updated_at": "2026-11-24T08:05:50+05:30",
   "deals": [
+    {
+      "title": "Lowest : 360° Baby Walker @99.https://www.amazon.in/dp/B0HGB2LWQY?tag=lootkabhandar-21",
+      "price": 1199,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HGB2LWQY?tag=lootkabhandar-21",
+      "image": "img/2305.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2305,
+      "posted_at": "2026-11-24T08:05:50+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 69,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2255,
       "posted_at": "2026-11-23T15:21:34+05:30"
-    },
-    {
-      "title": "Shield Heavy Duty Bike & Scooty Cover Tvs Jupiter 125",
-      "price": 179,
-      "mrp": 999,
-      "discount_pct": 82.0,
-      "saving": 820,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HFSTTPWL?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2254,
-      "posted_at": "2026-11-23T15:08:27+05:30"
     },
     {
       "kind": "coupon",
