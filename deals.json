@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T08:53:39+05:30",
+  "updated_at": "2026-11-24T08:56:12+05:30",
   "deals": [
+    {
+      "title": "Saffola Cold Pressed Coconut Oil, 1L",
+      "price": 347,
+      "mrp": 849,
+      "discount_pct": 59.0,
+      "saving": 502,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G1SKX4CM?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2309,
+      "posted_at": "2026-11-24T08:56:12+05:30"
+    },
     {
       "title": "2TB Creator Phone SSD - Up to 1,000 MB/s - Compatible with MagSafe for Your USB-C Smartphone - Shoot in ProRes with iPhone 15 Pro/Pro Max and iPhone 16 Pro/Pro Max, 5 Y Warranty",
       "price": 18499,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2258,
       "posted_at": "2026-11-23T15:38:17+05:30"
-    },
-    {
-      "title": "Khetika Dates Powder 200g at",
-      "price": 99,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H5CL9MFQ?tag=lootkabhandar-21",
-      "image": "img/2257.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2257,
-      "posted_at": "2026-11-23T15:37:38+05:30"
     },
     {
       "kind": "coupon",
