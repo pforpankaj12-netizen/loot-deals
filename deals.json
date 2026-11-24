@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T15:07:49+05:30",
+  "updated_at": "2026-11-24T15:34:31+05:30",
   "deals": [
+    {
+      "title": "Dove Body Wash, 1L at .",
+      "price": 379,
+      "mrp": null,
+      "discount_pct": 60.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BHTQPTRK?tag=lootkabhandar-21",
+      "image": "img/2351.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2351,
+      "posted_at": "2026-11-24T15:34:31+05:30"
+    },
+    {
+      "title": "Gala Stainless Steel Scrubber - 1 Piece",
+      "price": 17,
+      "mrp": 40,
+      "discount_pct": 58.0,
+      "saving": 23,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B00M6P65ZQ?tag=lootkabhandar-21",
+      "image": "img/2350.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2350,
+      "posted_at": "2026-11-24T15:31:29+05:30"
+    },
     {
       "title": "SleepZ by Raymond Men Comfort Fit Kurta Set",
       "price": 449,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2291,
       "posted_at": "2026-11-23T20:52:16+05:30"
-    },
-    {
-      "title": "RIO Women Roll with Fortune Print Crew-Neck T-Shirt💰 ₹140 ₹399 · 65% offRIO Women Typographic Print Round-Neck Top💰 ₹104 ₹399 · 74% off🛒 AJIO🔗",
-      "price": 140,
-      "mrp": 399,
-      "discount_pct": 65.0,
-      "saving": 259,
-      "store": "Ajio",
-      "link": "https://ajiio.in/F7FTz62",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2290,
-      "posted_at": "2026-11-23T20:51:38+05:30"
-    },
-    {
-      "title": "New Launch : Sony CH730 Wireless Headphone @11,899 + Bank Offer.",
-      "price": 11899,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Flipkart",
-      "link": "https://fktr.in/jfs4H5t",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2289,
-      "posted_at": "2026-11-23T20:42:15+05:30"
     },
     {
       "kind": "coupon",
