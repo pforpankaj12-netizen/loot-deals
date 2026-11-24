@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T14:08:26+05:30",
+  "updated_at": "2026-11-24T14:20:44+05:30",
   "deals": [
+    {
+      "title": "Joy Casserole 1700 ml (1.7 L) with Lid",
+      "price": 476,
+      "mrp": 1299,
+      "discount_pct": 63.0,
+      "saving": 823,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GZXBHFB2?tag=lootkabhandar-21",
+      "image": "img/2343.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2343,
+      "posted_at": "2026-11-24T14:20:44+05:30"
+    },
     {
       "title": "Cello H2O Stainless Steel Water Bottle 1000ml",
       "price": 223,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2281,
       "posted_at": "2026-11-23T19:47:55+05:30"
-    },
-    {
-      "title": "Don't miss this stylish steal!Open Toe Wedge Heel Sandals Deal 🔥😍💥 Now only",
-      "price": 713,
-      "mrp": 5995,
-      "discount_pct": 88.0,
-      "saving": 5282,
-      "store": "Myntra",
-      "link": "https://myntr.it/8wa0U3s",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2280,
-      "posted_at": "2026-11-23T19:47:50+05:30"
     },
     {
       "kind": "coupon",
