@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T16:37:39+05:30",
+  "updated_at": "2026-11-24T17:09:21+05:30",
   "deals": [
+    {
+      "title": "Whisper Super Absorbent Period Panty, 6 M-L Pants",
+      "price": 151,
+      "mrp": 399,
+      "discount_pct": 62.0,
+      "saving": 248,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09NL6TTLM?tag=lootkabhandar-21",
+      "image": "img/2359.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2359,
+      "posted_at": "2026-11-24T17:09:21+05:30"
+    },
     {
       "title": "Grab this deal before it's gone!adidas Sneakers Deal 🔥😍💥 Now only",
       "price": 3000,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2305,
       "posted_at": "2026-11-24T08:05:50+05:30"
-    },
-    {
-      "title": "Deal of the day — price error, grab now! 😱",
-      "price": 69,
-      "mrp": 399,
-      "discount_pct": 83.0,
-      "saving": 330,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/b?node=1355016031&ascsubtag=20261123clart7w6koq2&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2298,
-      "posted_at": "2026-11-23T23:53:52+05:30"
     },
     {
       "kind": "coupon",
