@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T16:08:49+05:30",
+  "updated_at": "2026-11-24T16:17:52+05:30",
   "deals": [
+    {
+      "title": "Reebok Womens 100074382 Sneaker",
+      "price": 1150,
+      "mrp": 4599,
+      "discount_pct": 75.0,
+      "saving": 3449,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C77VZ743?tag=lootkabhandar-21",
+      "image": "img/2354.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2354,
+      "posted_at": "2026-11-24T16:17:52+05:30"
+    },
     {
       "title": "Don't miss out on this incredible speaker!Sony SRS-XB100 Portable Bluetooth Speaker Deal 🔥😍💥 Now only",
       "price": 2294,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2294,
       "posted_at": "2026-11-23T22:56:05+05:30"
-    },
-    {
-      "title": "Havells 1000W Dry Iron .Apply Coupon : 1250W Steam Iron .Apply Coupon :",
-      "price": 714,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07LDPLSZC?tag=lootkabhandar-21",
-      "image": "img/2293.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2293,
-      "posted_at": "2026-11-23T22:01:37+05:30"
     },
     {
       "kind": "coupon",
