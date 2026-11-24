@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T12:02:35+05:30",
+  "updated_at": "2026-11-24T12:46:58+05:30",
   "deals": [
+    {
+      "title": "Arrow Men's Beige Textured Notch Collar Blazer",
+      "price": 3600,
+      "mrp": 7999,
+      "discount_pct": 55.0,
+      "saving": 4399,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DNJFN3HM?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2326,
+      "posted_at": "2026-11-24T12:46:58+05:30"
+    },
     {
       "title": "Stainless Steel Triply Kadai 26 Cm with Lid",
       "price": 970,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2270,
       "posted_at": "2026-11-23T18:47:43+05:30"
-    },
-    {
-      "title": "Sausome Noodleverse Thai Chilli Kick, 370g, Pack of 2",
-      "price": 176,
-      "mrp": 790,
-      "discount_pct": 78.0,
-      "saving": 614,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FBW7D1BY?tag=lootkabhandar-21",
-      "image": "img/2269.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2269,
-      "posted_at": "2026-11-23T18:43:25+05:30"
     },
     {
       "kind": "coupon",
