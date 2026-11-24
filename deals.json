@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T19:43:59+05:30",
+  "updated_at": "2026-11-24T19:57:46+05:30",
   "deals": [
+    {
+      "title": "Del Monte Foodcraft Penne Pasta 400g",
+      "price": 59,
+      "mrp": 100,
+      "discount_pct": 41.0,
+      "saving": 41,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B079H96X4Y?tag=lootkabhandar-21",
+      "image": "img/2373.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2373,
+      "posted_at": "2026-11-24T19:57:46+05:30"
+    },
     {
       "title": "Don’t miss out on this amazing deal!Ifah Women Open Toe Flats with Buckles💥 Now only",
       "price": 447,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2328,
       "posted_at": "2026-11-24T12:55:32+05:30"
-    },
-    {
-      "title": "Arrow Men's Beige Textured Notch Collar Blazer",
-      "price": 3600,
-      "mrp": 7999,
-      "discount_pct": 55.0,
-      "saving": 4399,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DNJFN3HM?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2326,
-      "posted_at": "2026-11-24T12:46:58+05:30"
     },
     {
       "kind": "coupon",
