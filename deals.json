@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T11:53:14+05:30",
+  "updated_at": "2026-11-24T12:02:35+05:30",
   "deals": [
+    {
+      "title": "Stainless Steel Triply Kadai 26 Cm with Lid",
+      "price": 970,
+      "mrp": 4535,
+      "discount_pct": 79.0,
+      "saving": 3565,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H18D9LKW?tag=lootkabhandar-21",
+      "image": "img/2324.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2324,
+      "posted_at": "2026-11-24T12:02:35+05:30"
+    },
     {
       "title": "MSI Prestige 13 AI Evo, Intel 1st Gen. Core Ultra 5 125H, Built-in AI, 34CM 2.8k at k Using Card",
       "price": 97,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2269,
       "posted_at": "2026-11-23T18:43:25+05:30"
-    },
-    {
-      "title": "CELLO Aluminium Nonstick 12 Cavity Appam Patra Pan Maker with Steel Lid, Black | Single Bakelite Handle, Gas Stove Compatible Mini Die-Cast Uttappa Paniyarakkal Cup Cake Frying Pan Kadhai for Kitchen",
-      "price": 408,
-      "mrp": 1200,
-      "discount_pct": 66.0,
-      "saving": 792,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07PXH9VS2?tag=lootkabhandar-21",
-      "image": "img/2268.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 2268,
-      "posted_at": "2026-11-23T18:29:22+05:30"
     },
     {
       "kind": "coupon",
