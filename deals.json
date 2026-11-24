@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T11:30:23+05:30",
+  "updated_at": "2026-11-24T11:39:36+05:30",
   "deals": [
+    {
+      "title": "Himalaya Cocoa Butter Intensive Serum Body Lotion 400ml💰 ₹206 ~₹445~ · 54% offHimalaya Aloe & Cucumber Refreshing Serum Body Lotion 400ml💰 ₹370 ~₹499~ · 26% offHimalaya Ghee Kesar Moisturizing Body Lotion for Dry Skin 400ml💰 ₹203 ~₹339~ · 40% offHimalaya Ghee Kesar Moisturizing Body Lotion for Dry Skin 400ml💰 ₹359 ~₹599~ · 40% off🛒 Amazon🔗",
+      "price": 206,
+      "mrp": 445,
+      "discount_pct": 54.0,
+      "saving": 239,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=himalaya+body+lotion&rh=n%3A1355016031%2Cn%3A1374407031%2Cp_89%3AHimalaya%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_85%3A10440599031&i=beauty&ascsubtag=20261124clnkqg6ysqe2&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2321,
+      "posted_at": "2026-11-24T11:39:36+05:30"
+    },
     {
       "title": "Grab this smartwatch before it’s gone!boAt Ultima Ember 2 Smartwatch Deal 🔥😍💥 Now just",
       "price": 2099,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2267,
       "posted_at": "2026-11-23T18:29:11+05:30"
-    },
-    {
-      "title": "Philips 30W B22 LED Cool Day Light Bulb",
-      "price": 329,
-      "mrp": 633,
-      "discount_pct": 48.0,
-      "saving": 304,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07P2J21V5?tag=lootkabhandar-21",
-      "image": "img/2266.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2266,
-      "posted_at": "2026-11-23T18:15:28+05:30"
     },
     {
       "kind": "coupon",
