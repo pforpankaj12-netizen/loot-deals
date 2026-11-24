@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T22:34:32+05:30",
+  "updated_at": "2026-11-24T23:18:31+05:30",
   "deals": [
+    {
+      "title": "Samsung Galaxy Watch8 (40mm, Bluetooth, Graphite) with 3nm Processor | Dual GPS | Sapphire Glass & Armor Aluminum | 5ATM & IP68 | BP, ECG, IHRN & Vascular Load Monitoring | Anti-oxidant Index",
+      "price": 22999,
+      "mrp": 38999,
+      "discount_pct": 41.0,
+      "saving": 16000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FDQJSPJK?tag=lootkabhandar-21",
+      "image": "img/2387.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2387,
+      "posted_at": "2026-11-24T23:18:31+05:30"
+    },
     {
       "title": "RIO Graphic Print Crew-Neck Sweatshirt💰 ₹96 ₹299 · 68% offDNMX Typographic Print Relaxed Fit Sweatshirt💰 ₹125 ₹499 · 75% off🛒 AJIO🔗",
       "price": 96,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2344,
       "posted_at": "2026-11-24T14:35:33+05:30"
-    },
-    {
-      "title": "Joy Casserole 1700 ml (1.7 L) with Lid",
-      "price": 476,
-      "mrp": 1299,
-      "discount_pct": 63.0,
-      "saving": 823,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GZXBHFB2?tag=lootkabhandar-21",
-      "image": "img/2343.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2343,
-      "posted_at": "2026-11-24T14:20:44+05:30"
     },
     {
       "kind": "coupon",
