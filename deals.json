@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T11:05:47+05:30",
+  "updated_at": "2026-11-25T11:12:52+05:30",
   "deals": [
+    {
+      "title": "Deal of the day — price error, grab now! 😱",
+      "price": 39,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CMCW69WH?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2427,
+      "posted_at": "2026-11-25T11:12:52+05:30"
+    },
     {
       "title": "Upto On Cetaphil Beauty Products Starting @99.",
       "price": 99,
@@ -508,19 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2365,
       "posted_at": "2026-11-24T18:53:02+05:30"
-    },
-    {
-      "title": "Sounce Nitro Wired Gaming USB Mouse 800/1200/1600 DPI",
-      "price": 149,
-      "mrp": 399,
-      "discount_pct": 63.0,
-      "saving": 250,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0G1C2FR3Z?tag=lootkabhandar-21",
-      "image": "img/2364.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2364,
-      "posted_at": "2026-11-24T18:52:27+05:30"
     },
     {
       "kind": "coupon",
