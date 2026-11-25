@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T19:34:48+05:30",
+  "updated_at": "2026-11-25T19:47:42+05:30",
   "deals": [
+    {
+      "title": "Unmissable deal alert!DressBerry Women Analogue Leather Straps Watch 🔥😍💥 Now only",
+      "price": 742,
+      "mrp": 6990,
+      "discount_pct": 89.0,
+      "saving": 6248,
+      "store": "Myntra",
+      "link": "https://myntr.it/739gdca",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2484,
+      "posted_at": "2026-11-25T19:47:42+05:30"
+    },
+    {
+      "title": "Lately All In One Makeup Kit Eyeliner (Pack Of 11)💰 ₹198 ₹699 · 72% off🛒 Shopsy🔗",
+      "price": 198,
+      "mrp": null,
+      "discount_pct": 72.0,
+      "saving": null,
+      "store": "Shopsy",
+      "link": "https://bitli.in/SzW8oe0",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2481,
+      "posted_at": "2026-11-25T19:45:57+05:30"
+    },
+    {
+      "title": "LOOT DEAL — price error, grab it before it's fixed! ⚡",
+      "price": 78,
+      "mrp": 649,
+      "discount_pct": 88.0,
+      "saving": 571,
+      "store": "Shopsy",
+      "link": "https://bitli.in/wTc8jpN",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2480,
+      "posted_at": "2026-11-25T19:44:52+05:30"
+    },
     {
       "title": "Fybros Oval Ding Dong Doorbell",
       "price": 140,
@@ -482,45 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2430,
       "posted_at": "2026-11-25T11:33:57+05:30"
-    },
-    {
-      "title": "Baytora Multi-Purpose Reusable Wire Dishcloths 15 Pack",
-      "price": 199,
-      "mrp": 999,
-      "discount_pct": 80.0,
-      "saving": 800,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0HD2CQXMK?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_HWKTY1756FWEWQ2RAHTR&channelId=704&ascsubtag=20261125cldon7v7vbwn&tag=lootkabhandar-21",
-      "image": "img/2429.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2429,
-      "posted_at": "2026-11-25T11:33:47+05:30"
-    },
-    {
-      "title": "Cetaphil Gentle Skin Hydrating Face Wash 181ml",
-      "price": 99,
-      "mrp": 499,
-      "discount_pct": 80.0,
-      "saving": 400,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Cetaphil&rh=n%3A1355016031&ascsubtag=20261125clwtylrzmanf&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2428,
-      "posted_at": "2026-11-25T11:19:54+05:30"
-    },
-    {
-      "title": "Deal of the day — price error, grab now! 😱",
-      "price": 39,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CMCW69WH?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2427,
-      "posted_at": "2026-11-25T11:12:52+05:30"
     },
     {
       "kind": "coupon",
