@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T21:58:43+05:30",
+  "updated_at": "2026-11-25T22:05:50+05:30",
   "deals": [
+    {
+      "title": "Allen Cooper T-Shirt💰 ₹499 ₹1,000 · 50% offAllen Cooper Jeans💰 ₹799 ₹1,600 · 50% offAllen Cooper Shirts💰 ₹599 ₹1,200 · 50% offAllen Cooper Jacket💰 ₹1,199 ₹2,400 · 50% off🛒 AJIO🔗",
+      "price": 499,
+      "mrp": 1000,
+      "discount_pct": 50.0,
+      "saving": 501,
+      "store": "Ajio",
+      "link": "https://ajiio.in/9zfP0G8",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2497,
+      "posted_at": "2026-11-25T22:05:50+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 808,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2445,
       "posted_at": "2026-11-25T13:43:23+05:30"
-    },
-    {
-      "title": "Super comfy sandals at a steal!Ifah Women Comfort Sandals Deal 🔥😍💥 Now only",
-      "price": 483,
-      "mrp": 3999,
-      "discount_pct": 87.0,
-      "saving": 3516,
-      "store": "Myntra",
-      "link": "https://myntr.it/xQ8VB9M",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2444,
-      "posted_at": "2026-11-25T13:43:18+05:30"
     },
     {
       "kind": "coupon",
