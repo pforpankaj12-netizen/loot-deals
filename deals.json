@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T08:01:14+05:30",
+  "updated_at": "2026-11-25T08:04:56+05:30",
   "deals": [
+    {
+      "title": "Walltron Rain Shield; Elastomeric Exterior Wall Waterpr... ₹",
+      "price": 930,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FPXH8SW1?tag=lootkabhandar-21",
+      "image": "img/2406.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2406,
+      "posted_at": "2026-11-25T08:04:56+05:30"
+    },
+    {
+      "title": "REVLON Touch And Glow Moisturising Compact",
+      "price": 174,
+      "mrp": 622,
+      "discount_pct": 72.0,
+      "saving": 448,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=REVLON&i=beauty&rh=n%3A1355016031%2Cp_123%3A240439%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&ascsubtag=20261125clrgdu71zi6j&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2405,
+      "posted_at": "2026-11-25T08:02:53+05:30"
+    },
+    {
+      "title": "Havells Prolife Stellar Chef Air Fryer 5.5L, 1500W",
+      "price": 4462,
+      "mrp": 9999,
+      "discount_pct": 56.0,
+      "saving": 5537,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D7ZRLH5Z?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2403,
+      "posted_at": "2026-11-25T08:02:21+05:30"
+    },
     {
       "title": "MUNBYN IMC51 Bill Counter, 1100 Bills Per Minute Speed | UV/Magnetic/Infrared/Counterfeit Detector, Suitable for Counting Rupees, Cash Counting Machine with LCD Display, [Value Counting]",
       "price": 3999,
@@ -482,45 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2353,
       "posted_at": "2026-11-24T16:08:49+05:30"
-    },
-    {
-      "title": "Live to Drive Car Sticker, Waterproof Vinyl Decal, Motivational Driving Quote 5.5 Inch, UV Resistant, Pack of 1",
-      "price": 49,
-      "mrp": 399,
-      "discount_pct": 87.0,
-      "saving": 350,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GQV28BGX?tag=lootkabhandar-21",
-      "image": "img/2352.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2352,
-      "posted_at": "2026-11-24T15:58:08+05:30"
-    },
-    {
-      "title": "Dove Body Wash, 1L at .",
-      "price": 379,
-      "mrp": null,
-      "discount_pct": 60.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BHTQPTRK?tag=lootkabhandar-21",
-      "image": "img/2351.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2351,
-      "posted_at": "2026-11-24T15:34:31+05:30"
-    },
-    {
-      "title": "Gala Stainless Steel Scrubber - 1 Piece",
-      "price": 17,
-      "mrp": 40,
-      "discount_pct": 58.0,
-      "saving": 23,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B00M6P65ZQ?tag=lootkabhandar-21",
-      "image": "img/2350.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2350,
-      "posted_at": "2026-11-24T15:31:29+05:30"
     },
     {
       "kind": "coupon",
