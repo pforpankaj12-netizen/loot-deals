@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T14:22:06+05:30",
+  "updated_at": "2026-11-25T14:35:31+05:30",
   "deals": [
+    {
+      "title": "Dabur Khajurprash - 900g | 3X Immunity Action | Supports Healthy Haemoglobin Levels | Helps Fight Iron Deficiency | 40+ Chyawanprash Herbs | Natural Source of Iron | Goodness of Khajur & Giloy",
+      "price": 270,
+      "mrp": 525,
+      "discount_pct": 49.0,
+      "saving": 255,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D4LVR38X?tag=lootkabhandar-21",
+      "image": "img/2458.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2458,
+      "posted_at": "2026-11-25T14:35:31+05:30"
+    },
     {
       "title": "RTS USB C to Micro-B Cable 3.0",
       "price": 249,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2392,
       "posted_at": "2026-11-25T08:00:45+05:30"
-    },
-    {
-      "title": "Chelsy Charcoal Nose Strips 10 Strips · Chelsy Tea Tree Nose Strips 10 Strips",
-      "price": 1,
-      "mrp": 199,
-      "discount_pct": 99.0,
-      "saving": 198,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HS86N3CP?tag=lootkabhandar-21",
-      "image": "img/2390.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2390,
-      "posted_at": "2026-11-24T23:50:23+05:30"
     },
     {
       "kind": "coupon",
