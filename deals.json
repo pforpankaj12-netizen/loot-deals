@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T17:36:33+05:30",
+  "updated_at": "2026-11-25T17:48:29+05:30",
   "deals": [
+    {
+      "title": "Ant Esports MK1001 V2 One Hand Wired Gaming Keyboard",
+      "price": 449,
+      "mrp": 1199,
+      "discount_pct": 63.0,
+      "saving": 750,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CBVDM4D7?tag=lootkabhandar-21",
+      "image": "img/2472.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2472,
+      "posted_at": "2026-11-25T17:48:29+05:30"
+    },
     {
       "title": "Steel Wire Rope 10M with Hooks",
       "price": 149,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2424,
       "posted_at": "2026-11-25T11:03:54+05:30"
-    },
-    {
-      "title": "POPIO Military-Grade Privacy Screen Protector for iPhone 13/13 Pro / 14 / 16E / 17E – 9H Tempered Glass, Anti-Spy Protection, Scratch-Resistant, HD Clarity (1 Pack)",
-      "price": 199,
-      "mrp": 599,
-      "discount_pct": 66.0,
-      "saving": 400,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DSZJBQ9L?tag=lootkabhandar-21",
-      "image": "img/2423.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2423,
-      "posted_at": "2026-11-25T11:03:43+05:30"
     },
     {
       "kind": "coupon",
