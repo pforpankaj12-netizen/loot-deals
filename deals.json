@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T13:43:31+05:30",
+  "updated_at": "2026-11-25T13:50:32+05:30",
   "deals": [
+    {
+      "title": "Lowest : Ishin Pratidin Solid Trouser .https://www.amazon.in/dp/B0GLPRQF71?tag=lootkabhandar-21",
+      "price": 645,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GLPRQF71?tag=lootkabhandar-21",
+      "image": "img/2452.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2452,
+      "posted_at": "2026-11-25T13:50:32+05:30"
+    },
+    {
+      "title": "Axe Intense Long Lasting Deodorant 215ml",
+      "price": 90,
+      "mrp": 385,
+      "discount_pct": 77.0,
+      "saving": 295,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09JG4GHS3?tag=lootkabhandar-21",
+      "image": "img/2449.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2449,
+      "posted_at": "2026-11-25T13:49:17+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 997,
@@ -495,32 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2386,
       "posted_at": "2026-11-24T22:34:32+05:30"
-    },
-    {
-      "title": "Striped Crew-Neck T-shirt by Jack & Jones💰 ₹172 ₹1,149 · 85% offStriped Slim Fit Crew-Neck T-shirt by Jack & Jones💰 ₹195 ₹1,299 · 85% off🛒 AJIO🔗",
-      "price": 172,
-      "mrp": 1149,
-      "discount_pct": 85.0,
-      "saving": 977,
-      "store": "Ajio",
-      "link": "https://ajiio.in/dtJ7qP8",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2385,
-      "posted_at": "2026-11-24T22:02:43+05:30"
-    },
-    {
-      "title": "Design03 Refrigerator Top Cover",
-      "price": 94,
-      "mrp": 499,
-      "discount_pct": 81.0,
-      "saving": 405,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0CYY715QR?lv=shuf&btn_type=ss&btn_ref=srctok-2e6a88fca71c52c4&channelId=704&ascsubtag=20261124clrrxr98mk1z&tag=lootkabhandar-21",
-      "image": "img/2383.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2383,
-      "posted_at": "2026-11-24T21:09:55+05:30"
     },
     {
       "kind": "coupon",
