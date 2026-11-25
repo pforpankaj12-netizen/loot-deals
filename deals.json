@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T12:36:26+05:30",
+  "updated_at": "2026-11-25T13:05:10+05:30",
   "deals": [
+    {
+      "title": "TECHNOVIEW Smart LED Projector | Android, 1080P Support | OTT Apps Support | Auto Keystone, WiFi/BT, HDMI, Cast, Native 720p HD(Silver)",
+      "price": 3999,
+      "mrp": 8999,
+      "discount_pct": 55.0,
+      "saving": 5000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HG2TG25G?tag=lootkabhandar-21",
+      "image": "img/2436.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2436,
+      "posted_at": "2026-11-25T13:05:10+05:30"
+    },
+    {
+      "title": "TEX-RO Spin Mop for Home Cleaning Floor with Bucket Set | 360° Magic Mop with Easy Wheels, Drain Outlet & Microfiber Head | Floor Mop for Home, Pocha Machine for Floor Cleaning - Blue",
+      "price": 529,
+      "mrp": 52900,
+      "discount_pct": 99.0,
+      "saving": 52371,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GFWDZKF8?tag=lootkabhandar-21",
+      "image": "img/2435.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2435,
+      "posted_at": "2026-11-25T13:05:05+05:30"
+    },
+    {
+      "title": "Boldfit Gym Gloves for Men Workout Unisex Hand Gloves for Gym for Men & Women with Wrist Support for Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handgloves - Irongrip Black Blue XL",
+      "price": 349,
+      "mrp": 699,
+      "discount_pct": 50.0,
+      "saving": 350,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FSF19SXB?tag=lootkabhandar-21",
+      "image": "img/2434.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2434,
+      "posted_at": "2026-11-25T13:04:55+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 299,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2373,
       "posted_at": "2026-11-24T19:57:46+05:30"
-    },
-    {
-      "title": "Don’t miss out on this amazing deal!Ifah Women Open Toe Flats with Buckles💥 Now only",
-      "price": 447,
-      "mrp": 4499,
-      "discount_pct": 90.0,
-      "saving": 4052,
-      "store": "Myntra",
-      "link": "https://myntr.it/K6v0z2U",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2372,
-      "posted_at": "2026-11-24T19:43:59+05:30"
-    },
-    {
-      "title": "Limited time offer you can't miss!HRX by Hrithik Roshan Women Lace-Ups Mesh Running Shoes Deal 🔥😍💥 Now just",
-      "price": 789,
-      "mrp": 5699,
-      "discount_pct": 86.0,
-      "saving": 4910,
-      "store": "Myntra",
-      "link": "https://myntr.it/OhSVerm",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2371,
-      "posted_at": "2026-11-24T19:43:56+05:30"
-    },
-    {
-      "title": "Don't miss out on this awesome travel deal!ARISTOCRAT Unisex Atlas Trolley Bag Deal 🔥😍💥 Now just",
-      "price": 2614,
-      "mrp": 10600,
-      "discount_pct": 75.0,
-      "saving": 7986,
-      "store": "Ajio",
-      "link": "https://ajiio.in/4xKj9YS",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2370,
-      "posted_at": "2026-11-24T19:43:52+05:30"
     },
     {
       "kind": "coupon",
