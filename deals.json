@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T16:02:31+05:30",
+  "updated_at": "2026-11-25T16:29:45+05:30",
   "deals": [
+    {
+      "title": "Bosch 302L, 3 Star, MaxFlex Convert Frost Free Triple D... ₹",
+      "price": 34490,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H9FFQ1ZC?tag=lootkabhandar-21",
+      "image": "img/2466.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2466,
+      "posted_at": "2026-11-25T16:29:45+05:30"
+    },
     {
       "title": "Max Women Cotton Blend Solid Regular Fit T-Shirt",
       "price": 228,
@@ -508,19 +521,6 @@
       "category": "Jewellery",
       "telegram_msg_id": 2415,
       "posted_at": "2026-11-25T09:02:25+05:30"
-    },
-    {
-      "title": "Portable Mini Air Conditioner Desktop Fan Cooler Humidifier Purifier White",
-      "price": 1917,
-      "mrp": 6099,
-      "discount_pct": 68.0,
-      "saving": 4182,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HQC44N97?tag=lootkabhandar-21",
-      "image": "img/2414.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2414,
-      "posted_at": "2026-11-25T09:02:13+05:30"
     },
     {
       "kind": "coupon",
