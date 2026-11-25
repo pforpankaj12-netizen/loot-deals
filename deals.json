@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T15:06:45+05:30",
+  "updated_at": "2026-11-25T15:43:36+05:30",
   "deals": [
+    {
+      "title": "Amazon Brand - Solimo Eva 2 Door Shoe Cabinet | Engineered Wood | Footwear Organizer with 1 Drawer and 4 Shelves | Wooden Shoe Rack for Home & Office | 12 Months Warranty | White",
+      "price": 4999,
+      "mrp": null,
+      "discount_pct": 60.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FHKQL9L1?tag=lootkabhandar-21",
+      "image": "img/2464.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2464,
+      "posted_at": "2026-11-25T15:43:36+05:30"
+    },
     {
       "title": "A TATA Product - Organic India Tulsi Mulethi, 25 Infusion Bags",
       "price": 108,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2406,
       "posted_at": "2026-11-25T08:04:56+05:30"
-    },
-    {
-      "title": "REVLON Touch And Glow Moisturising Compact",
-      "price": 174,
-      "mrp": 622,
-      "discount_pct": 72.0,
-      "saving": 448,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=REVLON&i=beauty&rh=n%3A1355016031%2Cp_123%3A240439%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&ascsubtag=20261125clrgdu71zi6j&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2405,
-      "posted_at": "2026-11-25T08:02:53+05:30"
     },
     {
       "kind": "coupon",
