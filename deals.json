@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T17:07:49+05:30",
+  "updated_at": "2026-11-25T17:16:55+05:30",
   "deals": [
+    {
+      "title": "Lakme Powerplay Priming Matte Lipstick",
+      "price": 260,
+      "mrp": 650,
+      "discount_pct": 60.0,
+      "saving": 390,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Lakme&i=beauty&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A59-&ds=v1%3AGhZy3ruyPvRUs83Tcj3uRwJrvLT3UB9L6iZDe8wMFR0&rnid=2665398031&ascsubtag=20261125clydetokx83g&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2470,
+      "posted_at": "2026-11-25T17:16:55+05:30"
+    },
     {
       "title": "BabyGo Baby Head Safety Helmet for Infants & Toddlers, Soft Adjustable Baby Head Protector for Crawling & Walking, Lightweight Breathable Safety Guard (6–36 Months)",
       "price": 111,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2422,
       "posted_at": "2026-11-25T11:03:30+05:30"
-    },
-    {
-      "title": "Winston Airizona High-Speed Ionic Hair Dryer with Plasma Technology, 110,000 RPM BLDC Motor, LCD Display, 6 Modes, 3 Attachments – Air Concentrator, Diffuser & Flyaway Tamer, Magnetic Nozzle, Thermo-Control for All Hair Types",
-      "price": 7799,
-      "mrp": 19999,
-      "discount_pct": 61.0,
-      "saving": 12200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DZTRLFBY?tag=lootkabhandar-21",
-      "image": "img/2421.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2421,
-      "posted_at": "2026-11-25T11:03:19+05:30"
     },
     {
       "kind": "coupon",
