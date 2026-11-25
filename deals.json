@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T20:17:36+05:30",
+  "updated_at": "2026-11-25T20:33:14+05:30",
   "deals": [
+    {
+      "title": "EITHEO Rope Knot Untying Challenge Puzzle",
+      "price": 272,
+      "mrp": 899,
+      "discount_pct": 70.0,
+      "saving": 627,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HK4B36R9?tag=lootkabhandar-21",
+      "image": "img/2487.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2487,
+      "posted_at": "2026-11-25T20:33:14+05:30"
+    },
     {
       "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil💰 ₹248 ~₹540~ · 54% offParachute Advansed Jasmine Gold Non-Sticky Coconut Hair Oil💰 ₹230 ~₹490~ · 53% offParachute Advansed Protein Shampoo with Coconut Milk & Rosemary💰 ₹499 ~₹1,299~ · 62% offParachute Advansed Coco Nourish Body Lotion with Pure Coconut Milk, 400ml💰 ₹132 ~₹275~ · 52% off🛒 Amazon🔗 https://www.amazon.in/s?i=beauty&srs=1355016031&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3AParachute_Advansed%2Cp_n_pct-off-with-tax%3A2665401031&s=popularity-rank&btn_type=ss&btn_ref=srctok-4e4e394ca225297a%3Bend&ascsubtag=20261125clxq9xbtz2zt&tag=lootkabhandar-21",
       "price": 248,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2434,
       "posted_at": "2026-11-25T13:04:55+05:30"
-    },
-    {
-      "title": "Deal of the day — price error, grab now! 😱",
-      "price": 299,
-      "mrp": 899,
-      "discount_pct": 67.0,
-      "saving": 600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HLW78F89?tag=lootkabhandar-21",
-      "image": "img/2432.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2432,
-      "posted_at": "2026-11-25T12:36:26+05:30"
     },
     {
       "kind": "coupon",
