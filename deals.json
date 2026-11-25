@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T11:33:57+05:30",
+  "updated_at": "2026-11-25T12:21:38+05:30",
   "deals": [
+    {
+      "title": "U.S. POLO ASSN Mens Briefs Pack Of 3",
+      "price": 450,
+      "mrp": 900,
+      "discount_pct": 50.0,
+      "saving": 450,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DMW16QVD?tag=lootkabhandar-21",
+      "image": "img/2431.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2431,
+      "posted_at": "2026-11-25T12:21:38+05:30"
+    },
     {
       "title": "Lakme Blush & Glow Strawberry Freshness Gel Face Wash 150g",
       "price": 196,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2369,
       "posted_at": "2026-11-24T19:43:48+05:30"
-    },
-    {
-      "title": "iFFALCON (65 Inches) 4K UHD Smart LED Google TV + iFFALCON (40 inches) FHD Smart Google TV",
-      "price": 37249,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GYD83B13?tag=lootkabhandar-21",
-      "image": "img/2368.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2368,
-      "posted_at": "2026-11-24T19:43:02+05:30"
     },
     {
       "kind": "coupon",
