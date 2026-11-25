@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T21:38:51+05:30",
+  "updated_at": "2026-11-25T21:58:43+05:30",
   "deals": [
+    {
+      "title": "Deal of the day — price error, grab now! 😱",
+      "price": 808,
+      "mrp": 6495,
+      "discount_pct": 88.0,
+      "saving": 5687,
+      "store": "Myntra",
+      "link": "https://myntr.it/0M2Q7uE",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2496,
+      "posted_at": "2026-11-25T21:58:43+05:30"
+    },
     {
       "title": "Floral Print Top by Aakriti",
       "price": 111,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2444,
       "posted_at": "2026-11-25T13:43:18+05:30"
-    },
-    {
-      "title": "Deal of the day — price error, grab now! 😱",
-      "price": 392,
-      "mrp": 3999,
-      "discount_pct": 90.0,
-      "saving": 3607,
-      "store": "Myntra",
-      "link": "https://myntr.it/Y8aKxRn",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2442,
-      "posted_at": "2026-11-25T13:43:11+05:30"
     },
     {
       "kind": "coupon",
