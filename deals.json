@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T11:03:54+05:30",
+  "updated_at": "2026-11-25T11:05:47+05:30",
   "deals": [
+    {
+      "title": "Upto On Cetaphil Beauty Products Starting @99.",
+      "price": 99,
+      "mrp": null,
+      "discount_pct": 56.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Cetaphil&rh=n%3A1355016031%2Cp_123%3A236065%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665400031&i=beauty&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2426,
+      "posted_at": "2026-11-25T11:05:47+05:30"
+    },
+    {
+      "title": "Santoor Shower Gel, 500ml at .Buy Max Qty",
+      "price": 128,
+      "mrp": null,
+      "discount_pct": 63.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CQYG22TN?tag=lootkabhandar-21",
+      "image": "img/2425.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2425,
+      "posted_at": "2026-11-25T11:05:05+05:30"
+    },
     {
       "title": "POPIO Military-Grade Gorilla Tempered Glass For iPhone 13/13 Pro / 14 / 16e / 17e | 9H Hardness, Edge-to-Edge, Bubble-Free",
       "price": 199,
@@ -495,32 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2364,
       "posted_at": "2026-11-24T18:52:27+05:30"
-    },
-    {
-      "title": "BEST : TCL (32 inches) Smart QLED Google TV + With ICICI/SBI CC TCL (43 inches) 4K Ultra HD Smart QLED Google TV + / With ICICI/SBI CC",
-      "price": 15490,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DZHMX6D3?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Electronics",
-      "telegram_msg_id": 2363,
-      "posted_at": "2026-11-24T18:32:47+05:30"
-    },
-    {
-      "title": "Portronics Mport 51 5-in-1 Type C HUB/Docking Station with RJ 45 Ethernet Port, 5Gbps Data Transfer, HDMI Port, USB 3.0, PD Quick Charge, 4K Ultra HD Data Quality(Grey)",
-      "price": 998,
-      "mrp": 3999,
-      "discount_pct": 75.0,
-      "saving": 3001,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09VDRRXZ5?tag=lootkabhandar-21",
-      "image": "img/2362.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2362,
-      "posted_at": "2026-11-24T18:02:31+05:30"
     },
     {
       "kind": "coupon",
