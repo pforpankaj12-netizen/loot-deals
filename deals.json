@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T08:04:56+05:30",
+  "updated_at": "2026-11-25T09:02:25+05:30",
   "deals": [
+    {
+      "title": "Vileda Easy Wring and Clean Turbo Microfibre Mop and Bucket Set-Grey",
+      "price": 29536,
+      "mrp": 57915,
+      "discount_pct": 49.0,
+      "saving": 28379,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B01HTTQ6A2?tag=lootkabhandar-21",
+      "image": "img/2415.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2415,
+      "posted_at": "2026-11-25T09:02:25+05:30"
+    },
+    {
+      "title": "Portable Mini Air Conditioner Desktop Fan Cooler Humidifier Purifier White",
+      "price": 1917,
+      "mrp": 6099,
+      "discount_pct": 68.0,
+      "saving": 4182,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HQC44N97?tag=lootkabhandar-21",
+      "image": "img/2414.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2414,
+      "posted_at": "2026-11-25T09:02:13+05:30"
+    },
     {
       "title": "Walltron Rain Shield; Elastomeric Exterior Wall Waterpr... ₹",
       "price": 930,
@@ -495,32 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2355,
       "posted_at": "2026-11-24T16:34:40+05:30"
-    },
-    {
-      "title": "Reebok Womens 100074382 Sneaker",
-      "price": 1150,
-      "mrp": 4599,
-      "discount_pct": 75.0,
-      "saving": 3449,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C77VZ743?tag=lootkabhandar-21",
-      "image": "img/2354.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2354,
-      "posted_at": "2026-11-24T16:17:52+05:30"
-    },
-    {
-      "title": "Don't miss out on this incredible speaker!Sony SRS-XB100 Portable Bluetooth Speaker Deal 🔥😍💥 Now only",
-      "price": 2294,
-      "mrp": 5990,
-      "discount_pct": 62.0,
-      "saving": 3696,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C29CL98P?tag=lootkabhandar-21",
-      "image": "img/2353.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2353,
-      "posted_at": "2026-11-24T16:08:49+05:30"
     },
     {
       "kind": "coupon",
