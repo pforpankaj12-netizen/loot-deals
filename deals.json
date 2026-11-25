@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T18:50:07+05:30",
+  "updated_at": "2026-11-25T19:24:38+05:30",
   "deals": [
+    {
+      "title": "Salt. Oral Care Gulmarg Natural Mouth Spray",
+      "price": 449,
+      "mrp": 1350,
+      "discount_pct": 67.0,
+      "saving": 901,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DTPVQ2JR?tag=lootkabhandar-21",
+      "image": "img/2476.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2476,
+      "posted_at": "2026-11-25T19:24:38+05:30"
+    },
     {
       "title": "Krisons Razor-009 Smart Projector, 1080P & 4K Support",
       "price": 4483,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2426,
       "posted_at": "2026-11-25T11:05:47+05:30"
-    },
-    {
-      "title": "Santoor Shower Gel, 500ml at .Buy Max Qty",
-      "price": 128,
-      "mrp": null,
-      "discount_pct": 63.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CQYG22TN?tag=lootkabhandar-21",
-      "image": "img/2425.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2425,
-      "posted_at": "2026-11-25T11:05:05+05:30"
     },
     {
       "kind": "coupon",
