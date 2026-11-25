@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T19:47:42+05:30",
+  "updated_at": "2026-11-25T20:08:59+05:30",
   "deals": [
+    {
+      "title": "Blue Metallic Curly Spiral Candle with Holder, Pack of 6",
+      "price": 28,
+      "mrp": 260,
+      "discount_pct": 89.0,
+      "saving": 232,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HMWWH8YM?tag=lootkabhandar-21",
+      "image": "img/2485.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2485,
+      "posted_at": "2026-11-25T20:08:59+05:30"
+    },
     {
       "title": "Unmissable deal alert!DressBerry Women Analogue Leather Straps Watch 🔥😍💥 Now only",
       "price": 742,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2431,
       "posted_at": "2026-11-25T12:21:38+05:30"
-    },
-    {
-      "title": "Lakme Blush & Glow Strawberry Freshness Gel Face Wash 150g",
-      "price": 196,
-      "mrp": 515,
-      "discount_pct": 62.0,
-      "saving": 319,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C46JRX14?tag=lootkabhandar-21",
-      "image": "img/2430.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2430,
-      "posted_at": "2026-11-25T11:33:57+05:30"
     },
     {
       "kind": "coupon",
