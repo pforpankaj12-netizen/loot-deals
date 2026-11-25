@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T16:29:45+05:30",
+  "updated_at": "2026-11-25T17:07:49+05:30",
   "deals": [
+    {
+      "title": "BabyGo Baby Head Safety Helmet for Infants & Toddlers, Soft Adjustable Baby Head Protector for Crawling & Walking, Lightweight Breathable Safety Guard (6–36 Months)",
+      "price": 111,
+      "mrp": 599,
+      "discount_pct": 81.0,
+      "saving": 488,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G445B6J8?tag=lootkabhandar-21",
+      "image": "img/2469.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2469,
+      "posted_at": "2026-11-25T17:07:49+05:30"
+    },
+    {
+      "title": "MasterChow Rice Paper 100g | Gluten-Free Spring Roll Wrapper | Vegan, Preservative-Free | For Summer Rolls, Snacks & Asian Recipes",
+      "price": 89,
+      "mrp": 219,
+      "discount_pct": 59.0,
+      "saving": 130,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FGY7JSHV?tag=lootkabhandar-21",
+      "image": "img/2468.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2468,
+      "posted_at": "2026-11-25T17:07:44+05:30"
+    },
+    {
+      "title": "Conscious Chemist® Blackhead Melting Water | 130ml | Gentle Pore treatment with Succinic, Glycolic Acid & CICA Exosome | Unclogs Pores, Dissolves Blackheads & Smoothens Skin | Toner For Men & Women",
+      "price": 152,
+      "mrp": 499,
+      "discount_pct": 69.0,
+      "saving": 347,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FRG77LZ9?tag=lootkabhandar-21",
+      "image": "img/2467.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2467,
+      "posted_at": "2026-11-25T17:07:40+05:30"
+    },
     {
       "title": "Bosch 302L, 3 Star, MaxFlex Convert Frost Free Triple D... ₹",
       "price": 34490,
@@ -482,45 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2421,
       "posted_at": "2026-11-25T11:03:19+05:30"
-    },
-    {
-      "title": "Kids Clothing Starts at ₹45.Boys :",
-      "price": 45,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Ajio",
-      "link": "https://ajiio.in/YT5hkca",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2420,
-      "posted_at": "2026-11-25T10:43:39+05:30"
-    },
-    {
-      "title": "Deal of the day — price error, grab now! 😱",
-      "price": 241,
-      "mrp": 499,
-      "discount_pct": 52.0,
-      "saving": 258,
-      "store": "Shopsy",
-      "link": "https://bitli.in/PVxqhLa",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2417,
-      "posted_at": "2026-11-25T10:09:01+05:30"
-    },
-    {
-      "title": "Vileda Easy Wring and Clean Turbo Microfibre Mop and Bucket Set-Grey",
-      "price": 29536,
-      "mrp": 57915,
-      "discount_pct": 49.0,
-      "saving": 28379,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B01HTTQ6A2?tag=lootkabhandar-21",
-      "image": "img/2415.jpg",
-      "category": "Jewellery",
-      "telegram_msg_id": 2415,
-      "posted_at": "2026-11-25T09:02:25+05:30"
     },
     {
       "kind": "coupon",
