@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T17:48:29+05:30",
+  "updated_at": "2026-11-25T18:50:07+05:30",
   "deals": [
+    {
+      "title": "Krisons Razor-009 Smart Projector, 1080P & 4K Support",
+      "price": 4483,
+      "mrp": 9999,
+      "discount_pct": 55.0,
+      "saving": 5516,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FRFY488S?tag=lootkabhandar-21",
+      "image": "img/2474.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2474,
+      "posted_at": "2026-11-25T18:50:07+05:30"
+    },
     {
       "title": "Ant Esports MK1001 V2 One Hand Wired Gaming Keyboard",
       "price": 449,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2425,
       "posted_at": "2026-11-25T11:05:05+05:30"
-    },
-    {
-      "title": "POPIO Military-Grade Gorilla Tempered Glass For iPhone 13/13 Pro / 14 / 16e / 17e | 9H Hardness, Edge-to-Edge, Bubble-Free",
-      "price": 199,
-      "mrp": 599,
-      "discount_pct": 66.0,
-      "saving": 400,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09G6P5MY6?tag=lootkabhandar-21",
-      "image": "img/2424.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2424,
-      "posted_at": "2026-11-25T11:03:54+05:30"
     },
     {
       "kind": "coupon",
