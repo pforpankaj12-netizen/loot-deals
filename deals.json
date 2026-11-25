@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T13:57:45+05:30",
+  "updated_at": "2026-11-25T14:22:06+05:30",
   "deals": [
+    {
+      "title": "RTS USB C to Micro-B Cable 3.0",
+      "price": 249,
+      "mrp": 599,
+      "discount_pct": 58.0,
+      "saving": 350,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BZKWZ6T1?tag=lootkabhandar-21",
+      "image": "img/2457.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2457,
+      "posted_at": "2026-11-25T14:22:06+05:30"
+    },
     {
       "title": "Maybelline New York Colossal Eyeliner @99.",
       "price": 99,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2390,
       "posted_at": "2026-11-24T23:50:23+05:30"
-    },
-    {
-      "title": "Clay Craft Premium Fine Ceramic Dinner Set 8 Pieces | Microwave & Dishwasher Safe | Slim, Lightweight, Ultra-White | Lead & Cadmium Free | Daily Use Crockery Set for Home & Gifting",
-      "price": 479,
-      "mrp": 1919,
-      "discount_pct": 45.0,
-      "saving": 1440,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D5DRCH6H?tag=lootkabhandar-21",
-      "image": "img/2388.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 2388,
-      "posted_at": "2026-11-24T23:39:09+05:30"
     },
     {
       "kind": "coupon",
