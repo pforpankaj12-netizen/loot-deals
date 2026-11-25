@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T17:16:55+05:30",
+  "updated_at": "2026-11-25T17:36:33+05:30",
   "deals": [
+    {
+      "title": "Steel Wire Rope 10M with Hooks",
+      "price": 149,
+      "mrp": 497,
+      "discount_pct": 70.0,
+      "saving": 348,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HB5TLN36?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2471,
+      "posted_at": "2026-11-25T17:36:33+05:30"
+    },
     {
       "title": "Lakme Powerplay Priming Matte Lipstick",
       "price": 260,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2423,
       "posted_at": "2026-11-25T11:03:43+05:30"
-    },
-    {
-      "title": "GoSriKi Women's Cotton Blend Straight Hand Block Printed Kurta with Pant & Dupatta",
-      "price": 299,
-      "mrp": 2500,
-      "discount_pct": 88.0,
-      "saving": 2201,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D9WCCWS6?tag=lootkabhandar-21",
-      "image": "img/2422.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2422,
-      "posted_at": "2026-11-25T11:03:30+05:30"
     },
     {
       "kind": "coupon",
