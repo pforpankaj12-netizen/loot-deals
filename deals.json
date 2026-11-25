@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T11:12:52+05:30",
+  "updated_at": "2026-11-25T11:19:54+05:30",
   "deals": [
+    {
+      "title": "Cetaphil Gentle Skin Hydrating Face Wash 181ml",
+      "price": 99,
+      "mrp": 499,
+      "discount_pct": 80.0,
+      "saving": 400,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Cetaphil&rh=n%3A1355016031&ascsubtag=20261125clwtylrzmanf&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2428,
+      "posted_at": "2026-11-25T11:19:54+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 39,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2366,
       "posted_at": "2026-11-24T19:27:01+05:30"
-    },
-    {
-      "title": "Loot : Bosch 302L, MaxFlex Convert Triple Door Refrigerator + /",
-      "price": 30490,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H9T73HJ7?tag=lootkabhandar-21",
-      "image": "img/2365.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2365,
-      "posted_at": "2026-11-24T18:53:02+05:30"
     },
     {
       "kind": "coupon",
