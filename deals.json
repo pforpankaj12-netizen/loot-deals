@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T21:09:12+05:30",
+  "updated_at": "2026-11-25T21:38:51+05:30",
   "deals": [
+    {
+      "title": "Floral Print Top by Aakriti",
+      "price": 111,
+      "mrp": 1299,
+      "discount_pct": 91.0,
+      "saving": 1188,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09R7S4K5X?tag=lootkabhandar-21",
+      "image": "img/2494.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2494,
+      "posted_at": "2026-11-25T21:38:51+05:30"
+    },
     {
       "title": "Om Shape Diya 4.75 Inch with Premium Red Gift Box – Decorative Hindu Pooja Oil Lamp for Home Mandir, Diwali Decoration, Pooja Room, Housewarming, Wedding & Festive Return Gifts",
       "price": 499,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2442,
       "posted_at": "2026-11-25T13:43:11+05:30"
-    },
-    {
-      "title": "Mega Fashion Loot 🔥Under ₹700Fashion & Lifestyle -",
-      "price": 700,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Ajio",
-      "link": "https://ajiio.in/B9v1dF2",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2440,
-      "posted_at": "2026-11-25T13:43:05+05:30"
     },
     {
       "kind": "coupon",
