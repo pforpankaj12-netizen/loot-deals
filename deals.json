@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T20:33:14+05:30",
+  "updated_at": "2026-11-25T20:49:05+05:30",
   "deals": [
+    {
+      "title": "Eitheo Montessori Slide Puzzle - Wooden Toy for Kids 4-8 Years",
+      "price": 290,
+      "mrp": 899,
+      "discount_pct": 68.0,
+      "saving": 609,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HKCYMQ5R?tag=lootkabhandar-21",
+      "image": "img/2488.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2488,
+      "posted_at": "2026-11-25T20:49:05+05:30"
+    },
     {
       "title": "EITHEO Rope Knot Untying Challenge Puzzle",
       "price": 272,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2435,
       "posted_at": "2026-11-25T13:05:05+05:30"
-    },
-    {
-      "title": "Boldfit Gym Gloves for Men Workout Unisex Hand Gloves for Gym for Men & Women with Wrist Support for Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handgloves - Irongrip Black Blue XL",
-      "price": 349,
-      "mrp": 699,
-      "discount_pct": 50.0,
-      "saving": 350,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FSF19SXB?tag=lootkabhandar-21",
-      "image": "img/2434.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2434,
-      "posted_at": "2026-11-25T13:04:55+05:30"
     },
     {
       "kind": "coupon",
