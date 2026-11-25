@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T10:09:01+05:30",
+  "updated_at": "2026-11-25T10:43:39+05:30",
   "deals": [
+    {
+      "title": "Kids Clothing Starts at ₹45.Boys :",
+      "price": 45,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Ajio",
+      "link": "https://ajiio.in/YT5hkca",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2420,
+      "posted_at": "2026-11-25T10:43:39+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 241,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2357,
       "posted_at": "2026-11-24T16:37:39+05:30"
-    },
-    {
-      "title": "Puma Men Mega NRGY Running Shoe",
-      "price": 1785,
-      "mrp": 6999,
-      "discount_pct": 74.0,
-      "saving": 5214,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B079HR6H53?tag=lootkabhandar-21",
-      "image": "img/2356.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2356,
-      "posted_at": "2026-11-24T16:34:47+05:30"
     },
     {
       "kind": "coupon",
