@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T12:21:38+05:30",
+  "updated_at": "2026-11-25T12:36:26+05:30",
   "deals": [
+    {
+      "title": "Deal of the day — price error, grab now! 😱",
+      "price": 299,
+      "mrp": 899,
+      "discount_pct": 67.0,
+      "saving": 600,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HLW78F89?tag=lootkabhandar-21",
+      "image": "img/2432.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2432,
+      "posted_at": "2026-11-25T12:36:26+05:30"
+    },
     {
       "title": "U.S. POLO ASSN Mens Briefs Pack Of 3",
       "price": 450,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2370,
       "posted_at": "2026-11-24T19:43:52+05:30"
-    },
-    {
-      "title": "Grab this amazing deal on a smartphone now!vivo T5x 5G Deal 🔥😍💥 Now only",
-      "price": 26999,
-      "mrp": 45999,
-      "discount_pct": 41.0,
-      "saving": 19000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GTTXP6WF?tag=lootkabhandar-21",
-      "image": "img/2369.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2369,
-      "posted_at": "2026-11-24T19:43:48+05:30"
     },
     {
       "kind": "coupon",
