@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T13:50:32+05:30",
+  "updated_at": "2026-11-25T13:57:45+05:30",
   "deals": [
+    {
+      "title": "Maybelline New York Colossal Eyeliner @99.",
+      "price": 99,
+      "mrp": null,
+      "discount_pct": 69.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07S141T2R?tag=lootkabhandar-21",
+      "image": "img/2455.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2455,
+      "posted_at": "2026-11-25T13:57:45+05:30"
+    },
+    {
+      "title": "This deal is unmissable!Skybags Unisex Snazzy Check-in Trolley Bag Deal 🔥😍💥 Now only",
+      "price": 3740,
+      "mrp": 14700,
+      "discount_pct": 75.0,
+      "saving": 10960,
+      "store": "Ajio",
+      "link": "https://ajiio.in/FPRtygt",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2454,
+      "posted_at": "2026-11-25T13:57:37+05:30"
+    },
     {
       "title": "Lowest : Ishin Pratidin Solid Trouser .https://www.amazon.in/dp/B0GLPRQF71?tag=lootkabhandar-21",
       "price": 645,
@@ -495,32 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 2388,
       "posted_at": "2026-11-24T23:39:09+05:30"
-    },
-    {
-      "title": "Samsung Galaxy Watch8 (40mm, Bluetooth, Graphite) with 3nm Processor | Dual GPS | Sapphire Glass & Armor Aluminum | 5ATM & IP68 | BP, ECG, IHRN & Vascular Load Monitoring | Anti-oxidant Index",
-      "price": 22999,
-      "mrp": 38999,
-      "discount_pct": 41.0,
-      "saving": 16000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FDQJSPJK?tag=lootkabhandar-21",
-      "image": "img/2387.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2387,
-      "posted_at": "2026-11-24T23:18:31+05:30"
-    },
-    {
-      "title": "RIO Graphic Print Crew-Neck Sweatshirt💰 ₹96 ₹299 · 68% offDNMX Typographic Print Relaxed Fit Sweatshirt💰 ₹125 ₹499 · 75% off🛒 AJIO🔗",
-      "price": 96,
-      "mrp": 299,
-      "discount_pct": 68.0,
-      "saving": 203,
-      "store": "Ajio",
-      "link": "https://ajiio.in/F7FTz62",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2386,
-      "posted_at": "2026-11-24T22:34:32+05:30"
     },
     {
       "kind": "coupon",
