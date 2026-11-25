@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T20:08:59+05:30",
+  "updated_at": "2026-11-25T20:17:36+05:30",
   "deals": [
+    {
+      "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil💰 ₹248 ~₹540~ · 54% offParachute Advansed Jasmine Gold Non-Sticky Coconut Hair Oil💰 ₹230 ~₹490~ · 53% offParachute Advansed Protein Shampoo with Coconut Milk & Rosemary💰 ₹499 ~₹1,299~ · 62% offParachute Advansed Coco Nourish Body Lotion with Pure Coconut Milk, 400ml💰 ₹132 ~₹275~ · 52% off🛒 Amazon🔗 https://www.amazon.in/s?i=beauty&srs=1355016031&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3AParachute_Advansed%2Cp_n_pct-off-with-tax%3A2665401031&s=popularity-rank&btn_type=ss&btn_ref=srctok-4e4e394ca225297a%3Bend&ascsubtag=20261125clxq9xbtz2zt&tag=lootkabhandar-21",
+      "price": 248,
+      "mrp": 540,
+      "discount_pct": 54.0,
+      "saving": 292,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?i=beauty&srs=1355016031&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3AParachute_Advansed%2Cp_n_pct-off-with-tax%3A2665401031&s=popularity-rank&btn_type=ss&btn_ref=srctok-4e4e394ca225297a%3Bend&ascsubtag=20261125clxq9xbtz2zt&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2486,
+      "posted_at": "2026-11-25T20:17:36+05:30"
+    },
     {
       "title": "Blue Metallic Curly Spiral Candle with Holder, Pack of 6",
       "price": 28,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2432,
       "posted_at": "2026-11-25T12:36:26+05:30"
-    },
-    {
-      "title": "U.S. POLO ASSN Mens Briefs Pack Of 3",
-      "price": 450,
-      "mrp": 900,
-      "discount_pct": 50.0,
-      "saving": 450,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DMW16QVD?tag=lootkabhandar-21",
-      "image": "img/2431.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2431,
-      "posted_at": "2026-11-25T12:21:38+05:30"
     },
     {
       "kind": "coupon",
