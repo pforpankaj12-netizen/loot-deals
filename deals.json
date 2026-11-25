@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T19:24:38+05:30",
+  "updated_at": "2026-11-25T19:34:48+05:30",
   "deals": [
+    {
+      "title": "Fybros Oval Ding Dong Doorbell",
+      "price": 140,
+      "mrp": 399,
+      "discount_pct": 65.0,
+      "saving": 259,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09H4SRG1Z?tag=lootkabhandar-21",
+      "image": "img/2478.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2478,
+      "posted_at": "2026-11-25T19:34:48+05:30"
+    },
     {
       "title": "Salt. Oral Care Gulmarg Natural Mouth Spray",
       "price": 449,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2427,
       "posted_at": "2026-11-25T11:12:52+05:30"
-    },
-    {
-      "title": "Upto On Cetaphil Beauty Products Starting @99.",
-      "price": 99,
-      "mrp": null,
-      "discount_pct": 56.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Cetaphil&rh=n%3A1355016031%2Cp_123%3A236065%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665400031&i=beauty&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2426,
-      "posted_at": "2026-11-25T11:05:47+05:30"
     },
     {
       "kind": "coupon",
