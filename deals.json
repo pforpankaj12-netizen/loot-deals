@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T14:35:31+05:30",
+  "updated_at": "2026-11-25T15:02:11+05:30",
   "deals": [
+    {
+      "title": "Bosch 335L Triple Door Maxflex Refrigerator",
+      "price": 31990,
+      "mrp": 69790,
+      "discount_pct": 54.0,
+      "saving": 37800,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GMPXF2SY?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2459,
+      "posted_at": "2026-11-25T15:02:11+05:30"
+    },
     {
       "title": "Dabur Khajurprash - 900g | 3X Immunity Action | Supports Healthy Haemoglobin Levels | Helps Fight Iron Deficiency | 40+ Chyawanprash Herbs | Natural Source of Iron | Goodness of Khajur & Giloy",
       "price": 270,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2394,
       "posted_at": "2026-11-25T08:00:56+05:30"
-    },
-    {
-      "title": "Satechi USB C Hub Multiport Adapter V2 - USB C Dongle - 4K HDMI (60Hz), 60W USB C Charging, GbE, SD/Micro Card Readers, USB 3.0 - USBC Hub for MacBook Pro/Air M1 M2 (Space Gray)",
-      "price": 5356,
-      "mrp": 12599,
-      "discount_pct": 57.0,
-      "saving": 7243,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B075FW7H5J?tag=lootkabhandar-21",
-      "image": "img/2392.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2392,
-      "posted_at": "2026-11-25T08:00:45+05:30"
     },
     {
       "kind": "coupon",
