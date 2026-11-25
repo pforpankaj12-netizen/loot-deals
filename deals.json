@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T15:43:36+05:30",
+  "updated_at": "2026-11-25T16:02:31+05:30",
   "deals": [
+    {
+      "title": "Max Women Cotton Blend Solid Regular Fit T-Shirt",
+      "price": 228,
+      "mrp": 599,
+      "discount_pct": 62.0,
+      "saving": 371,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DB8M75SM?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2465,
+      "posted_at": "2026-11-25T16:02:31+05:30"
+    },
     {
       "title": "Amazon Brand - Solimo Eva 2 Door Shoe Cabinet | Engineered Wood | Footwear Organizer with 1 Drawer and 4 Shelves | Wooden Shoe Rack for Home & Office | 12 Months Warranty | White",
       "price": 4999,
@@ -508,19 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2414,
       "posted_at": "2026-11-25T09:02:13+05:30"
-    },
-    {
-      "title": "Walltron Rain Shield; Elastomeric Exterior Wall Waterpr... ₹",
-      "price": 930,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FPXH8SW1?tag=lootkabhandar-21",
-      "image": "img/2406.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2406,
-      "posted_at": "2026-11-25T08:04:56+05:30"
     },
     {
       "kind": "coupon",
