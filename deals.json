@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T13:06:25+05:30",
+  "updated_at": "2026-11-26T13:33:41+05:30",
   "deals": [
+    {
+      "title": "Baby Wipes (Pack Of 1) - Growgather",
+      "price": 97,
+      "mrp": 299,
+      "discount_pct": 68.0,
+      "saving": 202,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F99SFNF2?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2522,
+      "posted_at": "2026-11-26T13:33:41+05:30"
+    },
     {
       "title": "Accessorize Animal Medium Handheld Bag💰 ₹1,245 ₹5,995 · 79% offAccessorize Metallic Clutch Bag💰 ₹1,412 ₹5,395 · 74% off🛒 Myntra🔗",
       "price": 1245,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2465,
       "posted_at": "2026-11-25T16:02:31+05:30"
-    },
-    {
-      "title": "Amazon Brand - Solimo Eva 2 Door Shoe Cabinet | Engineered Wood | Footwear Organizer with 1 Drawer and 4 Shelves | Wooden Shoe Rack for Home & Office | 12 Months Warranty | White",
-      "price": 4999,
-      "mrp": null,
-      "discount_pct": 60.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FHKQL9L1?tag=lootkabhandar-21",
-      "image": "img/2464.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2464,
-      "posted_at": "2026-11-25T15:43:36+05:30"
     },
     {
       "kind": "coupon",
