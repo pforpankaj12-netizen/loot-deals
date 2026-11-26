@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T19:14:12+05:30",
+  "updated_at": "2026-11-26T19:30:02+05:30",
   "deals": [
+    {
+      "title": "MarwarBites Mixed Dry Fruit 1kg",
+      "price": 429,
+      "mrp": 1000,
+      "discount_pct": 57.0,
+      "saving": 571,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HQD7KX3L?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Grocery & Food",
+      "telegram_msg_id": 2558,
+      "posted_at": "2026-11-26T19:30:02+05:30"
+    },
     {
       "title": "PURVAJA Women’s Square Neck Cotton Dress(Floe-191-M_Maroon)",
       "price": 428,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2501,
       "posted_at": "2026-11-26T08:08:51+05:30"
-    },
-    {
-      "title": "Allen Cooper T-Shirt💰 ₹499 ₹1,000 · 50% offAllen Cooper Jeans💰 ₹799 ₹1,600 · 50% offAllen Cooper Shirts💰 ₹599 ₹1,200 · 50% offAllen Cooper Jacket💰 ₹1,199 ₹2,400 · 50% off🛒 AJIO🔗",
-      "price": 499,
-      "mrp": 1000,
-      "discount_pct": 50.0,
-      "saving": 501,
-      "store": "Ajio",
-      "link": "https://ajiio.in/9zfP0G8",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2497,
-      "posted_at": "2026-11-25T22:05:50+05:30"
     },
     {
       "kind": "coupon",
