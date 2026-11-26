@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:02:25+05:30",
+  "updated_at": "2026-11-26T17:13:27+05:30",
   "deals": [
+    {
+      "title": "GIGABYTE Radeon RX 9060 XT Gaming OC 16G Graphics Card, PCIe 5.0, 16GB GDDR6, GV-R9060XTGAMING OC-16GD Video Card",
+      "price": 56319,
+      "mrp": 182000,
+      "discount_pct": 69.0,
+      "saving": 125681,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F91KM1CK?tag=lootkabhandar-21",
+      "image": "img/2549.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2549,
+      "posted_at": "2026-11-26T17:13:27+05:30"
+    },
     {
       "title": "Grab this steal before it’s gone!HAUTE SAUCE Brown Leather Shoulder Bag💥 Now only",
       "price": 469,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2488,
       "posted_at": "2026-11-25T20:49:05+05:30"
-    },
-    {
-      "title": "EITHEO Rope Knot Untying Challenge Puzzle",
-      "price": 272,
-      "mrp": 899,
-      "discount_pct": 70.0,
-      "saving": 627,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HK4B36R9?tag=lootkabhandar-21",
-      "image": "img/2487.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2487,
-      "posted_at": "2026-11-25T20:33:14+05:30"
     },
     {
       "kind": "coupon",
