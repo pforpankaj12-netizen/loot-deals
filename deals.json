@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T08:10:23+05:30",
+  "updated_at": "2026-11-26T08:52:37+05:30",
   "deals": [
+    {
+      "title": "Puma Women's Slim Fit Tank",
+      "price": 479,
+      "mrp": 1199,
+      "discount_pct": 60.0,
+      "saving": 720,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GFNBRCGP?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2509,
+      "posted_at": "2026-11-26T08:52:37+05:30"
+    },
     {
       "title": "Silver&#39;s Jointless Aluminium Alloy Composite Delta Badminton Racket with Full Cover(Blue/White)",
       "price": 188,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2452,
       "posted_at": "2026-11-25T13:50:32+05:30"
-    },
-    {
-      "title": "Axe Intense Long Lasting Deodorant 215ml",
-      "price": 90,
-      "mrp": 385,
-      "discount_pct": 77.0,
-      "saving": 295,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09JG4GHS3?tag=lootkabhandar-21",
-      "image": "img/2449.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2449,
-      "posted_at": "2026-11-25T13:49:17+05:30"
     },
     {
       "kind": "coupon",
