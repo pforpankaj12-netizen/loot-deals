@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T10:17:46+05:30",
+  "updated_at": "2026-11-26T10:33:50+05:30",
   "deals": [
+    {
+      "title": "Bosch 368L, Double Door Refrigerator with 2.5 L Water Dispenser @31,990https://www.amazon.in/dp/B0GPQR66B7?tag=lootkabhandar-21Flat 10,000 Off With ICICI CC",
+      "price": 41990,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GPQR66B7?tag=lootkabhandar-21",
+      "image": "img/2516.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2516,
+      "posted_at": "2026-11-26T10:33:50+05:30"
+    },
     {
       "title": "Parachute Body Lotion 600ml at .",
       "price": 168,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2461,
       "posted_at": "2026-11-25T15:06:21+05:30"
-    },
-    {
-      "title": "Multi-Functional Stainless Steel Vegetable Peeler with Wooden Handle & Bottle Opener Single Blade Peeler for Fruits & Vegetables Sharp & Easy-Grip Kitchen Tool (3 in 1 Peeler)",
-      "price": 99,
-      "mrp": 699,
-      "discount_pct": 85.0,
-      "saving": 600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H513VLV6?tag=lootkabhandar-21",
-      "image": "img/2460.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 2460,
-      "posted_at": "2026-11-25T15:06:09+05:30"
     },
     {
       "kind": "coupon",
