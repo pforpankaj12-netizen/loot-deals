@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T11:12:13+05:30",
+  "updated_at": "2026-11-26T12:07:52+05:30",
   "deals": [
+    {
+      "title": "Deal of the day — price error, grab now! 😱",
+      "price": 299,
+      "mrp": null,
+      "discount_pct": 88.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=anni+designer+kurta+with+pant&i=specialty-aps&srs=15901075031&s=price-asc-rank&ds=v1%3AjrFSZlkW3ha0gAixPsyloMh10clgR%2FEpb37YzvZHvbg&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2520,
+      "posted_at": "2026-11-26T12:07:52+05:30"
+    },
     {
       "title": "URBN 10000mAh Frost MagSafe Power Bank with Built-in Stand | 15W Magnetic Wireless Charging | 20W USB-C PD Fast Charging | Ultra Compact | Pass-Through Charging | MagTag Ring | (Black)",
       "price": 1057,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2463,
       "posted_at": "2026-11-25T15:06:45+05:30"
-    },
-    {
-      "title": "Invisible Holder Charger Cable, 240W Fast Charging Cord, USB-C to USB-C Cable 1.5 M/4.9 FT with 360° Adjustable Metal Stand, 2 in 1 Holder Charger for Gaming, Office, Home, 2 PACK, Orange",
-      "price": 499,
-      "mrp": 859,
-      "discount_pct": 41.0,
-      "saving": 360,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GSVY3K7P?tag=lootkabhandar-21",
-      "image": "img/2462.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2462,
-      "posted_at": "2026-11-25T15:06:33+05:30"
     },
     {
       "kind": "coupon",
