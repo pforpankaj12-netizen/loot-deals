@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T13:56:42+05:30",
+  "updated_at": "2026-11-26T14:08:27+05:30",
   "deals": [
+    {
+      "title": "Wickle Box A2 Desi Buffalo Ghee 500 ml",
+      "price": 399,
+      "mrp": 1999,
+      "discount_pct": 80.0,
+      "saving": 1600,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HRPM36SM?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2538,
+      "posted_at": "2026-11-26T14:08:27+05:30"
+    },
     {
       "title": "Get ready to elevate your style!Roadster Men Tan Casual Open Toe Slip On Sandals Deal 🔥😍💥 Now only",
       "price": 762,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2480,
       "posted_at": "2026-11-25T19:44:52+05:30"
-    },
-    {
-      "title": "Fybros Oval Ding Dong Doorbell",
-      "price": 140,
-      "mrp": 399,
-      "discount_pct": 65.0,
-      "saving": 259,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09H4SRG1Z?tag=lootkabhandar-21",
-      "image": "img/2478.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2478,
-      "posted_at": "2026-11-25T19:34:48+05:30"
     },
     {
       "kind": "coupon",
