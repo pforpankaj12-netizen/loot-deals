@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T13:44:44+05:30",
+  "updated_at": "2026-11-26T13:51:13+05:30",
   "deals": [
+    {
+      "title": "Get ready to elevate your style!Roadster Men Tan Casual Open Toe Slip On Sandals Deal 🔥😍💥 Now only",
+      "price": 762,
+      "mrp": 5995,
+      "discount_pct": 87.0,
+      "saving": 5233,
+      "store": "Myntra",
+      "link": "https://myntr.it/crcIN8W",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2535,
+      "posted_at": "2026-11-26T13:51:13+05:30"
+    },
+    {
+      "title": "This deal won't last long!Roadster Men Solid Formal Shoes Deal 🔥😍💥 Now only",
+      "price": 552,
+      "mrp": 3999,
+      "discount_pct": 86.0,
+      "saving": 3447,
+      "store": "Myntra",
+      "link": "https://myntr.it/bx5N3pr",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2534,
+      "posted_at": "2026-11-26T13:51:08+05:30"
+    },
+    {
+      "title": "Ultimate Loot Deals 🔥Under ₹700Fashion & Lifestyle -",
+      "price": 700,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Myntra",
+      "link": "https://myntr.it/06gd7Zo",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2533,
+      "posted_at": "2026-11-26T13:51:04+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 617,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2478,
       "posted_at": "2026-11-25T19:34:48+05:30"
-    },
-    {
-      "title": "Salt. Oral Care Gulmarg Natural Mouth Spray",
-      "price": 449,
-      "mrp": 1350,
-      "discount_pct": 67.0,
-      "saving": 901,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DTPVQ2JR?tag=lootkabhandar-21",
-      "image": "img/2476.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2476,
-      "posted_at": "2026-11-25T19:24:38+05:30"
-    },
-    {
-      "title": "Krisons Razor-009 Smart Projector, 1080P & 4K Support",
-      "price": 4483,
-      "mrp": 9999,
-      "discount_pct": 55.0,
-      "saving": 5516,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FRFY488S?tag=lootkabhandar-21",
-      "image": "img/2474.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2474,
-      "posted_at": "2026-11-25T18:50:07+05:30"
-    },
-    {
-      "title": "Ant Esports MK1001 V2 One Hand Wired Gaming Keyboard",
-      "price": 449,
-      "mrp": 1199,
-      "discount_pct": 63.0,
-      "saving": 750,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CBVDM4D7?tag=lootkabhandar-21",
-      "image": "img/2472.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2472,
-      "posted_at": "2026-11-25T17:48:29+05:30"
     },
     {
       "kind": "coupon",
