@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T22:51:08+05:30",
+  "updated_at": "2026-11-26T23:07:48+05:30",
   "deals": [
+    {
+      "title": "Crompton 60cm Box Chimney @11,890https://www.amazon.in/dp/B0DCW7QR97?tag=lootkabhandar-21",
+      "price": 19999,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DCW7QR97?tag=lootkabhandar-21",
+      "image": "img/2580.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2580,
+      "posted_at": "2026-11-26T23:07:48+05:30"
+    },
+    {
+      "title": "Nature Purify Mixed Dry Fruits 1Kg",
+      "price": 460,
+      "mrp": 1499,
+      "discount_pct": 69.0,
+      "saving": 1039,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HG5X6N3B?tag=lootkabhandar-21",
+      "image": "img/2579.jpg",
+      "category": "Grocery & Food",
+      "telegram_msg_id": 2579,
+      "posted_at": "2026-11-26T23:03:46+05:30"
+    },
     {
       "title": "Bella Vita White Oud Eau De Parfum 100ml",
       "price": 399,
@@ -495,32 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2529,
       "posted_at": "2026-11-26T13:44:33+05:30"
-    },
-    {
-      "title": "Don't miss out on this amazing deal!BERSACHE Women Comfort Sandals Deal 🔥😍💥 Now only",
-      "price": 268,
-      "mrp": 1999,
-      "discount_pct": 86.0,
-      "saving": 1731,
-      "store": "Myntra",
-      "link": "https://myntr.it/pN390Fd",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2528,
-      "posted_at": "2026-11-26T13:44:30+05:30"
-    },
-    {
-      "title": "Grab this deal now!Koburg Whril Men Mesh Comfort Running Shoes Deal 🔥😍💥 Now just",
-      "price": 427,
-      "mrp": 3099,
-      "discount_pct": 86.0,
-      "saving": 2672,
-      "store": "Myntra",
-      "link": "https://myntr.it/QWdA3Cc",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2527,
-      "posted_at": "2026-11-26T13:44:26+05:30"
     },
     {
       "kind": "coupon",
