@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T21:15:06+05:30",
+  "updated_at": "2026-11-26T22:09:28+05:30",
   "deals": [
+    {
+      "title": "Nike Men's Running Shoes",
+      "price": 3999,
+      "mrp": 7999,
+      "discount_pct": 50.0,
+      "saving": 4000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=nike+shoes&rh=p_6%3AA1WYWER0W24N8S%257CA2O5KR0Y95DC4B%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A234394%2Cp_n_g-101015233022111%3A207199036031&ds=v1%3AjmR3jRFVVZvROk3ySQvhNkvc6ppOB4s1O0Tzf%2BGYlzA&qid=1784358147&rnid=207199033031&btn_type=ss&btn_ref=srctok-29e5a169d74642fa&ascsubtag=20261126clz8fxj2u1ei&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2576,
+      "posted_at": "2026-11-26T22:09:28+05:30"
+    },
     {
       "title": "rts [2 Pack] USB C to USB Adapter USB C Male to USB3 Female ,Thunderbolt 3 to Type A OTG Cable Converter Adapter Compatible with MacBook Pro 2021 iMac iPad Pro 2020 ipad Mini 6/Pro MacBook Air 2020 and Other Type C or Thunderbolt 4/3 Devices (Space Grey)",
       "price": 99,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2522,
       "posted_at": "2026-11-26T13:33:41+05:30"
-    },
-    {
-      "title": "Accessorize Animal Medium Handheld Bag💰 ₹1,245 ₹5,995 · 79% offAccessorize Metallic Clutch Bag💰 ₹1,412 ₹5,395 · 74% off🛒 Myntra🔗",
-      "price": 1245,
-      "mrp": 5995,
-      "discount_pct": 79.0,
-      "saving": 4750,
-      "store": "Myntra",
-      "link": "https://myntr.it/2fs6jam",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2521,
-      "posted_at": "2026-11-26T13:06:25+05:30"
     },
     {
       "kind": "coupon",
