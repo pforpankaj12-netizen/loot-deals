@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:13:27+05:30",
+  "updated_at": "2026-11-26T17:52:32+05:30",
   "deals": [
+    {
+      "title": "This price won't stick around!Titan Watch Deal 🔥😍💥 Now just",
+      "price": 5999,
+      "mrp": 13995,
+      "discount_pct": 57.0,
+      "saving": 7996,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CLR9LP6T?tag=lootkabhandar-21",
+      "image": "img/2552.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2552,
+      "posted_at": "2026-11-26T17:52:32+05:30"
+    },
+    {
+      "title": "Best deal Buy Fast Fast (875 ml) : Max Qty | 200 ml .",
+      "price": 169,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HM87GFP5?tag=lootkabhandar-21",
+      "image": "img/2551.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2551,
+      "posted_at": "2026-11-26T17:50:19+05:30"
+    },
+    {
+      "title": "Single Bed Comforter 220 GSM 150x220 CM, Cream Floral",
+      "price": 383,
+      "mrp": 699,
+      "discount_pct": 45.0,
+      "saving": 316,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HGRGP7T8?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2550,
+      "posted_at": "2026-11-26T17:48:54+05:30"
+    },
     {
       "title": "GIGABYTE Radeon RX 9060 XT Gaming OC 16G Graphics Card, PCIe 5.0, 16GB GDDR6, GV-R9060XTGAMING OC-16GD Video Card",
       "price": 56319,
@@ -482,45 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2491,
       "posted_at": "2026-11-25T21:09:02+05:30"
-    },
-    {
-      "title": "DailyObjects Women's Wallet | Carefully Handcrafted | Holds up to 8 Cards | Slim and Easy to Fit in Pocket | Coin Pocket with Button Closure",
-      "price": 499,
-      "mrp": 1999,
-      "discount_pct": 75.0,
-      "saving": 1500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B079JR5N6P?tag=lootkabhandar-21",
-      "image": "img/2490.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2490,
-      "posted_at": "2026-11-25T21:08:57+05:30"
-    },
-    {
-      "title": "flintronic A4 Paper Cutter, 38CM Paper Trimmer Portable Guillotine, Scrapbooking Tool with Automatic Security Safeguard for Craft Paper, Coupon, Label and Cardstock",
-      "price": 155,
-      "mrp": 499,
-      "discount_pct": 68.0,
-      "saving": 344,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07Q98HNLX?tag=lootkabhandar-21",
-      "image": "img/2489.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2489,
-      "posted_at": "2026-11-25T21:08:52+05:30"
-    },
-    {
-      "title": "Eitheo Montessori Slide Puzzle - Wooden Toy for Kids 4-8 Years",
-      "price": 290,
-      "mrp": 899,
-      "discount_pct": 68.0,
-      "saving": 609,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HKCYMQ5R?tag=lootkabhandar-21",
-      "image": "img/2488.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2488,
-      "posted_at": "2026-11-25T20:49:05+05:30"
     },
     {
       "kind": "coupon",
