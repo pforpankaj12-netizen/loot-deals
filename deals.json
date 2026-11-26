@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T09:23:55+05:30",
+  "updated_at": "2026-11-26T09:50:02+05:30",
   "deals": [
+    {
+      "title": "Just Herbs Madhuban Gift Set for Women",
+      "price": 311,
+      "mrp": 849,
+      "discount_pct": 63.0,
+      "saving": 538,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HHK8Q8GK?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2512,
+      "posted_at": "2026-11-26T09:50:02+05:30"
+    },
     {
       "title": "Cetaphil Optimal Hydration Skin Restoring Water Gel 10g",
       "price": 169,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2457,
       "posted_at": "2026-11-25T14:22:06+05:30"
-    },
-    {
-      "title": "Maybelline New York Colossal Eyeliner @99.",
-      "price": 99,
-      "mrp": null,
-      "discount_pct": 69.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07S141T2R?tag=lootkabhandar-21",
-      "image": "img/2455.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2455,
-      "posted_at": "2026-11-25T13:57:45+05:30"
     },
     {
       "kind": "coupon",
