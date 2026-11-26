@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T08:52:37+05:30",
+  "updated_at": "2026-11-26T09:11:16+05:30",
   "deals": [
+    {
+      "title": "NCERT CLASS 9 Reva, Hindi R3 Textbook for Class 9 9306 (2026-2027 edition)",
+      "price": 34,
+      "mrp": 120,
+      "discount_pct": 71.0,
+      "saving": 86,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/9357290796?tag=lootkabhandar-21",
+      "image": "img/2510.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2510,
+      "posted_at": "2026-11-26T09:11:16+05:30"
+    },
     {
       "title": "Puma Women's Slim Fit Tank",
       "price": 479,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2454,
       "posted_at": "2026-11-25T13:57:37+05:30"
-    },
-    {
-      "title": "Lowest : Ishin Pratidin Solid Trouser .https://www.amazon.in/dp/B0GLPRQF71?tag=lootkabhandar-21",
-      "price": 645,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GLPRQF71?tag=lootkabhandar-21",
-      "image": "img/2452.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2452,
-      "posted_at": "2026-11-25T13:50:32+05:30"
     },
     {
       "kind": "coupon",
