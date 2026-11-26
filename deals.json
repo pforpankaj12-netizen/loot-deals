@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T18:24:53+05:30",
+  "updated_at": "2026-11-26T18:40:23+05:30",
   "deals": [
+    {
+      "title": "Puma Men Foam Stride Running Shoe @1,485https://www.amazon.in/dp/B0CWDBJ3Q8?tag=lootkabhandar-21",
+      "price": 82799,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CWDBJ3Q8?tag=lootkabhandar-21",
+      "image": "img/2555.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2555,
+      "posted_at": "2026-11-26T18:40:23+05:30"
+    },
+    {
+      "title": "Shoe Shine Wipes 80 Series",
+      "price": 299,
+      "mrp": 599,
+      "discount_pct": 50.0,
+      "saving": 300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HLRLJGB4?lv=shuf&social_share=cm_sw_r_cso_wa_apin_dp_YBDYHC581Z46TF29ZEK7&channelId=704&ascsubtag=20261126clb3ix7p24vl&tag=lootkabhandar-21",
+      "image": "img/2554.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2554,
+      "posted_at": "2026-11-26T18:37:15+05:30"
+    },
     {
       "title": "Crompton SensoSmart Box 60cm Baffle Filter Chimney",
       "price": 12590,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2494,
       "posted_at": "2026-11-25T21:38:51+05:30"
-    },
-    {
-      "title": "Om Shape Diya 4.75 Inch with Premium Red Gift Box – Decorative Hindu Pooja Oil Lamp for Home Mandir, Diwali Decoration, Pooja Room, Housewarming, Wedding & Festive Return Gifts",
-      "price": 499,
-      "mrp": 1999,
-      "discount_pct": 75.0,
-      "saving": 1500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HPZT733D?tag=lootkabhandar-21",
-      "image": "img/2493.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2493,
-      "posted_at": "2026-11-25T21:09:12+05:30"
-    },
-    {
-      "title": "Shri Yantra for Prosperity | Attracts Abundance, Prosperity & Fortune | Harmonizes Vastu & Financial Flow | Yantra of Abundance & Harmony | Energized Pooja Yantra for Home & Shops",
-      "price": 499,
-      "mrp": 2000,
-      "discount_pct": 75.0,
-      "saving": 1501,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HBKB5YYH?tag=lootkabhandar-21",
-      "image": "img/2492.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2492,
-      "posted_at": "2026-11-25T21:09:07+05:30"
     },
     {
       "kind": "coupon",
