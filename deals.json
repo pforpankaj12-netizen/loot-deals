@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T10:09:13+05:30",
+  "updated_at": "2026-11-26T10:17:46+05:30",
   "deals": [
+    {
+      "title": "Parachute Body Lotion 600ml at .",
+      "price": 168,
+      "mrp": null,
+      "discount_pct": 72.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CG17DT8T?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2515,
+      "posted_at": "2026-11-26T10:17:46+05:30"
+    },
     {
       "title": "Home & Fashion Loot Deals 🔥Under ₹700Home & Living -",
       "price": 700,
@@ -508,19 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 2460,
       "posted_at": "2026-11-25T15:06:09+05:30"
-    },
-    {
-      "title": "Bosch 335L Triple Door Maxflex Refrigerator",
-      "price": 31990,
-      "mrp": 69790,
-      "discount_pct": 54.0,
-      "saving": 37800,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GMPXF2SY?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2459,
-      "posted_at": "2026-11-25T15:02:11+05:30"
     },
     {
       "kind": "coupon",
