@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T09:50:02+05:30",
+  "updated_at": "2026-11-26T10:09:13+05:30",
   "deals": [
+    {
+      "title": "Home & Fashion Loot Deals 🔥Under ₹700Home & Living -",
+      "price": 700,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Flipkart",
+      "link": "https://fktr.in/8Tx7Z3v",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2514,
+      "posted_at": "2026-11-26T10:09:13+05:30"
+    },
+    {
+      "title": "Reflective Adjustable Pet Leash for Dogs",
+      "price": 144,
+      "mrp": 499,
+      "discount_pct": 71.0,
+      "saving": 355,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F4DSJB4N?tag=lootkabhandar-21",
+      "image": "img/2513.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2513,
+      "posted_at": "2026-11-26T10:07:09+05:30"
+    },
     {
       "title": "Just Herbs Madhuban Gift Set for Women",
       "price": 311,
@@ -495,32 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2459,
       "posted_at": "2026-11-25T15:02:11+05:30"
-    },
-    {
-      "title": "Dabur Khajurprash - 900g | 3X Immunity Action | Supports Healthy Haemoglobin Levels | Helps Fight Iron Deficiency | 40+ Chyawanprash Herbs | Natural Source of Iron | Goodness of Khajur & Giloy",
-      "price": 270,
-      "mrp": 525,
-      "discount_pct": 49.0,
-      "saving": 255,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D4LVR38X?tag=lootkabhandar-21",
-      "image": "img/2458.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2458,
-      "posted_at": "2026-11-25T14:35:31+05:30"
-    },
-    {
-      "title": "RTS USB C to Micro-B Cable 3.0",
-      "price": 249,
-      "mrp": 599,
-      "discount_pct": 58.0,
-      "saving": 350,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BZKWZ6T1?tag=lootkabhandar-21",
-      "image": "img/2457.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2457,
-      "posted_at": "2026-11-25T14:22:06+05:30"
     },
     {
       "kind": "coupon",
