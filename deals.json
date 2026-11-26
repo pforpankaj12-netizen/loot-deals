@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T09:11:16+05:30",
+  "updated_at": "2026-11-26T09:23:55+05:30",
   "deals": [
+    {
+      "title": "Cetaphil Optimal Hydration Skin Restoring Water Gel 10g",
+      "price": 169,
+      "mrp": 389,
+      "discount_pct": 56.0,
+      "saving": 220,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GKMPG92G?tag=lootkabhandar-21",
+      "image": "img/2511.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2511,
+      "posted_at": "2026-11-26T09:23:55+05:30"
+    },
     {
       "title": "NCERT CLASS 9 Reva, Hindi R3 Textbook for Class 9 9306 (2026-2027 edition)",
       "price": 34,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2455,
       "posted_at": "2026-11-25T13:57:45+05:30"
-    },
-    {
-      "title": "This deal is unmissable!Skybags Unisex Snazzy Check-in Trolley Bag Deal 🔥😍💥 Now only",
-      "price": 3740,
-      "mrp": 14700,
-      "discount_pct": 75.0,
-      "saving": 10960,
-      "store": "Ajio",
-      "link": "https://ajiio.in/FPRtygt",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2454,
-      "posted_at": "2026-11-25T13:57:37+05:30"
     },
     {
       "kind": "coupon",
