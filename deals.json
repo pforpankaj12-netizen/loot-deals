@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T14:52:24+05:30",
+  "updated_at": "2026-11-26T16:25:29+05:30",
   "deals": [
+    {
+      "title": "Brand - Solimo Luxe Steel Dish Drainer",
+      "price": 355,
+      "mrp": 1899,
+      "discount_pct": 81.0,
+      "saving": 1544,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CW1TPZRV?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2545,
+      "posted_at": "2026-11-26T16:25:29+05:30"
+    },
     {
       "title": "FREEMANS IKON 3m:16mm Steel Inch Measuring Tape",
       "price": 35,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2484,
       "posted_at": "2026-11-25T19:47:42+05:30"
-    },
-    {
-      "title": "Lately All In One Makeup Kit Eyeliner (Pack Of 11)💰 ₹198 ₹699 · 72% off🛒 Shopsy🔗",
-      "price": 198,
-      "mrp": null,
-      "discount_pct": 72.0,
-      "saving": null,
-      "store": "Shopsy",
-      "link": "https://bitli.in/SzW8oe0",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2481,
-      "posted_at": "2026-11-25T19:45:57+05:30"
     },
     {
       "kind": "coupon",
