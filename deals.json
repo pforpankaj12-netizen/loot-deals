@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T16:25:29+05:30",
+  "updated_at": "2026-11-26T16:37:45+05:30",
   "deals": [
+    {
+      "title": "Mamaearth Moisturizing Body Lotion 400ml💰 ₹249 ~₹599~ · 58% offMamaearth Hydrating Body Lotion 400ml💰 ₹274 ~₹549~ · 50% offMamaearth Rice Face Wash 100ml💰 ₹247 ~₹285~ · 13% offMamaearth Cocoa Rich Moisturizing Body Lotion 600ml💰 ₹359 ~₹899~ · 60% off🛒 Myntra🔗",
+      "price": 249,
+      "mrp": 599,
+      "discount_pct": 58.0,
+      "saving": 350,
+      "store": "Myntra",
+      "link": "https://myntr.it/hl4tr5X",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2547,
+      "posted_at": "2026-11-26T16:37:45+05:30"
+    },
+    {
+      "title": "AF Enterprise Microfiber Cleaning Cloth Roll 20 pcs",
+      "price": 199,
+      "mrp": 710,
+      "discount_pct": 72.0,
+      "saving": 511,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0GX2P66KX?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_E9CKZY2E2HR9ARH905QT&channelId=704&ascsubtag=20261126clzfb8d3li16&tag=lootkabhandar-21",
+      "image": "img/2546.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2546,
+      "posted_at": "2026-11-26T16:37:42+05:30"
+    },
     {
       "title": "Brand - Solimo Luxe Steel Dish Drainer",
       "price": 355,
@@ -495,32 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2486,
       "posted_at": "2026-11-25T20:17:36+05:30"
-    },
-    {
-      "title": "Blue Metallic Curly Spiral Candle with Holder, Pack of 6",
-      "price": 28,
-      "mrp": 260,
-      "discount_pct": 89.0,
-      "saving": 232,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HMWWH8YM?tag=lootkabhandar-21",
-      "image": "img/2485.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2485,
-      "posted_at": "2026-11-25T20:08:59+05:30"
-    },
-    {
-      "title": "Unmissable deal alert!DressBerry Women Analogue Leather Straps Watch 🔥😍💥 Now only",
-      "price": 742,
-      "mrp": 6990,
-      "discount_pct": 89.0,
-      "saving": 6248,
-      "store": "Myntra",
-      "link": "https://myntr.it/739gdca",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2484,
-      "posted_at": "2026-11-25T19:47:42+05:30"
     },
     {
       "kind": "coupon",
