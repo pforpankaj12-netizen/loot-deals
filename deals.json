@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T19:58:02+05:30",
+  "updated_at": "2026-11-26T20:34:29+05:30",
   "deals": [
+    {
+      "title": "Salt Oral Care FLASH Jamun Mint Toothpaste",
+      "price": 179,
+      "mrp": 299,
+      "discount_pct": 40.0,
+      "saving": 120,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HKNPPJ9V?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2573,
+      "posted_at": "2026-11-26T20:34:29+05:30"
+    },
     {
       "title": "HP Smartchoice Omnibook 5 OLED Snapdragon X Processor at Using AXIS card 2026 MacBook Air 13″ Laptop with M5 chip: AI and Apple Intelligence at",
       "price": 88690,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2517,
       "posted_at": "2026-11-26T11:12:13+05:30"
-    },
-    {
-      "title": "Bosch 368L, Double Door Refrigerator with 2.5 L Water Dispenser @31,990https://www.amazon.in/dp/B0GPQR66B7?tag=lootkabhandar-21Flat 10,000 Off With ICICI CC",
-      "price": 41990,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GPQR66B7?tag=lootkabhandar-21",
-      "image": "img/2516.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2516,
-      "posted_at": "2026-11-26T10:33:50+05:30"
     },
     {
       "kind": "coupon",
