@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T18:40:23+05:30",
+  "updated_at": "2026-11-26T19:14:12+05:30",
   "deals": [
+    {
+      "title": "PURVAJA Women’s Square Neck Cotton Dress(Floe-191-M_Maroon)",
+      "price": 428,
+      "mrp": 3399,
+      "discount_pct": 87.0,
+      "saving": 2971,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FNDRPPCV?tag=lootkabhandar-21",
+      "image": "img/2557.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2557,
+      "posted_at": "2026-11-26T19:14:12+05:30"
+    },
+    {
+      "title": "ANT Globe 18 Wired Optical Mouse",
+      "price": 99,
+      "mrp": 499,
+      "discount_pct": 80.0,
+      "saving": 400,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H4ZWC2BC?tag=lootkabhandar-21",
+      "image": "img/2556.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2556,
+      "posted_at": "2026-11-26T19:12:28+05:30"
+    },
     {
       "title": "Puma Men Foam Stride Running Shoe @1,485https://www.amazon.in/dp/B0CWDBJ3Q8?tag=lootkabhandar-21",
       "price": 82799,
@@ -495,32 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2497,
       "posted_at": "2026-11-25T22:05:50+05:30"
-    },
-    {
-      "title": "Roadster Men Buckle Sandal",
-      "price": 808,
-      "mrp": 6495,
-      "discount_pct": 88.0,
-      "saving": 5687,
-      "store": "Myntra",
-      "link": "https://myntr.it/0M2Q7uE",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2496,
-      "posted_at": "2026-11-25T21:58:43+05:30"
-    },
-    {
-      "title": "Floral Print Top by Aakriti",
-      "price": 111,
-      "mrp": 1299,
-      "discount_pct": 91.0,
-      "saving": 1188,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09R7S4K5X?tag=lootkabhandar-21",
-      "image": "img/2494.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2494,
-      "posted_at": "2026-11-25T21:38:51+05:30"
     },
     {
       "kind": "coupon",
