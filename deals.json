@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T12:07:52+05:30",
+  "updated_at": "2026-11-26T13:06:25+05:30",
   "deals": [
+    {
+      "title": "Accessorize Animal Medium Handheld Bag💰 ₹1,245 ₹5,995 · 79% offAccessorize Metallic Clutch Bag💰 ₹1,412 ₹5,395 · 74% off🛒 Myntra🔗",
+      "price": 1245,
+      "mrp": 5995,
+      "discount_pct": 79.0,
+      "saving": 4750,
+      "store": "Myntra",
+      "link": "https://myntr.it/2fs6jam",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2521,
+      "posted_at": "2026-11-26T13:06:25+05:30"
+    },
     {
       "title": "Deal of the day — price error, grab now! 😱",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2464,
       "posted_at": "2026-11-25T15:43:36+05:30"
-    },
-    {
-      "title": "A TATA Product - Organic India Tulsi Mulethi, 25 Infusion Bags",
-      "price": 108,
-      "mrp": 260,
-      "discount_pct": 58.0,
-      "saving": 152,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B077RZHT6F?tag=lootkabhandar-21",
-      "image": "img/2463.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2463,
-      "posted_at": "2026-11-25T15:06:45+05:30"
     },
     {
       "kind": "coupon",
