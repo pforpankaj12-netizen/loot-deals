@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-26T09:05:45+05:30",
+ "updated_at": "2026-11-26T09:23:54+05:30",
  "shorts": [
   {
    "number": 186,
@@ -49,6 +49,16 @@
  ],
  "reels": [
   {
+   "product": "Maroon Anarkali Kurta Set",
+   "price_text": "Rs. 385",
+   "youtube_id": "cGbYVcAaCdk",
+   "youtube_url": "https://www.youtube.com/shorts/cGbYVcAaCdk",
+   "instagram_url": "",
+   "facebook_url": "",
+   "shop_url": "https://www.meesho.com/s/p/1567uf",
+   "date": "2026-11-26"
+  },
+  {
    "product": "White Floral Gown",
    "price_text": "Rs. 272",
    "youtube_id": "XfyPCya2iak",
@@ -76,16 +86,6 @@
    "instagram_url": "",
    "facebook_url": "https://www.facebook.com/reel/1872192887537937/",
    "shop_url": "https://www.meesho.com/s/p/8q5gtm",
-   "date": "2026-11-24"
-  },
-  {
-   "product": "Yellow Crop Top Palazzo Shrug",
-   "price_text": "Rs. 976",
-   "youtube_id": "MwWUNIj0DM4",
-   "youtube_url": "https://www.youtube.com/shorts/MwWUNIj0DM4",
-   "instagram_url": "https://www.instagram.com/reel/DgIFgCxnQ4P/",
-   "facebook_url": "",
-   "shop_url": "https://www.meesho.com/s/p/gegzqz",
    "date": "2026-11-24"
   }
  ]
