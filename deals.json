@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T22:09:28+05:30",
+  "updated_at": "2026-11-26T22:22:02+05:30",
   "deals": [
+    {
+      "title": "HERE&NOW Women Printed Crepe Kurta💰 ₹139 ₹999 · 86% off🛒 Myntra🔗",
+      "price": 139,
+      "mrp": null,
+      "discount_pct": 86.0,
+      "saving": null,
+      "store": "Myntra",
+      "link": "https://myntr.it/0SGQpz5",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2577,
+      "posted_at": "2026-11-26T22:22:02+05:30"
+    },
     {
       "title": "Nike Men's Running Shoes",
       "price": 3999,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2525,
       "posted_at": "2026-11-26T13:44:19+05:30"
-    },
-    {
-      "title": "Baby Wipes (Pack Of 1) - Growgather",
-      "price": 97,
-      "mrp": 299,
-      "discount_pct": 68.0,
-      "saving": 202,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F99SFNF2?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2522,
-      "posted_at": "2026-11-26T13:33:41+05:30"
     },
     {
       "kind": "coupon",
