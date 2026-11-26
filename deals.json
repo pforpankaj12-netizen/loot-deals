@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T20:34:29+05:30",
+  "updated_at": "2026-11-26T21:15:06+05:30",
   "deals": [
+    {
+      "title": "rts [2 Pack] USB C to USB Adapter USB C Male to USB3 Female ,Thunderbolt 3 to Type A OTG Cable Converter Adapter Compatible with MacBook Pro 2021 iMac iPad Pro 2020 ipad Mini 6/Pro MacBook Air 2020 and Other Type C or Thunderbolt 4/3 Devices (Space Grey)",
+      "price": 99,
+      "mrp": 4999,
+      "discount_pct": 98.0,
+      "saving": 4900,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09K69NTJH?tag=lootkabhandar-21",
+      "image": "img/2575.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2575,
+      "posted_at": "2026-11-26T21:15:06+05:30"
+    },
+    {
+      "title": "Salt. Oral Care Senergy Sensitivity Toothpaste | Natural Enamel Repair & Sensitivity Relief | With Nano-Hydroxyapatite, Turmeric & Sesame Oil | Grapefruit Flavor | 100g",
+      "price": 189,
+      "mrp": 345,
+      "discount_pct": 45.0,
+      "saving": 156,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DRCZWTV6?tag=lootkabhandar-21",
+      "image": "img/2574.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2574,
+      "posted_at": "2026-11-26T21:14:58+05:30"
+    },
     {
       "title": "Salt Oral Care FLASH Jamun Mint Toothpaste",
       "price": 179,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2521,
       "posted_at": "2026-11-26T13:06:25+05:30"
-    },
-    {
-      "title": "Anni Designer Kurta with Pant",
-      "price": 299,
-      "mrp": null,
-      "discount_pct": 88.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=anni+designer+kurta+with+pant&i=specialty-aps&srs=15901075031&s=price-asc-rank&ds=v1%3AjrFSZlkW3ha0gAixPsyloMh10clgR%2FEpb37YzvZHvbg&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2520,
-      "posted_at": "2026-11-26T12:07:52+05:30"
-    },
-    {
-      "title": "URBN 10000mAh Frost MagSafe Power Bank with Built-in Stand | 15W Magnetic Wireless Charging | 20W USB-C PD Fast Charging | Ultra Compact | Pass-Through Charging | MagTag Ring | (Black)",
-      "price": 1057,
-      "mrp": 4999,
-      "discount_pct": 78.0,
-      "saving": 3942,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0G5XNHN96?tag=lootkabhandar-21",
-      "image": "img/2517.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2517,
-      "posted_at": "2026-11-26T11:12:13+05:30"
     },
     {
       "kind": "coupon",
