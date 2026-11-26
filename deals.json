@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T14:08:27+05:30",
+  "updated_at": "2026-11-26T14:52:24+05:30",
   "deals": [
+    {
+      "title": "FREEMANS IKON 3m:16mm Steel Inch Measuring Tape",
+      "price": 35,
+      "mrp": 100,
+      "discount_pct": 65.0,
+      "saving": 65,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B010M5GLXM?tag=lootkabhandar-21",
+      "image": "img/2542.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2542,
+      "posted_at": "2026-11-26T14:52:24+05:30"
+    },
     {
       "title": "Wickle Box A2 Desi Buffalo Ghee 500 ml",
       "price": 399,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2481,
       "posted_at": "2026-11-25T19:45:57+05:30"
-    },
-    {
-      "title": "Bpride Men's Multicolor Texas Leatherite Belt",
-      "price": 78,
-      "mrp": 649,
-      "discount_pct": 88.0,
-      "saving": 571,
-      "store": "Shopsy",
-      "link": "https://bitli.in/wTc8jpN",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2480,
-      "posted_at": "2026-11-25T19:44:52+05:30"
     },
     {
       "kind": "coupon",
