@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:52:32+05:30",
+  "updated_at": "2026-11-26T18:24:53+05:30",
   "deals": [
+    {
+      "title": "Crompton SensoSmart Box 60cm Baffle Filter Chimney",
+      "price": 12590,
+      "mrp": 33690,
+      "discount_pct": 63.0,
+      "saving": 21100,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B65LZN3M?tag=lootkabhandar-21",
+      "image": "img/2553.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2553,
+      "posted_at": "2026-11-26T18:24:53+05:30"
+    },
     {
       "title": "This price won't stick around!Titan Watch Deal 🔥😍💥 Now just",
       "price": 5999,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2492,
       "posted_at": "2026-11-25T21:09:07+05:30"
-    },
-    {
-      "title": "Crompton Regera Horizontal 25L 3‑Star Storage Water Heater | Superior Glassline Tank for Hard Water| Free Installation| 10 Bar High‑Rise Pressure| 5‑Level Safety| Rust‑Proof Body | 2000W Fast Heating",
-      "price": 7668,
-      "mrp": 13700,
-      "discount_pct": 44.0,
-      "saving": 6032,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HGFV98WX?tag=lootkabhandar-21",
-      "image": "img/2491.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2491,
-      "posted_at": "2026-11-25T21:09:02+05:30"
     },
     {
       "kind": "coupon",
