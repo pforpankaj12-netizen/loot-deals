@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T20:34:12+05:30",
+  "updated_at": "2026-11-27T21:54:54+05:30",
   "deals": [
+    {
+      "title": "Upto - S F JEANS CO AWARE Men Jeans from",
+      "price": 339,
+      "mrp": null,
+      "discount_pct": 80.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=S+F+eans+CO&s=price-asc-rank&ds=v1%3AOZzboATdNRVGPnYzD72ht39z4QwL6uLVgey3sn3bmFo&crid=SS4IXO9REP47&qid=1795796354&sprefix=s+f+jeans+co%2Caps%2C277&btn_type=ss&btn_ref=srctok-3c9addbaa5431a09&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2658,
+      "posted_at": "2026-11-27T21:54:54+05:30"
+    },
     {
       "title": "Rexivo Washing Machine Cleaner Tablets 15 Tablets",
       "price": 94,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2605,
       "posted_at": "2026-11-27T11:23:30+05:30"
-    },
-    {
-      "title": "Gentex GX93W Gentex Wht Mini Horn",
-      "price": 6378,
-      "mrp": 10206,
-      "discount_pct": 37.0,
-      "saving": 3828,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0041WWOX4?tag=lootkabhandar-21",
-      "image": "img/2604.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2604,
-      "posted_at": "2026-11-27T11:17:28+05:30"
     },
     {
       "kind": "coupon",
