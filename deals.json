@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T10:49:20+05:30",
+  "updated_at": "2026-11-27T11:05:14+05:30",
   "deals": [
+    {
+      "title": "Change the way you store shoes!HOOBRO Plastic Shoe Rack Deal 🔥😍💥 Now only",
+      "price": 2682,
+      "mrp": 8486,
+      "discount_pct": 68.0,
+      "saving": 5804,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HP64C21W?tag=lootkabhandar-21",
+      "image": "img/2600.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2600,
+      "posted_at": "2026-11-27T11:05:14+05:30"
+    },
     {
       "title": "REVLON Touch And Glow Moisturising Compact",
       "price": 174,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2546,
       "posted_at": "2026-11-26T16:37:42+05:30"
-    },
-    {
-      "title": "Brand - Solimo Luxe Steel Dish Drainer",
-      "price": 355,
-      "mrp": 1899,
-      "discount_pct": 81.0,
-      "saving": 1544,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CW1TPZRV?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2545,
-      "posted_at": "2026-11-26T16:25:29+05:30"
     },
     {
       "kind": "coupon",
