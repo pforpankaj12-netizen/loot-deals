@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T19:28:44+05:30",
+  "updated_at": "2026-11-27T19:35:39+05:30",
   "deals": [
+    {
+      "title": "Eureka Forbes AEROGUARD AP 175 | Covers up to 175 Sq. Ft.",
+      "price": 3999,
+      "mrp": 7999,
+      "discount_pct": 50.0,
+      "saving": 4000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HJ2B3B1R?tag=lootkabhandar-21",
+      "image": "img/2642.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2642,
+      "posted_at": "2026-11-27T19:35:39+05:30"
+    },
     {
       "title": "BLUE HEAVEN Bridal Makeup kit for women @ 340",
       "price": 340,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2594,
       "posted_at": "2026-11-27T08:40:24+05:30"
-    },
-    {
-      "title": "Ant Mousepad @79.https://www.amazon.in/dp/B0FFH3HKX4?tag=lootkabhandar-21",
-      "price": 199,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FFH3HKX4?tag=lootkabhandar-21",
-      "image": "img/2588.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2588,
-      "posted_at": "2026-11-27T08:08:39+05:30"
     },
     {
       "kind": "coupon",
