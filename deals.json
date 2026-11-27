@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T17:21:20+05:30",
+  "updated_at": "2026-11-27T17:51:47+05:30",
   "deals": [
+    {
+      "title": "Dishex L Dish Cleaner 5 Litre - Schevaran",
+      "price": 283,
+      "mrp": 960,
+      "discount_pct": 71.0,
+      "saving": 677,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B01FT44F48?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2634,
+      "posted_at": "2026-11-27T17:51:47+05:30"
+    },
     {
       "title": "Ant Wired Keyboard & Mouse at",
       "price": 349,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2577,
       "posted_at": "2026-11-26T22:22:02+05:30"
-    },
-    {
-      "title": "Nike Men's Running Shoes",
-      "price": 3999,
-      "mrp": 7999,
-      "discount_pct": 50.0,
-      "saving": 4000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=nike+shoes&rh=p_6%3AA1WYWER0W24N8S%257CA2O5KR0Y95DC4B%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A234394%2Cp_n_g-101015233022111%3A207199036031&ds=v1%3AjmR3jRFVVZvROk3ySQvhNkvc6ppOB4s1O0Tzf%2BGYlzA&qid=1784358147&rnid=207199033031&btn_type=ss&btn_ref=srctok-29e5a169d74642fa&ascsubtag=20261126clz8fxj2u1ei&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2576,
-      "posted_at": "2026-11-26T22:09:28+05:30"
     },
     {
       "kind": "coupon",
