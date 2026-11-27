@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T20:22:51+05:30",
+  "updated_at": "2026-11-27T20:34:12+05:30",
   "deals": [
+    {
+      "title": "Rexivo Washing Machine Cleaner Tablets 15 Tablets",
+      "price": 94,
+      "mrp": 599,
+      "discount_pct": 84.0,
+      "saving": 505,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HG9JSWMJ?lv=shuf&social_share=cm_sw_r_cso_wa_apin_dp_40E916SFKPK2S9Z3MA8Q&channelId=704&ascsubtag=20261127cl52p3zx9ru4&tag=lootkabhandar-21",
+      "image": "img/2655.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2655,
+      "posted_at": "2026-11-27T20:34:12+05:30"
+    },
     {
       "title": "WishCare Vitamin C Pure Glow Milk Sunscreen with SPF 50 PA++++ In-Vivo Tested | Glowing Skin with Broad Spectrum Protection | Ultra Lightweight, Oil Free & No White Cast | For All Skin Types | 30g",
       "price": 183,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2604,
       "posted_at": "2026-11-27T11:17:28+05:30"
-    },
-    {
-      "title": "Fastrack Autumn-Winter 19 Analog-Digital Orange Dial Men's Watch NM38035SP03/NN38035SP03",
-      "price": 2197,
-      "mrp": 5295,
-      "discount_pct": 58.0,
-      "saving": 3098,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B079H9VFRR?tag=lootkabhandar-21",
-      "image": "img/2603.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2603,
-      "posted_at": "2026-11-27T11:17:16+05:30"
     },
     {
       "kind": "coupon",
