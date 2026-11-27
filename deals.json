@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T13:18:35+05:30",
+  "updated_at": "2026-11-27T13:45:05+05:30",
   "deals": [
+    {
+      "title": "Nykaa Loot: L'Oreal Paris Elseve Extraordinary Oil Hair Serum (30ml / 100ml) @ / USE CODE: NEW25NB (NEW USER On App)",
+      "price": 262,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Nykaa",
+      "link": "https://bitli.in/WVgb0xk",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2617,
+      "posted_at": "2026-11-27T13:45:05+05:30"
+    },
+    {
+      "title": "Coffe Mug Stand Grab",
+      "price": 114,
+      "mrp": 299,
+      "discount_pct": 62.0,
+      "saving": 185,
+      "store": "Shopsy",
+      "link": "https://bitli.in/gt28qaM",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2616,
+      "posted_at": "2026-11-27T13:43:57+05:30"
+    },
     {
       "title": "PULY Verde Grinder Hopper Cleaner Spray 200ML",
       "price": 3987,
@@ -495,32 +521,6 @@
       "category": "Grocery & Food",
       "telegram_msg_id": 2558,
       "posted_at": "2026-11-26T19:30:02+05:30"
-    },
-    {
-      "title": "PURVAJA Women’s Square Neck Cotton Dress(Floe-191-M_Maroon)",
-      "price": 428,
-      "mrp": 3399,
-      "discount_pct": 87.0,
-      "saving": 2971,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FNDRPPCV?tag=lootkabhandar-21",
-      "image": "img/2557.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2557,
-      "posted_at": "2026-11-26T19:14:12+05:30"
-    },
-    {
-      "title": "ANT Globe 18 Wired Optical Mouse",
-      "price": 99,
-      "mrp": 499,
-      "discount_pct": 80.0,
-      "saving": 400,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H4ZWC2BC?tag=lootkabhandar-21",
-      "image": "img/2556.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2556,
-      "posted_at": "2026-11-26T19:12:28+05:30"
     },
     {
       "kind": "coupon",
