@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T19:45:21+05:30",
+  "updated_at": "2026-11-27T19:54:30+05:30",
   "deals": [
+    {
+      "title": "Aquaguard Nexen RO+UV Water Purifier",
+      "price": 12999,
+      "mrp": 31000,
+      "discount_pct": 58.0,
+      "saving": 18001,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FD39MDP5?tag=lootkabhandar-21",
+      "image": "img/2650.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2650,
+      "posted_at": "2026-11-27T19:54:30+05:30"
+    },
     {
       "title": "Nykaa Loot: Cetaphil Gentle Skin Cleanser For Normal, Dry Skin (118ml) @ ₹344Extra Discount with ₹800 OFFUSE CODE: PINKFRIDAY800 (Min. Order ₹5,000)",
       "price": 344,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2600,
       "posted_at": "2026-11-27T11:05:14+05:30"
-    },
-    {
-      "title": "REVLON Touch And Glow Moisturising Compact",
-      "price": 174,
-      "mrp": 450,
-      "discount_pct": 61.0,
-      "saving": 276,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B006LXBS24?tag=lootkabhandar-21",
-      "image": "img/2599.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2599,
-      "posted_at": "2026-11-27T10:49:20+05:30"
     },
     {
       "kind": "coupon",
