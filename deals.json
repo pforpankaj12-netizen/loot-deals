@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T09:15:54+05:30",
+  "updated_at": "2026-11-27T10:32:49+05:30",
   "deals": [
+    {
+      "title": "Activa 15L Storage Water Geyser",
+      "price": 4299,
+      "mrp": 8990,
+      "discount_pct": 52.0,
+      "saving": 4691,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=Geyser&rh=n%3A2083425031&ascsubtag=20261127clw9snu8kx2l&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2596,
+      "posted_at": "2026-11-27T10:32:49+05:30"
+    },
     {
       "title": "OpenTech® Privacy Tempered Glass Screen Protector Compatible for iPhone 15 / iPhone 16 (6.1 Inches) with Edge to Edge Coverage - Anti Spy, Case Friendly and Bubble free installation kit",
       "price": 199,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2538,
       "posted_at": "2026-11-26T14:08:27+05:30"
-    },
-    {
-      "title": "Get ready to elevate your style!Roadster Men Tan Casual Open Toe Slip On Sandals Deal 🔥😍💥 Now only",
-      "price": 762,
-      "mrp": 5995,
-      "discount_pct": 87.0,
-      "saving": 5233,
-      "store": "Myntra",
-      "link": "https://myntr.it/crcIN8W",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2535,
-      "posted_at": "2026-11-26T13:51:13+05:30"
     },
     {
       "kind": "coupon",
