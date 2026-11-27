@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T17:10:35+05:30",
+  "updated_at": "2026-11-27T17:21:20+05:30",
   "deals": [
+    {
+      "title": "Ant Wired Keyboard & Mouse at",
+      "price": 349,
+      "mrp": null,
+      "discount_pct": 77.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FH25BLFV?tag=lootkabhandar-21",
+      "image": "img/2633.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2633,
+      "posted_at": "2026-11-27T17:21:20+05:30"
+    },
+    {
+      "title": "Everyuth Naturals Sun Care Berries Body Lotion 500ml",
+      "price": 299,
+      "mrp": 499,
+      "discount_pct": 40.0,
+      "saving": 200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09DD4WD7W?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2632,
+      "posted_at": "2026-11-27T17:18:25+05:30"
+    },
     {
       "title": "MRP Error Loot ://www.amazon.in/dp/B0FNRNS4Y2?tag=lootkabhandar-21Real Mrp 435 | Bengaluru Available",
       "price": 392,
@@ -495,32 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2576,
       "posted_at": "2026-11-26T22:09:28+05:30"
-    },
-    {
-      "title": "rts [2 Pack] USB C to USB Adapter USB C Male to USB3 Female ,Thunderbolt 3 to Type A OTG Cable Converter Adapter Compatible with MacBook Pro 2021 iMac iPad Pro 2020 ipad Mini 6/Pro MacBook Air 2020 and Other Type C or Thunderbolt 4/3 Devices (Space Grey)",
-      "price": 99,
-      "mrp": 4999,
-      "discount_pct": 98.0,
-      "saving": 4900,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09K69NTJH?tag=lootkabhandar-21",
-      "image": "img/2575.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2575,
-      "posted_at": "2026-11-26T21:15:06+05:30"
-    },
-    {
-      "title": "Salt. Oral Care Senergy Sensitivity Toothpaste | Natural Enamel Repair & Sensitivity Relief | With Nano-Hydroxyapatite, Turmeric & Sesame Oil | Grapefruit Flavor | 100g",
-      "price": 189,
-      "mrp": 345,
-      "discount_pct": 45.0,
-      "saving": 156,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DRCZWTV6?tag=lootkabhandar-21",
-      "image": "img/2574.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2574,
-      "posted_at": "2026-11-26T21:14:58+05:30"
     },
     {
       "kind": "coupon",
