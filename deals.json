@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T18:21:39+05:30",
+  "updated_at": "2026-11-27T19:07:46+05:30",
   "deals": [
+    {
+      "title": "Philips 80W Soundbar · Philips 31W 2.1 Multimedia Speakers",
+      "price": 8999,
+      "mrp": 14999,
+      "discount_pct": 40.0,
+      "saving": 6000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B071XCQ2PQ?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Electronics",
+      "telegram_msg_id": 2638,
+      "posted_at": "2026-11-27T19:07:46+05:30"
+    },
     {
       "title": "NCERT Text Books Ciass 10 Maths",
       "price": 60,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2584,
       "posted_at": "2026-11-27T08:01:24+05:30"
-    },
-    {
-      "title": "Crompton 60cm Box Chimney @11,890https://www.amazon.in/dp/B0DCW7QR97?tag=lootkabhandar-21",
-      "price": 19999,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DCW7QR97?tag=lootkabhandar-21",
-      "image": "img/2580.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2580,
-      "posted_at": "2026-11-26T23:07:48+05:30"
     },
     {
       "kind": "coupon",
