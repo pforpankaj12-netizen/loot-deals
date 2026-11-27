@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T17:02:15+05:30",
+  "updated_at": "2026-11-27T17:10:35+05:30",
   "deals": [
+    {
+      "title": "MRP Error Loot ://www.amazon.in/dp/B0FNRNS4Y2?tag=lootkabhandar-21Real Mrp 435 | Bengaluru Available",
+      "price": 392,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FNRNS4Y2?tag=lootkabhandar-21",
+      "image": "img/2631.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2631,
+      "posted_at": "2026-11-27T17:10:35+05:30"
+    },
     {
       "title": "LOOT /",
       "price": 5699,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2574,
       "posted_at": "2026-11-26T21:14:58+05:30"
-    },
-    {
-      "title": "Salt Oral Care FLASH Jamun Mint Toothpaste",
-      "price": 179,
-      "mrp": 299,
-      "discount_pct": 40.0,
-      "saving": 120,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HKNPPJ9V?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2573,
-      "posted_at": "2026-11-26T20:34:29+05:30"
     },
     {
       "kind": "coupon",
