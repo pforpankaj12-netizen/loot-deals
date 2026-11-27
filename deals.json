@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T08:08:39+05:30",
+  "updated_at": "2026-11-27T08:40:24+05:30",
   "deals": [
+    {
+      "title": "Livon Keratin Shampoo at .",
+      "price": 238,
+      "mrp": null,
+      "discount_pct": 70.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FNN4954M?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2594,
+      "posted_at": "2026-11-27T08:40:24+05:30"
+    },
     {
       "title": "Ant Mousepad @79.https://www.amazon.in/dp/B0FFH3HKX4?tag=lootkabhandar-21",
       "price": 199,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2534,
       "posted_at": "2026-11-26T13:51:08+05:30"
-    },
-    {
-      "title": "Ultimate Loot Deals 🔥Under ₹700Fashion & Lifestyle -",
-      "price": 700,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Myntra",
-      "link": "https://myntr.it/06gd7Zo",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2533,
-      "posted_at": "2026-11-26T13:51:04+05:30"
     },
     {
       "kind": "coupon",
