@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T13:01:45+05:30",
+  "updated_at": "2026-11-27T13:18:35+05:30",
   "deals": [
+    {
+      "title": "PULY Verde Grinder Hopper Cleaner Spray 200ML",
+      "price": 3987,
+      "mrp": 19938,
+      "discount_pct": 80.0,
+      "saving": 15951,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B00V890LZQ?tag=lootkabhandar-21",
+      "image": "img/2614.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 2614,
+      "posted_at": "2026-11-27T13:18:35+05:30"
+    },
+    {
+      "title": "Boldfit Bicycle Pump - High Pressure Foot Air Pump for Cycles, Balloons, Footballs and Tyres",
+      "price": 299,
+      "mrp": 1499,
+      "discount_pct": 80.0,
+      "saving": 1200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G43WXXRC?tag=lootkabhandar-21",
+      "image": "img/2613.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2613,
+      "posted_at": "2026-11-27T13:18:23+05:30"
+    },
     {
       "title": "Grab these lightweight running shoes before they're gone!Roadster Women's Black & White Textured Running Shoes Deal 🔥😍💥 Now just !",
       "price": 805,
@@ -495,32 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2556,
       "posted_at": "2026-11-26T19:12:28+05:30"
-    },
-    {
-      "title": "Puma Men Foam Stride Running Shoe @1,485https://www.amazon.in/dp/B0CWDBJ3Q8?tag=lootkabhandar-21",
-      "price": 82799,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CWDBJ3Q8?tag=lootkabhandar-21",
-      "image": "img/2555.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2555,
-      "posted_at": "2026-11-26T18:40:23+05:30"
-    },
-    {
-      "title": "Shoe Shine Wipes 80 Series",
-      "price": 299,
-      "mrp": 599,
-      "discount_pct": 50.0,
-      "saving": 300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0HLRLJGB4?lv=shuf&social_share=cm_sw_r_cso_wa_apin_dp_YBDYHC581Z46TF29ZEK7&channelId=704&ascsubtag=20261126clb3ix7p24vl&tag=lootkabhandar-21",
-      "image": "img/2554.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2554,
-      "posted_at": "2026-11-26T18:37:15+05:30"
     },
     {
       "kind": "coupon",
