@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T15:19:35+05:30",
+  "updated_at": "2026-11-27T15:37:25+05:30",
   "deals": [
+    {
+      "title": "Armani Exchange A|X Chronograph Watch for Men",
+      "price": 10797,
+      "mrp": 17995,
+      "discount_pct": 40.0,
+      "saving": 7198,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DSBRF8HY?tag=lootkabhandar-21",
+      "image": "img/2627.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2627,
+      "posted_at": "2026-11-27T15:37:25+05:30"
+    },
     {
       "title": "ProElite Cover for Xiaomi Mi Pad 8/Pad 8 Pro 11.2 inch Cover, Soft Flexible Flip Case Cover with Pen Holder for Mi Pad 8/Pad 8 Pro 11.2 inch, Support Auto Sleep Wake, [Recoil Series] - Eiffel",
       "price": 499,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2569,
       "posted_at": "2026-11-26T19:49:38+05:30"
-    },
-    {
-      "title": "Don’t miss this stylish upgrade!RAYMOND Men Houndstooth Blazer Deal 🔥😍💥 Now only",
-      "price": 4319,
-      "mrp": 10534,
-      "discount_pct": 59.0,
-      "saving": 6215,
-      "store": "Ajio",
-      "link": "https://ajiio.in/5bd86h7",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2567,
-      "posted_at": "2026-11-26T19:49:00+05:30"
     },
     {
       "kind": "coupon",
