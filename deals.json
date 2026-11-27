@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T11:47:33+05:30",
+  "updated_at": "2026-11-27T11:55:29+05:30",
   "deals": [
+    {
+      "title": "Kojic Acid & Turmeric Cleansing Pads 60 Pads",
+      "price": 299,
+      "mrp": 950,
+      "discount_pct": 69.0,
+      "saving": 651,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GZWJF7XP?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2609,
+      "posted_at": "2026-11-27T11:55:29+05:30"
+    },
     {
       "title": "Get 10% Cashback Upto On Home OrderCollect Offer : : Order Value .",
       "price": 200,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2553,
       "posted_at": "2026-11-26T18:24:53+05:30"
-    },
-    {
-      "title": "This price won't stick around!Titan Watch Deal 🔥😍💥 Now just",
-      "price": 5999,
-      "mrp": 13995,
-      "discount_pct": 57.0,
-      "saving": 7996,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CLR9LP6T?tag=lootkabhandar-21",
-      "image": "img/2552.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2552,
-      "posted_at": "2026-11-26T17:52:32+05:30"
     },
     {
       "kind": "coupon",
