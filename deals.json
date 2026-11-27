@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T11:23:30+05:30",
+  "updated_at": "2026-11-27T11:35:29+05:30",
   "deals": [
+    {
+      "title": "Get 10% Cashback Upto On Home OrderCollect Offer : : Order Value .",
+      "price": 200,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.AAR23B2SPV3DG?rdpf=en&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2606,
+      "posted_at": "2026-11-27T11:35:29+05:30"
+    },
     {
       "title": "Dishwasher Cleaning Tablets 10 Pcs",
       "price": 450,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2552,
       "posted_at": "2026-11-26T17:52:32+05:30"
-    },
-    {
-      "title": "Best deal Buy Fast Fast (875 ml) : Max Qty | 200 ml .",
-      "price": 169,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HM87GFP5?tag=lootkabhandar-21",
-      "image": "img/2551.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2551,
-      "posted_at": "2026-11-26T17:50:19+05:30"
     },
     {
       "kind": "coupon",
