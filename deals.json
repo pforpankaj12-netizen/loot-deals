@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T13:45:05+05:30",
+  "updated_at": "2026-11-27T14:09:50+05:30",
   "deals": [
+    {
+      "title": "Redmi 12C (Mint , 4GB RAM, 64GB Storage) | High .",
+      "price": 2999,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BYN34PGJ?tag=lootkabhandar-21",
+      "image": "img/2620.jpg",
+      "category": "Smartphone & Mobile",
+      "telegram_msg_id": 2620,
+      "posted_at": "2026-11-27T14:09:50+05:30"
+    },
     {
       "title": "Nykaa Loot: L'Oreal Paris Elseve Extraordinary Oil Hair Serum (30ml / 100ml) @ / USE CODE: NEW25NB (NEW USER On App)",
       "price": 262,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2560,
       "posted_at": "2026-11-26T19:42:52+05:30"
-    },
-    {
-      "title": "MarwarBites Mixed Dry Fruit 1kg",
-      "price": 429,
-      "mrp": 1000,
-      "discount_pct": 57.0,
-      "saving": 571,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HQD7KX3L?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Grocery & Food",
-      "telegram_msg_id": 2558,
-      "posted_at": "2026-11-26T19:30:02+05:30"
     },
     {
       "kind": "coupon",
