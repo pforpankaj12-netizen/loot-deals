@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T21:54:54+05:30",
+  "updated_at": "2026-11-27T23:32:14+05:30",
   "deals": [
+    {
+      "title": "Dune London Women Datch Printed Sling Bag💰 ₹2,750 ₹11,000 · 60% offSteve Madden Women Bmatteo3 Satchel💰 ₹2,000 ₹7,999 · 65% off🛒 AJIO🔗",
+      "price": 2750,
+      "mrp": 11000,
+      "discount_pct": 60.0,
+      "saving": 8250,
+      "store": "Ajio",
+      "link": "https://ajiio.in/5TpM3Eu",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2659,
+      "posted_at": "2026-11-27T23:32:14+05:30"
+    },
     {
       "title": "Upto - S F JEANS CO AWARE Men Jeans from",
       "price": 339,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2608,
       "posted_at": "2026-11-27T11:47:33+05:30"
-    },
-    {
-      "title": "Dishwasher Cleaning Tablets 10 Pcs",
-      "price": 450,
-      "mrp": 1950,
-      "discount_pct": 77.0,
-      "saving": 1500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0HQMS97G3?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_JYQ4MZB3ZX5ZQJ2R2REP&channelId=704&ascsubtag=20261127cl99qqbrw2us&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Electronics",
-      "telegram_msg_id": 2605,
-      "posted_at": "2026-11-27T11:23:30+05:30"
     },
     {
       "kind": "coupon",
