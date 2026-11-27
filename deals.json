@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T17:51:47+05:30",
+  "updated_at": "2026-11-27T18:21:39+05:30",
   "deals": [
+    {
+      "title": "NCERT Text Books Ciass 10 Maths",
+      "price": 60,
+      "mrp": 160,
+      "discount_pct": 62.0,
+      "saving": 100,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B085HS7T28?tag=lootkabhandar-21",
+      "image": "img/2637.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2637,
+      "posted_at": "2026-11-27T18:21:39+05:30"
+    },
+    {
+      "title": "Set Wet Luxury Perfume Gift Set | Perfume for Man | 4x18ml | Gifts for Men | Woody, Amber, Musk Premium Fragrance Scent",
+      "price": 100,
+      "mrp": 599,
+      "discount_pct": 83.0,
+      "saving": 499,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GQHV7JJM?tag=lootkabhandar-21",
+      "image": "img/2636.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2636,
+      "posted_at": "2026-11-27T18:21:34+05:30"
+    },
+    {
+      "title": "SBD 1 Meter Universal Top load/Semi & Fully Automatic Washing Machine Outlet Drain Waste Pipe (Grey, 1 Mtr)",
+      "price": 136,
+      "mrp": 299,
+      "discount_pct": 54.0,
+      "saving": 163,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DWLCYBQK?tag=lootkabhandar-21",
+      "image": "img/2635.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2635,
+      "posted_at": "2026-11-27T18:21:26+05:30"
+    },
     {
       "title": "Dishex L Dish Cleaner 5 Litre - Schevaran",
       "price": 283,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2580,
       "posted_at": "2026-11-26T23:07:48+05:30"
-    },
-    {
-      "title": "Nature Purify Mixed Dry Fruits 1Kg",
-      "price": 460,
-      "mrp": 1499,
-      "discount_pct": 69.0,
-      "saving": 1039,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HG5X6N3B?tag=lootkabhandar-21",
-      "image": "img/2579.jpg",
-      "category": "Grocery & Food",
-      "telegram_msg_id": 2579,
-      "posted_at": "2026-11-26T23:03:46+05:30"
-    },
-    {
-      "title": "Bella Vita White Oud Eau De Parfum 100ml",
-      "price": 399,
-      "mrp": 999,
-      "discount_pct": 60.0,
-      "saving": 600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08XBVLF8B?tag=lootkabhandar-21",
-      "image": "img/2578.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2578,
-      "posted_at": "2026-11-26T22:51:08+05:30"
-    },
-    {
-      "title": "HERE&NOW Women Printed Crepe Kurta💰 ₹139 ₹999 · 86% off🛒 Myntra🔗",
-      "price": 139,
-      "mrp": null,
-      "discount_pct": 86.0,
-      "saving": null,
-      "store": "Myntra",
-      "link": "https://myntr.it/0SGQpz5",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2577,
-      "posted_at": "2026-11-26T22:22:02+05:30"
     },
     {
       "kind": "coupon",
