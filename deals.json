@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T10:32:49+05:30",
+  "updated_at": "2026-11-27T10:49:20+05:30",
   "deals": [
+    {
+      "title": "REVLON Touch And Glow Moisturising Compact",
+      "price": 174,
+      "mrp": 450,
+      "discount_pct": 61.0,
+      "saving": 276,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B006LXBS24?tag=lootkabhandar-21",
+      "image": "img/2599.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2599,
+      "posted_at": "2026-11-27T10:49:20+05:30"
+    },
+    {
+      "title": "POND'S Youthful Miracle Hexyl Retinol Complex",
+      "price": 392,
+      "mrp": 1199,
+      "discount_pct": 67.0,
+      "saving": 807,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B077NDKG7D?tag=lootkabhandar-21",
+      "image": "img/2598.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2598,
+      "posted_at": "2026-11-27T10:49:03+05:30"
+    },
     {
       "title": "Activa 15L Storage Water Geyser",
       "price": 4299,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2545,
       "posted_at": "2026-11-26T16:25:29+05:30"
-    },
-    {
-      "title": "FREEMANS IKON 3m:16mm Steel Inch Measuring Tape",
-      "price": 35,
-      "mrp": 100,
-      "discount_pct": 65.0,
-      "saving": 65,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B010M5GLXM?tag=lootkabhandar-21",
-      "image": "img/2542.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2542,
-      "posted_at": "2026-11-26T14:52:24+05:30"
-    },
-    {
-      "title": "Wickle Box A2 Desi Buffalo Ghee 500 ml",
-      "price": 399,
-      "mrp": 1999,
-      "discount_pct": 80.0,
-      "saving": 1600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HRPM36SM?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2538,
-      "posted_at": "2026-11-26T14:08:27+05:30"
     },
     {
       "kind": "coupon",
