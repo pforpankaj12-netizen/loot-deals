@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T11:55:29+05:30",
+  "updated_at": "2026-11-27T13:01:45+05:30",
   "deals": [
+    {
+      "title": "Grab these lightweight running shoes before they're gone!Roadster Women's Black & White Textured Running Shoes Deal 🔥😍💥 Now just !",
+      "price": 805,
+      "mrp": 4590,
+      "discount_pct": 82.0,
+      "saving": 3785,
+      "store": "Myntra",
+      "link": "https://myntr.it/W0AARf3",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2612,
+      "posted_at": "2026-11-27T13:01:45+05:30"
+    },
     {
       "title": "Kojic Acid & Turmeric Cleansing Pads 60 Pads",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2554,
       "posted_at": "2026-11-26T18:37:15+05:30"
-    },
-    {
-      "title": "Crompton SensoSmart Box 60cm Baffle Filter Chimney",
-      "price": 12590,
-      "mrp": 33690,
-      "discount_pct": 63.0,
-      "saving": 21100,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0B65LZN3M?tag=lootkabhandar-21",
-      "image": "img/2553.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2553,
-      "posted_at": "2026-11-26T18:24:53+05:30"
     },
     {
       "kind": "coupon",
