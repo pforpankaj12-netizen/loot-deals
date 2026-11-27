@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T23:32:14+05:30",
+  "updated_at": "2026-11-27T23:49:10+05:30",
   "deals": [
+    {
+      "title": "Nikunj XL Premium Detergent Powder 5kg",
+      "price": 277,
+      "mrp": 650,
+      "discount_pct": 57.0,
+      "saving": 373,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C1BQ17GS?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2661,
+      "posted_at": "2026-11-27T23:49:10+05:30"
+    },
     {
       "title": "Dune London Women Datch Printed Sling Bag💰 ₹2,750 ₹11,000 · 60% offSteve Madden Women Bmatteo3 Satchel💰 ₹2,000 ₹7,999 · 65% off🛒 AJIO🔗",
       "price": 2750,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2609,
       "posted_at": "2026-11-27T11:55:29+05:30"
-    },
-    {
-      "title": "Get 10% Cashback Upto On Home OrderCollect Offer : : Order Value .",
-      "price": 200,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.AAR23B2SPV3DG?rdpf=en&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2608,
-      "posted_at": "2026-11-27T11:47:33+05:30"
     },
     {
       "kind": "coupon",
