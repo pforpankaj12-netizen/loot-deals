@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T08:40:24+05:30",
+  "updated_at": "2026-11-27T09:15:54+05:30",
   "deals": [
+    {
+      "title": "OpenTech® Privacy Tempered Glass Screen Protector Compatible for iPhone 15 / iPhone 16 (6.1 Inches) with Edge to Edge Coverage - Anti Spy, Case Friendly and Bubble free installation kit",
+      "price": 199,
+      "mrp": 999,
+      "discount_pct": 80.0,
+      "saving": 800,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CP64NKFT?tag=lootkabhandar-21",
+      "image": "img/2595.jpg",
+      "category": "Smartphone & Mobile",
+      "telegram_msg_id": 2595,
+      "posted_at": "2026-11-27T09:15:54+05:30"
+    },
     {
       "title": "Livon Keratin Shampoo at .",
       "price": 238,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2535,
       "posted_at": "2026-11-26T13:51:13+05:30"
-    },
-    {
-      "title": "This deal won't last long!Roadster Men Solid Formal Shoes Deal 🔥😍💥 Now only",
-      "price": 552,
-      "mrp": 3999,
-      "discount_pct": 86.0,
-      "saving": 3447,
-      "store": "Myntra",
-      "link": "https://myntr.it/bx5N3pr",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2534,
-      "posted_at": "2026-11-26T13:51:08+05:30"
     },
     {
       "kind": "coupon",
