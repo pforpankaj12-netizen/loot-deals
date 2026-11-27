@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T19:54:30+05:30",
+  "updated_at": "2026-11-27T20:22:51+05:30",
   "deals": [
+    {
+      "title": "WishCare Vitamin C Pure Glow Milk Sunscreen with SPF 50 PA++++ In-Vivo Tested | Glowing Skin with Broad Spectrum Protection | Ultra Lightweight, Oil Free & No White Cast | For All Skin Types | 30g",
+      "price": 183,
+      "mrp": 349,
+      "discount_pct": 47.0,
+      "saving": 166,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GL89R9F7?tag=lootkabhandar-21",
+      "image": "img/2654.jpg",
+      "category": "Smartphone & Mobile",
+      "telegram_msg_id": 2654,
+      "posted_at": "2026-11-27T20:22:51+05:30"
+    },
+    {
+      "title": "ProElite Cover for Lenovo Idea Tab Pro 12.7 inch 2025 Case Cover, Deer Smart Flip Case Cover for Lenovo Idea Tab Pro 12.7 inch Tablet with Pen Holder, Black",
+      "price": 499,
+      "mrp": 1999,
+      "discount_pct": 75.0,
+      "saving": 1500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F3CM1BPG?tag=lootkabhandar-21",
+      "image": "img/2653.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2653,
+      "posted_at": "2026-11-27T20:22:47+05:30"
+    },
+    {
+      "title": "STARTRC Mini 5 Pro Case, Portable Carrying Bag for DJI Mini 5 Pro Accessories,for DJI RC 2 Controller Fly More Combo",
+      "price": 5278,
+      "mrp": 8445,
+      "discount_pct": 37.0,
+      "saving": 3167,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FPFX2VFB?tag=lootkabhandar-21",
+      "image": "img/2652.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2652,
+      "posted_at": "2026-11-27T20:22:35+05:30"
+    },
     {
       "title": "Aquaguard Nexen RO+UV Water Purifier",
       "price": 12999,
@@ -482,45 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2603,
       "posted_at": "2026-11-27T11:17:16+05:30"
-    },
-    {
-      "title": "Sani Fresh Advanced Liquid Toilet Cleaner - 5L |Advanced Thicker Formula |Removes Toughest Stains |Kills 99.9% Germs |Provides Long Lasting Freshness |Suitable for Toilet Bowls |Instant Sanitization",
-      "price": 423,
-      "mrp": 1125,
-      "discount_pct": 62.0,
-      "saving": 702,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B081VQMC6B?tag=lootkabhandar-21",
-      "image": "img/2602.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2602,
-      "posted_at": "2026-11-27T11:17:04+05:30"
-    },
-    {
-      "title": "S F Jeans CO Aware Men Jeans",
-      "price": 399,
-      "mrp": 1199,
-      "discount_pct": 67.0,
-      "saving": 800,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DLW4NN5J?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2601,
-      "posted_at": "2026-11-27T11:12:31+05:30"
-    },
-    {
-      "title": "Change the way you store shoes!HOOBRO Plastic Shoe Rack Deal 🔥😍💥 Now only",
-      "price": 2682,
-      "mrp": 8486,
-      "discount_pct": 68.0,
-      "saving": 5804,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HP64C21W?tag=lootkabhandar-21",
-      "image": "img/2600.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2600,
-      "posted_at": "2026-11-27T11:05:14+05:30"
     },
     {
       "kind": "coupon",
