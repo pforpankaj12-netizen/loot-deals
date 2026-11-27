@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T19:07:46+05:30",
+  "updated_at": "2026-11-27T19:28:44+05:30",
   "deals": [
+    {
+      "title": "BLUE HEAVEN Bridal Makeup kit for women @ 340",
+      "price": 340,
+      "mrp": null,
+      "discount_pct": 79.0,
+      "saving": null,
+      "store": "Flipkart",
+      "link": "https://fktr.in/bb5eiKr",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2641,
+      "posted_at": "2026-11-27T19:28:44+05:30"
+    },
+    {
+      "title": "OWNAIR Air Purifier HEPA H13 Mini",
+      "price": 3999,
+      "mrp": 8999,
+      "discount_pct": 56.0,
+      "saving": 5000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FRSZD5WB?tag=lootkabhandar-21",
+      "image": "img/2640.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2640,
+      "posted_at": "2026-11-27T19:25:08+05:30"
+    },
+    {
+      "title": "Intel Core i5 9600K 9th Gen 6 Cores 4.6GHz",
+      "price": 12459,
+      "mrp": 37100,
+      "discount_pct": 66.0,
+      "saving": 24641,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07HHLX1R8?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2639,
+      "posted_at": "2026-11-27T19:24:59+05:30"
+    },
     {
       "title": "Philips 80W Soundbar · Philips 31W 2.1 Multimedia Speakers",
       "price": 8999,
@@ -482,45 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2588,
       "posted_at": "2026-11-27T08:08:39+05:30"
-    },
-    {
-      "title": "IQOO 15R at with ICICI/SBI Credit Card",
-      "price": 56499,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HC9TXP1Y?tag=lootkabhandar-21",
-      "image": "img/2587.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2587,
-      "posted_at": "2026-11-27T08:08:22+05:30"
-    },
-    {
-      "title": "Boldfit Blaze Football with Pump",
-      "price": 299,
-      "mrp": 999,
-      "discount_pct": 70.0,
-      "saving": 700,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HHF1RMLK?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2585,
-      "posted_at": "2026-11-27T08:01:55+05:30"
-    },
-    {
-      "title": "RENÉE Pore Minimizing Sunscreen SPF 70, 50Ml",
-      "price": 129,
-      "mrp": 325,
-      "discount_pct": 60.0,
-      "saving": 196,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0CYHGNLF8?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2584,
-      "posted_at": "2026-11-27T08:01:24+05:30"
     },
     {
       "kind": "coupon",
