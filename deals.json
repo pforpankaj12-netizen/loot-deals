@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T14:09:50+05:30",
+  "updated_at": "2026-11-27T15:05:31+05:30",
   "deals": [
+    {
+      "title": "Skechers Sets Silver Watch SR9135",
+      "price": 1820,
+      "mrp": 4995,
+      "discount_pct": 64.0,
+      "saving": 3175,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FX5XJCHQ?tag=lootkabhandar-21",
+      "image": "img/2622.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2622,
+      "posted_at": "2026-11-27T15:05:31+05:30"
+    },
     {
       "title": "Redmi 12C (Mint , 4GB RAM, 64GB Storage) | High .",
       "price": 2999,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2561,
       "posted_at": "2026-11-26T19:43:41+05:30"
-    },
-    {
-      "title": "HOMICA Magic Eraser 4 Pieces",
-      "price": 299,
-      "mrp": 599,
-      "discount_pct": 50.0,
-      "saving": 300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H1P22M8J?tag=lootkabhandar-21",
-      "image": "img/2560.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2560,
-      "posted_at": "2026-11-26T19:42:52+05:30"
     },
     {
       "kind": "coupon",
