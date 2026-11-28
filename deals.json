@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T22:11:11+05:30",
+  "updated_at": "2026-11-28T22:51:21+05:30",
   "deals": [
+    {
+      "title": "Microfiber Cleaning Cloth Roll 20 Pcs, Reusable & 4000 Times Washable - 10X Cheaper Than Paper, Ultra Absorbent Lint Free, Tearable Dusting Wipes for Kitchen, Glass, Car & Home Cleaning,",
+      "price": 499,
+      "mrp": 1199,
+      "discount_pct": 58.0,
+      "saving": 700,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HJNV4PTC?tag=lootkabhandar-21",
+      "image": "img/2762.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 2762,
+      "posted_at": "2026-11-28T22:51:21+05:30"
+    },
     {
       "title": "Grab it before it's gone!SUPERDRY Vintage Athlete Knit Jumper Deal 🔥😍💥 Now only",
       "price": 3318,
@@ -508,19 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2719,
       "posted_at": "2026-11-28T14:34:51+05:30"
-    },
-    {
-      "title": "Havells HESTIO SENSE Straight 13 Fin OFR (Oil Filled Radiator)|Room Heater|2900 W|3 Heat Settings & PTC Fan Heater|Inclined Control Panel|Retractable Wheels| Comfortable Breathing|360° Heating (Black)",
-      "price": 16608,
-      "mrp": 33999,
-      "discount_pct": 51.0,
-      "saving": 17391,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HMX3H5R1?tag=lootkabhandar-21",
-      "image": "img/2718.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2718,
-      "posted_at": "2026-11-28T14:28:42+05:30"
     },
     {
       "kind": "coupon",
