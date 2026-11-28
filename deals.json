@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T09:32:06+05:30",
+  "updated_at": "2026-11-28T09:48:38+05:30",
   "deals": [
+    {
+      "title": "Symbol Men's Jogger Pants",
+      "price": 309,
+      "mrp": 2060,
+      "discount_pct": 85.0,
+      "saving": 1751,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B3JJRJ96?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2680,
+      "posted_at": "2026-11-28T09:48:38+05:30"
+    },
     {
       "title": "Plum Pre-Wash Nourishing Mask 10X",
       "price": 199,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2628,
       "posted_at": "2026-11-27T16:19:10+05:30"
-    },
-    {
-      "title": "Armani Exchange A|X Chronograph Watch for Men",
-      "price": 10797,
-      "mrp": 17995,
-      "discount_pct": 40.0,
-      "saving": 7198,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DSBRF8HY?tag=lootkabhandar-21",
-      "image": "img/2627.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2627,
-      "posted_at": "2026-11-27T15:37:25+05:30"
     },
     {
       "kind": "coupon",
