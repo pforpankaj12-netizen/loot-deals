@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T20:28:32+05:30",
+  "updated_at": "2026-11-28T20:31:20+05:30",
   "deals": [
+    {
+      "title": "Foxin 512 GB PRO SSD | Internal Solid State Drive | 3D NAND Technology & 2.5 Inch SATA III 6GB/S | Read/Write Speed Upto - 550/500 MB/s | Compatible with PC/Desktop/Computer/NVR/DVR | 5 Yrs Warranty",
+      "price": 4375,
+      "mrp": 11999,
+      "discount_pct": 63.0,
+      "saving": 7624,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C8TXTGSV?tag=lootkabhandar-21",
+      "image": "img/2754.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2754,
+      "posted_at": "2026-11-28T20:31:20+05:30"
+    },
+    {
+      "title": "Cosmic Byte Arcturus 98 Tri-Mode Wired/2.4G/BT Gasket Mechanical Keyboard, 3/5PIN, Pre-Lubed Outemu Yellow Switches, Per Key RGB, PBT, Knob, 4000mAh, Orbit Software for Win/Mac/Linux (White Red)",
+      "price": 3199,
+      "mrp": 7999,
+      "discount_pct": 60.0,
+      "saving": 4800,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HC6MM9RP?tag=lootkabhandar-21",
+      "image": "img/2753.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2753,
+      "posted_at": "2026-11-28T20:31:16+05:30"
+    },
+    {
+      "title": "Momos Maker Tools - Momo Maker Machine & Mould Set, 4 in 1 Puri Kachori Gujiya Maker Machine, Dumpling Sheets, Gujiya & Karanji Moulds, Kozhukattai & Kolukattai Make (Orange)",
+      "price": 99,
+      "mrp": 499,
+      "discount_pct": 80.0,
+      "saving": 400,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GTDTMWZ4?tag=lootkabhandar-21",
+      "image": "img/2752.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2752,
+      "posted_at": "2026-11-28T20:31:10+05:30"
+    },
     {
       "title": "BOROPLUS Baby Shampoo, 200 ml @85.",
       "price": 85,
@@ -482,45 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2709,
       "posted_at": "2026-11-28T13:45:56+05:30"
-    },
-    {
-      "title": "Don't miss this amazing smartphone deal!REDMI A7 Pro 4G Deal 🔥😍💥 Now only",
-      "price": 13398,
-      "mrp": 26999,
-      "discount_pct": 50.0,
-      "saving": 13601,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GVG27VS7?tag=lootkabhandar-21",
-      "image": "img/2708.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2708,
-      "posted_at": "2026-11-28T13:45:51+05:30"
-    },
-    {
-      "title": "Nykaa Loot: Vaseline Deep Moisture Body Lotion with Ceramide Hyaluron (400ml) @ ₹348Extra Discount with ₹800 OFFUSE CODE: PINKFRIDAY800 (Min. Order ₹5,000)",
-      "price": 348,
-      "mrp": 800,
-      "discount_pct": 56.5,
-      "saving": 452,
-      "store": "Nykaa",
-      "link": "https://bitli.in/UVrKQav",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2707,
-      "posted_at": "2026-11-28T13:45:07+05:30"
-    },
-    {
-      "title": "Nykaa Loot: Insight Cosmetics Pro Concealer Palette - Corrector (15g) @ ₹217Extra Discount with ₹800 OFFUSE CODE: PINKFRIDAY800 (Min. Order ₹5,000)",
-      "price": 217,
-      "mrp": 800,
-      "discount_pct": 72.9,
-      "saving": 583,
-      "store": "Nykaa",
-      "link": "https://bitli.in/eDVEpjx",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2706,
-      "posted_at": "2026-11-28T13:45:05+05:30"
     },
     {
       "kind": "coupon",
