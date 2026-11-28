@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T21:35:05+05:30",
+  "updated_at": "2026-11-28T22:11:11+05:30",
   "deals": [
+    {
+      "title": "Grab it before it's gone!SUPERDRY Vintage Athlete Knit Jumper Deal 🔥😍💥 Now only",
+      "price": 3318,
+      "mrp": 9480,
+      "discount_pct": 65.0,
+      "saving": 6162,
+      "store": "Ajio",
+      "link": "https://ajiio.in/2sPtdww",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2761,
+      "posted_at": "2026-11-28T22:11:11+05:30"
+    },
     {
       "title": "LG 164 cms 65inches Mini LED 4K Ultra HD 3840 x Using Cardhttps://www.amazon.in/dp/B0GTZCJFKM?tag=lootkabhandar-21",
       "price": 93290,
@@ -508,19 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2718,
       "posted_at": "2026-11-28T14:28:42+05:30"
-    },
-    {
-      "title": "Cosmic Byte Arcturus 65 Tri-Mode Wired/2.4G/BT Gasket Mechanical Keyboard, 3/5PIN, Pre-Lubed Outemu Yellow Switches, Per Key RGB, PBT, Knob, 4000mAh, Orbit Software for Win/Mac/Linux (Black Red)",
-      "price": 2999,
-      "mrp": 6499,
-      "discount_pct": 53.0,
-      "saving": 3500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HC6F6HDZ?tag=lootkabhandar-21",
-      "image": "img/2717.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2717,
-      "posted_at": "2026-11-28T14:28:37+05:30"
     },
     {
       "kind": "coupon",
