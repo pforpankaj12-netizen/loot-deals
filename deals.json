@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T11:50:16+05:30",
+  "updated_at": "2026-11-28T12:07:22+05:30",
   "deals": [
+    {
+      "title": "Home & Living Mega Loot 🔥Under ₹500Home & Living -",
+      "price": 500,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Flipkart",
+      "link": "https://fktr.in/Fwa43w1",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2697,
+      "posted_at": "2026-11-28T12:07:22+05:30"
+    },
     {
       "title": "ATTRO Food Bite Kids Plastic Lunch Box 3 Compartments",
       "price": 94,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2644,
       "posted_at": "2026-11-27T19:45:17+05:30"
-    },
-    {
-      "title": "Nykaa Loot: Season's Hottest Offers Up To Extra Discount with OFFUSE CODE: PINKFRIDAY800 (Min. Order )",
-      "price": 800,
-      "mrp": null,
-      "discount_pct": 60.0,
-      "saving": null,
-      "store": "Nykaa",
-      "link": "https://bitli.in/G6mk9aG",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2643,
-      "posted_at": "2026-11-27T19:45:15+05:30"
     },
     {
       "kind": "coupon",
