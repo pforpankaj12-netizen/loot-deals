@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T21:19:34+05:30",
+  "updated_at": "2026-11-28T21:35:05+05:30",
   "deals": [
+    {
+      "title": "LG 164 cms 65inches Mini LED 4K Ultra HD 3840 x Using Cardhttps://www.amazon.in/dp/B0GTZCJFKM?tag=lootkabhandar-21",
+      "price": 93290,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GTZCJFKM?tag=lootkabhandar-21",
+      "image": "img/2760.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2760,
+      "posted_at": "2026-11-28T21:35:05+05:30"
+    },
+    {
+      "title": "Oil Spray Bottle 500ml",
+      "price": 399,
+      "mrp": 1530,
+      "discount_pct": 74.0,
+      "saving": 1131,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HF8BNDQS?tag=lootkabhandar-21",
+      "image": "img/2759.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2759,
+      "posted_at": "2026-11-28T21:34:23+05:30"
+    },
     {
       "title": "Waterproof PVC Plastic Mattress Protector 80x80 Inch",
       "price": 252,
@@ -495,32 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2717,
       "posted_at": "2026-11-28T14:28:37+05:30"
-    },
-    {
-      "title": "Ring Size Adjuster for Loose Rings | Transparent Spiral Silicone Ring Sizer Resizer Set of 4 pcs | Invisible Ring Tightener Reducer Guard Fit for Women & Men Engagement Wedding Rings",
-      "price": 58,
-      "mrp": 699,
-      "discount_pct": 91.0,
-      "saving": 641,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FVW2H3R3?tag=lootkabhandar-21",
-      "image": "img/2716.jpg",
-      "category": "Jewellery",
-      "telegram_msg_id": 2716,
-      "posted_at": "2026-11-28T14:28:32+05:30"
-    },
-    {
-      "title": "Nilkamal Freedom Large 18 (FMSC18) Shoe Rack",
-      "price": 1040,
-      "mrp": 7200,
-      "discount_pct": 87.0,
-      "saving": 6160,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DQ7R3YVY?tag=lootkabhandar-21",
-      "image": "img/2715.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2715,
-      "posted_at": "2026-11-28T14:20:10+05:30"
     },
     {
       "kind": "coupon",
