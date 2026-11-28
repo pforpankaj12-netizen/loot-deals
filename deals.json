@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T23:22:28+05:30",
+  "updated_at": "2026-11-28T23:36:44+05:30",
   "deals": [
+    {
+      "title": "French Connection Sunray Blue Round Dial Watch",
+      "price": 1159,
+      "mrp": 6000,
+      "discount_pct": 81.0,
+      "saving": 4841,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FHWPXLKX?tag=lootkabhandar-21",
+      "image": "img/2768.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2768,
+      "posted_at": "2026-11-28T23:36:44+05:30"
+    },
     {
       "title": "Grab this deal now!Samsung Galaxy Book4 15.6\" Laptop Deal 🔥😍💥 Now only",
       "price": 66000,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2725,
       "posted_at": "2026-11-28T15:52:27+05:30"
-    },
-    {
-      "title": "Lumio 55 inch 4K Google TV Using Card",
-      "price": 51749,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F39P7G4T?tag=lootkabhandar-21",
-      "image": "img/2724.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2724,
-      "posted_at": "2026-11-28T15:45:20+05:30"
     },
     {
       "kind": "coupon",
