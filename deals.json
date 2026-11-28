@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T08:50:52+05:30",
+  "updated_at": "2026-11-28T09:32:06+05:30",
   "deals": [
+    {
+      "title": "Plum Pre-Wash Nourishing Mask 10X",
+      "price": 199,
+      "mrp": 499,
+      "discount_pct": 60.0,
+      "saving": 300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D9YMT9KM?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2679,
+      "posted_at": "2026-11-28T09:32:06+05:30"
+    },
     {
       "title": "Lakme 9 to 5 Flawless Matte Complexion Compact Powder",
       "price": 230,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2627,
       "posted_at": "2026-11-27T15:37:25+05:30"
-    },
-    {
-      "title": "ProElite Cover for Xiaomi Mi Pad 8/Pad 8 Pro 11.2 inch Cover, Soft Flexible Flip Case Cover with Pen Holder for Mi Pad 8/Pad 8 Pro 11.2 inch, Support Auto Sleep Wake, [Recoil Series] - Eiffel",
-      "price": 499,
-      "mrp": 1999,
-      "discount_pct": 75.0,
-      "saving": 1500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GS1SDZNV?tag=lootkabhandar-21",
-      "image": "img/2626.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2626,
-      "posted_at": "2026-11-27T15:19:35+05:30"
     },
     {
       "kind": "coupon",
