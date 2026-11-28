@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T22:59:46+05:30",
+  "updated_at": "2026-11-28T23:07:09+05:30",
   "deals": [
+    {
+      "title": "Quick Wipes Shoe Wipes - 80 Counts",
+      "price": 299,
+      "mrp": 499,
+      "discount_pct": 40.0,
+      "saving": 200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DNMZ3VMF?tag=lootkabhandar-21",
+      "image": "img/2765.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2765,
+      "posted_at": "2026-11-28T23:07:09+05:30"
+    },
     {
       "title": "ASUS TUF A14 (2026),AMD Ryzen AI MAX+ 392 ://www.amazon.in/dp/B0GVNKM5GB?tag=lootkabhandar-219000 off Using Card",
       "price": 249990,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2722,
       "posted_at": "2026-11-28T15:22:16+05:30"
-    },
-    {
-      "title": "Don't miss out on this steal!iQOO Z11 Lite 44W 5G Deal 🔥😍💥 Now only",
-      "price": 17499,
-      "mrp": 30999,
-      "discount_pct": 44.0,
-      "saving": 13500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07WYJVMY6?tag=lootkabhandar-21",
-      "image": "img/2720.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2720,
-      "posted_at": "2026-11-28T14:44:03+05:30"
     },
     {
       "kind": "coupon",
