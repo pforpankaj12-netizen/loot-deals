@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T21:06:50+05:30",
+  "updated_at": "2026-11-28T21:19:34+05:30",
   "deals": [
+    {
+      "title": "Waterproof PVC Plastic Mattress Protector 80x80 Inch",
+      "price": 252,
+      "mrp": 909,
+      "discount_pct": 75.0,
+      "saving": 657,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DRP9JVGX?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2758,
+      "posted_at": "2026-11-28T21:19:34+05:30"
+    },
     {
       "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil Gold",
       "price": 220,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2715,
       "posted_at": "2026-11-28T14:20:10+05:30"
-    },
-    {
-      "title": "iPhone 18 Pro at with AXIS/SBI/ICICI Credit Card",
-      "price": 154990,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HJBCGNFM?tag=lootkabhandar-21",
-      "image": "img/2714.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2714,
-      "posted_at": "2026-11-28T14:13:26+05:30"
     },
     {
       "kind": "coupon",
