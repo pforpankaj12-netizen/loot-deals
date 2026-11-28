@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T20:31:20+05:30",
+  "updated_at": "2026-11-28T20:35:59+05:30",
   "deals": [
+    {
+      "title": "Magic Eraser | Pack of 4 | No Scratch Multi-Surface Cleaning Sponge | Removes 100+ Tough Stains | Just Add Water | Walls, Kitchen, Bathroom, Shoes & Switch Boards",
+      "price": 89,
+      "mrp": 339,
+      "discount_pct": 74.0,
+      "saving": 250,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HQKMQ3P4?lv=shuf&social_share=cm_sw_r_cso_wa_apin_dp_ABGM8FMXXQJPJ5T6MJ35&channelId=704&ascsubtag=20261128cl5t5pe7qha1&tag=lootkabhandar-21",
+      "image": "img/2755.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 2755,
+      "posted_at": "2026-11-28T20:35:59+05:30"
+    },
     {
       "title": "Foxin 512 GB PRO SSD | Internal Solid State Drive | 3D NAND Technology & 2.5 Inch SATA III 6GB/S | Read/Write Speed Upto - 550/500 MB/s | Compatible with PC/Desktop/Computer/NVR/DVR | 5 Yrs Warranty",
       "price": 4375,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2711,
       "posted_at": "2026-11-28T13:46:04+05:30"
-    },
-    {
-      "title": "Don't miss out on this fashion steal!SKYLONA Women Round Dial Bracelet Watch Deal 🔥😍💥 Now only",
-      "price": 1509,
-      "mrp": 14999,
-      "discount_pct": 89.0,
-      "saving": 13490,
-      "store": "Myntra",
-      "link": "https://myntr.it/RylZqEU",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2709,
-      "posted_at": "2026-11-28T13:45:56+05:30"
     },
     {
       "kind": "coupon",
