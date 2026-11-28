@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T11:33:29+05:30",
+  "updated_at": "2026-11-28T11:50:16+05:30",
   "deals": [
+    {
+      "title": "ATTRO Food Bite Kids Plastic Lunch Box 3 Compartments",
+      "price": 94,
+      "mrp": 199,
+      "discount_pct": 53.0,
+      "saving": 105,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F2N5VDPQ?tag=lootkabhandar-21",
+      "image": "img/2696.jpg",
+      "category": "Kitchen",
+      "telegram_msg_id": 2696,
+      "posted_at": "2026-11-28T11:50:16+05:30"
+    },
     {
       "title": "Arrow Tailored Fit 2 Piece Suit for Men",
       "price": 5267,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2643,
       "posted_at": "2026-11-27T19:45:15+05:30"
-    },
-    {
-      "title": "Eureka Forbes AEROGUARD AP 175 | Covers up to 175 Sq. Ft.",
-      "price": 3999,
-      "mrp": 7999,
-      "discount_pct": 50.0,
-      "saving": 4000,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HJ2B3B1R?tag=lootkabhandar-21",
-      "image": "img/2642.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2642,
-      "posted_at": "2026-11-27T19:35:39+05:30"
     },
     {
       "kind": "coupon",
