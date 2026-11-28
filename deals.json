@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T10:25:18+05:30",
+  "updated_at": "2026-11-28T10:52:46+05:30",
   "deals": [
+    {
+      "title": "Parachute Advansed Rosemary Water Hair Spray 100ml",
+      "price": 112,
+      "mrp": 199,
+      "discount_pct": 44.0,
+      "saving": 87,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GRVG1BH2?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2687,
+      "posted_at": "2026-11-28T10:52:46+05:30"
+    },
+    {
+      "title": "TrustBasket Crown Pot 8 inch Planter (Pack of 4)",
+      "price": 201,
+      "mrp": 1129,
+      "discount_pct": 82.0,
+      "saving": 928,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C3MVR5C1?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2686,
+      "posted_at": "2026-11-28T10:52:30+05:30"
+    },
     {
       "title": "Amazon Brand - House & Shields Men Slim Stretch Joggers",
       "price": 459,
@@ -495,32 +521,6 @@
       "category": "Home & Appliances",
       "telegram_msg_id": 2635,
       "posted_at": "2026-11-27T18:21:26+05:30"
-    },
-    {
-      "title": "Dishex L Dish Cleaner 5 Litre - Schevaran",
-      "price": 283,
-      "mrp": 960,
-      "discount_pct": 71.0,
-      "saving": 677,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B01FT44F48?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2634,
-      "posted_at": "2026-11-27T17:51:47+05:30"
-    },
-    {
-      "title": "Ant Wired Keyboard & Mouse at",
-      "price": 349,
-      "mrp": null,
-      "discount_pct": 77.0,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FH25BLFV?tag=lootkabhandar-21",
-      "image": "img/2633.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2633,
-      "posted_at": "2026-11-27T17:21:20+05:30"
     },
     {
       "kind": "coupon",
