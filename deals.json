@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T17:33:18+05:30",
+  "updated_at": "2026-11-28T17:41:50+05:30",
   "deals": [
+    {
+      "title": "Travel in style and convenience!ARISTOCRAT Unisex Solana Cabin Trolley Bag Deal 🔥😍💥 Now only",
+      "price": 3410,
+      "mrp": 8000,
+      "discount_pct": 57.0,
+      "saving": 4590,
+      "store": "Ajio",
+      "link": "https://ajiio.in/Smvv6yg",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2733,
+      "posted_at": "2026-11-28T17:41:50+05:30"
+    },
     {
       "title": "CRAE Wall Screw Hooks for Hanging Strong",
       "price": 399,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2688,
       "posted_at": "2026-11-28T11:16:49+05:30"
-    },
-    {
-      "title": "Parachute Advansed Rosemary Water Hair Spray 100ml",
-      "price": 112,
-      "mrp": 199,
-      "discount_pct": 44.0,
-      "saving": 87,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GRVG1BH2?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2687,
-      "posted_at": "2026-11-28T10:52:46+05:30"
     },
     {
       "kind": "coupon",
