@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T19:23:28+05:30",
+  "updated_at": "2026-11-28T19:36:07+05:30",
   "deals": [
+    {
+      "title": "CHHOTE NAWAB Kids Long Sleeve T-Shirt, Graphic Print",
+      "price": 98,
+      "mrp": 299,
+      "discount_pct": 67.0,
+      "saving": 201,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HP5RTG8Z?tag=lootkabhandar-21",
+      "image": "img/2744.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2744,
+      "posted_at": "2026-11-28T19:36:07+05:30"
+    },
     {
       "title": "This Deal is 🔥!Noise Headphones Deal 🔥😍💥 Now just",
       "price": 1599,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2699,
       "posted_at": "2026-11-28T12:27:44+05:30"
-    },
-    {
-      "title": "Deniklo Men's Fleece Round Neck Sweatshirt",
-      "price": 199,
-      "mrp": 999,
-      "discount_pct": 80.0,
-      "saving": 800,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B08G28JC4H?tag=lootkabhandar-21",
-      "image": "img/2698.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2698,
-      "posted_at": "2026-11-28T12:27:32+05:30"
     },
     {
       "kind": "coupon",
