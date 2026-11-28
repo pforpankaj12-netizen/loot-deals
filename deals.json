@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T14:44:03+05:30",
+  "updated_at": "2026-11-28T15:22:16+05:30",
   "deals": [
+    {
+      "title": "Grab this deal before it's gone!Noise Deal 🔥😍💥 Now only",
+      "price": 1259,
+      "mrp": 5999,
+      "discount_pct": 79.0,
+      "saving": 4740,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0B6BQ711Q?tag=lootkabhandar-21",
+      "image": "img/2722.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2722,
+      "posted_at": "2026-11-28T15:22:16+05:30"
+    },
     {
       "title": "Don't miss out on this steal!iQOO Z11 Lite 44W 5G Deal 🔥😍💥 Now only",
       "price": 17499,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2678,
       "posted_at": "2026-11-28T08:50:52+05:30"
-    },
-    {
-      "title": "EcoLink Polycarbonate 3W LED Tiltable Spot Light",
-      "price": 140,
-      "mrp": 400,
-      "discount_pct": 65.0,
-      "saving": 260,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D2LDZ29N?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2677,
-      "posted_at": "2026-11-28T08:34:23+05:30"
     },
     {
       "kind": "coupon",
