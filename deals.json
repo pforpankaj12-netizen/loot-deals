@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T12:27:44+05:30",
+  "updated_at": "2026-11-28T12:46:02+05:30",
   "deals": [
+    {
+      "title": "Parachute Advansed Protein Shampoo 1.2L .Apply Coupon - https://www.amazon.in/dp/B0GQV895L5?tag=lootkabhandar-21",
+      "price": 499,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GQV895L5?tag=lootkabhandar-21",
+      "image": "img/2700.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2700,
+      "posted_at": "2026-11-28T12:46:02+05:30"
+    },
     {
       "title": "Fila Mens Ease Marble Slip ons Walking Shoes",
       "price": 1799,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2650,
       "posted_at": "2026-11-27T19:54:30+05:30"
-    },
-    {
-      "title": "Nykaa Loot: Cetaphil Gentle Skin Cleanser For Normal, Dry Skin (118ml) @ ₹344Extra Discount with ₹800 OFFUSE CODE: PINKFRIDAY800 (Min. Order ₹5,000)",
-      "price": 344,
-      "mrp": 800,
-      "discount_pct": 57.0,
-      "saving": 456,
-      "store": "Nykaa",
-      "link": "https://bitli.in/x2I7Gpg",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2646,
-      "posted_at": "2026-11-27T19:45:21+05:30"
     },
     {
       "kind": "coupon",
