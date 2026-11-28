@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T10:20:50+05:30",
+  "updated_at": "2026-11-28T10:25:18+05:30",
   "deals": [
+    {
+      "title": "Amazon Brand - House & Shields Men Slim Stretch Joggers",
+      "price": 459,
+      "mrp": 2599,
+      "discount_pct": 82.0,
+      "saving": 2140,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B085FQ45LY?tag=lootkabhandar-21",
+      "image": "img/2685.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2685,
+      "posted_at": "2026-11-28T10:25:18+05:30"
+    },
+    {
+      "title": "Amazon Brand - Symbol Men's Regular Fit Mid Rise Trouser",
+      "price": 429,
+      "mrp": 2499,
+      "discount_pct": 82.0,
+      "saving": 2070,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BR3GBB3Z?tag=lootkabhandar-21",
+      "image": "img/2684.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2684,
+      "posted_at": "2026-11-28T10:25:07+05:30"
+    },
     {
       "title": "FINE TEX WORLD Durable Antiskid Doormat💰 ₹58 ₹499 · 88% offStatus Striped Anti-Skid Doormat💰 ₹98 ₹599 · 83% off🛒 Myntra🔗",
       "price": 58,
@@ -495,32 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2633,
       "posted_at": "2026-11-27T17:21:20+05:30"
-    },
-    {
-      "title": "Everyuth Naturals Sun Care Berries Body Lotion 500ml",
-      "price": 299,
-      "mrp": 499,
-      "discount_pct": 40.0,
-      "saving": 200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09DD4WD7W?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2632,
-      "posted_at": "2026-11-27T17:18:25+05:30"
-    },
-    {
-      "title": "MRP Error Loot ://www.amazon.in/dp/B0FNRNS4Y2?tag=lootkabhandar-21Real Mrp 435 | Bengaluru Available",
-      "price": 392,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FNRNS4Y2?tag=lootkabhandar-21",
-      "image": "img/2631.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2631,
-      "posted_at": "2026-11-27T17:10:35+05:30"
     },
     {
       "kind": "coupon",
