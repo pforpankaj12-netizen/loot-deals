@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T10:04:41+05:30",
+  "updated_at": "2026-11-28T10:20:50+05:30",
   "deals": [
+    {
+      "title": "FINE TEX WORLD Durable Antiskid Doormat💰 ₹58 ₹499 · 88% offStatus Striped Anti-Skid Doormat💰 ₹98 ₹599 · 83% off🛒 Myntra🔗",
+      "price": 58,
+      "mrp": 499,
+      "discount_pct": 88.0,
+      "saving": 441,
+      "store": "Myntra",
+      "link": "https://myntr.it/iCzrFeI",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2683,
+      "posted_at": "2026-11-28T10:20:50+05:30"
+    },
+    {
+      "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil",
+      "price": 248,
+      "mrp": 540,
+      "discount_pct": 54.0,
+      "saving": 292,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?rh=p_85%3A10440599031&hidden-keywords=B07WLDJS3L+%7C+B0FY67CG6W+%7C+B00GMC02XK+%7C+B0DQ8T5NTG+%7C+B0FY6C3GXS+%7C+B09SLWMVCL+%7C+B0F6D6R1H6&rnid=10440598031&ds=v1%3A7L7QxyP2CjqxUQXD2ySxHuCVrtxfYukQS9RpSXeSJQA&ascsubtag=20261128clkh2qi8f7tl&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2682,
+      "posted_at": "2026-11-28T10:20:46+05:30"
+    },
     {
       "title": "V By Verage Comet 20\" Trolley Bag💰 ₹1,099 ₹5,999 · 82% offV By Verage Hard Cabin-Sized Trolley Bag💰 ₹1,199 ₹5,999 · 80% off🛒 Myntra🔗",
       "price": 1099,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2631,
       "posted_at": "2026-11-27T17:10:35+05:30"
-    },
-    {
-      "title": "LOOT /",
-      "price": 5699,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B011TWXRBG?tag=lootkabhandar-21",
-      "image": "img/2630.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2630,
-      "posted_at": "2026-11-27T17:02:15+05:30"
-    },
-    {
-      "title": "Milton Ascent Mixer Grinder, ISI Certified, Grindstone Blade Technology, 4 Jar, 800 W (22000 RPM), 5 yr motor warranty, 2 yr product warranty I Blue",
-      "price": 2914,
-      "mrp": 6399,
-      "discount_pct": 54.0,
-      "saving": 3485,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FD43QGTD?tag=lootkabhandar-21",
-      "image": "img/2629.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 2629,
-      "posted_at": "2026-11-27T16:20:24+05:30"
     },
     {
       "kind": "coupon",
