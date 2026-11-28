@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T11:26:42+05:30",
+  "updated_at": "2026-11-28T11:33:29+05:30",
   "deals": [
+    {
+      "title": "Arrow Tailored Fit 2 Piece Suit for Men",
+      "price": 5267,
+      "mrp": 8999,
+      "discount_pct": 41.0,
+      "saving": 3732,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FN4TPX19?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2695,
+      "posted_at": "2026-11-28T11:33:29+05:30"
+    },
     {
       "title": "Hot Wheels 82 Toyota Supra Then and Now Ages 3 and Up 190/250 (Grey)",
       "price": 179,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2642,
       "posted_at": "2026-11-27T19:35:39+05:30"
-    },
-    {
-      "title": "BLUE HEAVEN Bridal Makeup kit for women @ 340",
-      "price": 340,
-      "mrp": null,
-      "discount_pct": 79.0,
-      "saving": null,
-      "store": "Flipkart",
-      "link": "https://fktr.in/bb5eiKr",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2641,
-      "posted_at": "2026-11-27T19:28:44+05:30"
     },
     {
       "kind": "coupon",
