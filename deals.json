@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T13:02:20+05:30",
+  "updated_at": "2026-11-28T13:37:24+05:30",
   "deals": [
+    {
+      "title": "Wooden Bowl Electric Heater",
+      "price": 149,
+      "mrp": 499,
+      "discount_pct": 70.0,
+      "saving": 350,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HG77M8H8?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_53W8EEZB7X7BH94F6J45&channelId=704&ascsubtag=20261128cl6oj76iundu&tag=lootkabhandar-21",
+      "image": "img/2704.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2704,
+      "posted_at": "2026-11-28T13:37:24+05:30"
+    },
     {
       "title": "U.S. Polo Assn. Men Brand Print Crew-Neck T-Shirt💰 ₹200 ₹949 · 79% offU.S. Polo Assn. Men Panelled Comfort Fit I669 Lounge Track Pants💰 ₹294 ₹1399 · 79% off🛒 AJIO🔗",
       "price": 200,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2654,
       "posted_at": "2026-11-27T20:22:51+05:30"
-    },
-    {
-      "title": "ProElite Cover for Lenovo Idea Tab Pro 12.7 inch 2025 Case Cover, Deer Smart Flip Case Cover for Lenovo Idea Tab Pro 12.7 inch Tablet with Pen Holder, Black",
-      "price": 499,
-      "mrp": 1999,
-      "discount_pct": 75.0,
-      "saving": 1500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F3CM1BPG?tag=lootkabhandar-21",
-      "image": "img/2653.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2653,
-      "posted_at": "2026-11-27T20:22:47+05:30"
     },
     {
       "kind": "coupon",
