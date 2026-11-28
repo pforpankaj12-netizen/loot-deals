@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T14:34:51+05:30",
+  "updated_at": "2026-11-28T14:44:03+05:30",
   "deals": [
+    {
+      "title": "Don't miss out on this steal!iQOO Z11 Lite 44W 5G Deal 🔥😍💥 Now only",
+      "price": 17499,
+      "mrp": 30999,
+      "discount_pct": 44.0,
+      "saving": 13500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07WYJVMY6?tag=lootkabhandar-21",
+      "image": "img/2720.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2720,
+      "posted_at": "2026-11-28T14:44:03+05:30"
+    },
     {
       "title": "Polycab Wizzy Plus BLDC 1200mm Ceiling Fan",
       "price": 3199,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2677,
       "posted_at": "2026-11-28T08:34:23+05:30"
-    },
-    {
-      "title": "Paladone | Sony PlayStation Glitter Liquid Mood Light with Floating Controllers & Icons | Officially Licensed Sony PlayStation Merchandise | PS5 | Lava Lamp | Desk Lamp | Bedside Light | Gaming Decor",
-      "price": 5462,
-      "mrp": 8739,
-      "discount_pct": 37.0,
-      "saving": 3277,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09RLQ5YJP?tag=lootkabhandar-21",
-      "image": "img/2673.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2673,
-      "posted_at": "2026-11-28T08:24:13+05:30"
     },
     {
       "kind": "coupon",
