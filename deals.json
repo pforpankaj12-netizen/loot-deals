@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T15:22:16+05:30",
+  "updated_at": "2026-11-28T15:45:20+05:30",
   "deals": [
+    {
+      "title": "Lumio 55 inch 4K Google TV Using Card",
+      "price": 51749,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0F39P7G4T?tag=lootkabhandar-21",
+      "image": "img/2724.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2724,
+      "posted_at": "2026-11-28T15:45:20+05:30"
+    },
     {
       "title": "Grab this deal before it's gone!Noise Deal 🔥😍💥 Now only",
       "price": 1259,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2679,
       "posted_at": "2026-11-28T09:32:06+05:30"
-    },
-    {
-      "title": "Lakme 9 to 5 Flawless Matte Complexion Compact Powder",
-      "price": 230,
-      "mrp": 625,
-      "discount_pct": 63.0,
-      "saving": 395,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A59-&i=beauty&sid=SgtEp7&ascsubtag=20261128clsey5jt2za2&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2678,
-      "posted_at": "2026-11-28T08:50:52+05:30"
     },
     {
       "kind": "coupon",
