@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T23:36:44+05:30",
+  "updated_at": "2026-11-28T23:56:00+05:30",
   "deals": [
+    {
+      "title": "Men's Ethnic Kurta - Light Blue",
+      "price": 399,
+      "mrp": 2500,
+      "discount_pct": 84.0,
+      "saving": 2101,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0BDFWQ6L3?tag=lootkabhandar-21",
+      "image": "img/2770.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2770,
+      "posted_at": "2026-11-28T23:56:00+05:30"
+    },
     {
       "title": "French Connection Sunray Blue Round Dial Watch",
       "price": 1159,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2726,
       "posted_at": "2026-11-28T16:08:29+05:30"
-    },
-    {
-      "title": "Shoe Shine Wipes 80 Series",
-      "price": 299,
-      "mrp": 499,
-      "discount_pct": 40.0,
-      "saving": 200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0H3FF2SN7?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_367ZAG5KY6PQ69CWRD38&channelId=704&ascsubtag=20261128clz9g2pw7zfk&tag=lootkabhandar-21",
-      "image": "img/2725.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2725,
-      "posted_at": "2026-11-28T15:52:27+05:30"
     },
     {
       "kind": "coupon",
