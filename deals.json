@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T19:46:10+05:30",
+  "updated_at": "2026-11-28T20:28:32+05:30",
   "deals": [
+    {
+      "title": "BOROPLUS Baby Shampoo, 200 ml @85.",
+      "price": 85,
+      "mrp": null,
+      "discount_pct": 60.0,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H1M1R263?tag=lootkabhandar-21",
+      "image": "img/2751.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2751,
+      "posted_at": "2026-11-28T20:28:32+05:30"
+    },
+    {
+      "title": "Queery Winter Warm Fleece Leggings",
+      "price": 246,
+      "mrp": 599,
+      "discount_pct": 59.0,
+      "saving": 353,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0CR4DBFSC?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2749,
+      "posted_at": "2026-11-28T20:27:57+05:30"
+    },
     {
       "title": "Don't miss out on this hair miracle!QLERIX Rosemary Water Hair Growth Spray Deal 🔥😍💥 Now only",
       "price": 469,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2706,
       "posted_at": "2026-11-28T13:45:05+05:30"
-    },
-    {
-      "title": "Nykaa Loot: Vaseline Cocoa Glow Serum In Lotion (600ml) @ Flat USE CODE: NEW25NB (NEW USER On App)",
-      "price": 344,
-      "mrp": 930,
-      "discount_pct": 55.0,
-      "saving": 586,
-      "store": "Nykaa",
-      "link": "https://bitli.in/fYUpDKl",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2705,
-      "posted_at": "2026-11-28T13:45:04+05:30"
-    },
-    {
-      "title": "Wooden Bowl Electric Heater",
-      "price": 149,
-      "mrp": 499,
-      "discount_pct": 70.0,
-      "saving": 350,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/clp/B0HG77M8H8?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_53W8EEZB7X7BH94F6J45&channelId=704&ascsubtag=20261128cl6oj76iundu&tag=lootkabhandar-21",
-      "image": "img/2704.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2704,
-      "posted_at": "2026-11-28T13:37:24+05:30"
     },
     {
       "kind": "coupon",
