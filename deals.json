@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T18:03:28+05:30",
+  "updated_at": "2026-11-28T18:30:21+05:30",
   "deals": [
+    {
+      "title": "White Swan Air Fryer 4.2L | 1200W High Power Air Crisp Technology | Oil-Free Healthy Cooking | Compact Black Air Fryer for Home | Fast Cooking, Auto Shut-Off, Easy Clean Basket",
+      "price": 3399,
+      "mrp": 339900,
+      "discount_pct": 99.0,
+      "saving": 336501,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GWQQKJ46?tag=lootkabhandar-21",
+      "image": "img/2739.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2739,
+      "posted_at": "2026-11-28T18:30:21+05:30"
+    },
+    {
+      "title": "Lab Grown Diamond Earrings | 14KT Gold Plated 925 Sterling Silver | SI Clarity F-G Color | SGL Certified | Fine Jewellery | Gifts for Women & Girls",
+      "price": 3212,
+      "mrp": 6999,
+      "discount_pct": 54.0,
+      "saving": 3787,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GWGXY594?tag=lootkabhandar-21",
+      "image": "img/2738.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2738,
+      "posted_at": "2026-11-28T18:30:14+05:30"
+    },
     {
       "title": "GRAB : Nippo Thor AA Long Lasting Batteries (Pack Of 10) + Coupon. (Pack of 10) : Anti-Mosquito Racquet .",
       "price": 189,
@@ -495,32 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2694,
       "posted_at": "2026-11-28T11:26:42+05:30"
-    },
-    {
-      "title": "Patriot Memory Viper Xtreme 5 RGB DDR5 8000MT/s CL38 Desktop Memory 32GB (2x16GB) Kit 1.45V (PVXR532G80C38K)",
-      "price": 51694,
-      "mrp": 150000,
-      "discount_pct": 65.0,
-      "saving": 98306,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C3WBCLTM?tag=lootkabhandar-21",
-      "image": "img/2693.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2693,
-      "posted_at": "2026-11-28T11:26:31+05:30"
-    },
-    {
-      "title": "A TATA Product - Organic India Moringa Hibiscus Herbal Infusion, 25 Bags",
-      "price": 140,
-      "mrp": 275,
-      "discount_pct": 49.0,
-      "saving": 135,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09YLXHNRT?tag=lootkabhandar-21",
-      "image": "img/2692.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2692,
-      "posted_at": "2026-11-28T11:26:19+05:30"
     },
     {
       "kind": "coupon",
