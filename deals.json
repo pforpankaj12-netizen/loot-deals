@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T14:20:10+05:30",
+  "updated_at": "2026-11-28T14:28:42+05:30",
   "deals": [
+    {
+      "title": "Havells HESTIO SENSE Straight 13 Fin OFR (Oil Filled Radiator)|Room Heater|2900 W|3 Heat Settings & PTC Fan Heater|Inclined Control Panel|Retractable Wheels| Comfortable Breathing|360° Heating (Black)",
+      "price": 16608,
+      "mrp": 33999,
+      "discount_pct": 51.0,
+      "saving": 17391,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HMX3H5R1?tag=lootkabhandar-21",
+      "image": "img/2718.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2718,
+      "posted_at": "2026-11-28T14:28:42+05:30"
+    },
+    {
+      "title": "Cosmic Byte Arcturus 65 Tri-Mode Wired/2.4G/BT Gasket Mechanical Keyboard, 3/5PIN, Pre-Lubed Outemu Yellow Switches, Per Key RGB, PBT, Knob, 4000mAh, Orbit Software for Win/Mac/Linux (Black Red)",
+      "price": 2999,
+      "mrp": 6499,
+      "discount_pct": 53.0,
+      "saving": 3500,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HC6F6HDZ?tag=lootkabhandar-21",
+      "image": "img/2717.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2717,
+      "posted_at": "2026-11-28T14:28:37+05:30"
+    },
+    {
+      "title": "Ring Size Adjuster for Loose Rings | Transparent Spiral Silicone Ring Sizer Resizer Set of 4 pcs | Invisible Ring Tightener Reducer Guard Fit for Women & Men Engagement Wedding Rings",
+      "price": 58,
+      "mrp": 699,
+      "discount_pct": 91.0,
+      "saving": 641,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FVW2H3R3?tag=lootkabhandar-21",
+      "image": "img/2716.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2716,
+      "posted_at": "2026-11-28T14:28:32+05:30"
+    },
     {
       "title": "Nilkamal Freedom Large 18 (FMSC18) Shoe Rack",
       "price": 1040,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2672,
       "posted_at": "2026-11-28T08:24:01+05:30"
-    },
-    {
-      "title": "Bioderma Sensibio Gentle Soothing Micellar Cleansing Foaming Gel For Sensitive Skin(100ml)",
-      "price": 449,
-      "mrp": 749,
-      "discount_pct": 40.0,
-      "saving": 300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07PLWR9L9?tag=lootkabhandar-21",
-      "image": "img/2671.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2671,
-      "posted_at": "2026-11-28T08:23:49+05:30"
-    },
-    {
-      "title": "Wipro Garnet 6W Wave CCT Square Panel",
-      "price": 229,
-      "mrp": 499,
-      "discount_pct": 54.0,
-      "saving": 270,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09MYX3NZT?tag=lootkabhandar-21",
-      "image": "img/2669.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2669,
-      "posted_at": "2026-11-28T08:07:37+05:30"
-    },
-    {
-      "title": "Symbol Cotton Blend Sweatshirt for Women",
-      "price": 239,
-      "mrp": 1699,
-      "discount_pct": 86.0,
-      "saving": 1460,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B07TKYR188?tag=lootkabhandar-21",
-      "image": "img/2668.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2668,
-      "posted_at": "2026-11-28T08:07:30+05:30"
     },
     {
       "kind": "coupon",
