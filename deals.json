@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T18:52:52+05:30",
+  "updated_at": "2026-11-28T19:00:49+05:30",
   "deals": [
+    {
+      "title": "Philips 30W LED Light Bulb at .",
+      "price": 174,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07P2J21V5?tag=lootkabhandar-21",
+      "image": "img/2742.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2742,
+      "posted_at": "2026-11-28T19:00:49+05:30"
+    },
     {
       "title": "Add2Cart Tally Counter 5-Digit Finger Ring",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2697,
       "posted_at": "2026-11-28T12:07:22+05:30"
-    },
-    {
-      "title": "ATTRO Food Bite Kids Plastic Lunch Box 3 Compartments",
-      "price": 94,
-      "mrp": 199,
-      "discount_pct": 53.0,
-      "saving": 105,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F2N5VDPQ?tag=lootkabhandar-21",
-      "image": "img/2696.jpg",
-      "category": "Kitchen",
-      "telegram_msg_id": 2696,
-      "posted_at": "2026-11-28T11:50:16+05:30"
     },
     {
       "kind": "coupon",
