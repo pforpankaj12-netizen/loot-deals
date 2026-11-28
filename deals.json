@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T17:41:50+05:30",
+  "updated_at": "2026-11-28T18:03:28+05:30",
   "deals": [
+    {
+      "title": "GRAB : Nippo Thor AA Long Lasting Batteries (Pack Of 10) + Coupon. (Pack of 10) : Anti-Mosquito Racquet .",
+      "price": 189,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0C73Q76TF?tag=lootkabhandar-21",
+      "image": "img/2736.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2736,
+      "posted_at": "2026-11-28T18:03:28+05:30"
+    },
+    {
+      "title": "STRIFF 2-in-1 Laptop and Mobile Stand, Ergonomic",
+      "price": 229,
+      "mrp": 999,
+      "discount_pct": 77.0,
+      "saving": 770,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08PFSZ7FH?tag=lootkabhandar-21",
+      "image": "img/2735.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2735,
+      "posted_at": "2026-11-28T18:02:51+05:30"
+    },
+    {
+      "title": "Manforce Dots 1740 Litchi Flavoured Condoms 40 pcs",
+      "price": 244,
+      "mrp": 480,
+      "discount_pct": 49.0,
+      "saving": 236,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B06Y6D59DF?tag=lootkabhandar-21",
+      "image": "img/2734.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2734,
+      "posted_at": "2026-11-28T18:02:43+05:30"
+    },
     {
       "title": "Travel in style and convenience!ARISTOCRAT Unisex Solana Cabin Trolley Bag Deal 🔥😍💥 Now only",
       "price": 3410,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2692,
       "posted_at": "2026-11-28T11:26:19+05:30"
-    },
-    {
-      "title": "Boldfit Running Shoes for Man Comfortable Sports Shoes for Men Running Lightweight Gym Shoe for Men Workout Soft Cushioned Walking Shoe for Man Anti Slip Gym Footwear- Velocity, Black White, UK 09",
-      "price": 1439,
-      "mrp": 4999,
-      "discount_pct": 71.0,
-      "saving": 3560,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H9L3H1D1?tag=lootkabhandar-21",
-      "image": "img/2691.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2691,
-      "posted_at": "2026-11-28T11:26:08+05:30"
-    },
-    {
-      "title": "Ferrero Raffaello White Chocolate Bar with Coconut & Almond, Creamy Filling with Crunchy Almond Pieces, Premium Confectionery Gift (90g) By COUGAR - (Imported-UK)",
-      "price": 199,
-      "mrp": 699,
-      "discount_pct": 71.0,
-      "saving": 500,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B09J2HJBDD?tag=lootkabhandar-21",
-      "image": "img/2690.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2690,
-      "posted_at": "2026-11-28T11:25:59+05:30"
-    },
-    {
-      "title": "Total Wash Matic Detergent Liquid 5L Pack of 2",
-      "price": 399,
-      "mrp": 1599,
-      "discount_pct": 75.0,
-      "saving": 1200,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FFGFSVQN?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2688,
-      "posted_at": "2026-11-28T11:16:49+05:30"
     },
     {
       "kind": "coupon",
