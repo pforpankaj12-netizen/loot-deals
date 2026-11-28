@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T14:28:42+05:30",
+  "updated_at": "2026-11-28T14:34:51+05:30",
   "deals": [
+    {
+      "title": "Polycab Wizzy Plus BLDC 1200mm Ceiling Fan",
+      "price": 3199,
+      "mrp": 6499,
+      "discount_pct": 51.0,
+      "saving": 3300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0H9YM9D23?tag=lootkabhandar-21",
+      "image": "img/2719.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2719,
+      "posted_at": "2026-11-28T14:34:51+05:30"
+    },
     {
       "title": "Havells HESTIO SENSE Straight 13 Fin OFR (Oil Filled Radiator)|Room Heater|2900 W|3 Heat Settings & PTC Fan Heater|Inclined Control Panel|Retractable Wheels| Comfortable Breathing|360° Heating (Black)",
       "price": 16608,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2673,
       "posted_at": "2026-11-28T08:24:13+05:30"
-    },
-    {
-      "title": "Cutting Assembly For Bloomfield Potato Cutter by Vollrath 9/32&#34; Cut 45751-1-1",
-      "price": 11637,
-      "mrp": 18619,
-      "discount_pct": 37.0,
-      "saving": 6982,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0013KISQ4?tag=lootkabhandar-21",
-      "image": "img/2672.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2672,
-      "posted_at": "2026-11-28T08:24:01+05:30"
     },
     {
       "kind": "coupon",
