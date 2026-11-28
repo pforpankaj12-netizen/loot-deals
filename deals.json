@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T18:32:12+05:30",
+  "updated_at": "2026-11-28T18:52:52+05:30",
   "deals": [
+    {
+      "title": "Add2Cart Tally Counter 5-Digit Finger Ring",
+      "price": 299,
+      "mrp": 599,
+      "discount_pct": 50.0,
+      "saving": 300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0HGR8YXGB?tag=lootkabhandar-21",
+      "image": "img/2741.jpg",
+      "category": "Jewellery",
+      "telegram_msg_id": 2741,
+      "posted_at": "2026-11-28T18:52:52+05:30"
+    },
     {
       "title": "Grab it before it's gone!HAUTE SAUCE Textured Leather Sling Bag Deal 🔥😍💥 Now only",
       "price": 449,
@@ -508,19 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 2696,
       "posted_at": "2026-11-28T11:50:16+05:30"
-    },
-    {
-      "title": "Arrow Tailored Fit 2 Piece Suit for Men",
-      "price": 5267,
-      "mrp": 8999,
-      "discount_pct": 41.0,
-      "saving": 3732,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FN4TPX19?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2695,
-      "posted_at": "2026-11-28T11:33:29+05:30"
     },
     {
       "kind": "coupon",
