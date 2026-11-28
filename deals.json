@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T08:07:37+05:30",
+  "updated_at": "2026-11-28T08:24:13+05:30",
   "deals": [
+    {
+      "title": "Paladone | Sony PlayStation Glitter Liquid Mood Light with Floating Controllers & Icons | Officially Licensed Sony PlayStation Merchandise | PS5 | Lava Lamp | Desk Lamp | Bedside Light | Gaming Decor",
+      "price": 5462,
+      "mrp": 8739,
+      "discount_pct": 37.0,
+      "saving": 3277,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B09RLQ5YJP?tag=lootkabhandar-21",
+      "image": "img/2673.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2673,
+      "posted_at": "2026-11-28T08:24:13+05:30"
+    },
+    {
+      "title": "Cutting Assembly For Bloomfield Potato Cutter by Vollrath 9/32&#34; Cut 45751-1-1",
+      "price": 11637,
+      "mrp": 18619,
+      "discount_pct": 37.0,
+      "saving": 6982,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0013KISQ4?tag=lootkabhandar-21",
+      "image": "img/2672.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2672,
+      "posted_at": "2026-11-28T08:24:01+05:30"
+    },
+    {
+      "title": "Bioderma Sensibio Gentle Soothing Micellar Cleansing Foaming Gel For Sensitive Skin(100ml)",
+      "price": 449,
+      "mrp": 749,
+      "discount_pct": 40.0,
+      "saving": 300,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B07PLWR9L9?tag=lootkabhandar-21",
+      "image": "img/2671.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2671,
+      "posted_at": "2026-11-28T08:23:49+05:30"
+    },
     {
       "title": "Wipro Garnet 6W Wave CCT Square Panel",
       "price": 229,
@@ -482,45 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2624,
       "posted_at": "2026-11-27T15:19:26+05:30"
-    },
-    {
-      "title": "PEFUPEW Portable Mini Bluetooth Speaker, Small Wireless Speaker Bluetooth 5.3 with Stereo Sound, Deep Bass, TWS Pairing, IP7 Waterproof, 8 Hours of Playtime, for Home/Outdoor/Party/Travel/Gift Ideas",
-      "price": 299,
-      "mrp": 4999,
-      "discount_pct": 94.0,
-      "saving": 4700,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0HDJV89CM?tag=lootkabhandar-21",
-      "image": "img/2623.jpg",
-      "category": "Electronics",
-      "telegram_msg_id": 2623,
-      "posted_at": "2026-11-27T15:19:21+05:30"
-    },
-    {
-      "title": "Skechers Sets Silver Watch SR9135",
-      "price": 1820,
-      "mrp": 4995,
-      "discount_pct": 64.0,
-      "saving": 3175,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FX5XJCHQ?tag=lootkabhandar-21",
-      "image": "img/2622.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2622,
-      "posted_at": "2026-11-27T15:05:31+05:30"
-    },
-    {
-      "title": "Redmi 12C (Mint , 4GB RAM, 64GB Storage) | High .",
-      "price": 2999,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BYN34PGJ?tag=lootkabhandar-21",
-      "image": "img/2620.jpg",
-      "category": "Smartphone & Mobile",
-      "telegram_msg_id": 2620,
-      "posted_at": "2026-11-27T14:09:50+05:30"
     },
     {
       "kind": "coupon",
