@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T10:52:46+05:30",
+  "updated_at": "2026-11-28T11:16:49+05:30",
   "deals": [
+    {
+      "title": "Total Wash Matic Detergent Liquid 5L Pack of 2",
+      "price": 399,
+      "mrp": 1599,
+      "discount_pct": 75.0,
+      "saving": 1200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FFGFSVQN?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2688,
+      "posted_at": "2026-11-28T11:16:49+05:30"
+    },
     {
       "title": "Parachute Advansed Rosemary Water Hair Spray 100ml",
       "price": 112,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2636,
       "posted_at": "2026-11-27T18:21:34+05:30"
-    },
-    {
-      "title": "SBD 1 Meter Universal Top load/Semi & Fully Automatic Washing Machine Outlet Drain Waste Pipe (Grey, 1 Mtr)",
-      "price": 136,
-      "mrp": 299,
-      "discount_pct": 54.0,
-      "saving": 163,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DWLCYBQK?tag=lootkabhandar-21",
-      "image": "img/2635.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2635,
-      "posted_at": "2026-11-27T18:21:26+05:30"
     },
     {
       "kind": "coupon",
