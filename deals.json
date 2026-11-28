@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T09:48:38+05:30",
+  "updated_at": "2026-11-28T10:04:41+05:30",
   "deals": [
+    {
+      "title": "V By Verage Comet 20\" Trolley Bag💰 ₹1,099 ₹5,999 · 82% offV By Verage Hard Cabin-Sized Trolley Bag💰 ₹1,199 ₹5,999 · 80% off🛒 Myntra🔗",
+      "price": 1099,
+      "mrp": 5999,
+      "discount_pct": 82.0,
+      "saving": 4900,
+      "store": "Myntra",
+      "link": "https://myntr.it/5LEgyXO",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2681,
+      "posted_at": "2026-11-28T10:04:41+05:30"
+    },
     {
       "title": "Symbol Men's Jogger Pants",
       "price": 309,
@@ -508,19 +521,6 @@
       "category": "Kitchen",
       "telegram_msg_id": 2629,
       "posted_at": "2026-11-27T16:20:24+05:30"
-    },
-    {
-      "title": "R3SET Soothing Pain Relief Gel - Pack of 2x50g",
-      "price": 199,
-      "mrp": 698,
-      "discount_pct": 71.0,
-      "saving": 499,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0F4DL9TJZ?tag=lootkabhandar-21",
-      "image": "img/2628.jpg",
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2628,
-      "posted_at": "2026-11-27T16:19:10+05:30"
     },
     {
       "kind": "coupon",
