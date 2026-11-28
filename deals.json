@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T20:35:59+05:30",
+  "updated_at": "2026-11-28T20:59:44+05:30",
   "deals": [
+    {
+      "title": "boAt Airdopes Plus 311, Glass Design, ENx Tech, Fast Charge, 50 Hrs Battery, App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Midnight Blue)",
+      "price": 799,
+      "mrp": 3990,
+      "discount_pct": 80.0,
+      "saving": 3191,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DZXQVXMZ?tag=lootkabhandar-21",
+      "image": "img/2756.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2756,
+      "posted_at": "2026-11-28T20:59:44+05:30"
+    },
     {
       "title": "Magic Eraser | Pack of 4 | No Scratch Multi-Surface Cleaning Sponge | Removes 100+ Tough Stains | Just Add Water | Walls, Kitchen, Bathroom, Shoes & Switch Boards",
       "price": 89,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2712,
       "posted_at": "2026-11-28T13:46:39+05:30"
-    },
-    {
-      "title": "Steal this deal while you can!Here&Now Men Tan Synthetic Leather Formal Oxfords Shoes Deal 🔥😍💥 Now only",
-      "price": 697,
-      "mrp": 5295,
-      "discount_pct": 87.0,
-      "saving": 4598,
-      "store": "Myntra",
-      "link": "https://myntr.it/JuDbGY8",
-      "image": null,
-      "category": "Fashion",
-      "telegram_msg_id": 2711,
-      "posted_at": "2026-11-28T13:46:04+05:30"
     },
     {
       "kind": "coupon",
