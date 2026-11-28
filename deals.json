@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T14:13:26+05:30",
+  "updated_at": "2026-11-28T14:20:10+05:30",
   "deals": [
+    {
+      "title": "Nilkamal Freedom Large 18 (FMSC18) Shoe Rack",
+      "price": 1040,
+      "mrp": 7200,
+      "discount_pct": 87.0,
+      "saving": 6160,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DQ7R3YVY?tag=lootkabhandar-21",
+      "image": "img/2715.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2715,
+      "posted_at": "2026-11-28T14:20:10+05:30"
+    },
     {
       "title": "iPhone 18 Pro at with AXIS/SBI/ICICI Credit Card",
       "price": 154990,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2668,
       "posted_at": "2026-11-28T08:07:30+05:30"
-    },
-    {
-      "title": "Plastic Storage Containers Set of 8",
-      "price": 169,
-      "mrp": 1000,
-      "discount_pct": 83.0,
-      "saving": 831,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0DGLP3FCN?tag=lootkabhandar-21",
-      "image": "img/2667.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2667,
-      "posted_at": "2026-11-28T08:07:21+05:30"
     },
     {
       "kind": "coupon",
