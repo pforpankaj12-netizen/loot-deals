@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T19:00:49+05:30",
+  "updated_at": "2026-11-28T19:23:28+05:30",
   "deals": [
+    {
+      "title": "This Deal is 🔥!Noise Headphones Deal 🔥😍💥 Now just",
+      "price": 1599,
+      "mrp": 4999,
+      "discount_pct": 68.0,
+      "saving": 3400,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FPCZ6Q8Y?tag=lootkabhandar-21",
+      "image": "img/2743.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2743,
+      "posted_at": "2026-11-28T19:23:28+05:30"
+    },
     {
       "title": "Philips 30W LED Light Bulb at .",
       "price": 174,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2698,
       "posted_at": "2026-11-28T12:27:32+05:30"
-    },
-    {
-      "title": "Home & Living Mega Loot 🔥Under ₹500Home & Living -",
-      "price": 500,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Flipkart",
-      "link": "https://fktr.in/Fwa43w1",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2697,
-      "posted_at": "2026-11-28T12:07:22+05:30"
     },
     {
       "kind": "coupon",
