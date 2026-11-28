@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T15:45:20+05:30",
+  "updated_at": "2026-11-28T15:52:27+05:30",
   "deals": [
+    {
+      "title": "Shoe Shine Wipes 80 Series",
+      "price": 299,
+      "mrp": 499,
+      "discount_pct": 40.0,
+      "saving": 200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0H3FF2SN7?lv=shuf&social_share=cm_sw_r_cso_cp_apan_dp_367ZAG5KY6PQ69CWRD38&channelId=704&ascsubtag=20261128clz9g2pw7zfk&tag=lootkabhandar-21",
+      "image": "img/2725.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2725,
+      "posted_at": "2026-11-28T15:52:27+05:30"
+    },
     {
       "title": "Lumio 55 inch 4K Google TV Using Card",
       "price": 51749,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2680,
       "posted_at": "2026-11-28T09:48:38+05:30"
-    },
-    {
-      "title": "Plum Pre-Wash Nourishing Mask 10X",
-      "price": 199,
-      "mrp": 499,
-      "discount_pct": 60.0,
-      "saving": 300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0D9YMT9KM?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2679,
-      "posted_at": "2026-11-28T09:32:06+05:30"
     },
     {
       "kind": "coupon",
