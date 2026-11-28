@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T23:07:09+05:30",
+  "updated_at": "2026-11-28T23:22:28+05:30",
   "deals": [
+    {
+      "title": "Grab this deal now!Samsung Galaxy Book4 15.6\" Laptop Deal 🔥😍💥 Now only",
+      "price": 66000,
+      "mrp": 113090,
+      "discount_pct": 42.0,
+      "saving": 47090,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FMS373M7?tag=lootkabhandar-21",
+      "image": "img/2766.jpg",
+      "category": "Electronics",
+      "telegram_msg_id": 2766,
+      "posted_at": "2026-11-28T23:22:28+05:30"
+    },
     {
       "title": "Quick Wipes Shoe Wipes - 80 Counts",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2724,
       "posted_at": "2026-11-28T15:45:20+05:30"
-    },
-    {
-      "title": "Grab this deal before it's gone!Noise Deal 🔥😍💥 Now only",
-      "price": 1259,
-      "mrp": 5999,
-      "discount_pct": 79.0,
-      "saving": 4740,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0B6BQ711Q?tag=lootkabhandar-21",
-      "image": "img/2722.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2722,
-      "posted_at": "2026-11-28T15:22:16+05:30"
     },
     {
       "kind": "coupon",
