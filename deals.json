@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T12:07:22+05:30",
+  "updated_at": "2026-11-28T12:27:44+05:30",
   "deals": [
+    {
+      "title": "Fila Mens Ease Marble Slip ons Walking Shoes",
+      "price": 1799,
+      "mrp": 5999,
+      "discount_pct": 70.0,
+      "saving": 4200,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FFT9RFZ1?tag=lootkabhandar-21",
+      "image": "img/2699.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2699,
+      "posted_at": "2026-11-28T12:27:44+05:30"
+    },
+    {
+      "title": "Deniklo Men's Fleece Round Neck Sweatshirt",
+      "price": 199,
+      "mrp": 999,
+      "discount_pct": 80.0,
+      "saving": 800,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B08G28JC4H?tag=lootkabhandar-21",
+      "image": "img/2698.jpg",
+      "category": "Fashion",
+      "telegram_msg_id": 2698,
+      "posted_at": "2026-11-28T12:27:32+05:30"
+    },
     {
       "title": "Home & Living Mega Loot 🔥Under ₹500Home & Living -",
       "price": 500,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2646,
       "posted_at": "2026-11-27T19:45:21+05:30"
-    },
-    {
-      "title": "Nykaa Loot: Dot & Key Ceramides & Hyaluronic Barrier Repair Moisturizer (100g) @ ₹296Extra Discount with ₹800 OFFUSE CODE: PINKFRIDAY800 (Min. Order ₹5,000)",
-      "price": 296,
-      "mrp": 800,
-      "discount_pct": 63.0,
-      "saving": 504,
-      "store": "Nykaa",
-      "link": "https://bitli.in/Tsvnva5",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2645,
-      "posted_at": "2026-11-27T19:45:19+05:30"
-    },
-    {
-      "title": "Nykaa Loot: MARS Double Trouble Mascara (14ml) @ ₹270Extra Discount with ₹800 OFFUSE CODE: PINKFRIDAY800 (Min. Order ₹5,000)",
-      "price": 270,
-      "mrp": 800,
-      "discount_pct": 66.2,
-      "saving": 530,
-      "store": "Nykaa",
-      "link": "https://bitli.in/1d1Z1qE",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2644,
-      "posted_at": "2026-11-27T19:45:17+05:30"
     },
     {
       "kind": "coupon",
