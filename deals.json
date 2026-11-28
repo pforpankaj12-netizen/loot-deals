@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T08:24:13+05:30",
+  "updated_at": "2026-11-28T08:34:23+05:30",
   "deals": [
+    {
+      "title": "EcoLink Polycarbonate 3W LED Tiltable Spot Light",
+      "price": 140,
+      "mrp": 400,
+      "discount_pct": 65.0,
+      "saving": 260,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0D2LDZ29N?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2677,
+      "posted_at": "2026-11-28T08:34:23+05:30"
+    },
     {
       "title": "Paladone | Sony PlayStation Glitter Liquid Mood Light with Floating Controllers & Icons | Officially Licensed Sony PlayStation Merchandise | PS5 | Lava Lamp | Desk Lamp | Bedside Light | Gaming Decor",
       "price": 5462,
@@ -508,19 +521,6 @@
       "category": "Fashion",
       "telegram_msg_id": 2625,
       "posted_at": "2026-11-27T15:19:31+05:30"
-    },
-    {
-      "title": "Zebronics PC4PCAT6 Ethernet LAN Cable, 10Gbps, 5m, UTP, RJ45, Cat 6",
-      "price": 99,
-      "mrp": 699,
-      "discount_pct": 85.0,
-      "saving": 600,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0GQTW2XKH?tag=lootkabhandar-21",
-      "image": "img/2624.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2624,
-      "posted_at": "2026-11-27T15:19:26+05:30"
     },
     {
       "kind": "coupon",
