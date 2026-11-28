@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T17:06:37+05:30",
+  "updated_at": "2026-11-28T17:18:49+05:30",
   "deals": [
+    {
+      "title": "Men's Relaxed Straight Fit Denim Jeans",
+      "price": 150,
+      "mrp": 599,
+      "discount_pct": 75.0,
+      "saving": 449,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/clp/B0HMKNCVHZ?lv=shuf&btn_type=ss&btn_ref=srctok-368e11313055d5db&channelId=704&ascsubtag=20261128cl14riygxvlk&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2731,
+      "posted_at": "2026-11-28T17:18:49+05:30"
+    },
     {
       "title": "Loot For Needy | IFB 187L 5 Star Advanced Inverter Refrigerator • Code at Checkout ➡ BFCMIFB1250• With HDFC / ICICI CC",
       "price": 14815,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2686,
       "posted_at": "2026-11-28T10:52:30+05:30"
-    },
-    {
-      "title": "Amazon Brand - House & Shields Men Slim Stretch Joggers",
-      "price": 459,
-      "mrp": 2599,
-      "discount_pct": 82.0,
-      "saving": 2140,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B085FQ45LY?tag=lootkabhandar-21",
-      "image": "img/2685.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2685,
-      "posted_at": "2026-11-28T10:25:18+05:30"
     },
     {
       "kind": "coupon",
