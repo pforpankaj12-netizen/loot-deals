@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T17:18:49+05:30",
+  "updated_at": "2026-11-28T17:33:18+05:30",
   "deals": [
+    {
+      "title": "CRAE Wall Screw Hooks for Hanging Strong",
+      "price": 399,
+      "mrp": 999,
+      "discount_pct": 60.0,
+      "saving": 600,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GFM79SNL?tag=lootkabhandar-21",
+      "image": "img/2732.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2732,
+      "posted_at": "2026-11-28T17:33:18+05:30"
+    },
     {
       "title": "Men's Relaxed Straight Fit Denim Jeans",
       "price": 150,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2687,
       "posted_at": "2026-11-28T10:52:46+05:30"
-    },
-    {
-      "title": "TrustBasket Crown Pot 8 inch Planter (Pack of 4)",
-      "price": 201,
-      "mrp": 1129,
-      "discount_pct": 82.0,
-      "saving": 928,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0C3MVR5C1?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2686,
-      "posted_at": "2026-11-28T10:52:30+05:30"
     },
     {
       "kind": "coupon",
