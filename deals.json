@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T16:21:41+05:30",
+  "updated_at": "2026-11-28T16:29:30+05:30",
   "deals": [
+    {
+      "title": "U.S. Polo Assn. Denim Co. Men's Brand Embroidered Twill Cap",
+      "price": 450,
+      "mrp": 999,
+      "discount_pct": 54.0,
+      "saving": 549,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0G3PTY7YB?tag=lootkabhandar-21",
+      "image": "img/2728.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2728,
+      "posted_at": "2026-11-28T16:29:30+05:30"
+    },
     {
       "title": "boAt Airdopes 219, 4Mics ENx, 40H Battery",
       "price": 899,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2683,
       "posted_at": "2026-11-28T10:20:50+05:30"
-    },
-    {
-      "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil",
-      "price": 248,
-      "mrp": 540,
-      "discount_pct": 54.0,
-      "saving": 292,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/s?rh=p_85%3A10440599031&hidden-keywords=B07WLDJS3L+%7C+B0FY67CG6W+%7C+B00GMC02XK+%7C+B0DQ8T5NTG+%7C+B0FY6C3GXS+%7C+B09SLWMVCL+%7C+B0F6D6R1H6&rnid=10440598031&ds=v1%3A7L7QxyP2CjqxUQXD2ySxHuCVrtxfYukQS9RpSXeSJQA&ascsubtag=20261128clkh2qi8f7tl&tag=lootkabhandar-21",
-      "image": null,
-      "category": "Beauty & Personal Care",
-      "telegram_msg_id": 2682,
-      "posted_at": "2026-11-28T10:20:46+05:30"
     },
     {
       "kind": "coupon",
