@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T16:08:29+05:30",
+  "updated_at": "2026-11-28T16:21:41+05:30",
   "deals": [
+    {
+      "title": "boAt Airdopes 219, 4Mics ENx, 40H Battery",
+      "price": 899,
+      "mrp": 3990,
+      "discount_pct": 77.0,
+      "saving": 3091,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FC2Y3XGV?tag=lootkabhandar-21",
+      "image": "img/2727.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2727,
+      "posted_at": "2026-11-28T16:21:41+05:30"
+    },
     {
       "title": "Nike Men's Running Shoes",
       "price": 4999,
@@ -508,19 +521,6 @@
       "category": "Beauty & Personal Care",
       "telegram_msg_id": 2682,
       "posted_at": "2026-11-28T10:20:46+05:30"
-    },
-    {
-      "title": "V By Verage Comet 20\" Trolley Bag💰 ₹1,099 ₹5,999 · 82% offV By Verage Hard Cabin-Sized Trolley Bag💰 ₹1,199 ₹5,999 · 80% off🛒 Myntra🔗",
-      "price": 1099,
-      "mrp": 5999,
-      "discount_pct": 82.0,
-      "saving": 4900,
-      "store": "Myntra",
-      "link": "https://myntr.it/5LEgyXO",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2681,
-      "posted_at": "2026-11-28T10:04:41+05:30"
     },
     {
       "kind": "coupon",
