@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T12:46:02+05:30",
+  "updated_at": "2026-11-28T12:54:25+05:30",
   "deals": [
+    {
+      "title": "U.S. Polo Assn. Men Brand Print Crew-Neck T-Shirt💰 ₹200 ₹949 · 79% offU.S. Polo Assn. Men Panelled Comfort Fit I669 Lounge Track Pants💰 ₹294 ₹1399 · 79% off🛒 AJIO🔗",
+      "price": 200,
+      "mrp": 949,
+      "discount_pct": 79.0,
+      "saving": 749,
+      "store": "Ajio",
+      "link": "https://ajiio.in/dtJ7qP8",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2702,
+      "posted_at": "2026-11-28T12:54:25+05:30"
+    },
+    {
+      "title": "Koxton Kick Scooter for Kids 2-8 Years",
+      "price": 899,
+      "mrp": 4999,
+      "discount_pct": 82.0,
+      "saving": 4100,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0FMSD87RF?tag=lootkabhandar-21",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2701,
+      "posted_at": "2026-11-28T12:54:17+05:30"
+    },
     {
       "title": "Parachute Advansed Protein Shampoo 1.2L .Apply Coupon - https://www.amazon.in/dp/B0GQV895L5?tag=lootkabhandar-21",
       "price": 499,
@@ -495,32 +521,6 @@
       "category": "Electronics",
       "telegram_msg_id": 2653,
       "posted_at": "2026-11-27T20:22:47+05:30"
-    },
-    {
-      "title": "STARTRC Mini 5 Pro Case, Portable Carrying Bag for DJI Mini 5 Pro Accessories,for DJI RC 2 Controller Fly More Combo",
-      "price": 5278,
-      "mrp": 8445,
-      "discount_pct": 37.0,
-      "saving": 3167,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FPFX2VFB?tag=lootkabhandar-21",
-      "image": "img/2652.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2652,
-      "posted_at": "2026-11-27T20:22:35+05:30"
-    },
-    {
-      "title": "Aquaguard Nexen RO+UV Water Purifier",
-      "price": 12999,
-      "mrp": 31000,
-      "discount_pct": 58.0,
-      "saving": 18001,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0FD39MDP5?tag=lootkabhandar-21",
-      "image": "img/2650.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2650,
-      "posted_at": "2026-11-27T19:54:30+05:30"
     },
     {
       "kind": "coupon",
