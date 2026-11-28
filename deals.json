@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T20:59:44+05:30",
+  "updated_at": "2026-11-28T21:06:50+05:30",
   "deals": [
+    {
+      "title": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil Gold",
+      "price": 220,
+      "mrp": 540,
+      "discount_pct": 49.0,
+      "saving": 320,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_89%3AParachute%2BAdvansed%2Cp_n_deal_type%3A210770212031%2Cp_6%3AA15APWRK6P7LBV&i=beauty&ascsubtag=20261128cljy9f6qxfjg&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2757,
+      "posted_at": "2026-11-28T21:06:50+05:30"
+    },
     {
       "title": "boAt Airdopes Plus 311, Glass Design, ENx Tech, Fast Charge, 50 Hrs Battery, App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Midnight Blue)",
       "price": 799,
@@ -508,19 +521,6 @@
       "category": "Smartphone & Mobile",
       "telegram_msg_id": 2714,
       "posted_at": "2026-11-28T14:13:26+05:30"
-    },
-    {
-      "title": "Nykaa Loot : TONYMOLY Korean Wonder Ceramide Mochi Toner (500 ml) .Extra : PINKFRIDAY800 (Code Working On Min. Order).",
-      "price": 1080,
-      "mrp": null,
-      "discount_pct": null,
-      "saving": null,
-      "store": "Nykaa",
-      "link": "https://bitli.in/LFDNAru",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2712,
-      "posted_at": "2026-11-28T13:46:39+05:30"
     },
     {
       "kind": "coupon",
