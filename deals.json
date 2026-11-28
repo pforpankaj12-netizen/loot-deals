@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T15:52:27+05:30",
+  "updated_at": "2026-11-28T16:08:29+05:30",
   "deals": [
+    {
+      "title": "Nike Men's Running Shoes",
+      "price": 4999,
+      "mrp": 9999,
+      "discount_pct": 50.0,
+      "saving": 5000,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/s?k=nike+shoes&rh=p_6%3AA1WYWER0W24N8S%257CA2O5KR0Y95DC4B%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A234394%2Cp_n_g-101015233022111%3A207199036031&ascsubtag=20261128clesjr8thd4u&tag=lootkabhandar-21",
+      "image": null,
+      "category": "Fashion",
+      "telegram_msg_id": 2726,
+      "posted_at": "2026-11-28T16:08:29+05:30"
+    },
     {
       "title": "Shoe Shine Wipes 80 Series",
       "price": 299,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2681,
       "posted_at": "2026-11-28T10:04:41+05:30"
-    },
-    {
-      "title": "Symbol Men's Jogger Pants",
-      "price": 309,
-      "mrp": 2060,
-      "discount_pct": 85.0,
-      "saving": 1751,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0B3JJRJ96?tag=lootkabhandar-21",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2680,
-      "posted_at": "2026-11-28T09:48:38+05:30"
     },
     {
       "kind": "coupon",
