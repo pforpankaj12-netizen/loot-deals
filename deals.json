@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T18:30:21+05:30",
+  "updated_at": "2026-11-28T18:32:12+05:30",
   "deals": [
+    {
+      "title": "Grab it before it's gone!HAUTE SAUCE Textured Leather Sling Bag Deal 🔥😍💥 Now only",
+      "price": 449,
+      "mrp": 4498,
+      "discount_pct": 90.0,
+      "saving": 4049,
+      "store": "Myntra",
+      "link": "https://myntr.it/F4kLtkn",
+      "image": null,
+      "category": "Other",
+      "telegram_msg_id": 2740,
+      "posted_at": "2026-11-28T18:32:12+05:30"
+    },
     {
       "title": "White Swan Air Fryer 4.2L | 1200W High Power Air Crisp Technology | Oil-Free Healthy Cooking | Compact Black Air Fryer for Home | Fast Cooking, Auto Shut-Off, Easy Clean Basket",
       "price": 3399,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2695,
       "posted_at": "2026-11-28T11:33:29+05:30"
-    },
-    {
-      "title": "Hot Wheels 82 Toyota Supra Then and Now Ages 3 and Up 190/250 (Grey)",
-      "price": 179,
-      "mrp": 999,
-      "discount_pct": 82.0,
-      "saving": 820,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H7CQRM9K?tag=lootkabhandar-21",
-      "image": "img/2694.jpg",
-      "category": "Fashion",
-      "telegram_msg_id": 2694,
-      "posted_at": "2026-11-28T11:26:42+05:30"
     },
     {
       "kind": "coupon",
