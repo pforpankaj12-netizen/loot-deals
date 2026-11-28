@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T22:51:21+05:30",
+  "updated_at": "2026-11-28T22:59:46+05:30",
   "deals": [
+    {
+      "title": "ASUS TUF A14 (2026),AMD Ryzen AI MAX+ 392 ://www.amazon.in/dp/B0GVNKM5GB?tag=lootkabhandar-219000 off Using Card",
+      "price": 249990,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GVNKM5GB?tag=lootkabhandar-21",
+      "image": "img/2764.jpg",
+      "category": "Other",
+      "telegram_msg_id": 2764,
+      "posted_at": "2026-11-28T22:59:46+05:30"
+    },
     {
       "title": "Microfiber Cleaning Cloth Roll 20 Pcs, Reusable & 4000 Times Washable - 10X Cheaper Than Paper, Ultra Absorbent Lint Free, Tearable Dusting Wipes for Kitchen, Glass, Car & Home Cleaning,",
       "price": 499,
@@ -508,19 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2720,
       "posted_at": "2026-11-28T14:44:03+05:30"
-    },
-    {
-      "title": "Polycab Wizzy Plus BLDC 1200mm Ceiling Fan",
-      "price": 3199,
-      "mrp": 6499,
-      "discount_pct": 51.0,
-      "saving": 3300,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0H9YM9D23?tag=lootkabhandar-21",
-      "image": "img/2719.jpg",
-      "category": "Home & Appliances",
-      "telegram_msg_id": 2719,
-      "posted_at": "2026-11-28T14:34:51+05:30"
     },
     {
       "kind": "coupon",
