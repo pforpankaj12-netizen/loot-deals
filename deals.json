@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updated_at": "2026-11-28T16:29:30+05:30",
+  "updated_at": "2026-11-28T17:06:37+05:30",
   "deals": [
+    {
+      "title": "Loot For Needy | IFB 187L 5 Star Advanced Inverter Refrigerator • Code at Checkout ➡ BFCMIFB1250• With HDFC / ICICI CC",
+      "price": 14815,
+      "mrp": null,
+      "discount_pct": null,
+      "saving": null,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0GW2JYSDR?tag=lootkabhandar-21",
+      "image": "img/2730.jpg",
+      "category": "Home & Appliances",
+      "telegram_msg_id": 2730,
+      "posted_at": "2026-11-28T17:06:37+05:30"
+    },
+    {
+      "title": "Premier Cotton Pads - Soft & Embossed, Hypoallergenic, Pack of 80 Pcs x2 | Ideal for Makeup Removal, Toner Application, Baby Care, Nail Care & Hygiene | High-Quality Cotton Rounds for Daily Use",
+      "price": 99,
+      "mrp": 270,
+      "discount_pct": 63.0,
+      "saving": 171,
+      "store": "Amazon",
+      "link": "https://www.amazon.in/dp/B0DY196SB6?tag=lootkabhandar-21",
+      "image": "img/2729.jpg",
+      "category": "Beauty & Personal Care",
+      "telegram_msg_id": 2729,
+      "posted_at": "2026-11-28T17:05:53+05:30"
+    },
     {
       "title": "U.S. Polo Assn. Denim Co. Men's Brand Embroidered Twill Cap",
       "price": 450,
@@ -495,32 +521,6 @@
       "category": "Other",
       "telegram_msg_id": 2685,
       "posted_at": "2026-11-28T10:25:18+05:30"
-    },
-    {
-      "title": "Amazon Brand - Symbol Men's Regular Fit Mid Rise Trouser",
-      "price": 429,
-      "mrp": 2499,
-      "discount_pct": 82.0,
-      "saving": 2070,
-      "store": "Amazon",
-      "link": "https://www.amazon.in/dp/B0BR3GBB3Z?tag=lootkabhandar-21",
-      "image": "img/2684.jpg",
-      "category": "Other",
-      "telegram_msg_id": 2684,
-      "posted_at": "2026-11-28T10:25:07+05:30"
-    },
-    {
-      "title": "FINE TEX WORLD Durable Antiskid Doormat💰 ₹58 ₹499 · 88% offStatus Striped Anti-Skid Doormat💰 ₹98 ₹599 · 83% off🛒 Myntra🔗",
-      "price": 58,
-      "mrp": 499,
-      "discount_pct": 88.0,
-      "saving": 441,
-      "store": "Myntra",
-      "link": "https://myntr.it/iCzrFeI",
-      "image": null,
-      "category": "Other",
-      "telegram_msg_id": 2683,
-      "posted_at": "2026-11-28T10:20:50+05:30"
     },
     {
       "kind": "coupon",
